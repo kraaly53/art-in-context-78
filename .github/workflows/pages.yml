@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Check out website
         uses: actions/checkout@v6
+      - name: Refresh browser asset versions
+        run: node scripts/version-assets.mjs
       - name: Validate classroom content and local images
         run: node tests/validate.mjs
       - name: Configure GitHub Pages

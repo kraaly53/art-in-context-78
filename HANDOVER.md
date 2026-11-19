@@ -38,7 +38,7 @@ Completed-quiz markers and selected comparison IDs use separate `art-context-dis
 1. Get the latest `main`. When collaborating, use a branch and pull request rather than editing a shared branch without review.
 2. Edit `dist/artists.js` for content or image metadata; `app.js` for behaviour; `styles.css` for presentation.
 3. Preview using `python3 -m http.server 4174 --bind 127.0.0.1 --directory dist` from the repository root.
-4. Run `node tests/validate.mjs` with Node.js. Review the actual source evidence as well: automated checks verify structure and important reviewed dates, not every historical interpretation.
+4. Run `node scripts/version-assets.mjs` to refresh browser asset versions, then `node tests/validate.mjs` with Node.js. Review the actual source evidence as well: automated checks verify structure and important reviewed dates, not every historical interpretation.
 5. Exercise the changed interaction in a browser, including keyboard access and a narrow viewport for interface changes.
 6. Commit and push to `main`. Wait for **Publish classroom website** to succeed in Actions. Verify the public URL and the changed page.
 

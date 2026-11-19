@@ -31,6 +31,7 @@ Open http://127.0.0.1:4174 and stop the server with Control-C. Local serving is 
 ## Validate and publish
 
 ```sh
+node scripts/version-assets.mjs
 node tests/validate.mjs
 ```
 

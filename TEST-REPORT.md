@@ -13,6 +13,7 @@ Source records and underlying rights were reviewed; contact sheets were visually
 ## Passed checks
 
 - Validation covers all 51 profiles, local files, 270 matching credit records, 228 artwork records, 21 galleries at ten, matching coverage reports, distinct per-artist work keys, and specific corrected historical dates.
+- Content-based script/style versions prevent returning browsers from reusing an older artist-data or interface file after an update. The publication workflow refreshes these versions automatically.
 - JavaScript syntax passes. Static checks verify no outgoing student links, remote resource references, outbound request code, frames or forms. The content policy blocks remote resources and application connections.
 - Galleries appear after the overview, before the career timeline. Index cards and profile buttons show actual image counts. Significant-work studies display a thumbnail only for a matching actual artwork.
 - Browser checks covered Leonardo’s ten-work gallery, Rivera’s ten-work gallery, Catlett’s single-work gallery, and Kahlo’s empty gallery. Empty states distinguish written studies from images.
