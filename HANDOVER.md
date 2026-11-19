@@ -56,7 +56,7 @@ The 42 available portraits use larger uncropped images with an Enlarge portrait 
 
 ## Featured artwork selection
 
-Each artist’s `featuredWork.key` identifies the exact `gallery` item by its stable `workKey`. Index cards, the profile lead and comparisons all use the same selector; gallery order alone cannot pick the lead image. Keep the selected work first in the displayed gallery. Tests check all 51 assignments and reverse gallery arrays to verify that the chosen feature remains stable.
+Each artist’s `featuredWork.key` identifies the exact `gallery` item by its stable `workKey`. Index cards, the profile lead and comparisons all use the same selector; gallery order alone cannot pick the lead image. The gallery runs earliest to latest by `sortYear`, using the first year of the artwork date range; `null` dates appear last, with title ordering for ties. Photograph dates are not treated as creation dates. Keep the featured selection independent of this chronology. Tests check all 51 assignments and reverse gallery arrays to verify that the chosen feature remains stable.
 
 FEATURED-WORKS.md and FEATURED-WORKS.json record the actual work/version, primary-source evidence, reason and iconic/representative status. Change a selection intentionally with supporting evidence; do not infer a fame ranking from the first available file, sale price, social-media popularity or a generic series title. New canonical images still need piece information, attribution and their own use assessment.
 

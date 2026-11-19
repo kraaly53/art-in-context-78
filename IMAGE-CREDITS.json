@@ -28,7 +28,8 @@
     ],
     "id": "01",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1997
   },
   {
     "title": "Market Women Succession",
@@ -51,7 +52,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Blooms in the Bateau",
@@ -74,7 +76,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Guerrero Mask Series #2",
@@ -97,7 +100,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Peacan Empress",
@@ -120,7 +124,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "The Guardian",
@@ -143,7 +148,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Sharing Time",
@@ -166,7 +172,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Little Eyes Upon You",
@@ -189,7 +196,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Lincoln Park in Chicago",
@@ -212,7 +220,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "We are Sisters",
@@ -235,7 +244,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Casting for Bait",
@@ -258,7 +268,8 @@
     "infoSources": [
       "https://www.jonathangreenstudios.com/works"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "02",
@@ -300,7 +311,8 @@
       "https://www.metmuseum.org/art/collection/search/491485",
       "https://americanart.si.edu/exhibitions/johnson"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1941
   },
   {
     "path": "assets/gallery-american/02-sowing.webp",
@@ -323,7 +335,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Sowing,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "id": "02",
@@ -345,7 +358,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/02-street-musicians.webp",
@@ -368,7 +382,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Street_Musicians,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/02-going-to-church.webp",
@@ -391,7 +406,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Going_to_Church,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "path": "assets/gallery-american/02-harlem-street-with-church.webp",
@@ -414,7 +430,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Harlem_Street_with_Church,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/02-off-to-war.webp",
@@ -437,7 +454,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Off_to_War,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "path": "assets/gallery-american/02-self-portrait.webp",
@@ -460,7 +478,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Self-Portrait,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1933
   },
   {
     "path": "assets/gallery-american/02-blind-singer.webp",
@@ -483,7 +502,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Blind_Singer,_by_William_H._Johnson.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/02-ezekiel-saw-the-wheel.webp",
@@ -506,7 +526,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Ezekiel_Saw_the_Wheel.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1944
   },
   {
     "id": "03",
@@ -545,7 +566,8 @@
       "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana"
     ],
     "medium": "Oil on wood",
-    "featured": true
+    "featured": true,
+    "sortYear": 1503
   },
   {
     "path": "assets/gallery-classic/03-03.webp",
@@ -569,7 +591,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1495
   },
   {
     "path": "assets/gallery-classic/03-02.webp",
@@ -593,7 +616,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Ginevra_de%27_Benci_(obverse),_c._1474-1478,_NGA_50724.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1474
   },
   {
     "path": "assets/gallery-classic/03-04.webp",
@@ -618,7 +642,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1490
   },
   {
     "path": "assets/gallery-classic/03-05.webp",
@@ -642,7 +667,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci_-_Vergine_delle_Rocce_(Louvre).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1483
   },
   {
     "path": "assets/gallery-classic/03-06.webp",
@@ -667,7 +693,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1470
   },
   {
     "path": "assets/gallery-classic/03-07.webp",
@@ -691,7 +718,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo_c._1472%E2%80%931476).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1472
   },
   {
     "path": "assets/gallery-classic/03-08.webp",
@@ -717,7 +745,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1481
   },
   {
     "path": "assets/gallery-classic/03-09.webp",
@@ -741,7 +770,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1513
   },
   {
     "path": "assets/gallery-classic/03-10.webp",
@@ -765,7 +795,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1503
   },
   {
     "id": "04",
@@ -804,7 +835,8 @@
       "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
     ],
     "medium": "Fresco",
-    "featured": true
+    "featured": true,
+    "sortYear": 1509
   },
   {
     "path": "assets/gallery-classic/04-02.webp",
@@ -828,7 +860,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1512
   },
   {
     "path": "assets/gallery-classic/04-03.webp",
@@ -852,7 +885,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Transfiguration_Raphael.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1516
   },
   {
     "path": "assets/gallery-classic/04-04.webp",
@@ -876,7 +910,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Disputa_del_Sacramento_(Rafael).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1509
   },
   {
     "path": "assets/gallery-classic/04-05.webp",
@@ -900,7 +935,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Galatea_Raphael.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/04-06.webp",
@@ -924,7 +960,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1504
   },
   {
     "path": "assets/gallery-classic/04-07.webp",
@@ -948,7 +985,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1505
   },
   {
     "path": "assets/gallery-classic/04-08.webp",
@@ -972,7 +1010,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Baldassare_Castiglione,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1514
   },
   {
     "path": "assets/gallery-classic/04-09.webp",
@@ -997,7 +1036,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_La_Fornarina_(ca._1519-1520).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1519
   },
   {
     "path": "assets/gallery-classic/04-10.webp",
@@ -1021,7 +1061,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1505
   },
   {
     "id": "05",
@@ -1054,7 +1095,8 @@
       "https://en.wikipedia.org/wiki/Girl_with_Balloon",
       "https://www.mocomuseum.com/news/amsterdam/the-most-famous-banksy-artworks-explained/"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 2002
   },
   {
     "id": "05",
@@ -1086,7 +1128,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/One_Nation_Under_CCTV"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2008
   },
   {
     "id": "05",
@@ -1118,7 +1161,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Slave_Labour_(mural)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2012
   },
   {
     "id": "05",
@@ -1150,7 +1194,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2018
   },
   {
     "id": "05",
@@ -1182,7 +1227,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Kate_Moss_by_Banksy_2006_01.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2006
   },
   {
     "id": "05",
@@ -1214,7 +1260,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Migrant_Child_by_Banksy.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2019
   },
   {
     "id": "05",
@@ -1246,7 +1293,8 @@
     "infoSources": [
       "https://www.andipa.com/node/621"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2003
   },
   {
     "id": "05",
@@ -1278,7 +1326,8 @@
     "infoSources": [
       "https://www.uhs.nhs.uk/whats-new/news/new-banksy-artwork-displayed-at-university-hospital-southampton"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2020
   },
   {
     "id": "05",
@@ -1309,7 +1358,9 @@
     "infoSources": [
       "https://andipagallery.com/blog/38-from-the-andipa-archives-three-seminal-artworks/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null,
+    "chronologyNote": "2004 dates the original motif; the pictured painting’s date is unverified."
   },
   {
     "id": "05",
@@ -1341,7 +1392,8 @@
     "infoSources": [
       "https://www.flickr.com/photos/infrogmation/2817595676/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2008
   },
   {
     "id": "06",
@@ -1384,7 +1436,8 @@
       "https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312"
     ],
     "version": "Musée d’Orsay, RF 1969; two-player composition",
-    "featured": true
+    "featured": true,
+    "sortYear": 1893
   },
   {
     "id": "06",
@@ -1406,7 +1459,8 @@
       "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg"
     ],
     "medium": "Oil on canvas",
-    "featured": false
+    "featured": false,
+    "sortYear": 1893
   },
   {
     "path": "assets/gallery-classic/06-02.webp",
@@ -1430,7 +1484,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_das-haus-des-gehenkten.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1873
   },
   {
     "path": "assets/gallery-classic/06-03.webp",
@@ -1454,7 +1509,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_der-gaertner-vallier.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1906
   },
   {
     "path": "assets/gallery-classic/06-04.webp",
@@ -1478,7 +1534,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_der-mann-mit-der-blauen-muetze.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1865
   },
   {
     "path": "assets/gallery-classic/06-05.webp",
@@ -1502,7 +1559,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_blumen-in-einer-vase.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/06-06.webp",
@@ -1526,7 +1584,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_portraet-ambroise-vollard.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1899
   },
   {
     "path": "assets/gallery-classic/06-07.webp",
@@ -1550,7 +1609,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_stillleben-mit-teekanne.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/06-08.webp",
@@ -1574,7 +1634,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Cezanne_haus-des-dr-gachet-in-auvers.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1873
   },
   {
     "path": "assets/gallery-classic/06-10.webp",
@@ -1598,7 +1659,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1885
   },
   {
     "id": "07",
@@ -1643,7 +1705,8 @@
     "rightsAssessment": "Purpose: Canadian Grade 7/8 education and criticism of how the original 1939 double self-portrait uses paired figures, clothing and linked hearts to explore connection and identity. Character: a curated lesson with attribution, but the featured card and profile are publicly accessible through GitHub Pages, which increases reach and weighs against fairness relative to restricted classroom use. Amount: one complete 315 × 317 pixel published illustration; the whole paired composition is needed to compare the two figures, their clothing and the connecting vessel. The site already contains ten other Kahlo works, making cumulative copying more extensive and an adverse consideration. Alternatives: using another self-portrait would not illustrate this particular double composition; a text-only label would prevent examining the visual evidence, though restricted access or fewer works are possible alternatives. Nature: a previously published creative work; Kahlo’s death in 1954 means the Canadian underlying-work term requires separate analysis rather than assuming the US or Mexican term applies. Rights may remain outside Canada, relevant to unrestricted worldwide distribution. Effect: very low resolution and original criticism reduce substitution for museum visits, prints and licensed high-resolution images, but licensing-market effects cannot be ruled out. The selected image is the actual painting, not a recreation, derivative or a different version. Retain source attribution and review if purpose, audience or rights-holder circumstances change; this is not automatic permission for every educational use.",
     "id": "07",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1939
   },
   {
     "id": "07",
@@ -1675,7 +1738,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "id": "07",
@@ -1707,7 +1771,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/My_Dress_Hangs_There"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1933
   },
   {
     "id": "07",
@@ -1739,7 +1804,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Self-Portrait_in_a_Velvet_Dress"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1926
   },
   {
     "id": "07",
@@ -1771,7 +1837,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Self-Portrait_with_Monkey"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "id": "07",
@@ -1803,7 +1870,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Frame_(painting)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "id": "07",
@@ -1836,7 +1904,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:Dos_mujeres,_Frida_Kahlo,_1928.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "id": "07",
@@ -1869,7 +1938,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:El_cami%C3%B3n,_Frida_Kahlo,_1929.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1929
   },
   {
     "id": "07",
@@ -1902,7 +1972,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:El_tiempo_vuela,_Frida_Kahlo,_1929.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1929
   },
   {
     "id": "07",
@@ -1935,7 +2006,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:Retrato_de_Alejandro_G%C3%B3mez_Arias,_Frida_Kahlo,_1928.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "id": "07",
@@ -1968,7 +2040,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "id": "08",
@@ -2016,7 +2089,8 @@
     "infoSources": [
       "https://www.haring.com/!/art-work/773"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1990
   },
   {
     "id": "08",
@@ -2048,7 +2122,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Tuttomondo"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1989
   },
   {
     "id": "08",
@@ -2073,7 +2148,8 @@
       "https://commons.wikimedia.org/wiki/File:Boxer_von_Keith_Haring,_1987,_Berlin.jpg",
       "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1987
   },
   {
     "id": "08",
@@ -2095,7 +2171,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Oberhausen_-_Kaisergarten_-_Head_through_belly_(Keith_Haring)_01_ies.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1987
   },
   {
     "id": "08",
@@ -2118,7 +2195,8 @@
       "https://commons.wikimedia.org/wiki/File:Keith_Haring_Red_Dog_for_Landois_1987_Kunsthalle_Weishaupt_Ulm-1.jpg",
       "https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1987
   },
   {
     "id": "08",
@@ -2150,7 +2228,8 @@
     "infoSources": [
       "https://www.haring.com/!/art-work/252"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1985
   },
   {
     "id": "08",
@@ -2182,7 +2261,8 @@
     "infoSources": [
       "https://www.haring.com/!/art-work/187"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1988
   },
   {
     "id": "08",
@@ -2214,7 +2294,8 @@
     "infoSources": [
       "https://www.haring.com/!/art-work/25"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1989
   },
   {
     "id": "08",
@@ -2246,7 +2327,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Crack_Is_Wack"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1986
   },
   {
     "id": "08",
@@ -2277,7 +2359,8 @@
     "infoSources": [
       "https://www.haring.com/!/art-work/386-2"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1982
   },
   {
     "id": "09",
@@ -2327,7 +2410,8 @@
       "https://www.moma.org/collection/artists/1364",
       "https://www.moma.org/magazine/articles/1386"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1931
   },
   {
     "id": "09",
@@ -2359,7 +2443,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Swans_Reflecting_Elephants"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1937
   },
   {
     "id": "09",
@@ -2384,7 +2469,8 @@
       "https://commons.wikimedia.org/wiki/File:SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg",
       "https://www.nac.gov.sg/singapore-arts-scene/art-forms/visual-arts/public-art-trust/public-artworks/homage-to-newton"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1985
   },
   {
     "id": "09",
@@ -2417,7 +2503,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Galatea_of_the_Spheres"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1952
   },
   {
     "id": "09",
@@ -2449,7 +2536,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1937
   },
   {
     "id": "09",
@@ -2481,7 +2569,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Discovery_of_America_by_Christopher_Columbus"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1958
   },
   {
     "id": "09",
@@ -2514,7 +2603,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Disintegration_of_the_Persistence_of_Memory"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1952
   },
   {
     "id": "09",
@@ -2546,7 +2636,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Elephants"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1948
   },
   {
     "id": "09",
@@ -2578,7 +2669,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1969
   },
   {
     "id": "09",
@@ -2610,7 +2702,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1955
   },
   {
     "id": "10",
@@ -2651,7 +2744,8 @@
       "https://americanart.si.edu/artwork/les-fetiches-31947",
       "https://americanart.si.edu/artist/lo%C3%AFs-mailou-jones-5658"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1938
   },
   {
     "title": "Self Portrait",
@@ -2675,7 +2769,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/self-portrait-76331"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "title": "Textile Design for Cretonne",
@@ -2699,7 +2794,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/textile-design-cretonne-76339"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "title": "Woman with Necklace",
@@ -2723,7 +2819,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/woman-necklace-76346"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Portrait of Pierre",
@@ -2747,7 +2844,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/portrait-pierre-76348"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1953
   },
   {
     "title": "Seated Man in Yellow Overalls",
@@ -2771,7 +2869,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/seated-man-yellow-overalls-76347"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "title": "Greetings",
@@ -2795,7 +2894,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/greetings-76344"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1937
   },
   {
     "title": "Men Working",
@@ -2818,7 +2918,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/men-working-76342"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Les Clochards, Montmartre, Paris",
@@ -2842,7 +2943,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/les-clochards-montmartre-paris-76338"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "Moon Masque",
@@ -2866,7 +2968,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/moon-masque-76334"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1971
   },
   {
     "id": "11",
@@ -2907,7 +3010,8 @@
       "https://www.moma.org/magazine/articles/250",
       "https://www.moma.org/collection/works/80172"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1897
   },
   {
     "id": "11",
@@ -2929,7 +3033,8 @@
       "https://commons.wikimedia.org/wiki/File:Surprised-Rousseau.jpg"
     ],
     "medium": "Oil on canvas",
-    "featured": false
+    "featured": false,
+    "sortYear": 1891
   },
   {
     "path": "assets/gallery-classic/11-08.webp",
@@ -2953,7 +3058,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1910
   },
   {
     "path": "assets/gallery-classic/11-02.webp",
@@ -2977,7 +3083,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri-Julien-F%C3%A9lix_Rousseau,_French_-_Carnival_Evening_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1886
   },
   {
     "path": "assets/gallery-classic/11-03.webp",
@@ -3001,7 +3108,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_(French)_-_A_Centennial_of_Independence_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1892
   },
   {
     "path": "assets/gallery-classic/11-04.webp",
@@ -3025,7 +3133,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Banks_of_the_Marne.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/11-05.webp",
@@ -3049,7 +3158,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1890
   },
   {
     "path": "assets/gallery-classic/11-06.webp",
@@ -3073,7 +3183,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Avenue_in_the_Park_at_Saint_Cloud_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1908
   },
   {
     "path": "assets/gallery-classic/11-07.webp",
@@ -3097,7 +3208,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Waterfall_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1910
   },
   {
     "path": "assets/gallery-classic/11-10.webp",
@@ -3121,7 +3233,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_011.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1907
   },
   {
     "id": "12",
@@ -3172,7 +3285,8 @@
     ],
     "id": "12",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1966
   },
   {
     "id": "12",
@@ -3194,7 +3308,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1977
   },
   {
     "id": "12",
@@ -3226,7 +3341,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-american-dream-i"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1960
   },
   {
     "id": "12",
@@ -3258,7 +3374,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-demuth-american-dream-no-5"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "id": "12",
@@ -3290,7 +3407,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/eat2"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "id": "12",
@@ -3322,7 +3440,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-eateria"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "id": "12",
@@ -3354,7 +3473,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-american-four"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1970
   },
   {
     "id": "12",
@@ -3386,7 +3506,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-new-glory-penny"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "id": "12",
@@ -3418,7 +3539,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-american-art"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1970
   },
   {
     "id": "12",
@@ -3450,7 +3572,8 @@
     "infoSources": [
       "https://www.robertindiana.com/artworks/artworks-items/the-eighth-american-dream"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2000
   },
   {
     "id": "13",
@@ -3492,7 +3615,8 @@
     "dateNote": "Ogden dates this firstBlueDog work1983; Rodrigue Studios and foundation educator guide date Watchdog1984. The discrepancy is retained rather than silently choosing one.",
     "id": "13",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1983
   },
   {
     "id": "13",
@@ -3524,7 +3648,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "id": "13",
@@ -3556,7 +3681,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2007
   },
   {
     "id": "13",
@@ -3588,7 +3714,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "id": "13",
@@ -3620,7 +3747,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "id": "13",
@@ -3652,7 +3780,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2001
   },
   {
     "id": "13",
@@ -3684,7 +3813,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "id": "13",
@@ -3716,7 +3846,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "id": "13",
@@ -3748,7 +3879,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2013
   },
   {
     "id": "13",
@@ -3780,7 +3912,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "id": "13",
@@ -3812,7 +3945,8 @@
     "infoSources": [
       "https://georgerodrigue.com/art/available-paintings/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "id": "14",
@@ -3852,7 +3986,8 @@
       "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg",
       "https://ago.ca/agoinsider/art-toronto-ago-collection"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1929
   },
   {
     "id": "14",
@@ -3875,7 +4010,8 @@
       "https://commons.wikimedia.org/wiki/File:Carr,Emily_-_Scorned_as_timber.jpg"
     ],
     "medium": "Oil on canvas",
-    "featured": false
+    "featured": false,
+    "sortYear": 1935
   },
   {
     "path": "assets/gallery-american/14-blunden-harbour.webp",
@@ -3898,7 +4034,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily-carr-blunden-harbour-1930.png"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1930
   },
   {
     "path": "assets/gallery-american/14-odds-and-ends.webp",
@@ -3921,7 +4058,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1939)_Odds_and_Ends.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/14-tossed-by-the-wind.webp",
@@ -3944,7 +4082,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily_Carr_Tossed_by_the_wind_1939.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/14-war-canoes-alert-bay.webp",
@@ -3967,7 +4106,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily-carr-war-canoes-alert-bay-1912.png"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "path": "assets/gallery-american/14-forest-british-columbia.webp",
@@ -3990,7 +4130,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1931%E2%80%9332)_Forest,_British_Columbia.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1931
   },
   {
     "path": "assets/gallery-american/14-deep-woods.webp",
@@ -4013,7 +4154,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Deep_Woods_by_Emily_Carr,_1936,_oil_on_paper.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/14-above-the-gravel-pit.webp",
@@ -4036,7 +4178,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Above_the_Gravel_Pit_by_Emily_Carr,_1937,_oil_on_canvas.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1937
   },
   {
     "path": "assets/gallery-american/14-kitwancool.webp",
@@ -4059,7 +4202,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Emily_Carr_1928_Kitwancool.png"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "id": "15",
@@ -4083,7 +4227,8 @@
       "https://www.metmuseum.org/art/collection/search/283316"
     ],
     "medium": "Black-and-white photograph",
-    "featured": true
+    "featured": true,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/15-white-angel-breadline-san-francisco.webp",
@@ -4107,7 +4252,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:White_Angel_Breadline,_San_Francisco,_1932,_by_Dorothea_Lange,_3.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1932
   },
   {
     "path": "assets/gallery-american/15-abandoned-dust-bowl-home.webp",
@@ -4130,7 +4276,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "path": "assets/gallery-american/15-broke-baby-sick-and-car-trouble.webp",
@@ -4153,7 +4300,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Broke,_baby_sick,_and_car_trouble!_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy,_California.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1937
   },
   {
     "path": "assets/gallery-american/15-child-in-shack-town.webp",
@@ -4176,7 +4324,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Child_in_Shack_Town_by_Dorothea_Lange,_1936,_8b38490a.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/15-country-store-on-a-dirt-road-gordonton-north-carolina.webp",
@@ -4199,7 +4348,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/15-drought-refugees-from-oklahoma-blythe-california.webp",
@@ -4222,7 +4372,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Drought_refugees_from_Oklahoma_camping_by_the_roadside,_Blythe,_California,_1936.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/15-dust-storm-near-mills-new-mexico.webp",
@@ -4245,7 +4396,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Dust_storm_near_Mills,_New_Mexico,_1935.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1935
   },
   {
     "path": "assets/gallery-american/15-farmers-with-cooperatively-purchased-machinery-oregon.webp",
@@ -4268,7 +4420,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Farmers_who_have_bought_machinery_cooperatively,_West_Carlton,_Yamhill_County,_Oregon,_1939.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "path": "assets/gallery-american/15-migrant-children-at-an-fsa-nursery-school-tulare-county.webp",
@@ -4291,7 +4444,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Migrant_children_playing_at_nursery_school,_FSA_camp,_Tulare_County,_California,_1939.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "id": "16",
@@ -4331,7 +4485,8 @@
       "https://artsandculture.google.com/asset/komposition-mit-rot-blau-und-gelb-piet-mondrian/5QG2Fm_LGUWAHA?hl=en-GB"
     ],
     "medium": "Oil on canvas",
-    "featured": true
+    "featured": true,
+    "sortYear": 1930
   },
   {
     "path": "assets/gallery-classic/16-10.webp",
@@ -4355,7 +4510,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "path": "assets/gallery-classic/16-02.webp",
@@ -4379,7 +4535,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mondrian_st-jacobs-church.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/16-03.webp",
@@ -4404,7 +4561,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Kleines_Haus_in_der_Sonne,_1909_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1909
   },
   {
     "path": "assets/gallery-classic/16-04.webp",
@@ -4429,7 +4587,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Leuchtturm_bei_Westkapelle,_1909_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1909
   },
   {
     "path": "assets/gallery-classic/16-05.webp",
@@ -4454,7 +4613,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_M%C3%BChle_bei_Domburg,_1908_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1908
   },
   {
     "path": "assets/gallery-classic/16-06.webp",
@@ -4479,7 +4639,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Pointillistische_Studie._D%C3%BCnen_und_Meer,_1909_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1909
   },
   {
     "path": "assets/gallery-classic/16-07.webp",
@@ -4504,7 +4665,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Rasterkomposition_8._Schachbrettkomposition_mit_dunklen_Farben,_1919_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1919
   },
   {
     "path": "assets/gallery-classic/16-08.webp",
@@ -4529,7 +4691,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Reihe_von_elf_Pappeln_in_Rot,_Gelb,_Blau_und_Gr%C3%BCn,_1908_-_Museum_de_Fundatie,_Zwolle.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1908
   },
   {
     "path": "assets/gallery-classic/16-09.webp",
@@ -4554,7 +4717,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Windm%C3%BChle_am_Abend,_1917_-_Kunstmuseum_Den_Haag.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1917
   },
   {
     "id": "17",
@@ -4604,7 +4768,8 @@
     ],
     "id": "17",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 2022
   },
   {
     "title": "Pumpkin",
@@ -4630,7 +4795,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/pumpkin-1983"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Yellow Pumpkin",
@@ -4656,7 +4822,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/yellow-pumpkin-1992"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "title": "Infinity Net",
@@ -4682,7 +4849,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/infinity-net-1998"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1998
   },
   {
     "title": "Waves",
@@ -4708,7 +4876,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/waves-1953"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1953
   },
   {
     "title": "Flowers",
@@ -4734,7 +4903,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/flowers-1983"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Dandelions",
@@ -4760,7 +4930,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/dandelions-1985"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1985
   },
   {
     "title": "Butterfly",
@@ -4786,7 +4957,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/butterfly-1988"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1988
   },
   {
     "title": "Mushrooms",
@@ -4812,7 +4984,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/mushrooms-1995"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1995
   },
   {
     "title": "Ascension of Polkadots on the Trees",
@@ -4838,7 +5011,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/ascension-of-polkadots-on-the-trees-2006-jpg-blog"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2006
   },
   {
     "title": "Dots",
@@ -4864,7 +5038,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/yayoi-kusama/dots-2004"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2004
   },
   {
     "id": "18",
@@ -4904,7 +5079,8 @@
       "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM511135%3Btype%3D101"
     ],
     "medium": "Bronze sculpture",
-    "featured": true
+    "featured": true,
+    "sortYear": 1895
   },
   {
     "path": "assets/gallery-american/18-a-map-in-the-sand.webp",
@@ -4927,7 +5103,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:%27A_Map_in_the_Sand%27_by_Frederic_Remington,_Cincinnati_Art_Museum.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "path": "assets/gallery-american/18-the-fall-of-the-cowboy.webp",
@@ -4950,7 +5127,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Fall_of_the_Cowboy.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1895
   },
   {
     "path": "assets/gallery-american/18-moonlight-wolf.webp",
@@ -4973,7 +5151,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Moonlight,_Wolf.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1904
   },
   {
     "path": "assets/gallery-american/18-the-cowboy.webp",
@@ -4996,7 +5175,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1895
   },
   {
     "path": "assets/gallery-american/18-a-texas-pony.webp",
@@ -5019,7 +5199,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1889
   },
   {
     "path": "assets/gallery-american/18-prospecting-for-cattle-range.webp",
@@ -5042,7 +5223,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Prospecting_for_Cattle_Range_(1889).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1889
   },
   {
     "path": "assets/gallery-american/18-the-belated-traveler.webp",
@@ -5065,7 +5247,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:The_Belated_Traveler_Frederic_Remington.jpeg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1906
   },
   {
     "path": "assets/gallery-american/18-the-hunters-supper.webp",
@@ -5088,7 +5271,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:The_Hunters%27_Supper.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1909
   },
   {
     "path": "assets/gallery-american/18-coming-and-going-of-the-pony-express.webp",
@@ -5111,7 +5295,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Remington_Coming_and_Going_of_the_Pony_Express.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1900
   },
   {
     "id": "19",
@@ -5155,7 +5340,8 @@
       "https://www.moma.org/magazine/articles/895",
       "https://www.moma.org/collection/works/78455"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1948
   },
   {
     "title": "Wind from the Sea",
@@ -5181,7 +5367,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/wind-from-the-sea"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "Winter",
@@ -5207,7 +5394,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/winter"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "Trodden Weed",
@@ -5233,7 +5421,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/trodden-weed"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1951
   },
   {
     "title": "Groundhog Day",
@@ -5259,7 +5448,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/groundhog-day-1"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Public Sale",
@@ -5285,7 +5475,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/public-sale"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Snow Hill",
@@ -5311,7 +5502,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/snow-hill"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Turkey Pond",
@@ -5337,7 +5529,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/turkey-pond"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Christina Olson",
@@ -5363,7 +5556,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/christina-olson"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "The White Dory",
@@ -5389,7 +5583,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andrew-wyeth/the-white-dory"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "id": "20",
@@ -5442,7 +5637,8 @@
       "https://dia.org/riveracourt",
       "https://dia.org/collection/detroit-industry-murals/58537"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1932
   },
   {
     "title": "The Flower Carrier",
@@ -5475,7 +5671,8 @@
     "infoSources": [
       "https://www.sfmoma.org/artwork/35.4516/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1935
   },
   {
     "id": "20",
@@ -5497,7 +5694,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Diego_rivera.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "id": "20",
@@ -5519,7 +5717,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Marinero_en_el_desayuno,_Diego_Rivera,_1914.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1914
   },
   {
     "id": "20",
@@ -5541,7 +5740,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_74.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "id": "20",
@@ -5563,7 +5763,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_17.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5586,7 +5787,8 @@
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_11.jpg",
       "https://murales.sep.gob.mx/Inicio/mural1.html"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5608,7 +5810,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_09.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5630,7 +5833,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_01.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5652,7 +5856,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_29.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5674,7 +5879,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_33.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "20",
@@ -5696,7 +5902,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:SEP_Maize_Celebration.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "id": "21",
@@ -5736,7 +5943,8 @@
       "https://www.youtube.com/watch?v=9kUA2gAlCZY"
     ],
     "medium": "Oil on beaverboard",
-    "featured": true
+    "featured": true,
+    "sortYear": 1930
   },
   {
     "path": "assets/gallery-american/21-spring-turning.webp",
@@ -5759,7 +5967,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Spring_Turning_by_Grant_Wood,_1936.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/21-spring-in-town.webp",
@@ -5782,7 +5991,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Grant_Wood,_Spring_in_Town_(1941).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "path": "assets/gallery-american/21-sentimental-ballad.webp",
@@ -5805,7 +6015,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:%27Sentimental_Ballad%27_by_Grant_Wood,_1940.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "path": "assets/gallery-american/21-portrait-of-nan.webp",
@@ -5828,7 +6039,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Portrait_of_Nan,_by_Grant_Wood.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1931
   },
   {
     "path": "assets/gallery-american/21-the-luxembourg-gardens.webp",
@@ -5851,7 +6063,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_The_Luxembourg_Gardens_(1924).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1924
   },
   {
     "path": "assets/gallery-american/21-sunlit-house.webp",
@@ -5874,7 +6087,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Sunlit_House_(1928).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-american/21-calendulas.webp",
@@ -5897,7 +6111,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Calendulas.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-american/21-dinner-for-threshers.webp",
@@ -5920,7 +6135,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Dinner_for_Threshers.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "path": "assets/gallery-american/21-woman-with-plants.webp",
@@ -5943,7 +6159,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Woman_with_Plants_by_Grant_Wood.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1929
   },
   {
     "id": "22",
@@ -5994,7 +6211,8 @@
       "https://museoreinasofia.es/en/collections/artwork/guernica-0/",
       "https://museoreinasofia.es/colecciones/obra/guernica/"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1937
   },
   {
     "id": "22",
@@ -6022,7 +6240,8 @@
     "infoSources": [
       "https://www.clevelandart.org/art/1929.888"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1904
   },
   {
     "id": "22",
@@ -6051,7 +6270,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.895"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6081,7 +6301,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.891"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6110,7 +6331,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.890"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6139,7 +6361,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.889"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6168,7 +6391,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.893"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6197,7 +6421,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.896"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6226,7 +6451,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.899"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6255,7 +6481,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.900"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "id": "22",
@@ -6284,7 +6511,8 @@
     "infoSources": [
       "https://clevelandart.org/art/1929.901"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1905
   },
   {
     "path": "assets/education-famous/22-Les_Demoiselles_dAvignon.webp",
@@ -6319,7 +6547,8 @@
     "infoSources": [
       "https://www.moma.org/collection/works/79766"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1907
   },
   {
     "title": "White Cat on a Patchwork Quilt",
@@ -6343,7 +6572,8 @@
       "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt",
       "https://heather-galler-art.mailchimpsites.com/"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": null
   },
   {
     "title": "Yorkshire Terrier with Pink Bow",
@@ -6366,7 +6596,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/yorkshire-terrier-with-pink-bow"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Yorkshire Terrier in a Flat Cap",
@@ -6389,7 +6620,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/yorkshire-terrier-in-a-flat-cap"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Yellow Farmhouse Above Flower Fields",
@@ -6412,7 +6644,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/yellow-farmhouse-above-flower-fields"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Woman with Green Parrot Under Stars",
@@ -6435,7 +6668,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/woman-with-green-parrot-under-stars"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Winged Tabby Cat Under the Stars",
@@ -6458,7 +6692,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/winged-tabby-cat-under-the-stars"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Winged Pug with Silver Diamonds",
@@ -6481,7 +6716,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/winged-pug-with-silver-diamonds"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Winged Ginger Cat with Skull Crown",
@@ -6504,7 +6740,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/winged-ginger-cat-with-skull-crown"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Westie with Heart Tag",
@@ -6527,7 +6764,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/westie-with-heart-tag"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Westie Under the Full Moon",
@@ -6550,7 +6788,8 @@
     "infoSources": [
       "https://www.heathergallerstudio.com/products/westie-under-the-full-moon"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "24",
@@ -6601,7 +6840,8 @@
       "https://www.jeffkoons.com/shop",
       "https://lesoeuvres.pinaultcollection.com/en/artist/jeff-koons"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1994
   },
   {
     "id": "24",
@@ -6626,7 +6866,8 @@
       "https://www.guggenheim-bilbao.eus/en/the-collection/works/puppy"
     ],
     "medium": "Stainless steel, soil and flowering plants",
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "id": "24",
@@ -6649,7 +6890,8 @@
       "https://commons.wikimedia.org/wiki/File:Tulips_sculpture_by_Jeff_Koons_in_the_Bilbao_Guggenheim_Museum.jpg",
       "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1995
   },
   {
     "id": "24",
@@ -6681,7 +6923,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Bouquet_of_Tulips"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2016
   },
   {
     "id": "24",
@@ -6713,7 +6956,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Michael_Jackson_and_Bubbles"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1988
   },
   {
     "id": "24",
@@ -6746,7 +6990,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Play-Doh_(sculpture)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "id": "24",
@@ -6778,7 +7023,8 @@
     "infoSources": [
       "https://www.jeffkoons.com/artwork/celebration"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1995
   },
   {
     "id": "24",
@@ -6810,7 +7056,8 @@
     "infoSources": [
       "https://www.jeffkoons.com/artwork/celebration"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "id": "24",
@@ -6842,7 +7089,8 @@
     "infoSources": [
       "https://www.jeffkoons.com/artwork/celebration"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "id": "24",
@@ -6874,7 +7122,8 @@
     "infoSources": [
       "https://www.jeffkoons.com/artwork/celebration"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "id": "24",
@@ -6906,7 +7155,8 @@
     "infoSources": [
       "https://www.jeffkoons.com/artwork/statuary"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1986
   },
   {
     "id": "25",
@@ -6957,7 +7207,8 @@
     "creator": "Annie Leibovitz",
     "id": "25",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 2007
   },
   {
     "id": "25",
@@ -6988,7 +7239,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=2"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1999
   },
   {
     "id": "25",
@@ -7019,7 +7271,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2010
   },
   {
     "id": "25",
@@ -7050,7 +7303,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2023
   },
   {
     "id": "25",
@@ -7081,7 +7335,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=4"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2022
   },
   {
     "id": "25",
@@ -7112,7 +7367,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2005
   },
   {
     "id": "25",
@@ -7143,7 +7399,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2017
   },
   {
     "id": "25",
@@ -7174,7 +7431,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=6"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1997
   },
   {
     "id": "25",
@@ -7205,7 +7463,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2022
   },
   {
     "id": "25",
@@ -7236,7 +7495,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2023
   },
   {
     "id": "25",
@@ -7267,7 +7527,8 @@
     "infoSources": [
       "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2022
   },
   {
     "id": "26",
@@ -7311,7 +7572,8 @@
       "https://www.moma.org/calendar/exhibitions/1517",
       "https://www.moma.org/collection/works/79809"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1962
   },
   {
     "title": "Marilyn Diptych",
@@ -7337,7 +7599,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/marilyn-diptych"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "title": "Gold Marilyn Monroe",
@@ -7363,7 +7626,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/316-1962-cr-press-use-3000-pixel-length-1"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "title": "Green Coca-Cola Bottles",
@@ -7389,7 +7653,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/68-25-cropped.jpeg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "title": "Brillo Soap Pads Boxes",
@@ -7415,7 +7680,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/brillo-soap-pads-boxes-1964"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "title": "Flowers",
@@ -7441,7 +7707,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/flowers"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "title": "Mao",
@@ -7467,7 +7734,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/mao-2"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1972
   },
   {
     "title": "Triple Elvis",
@@ -7493,7 +7761,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/triple-elvis"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "Orange Prince",
@@ -7519,7 +7788,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/6afda2b537aca43efc338c04b025b792"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1984
   },
   {
     "title": "Cow",
@@ -7545,7 +7815,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/andy-warhol/cow"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1966
   },
   {
     "id": "27",
@@ -7586,7 +7857,8 @@
       "https://www.iranicaonline.org/articles/art-in-iran-xi-post-qajar/"
     ],
     "medium": "Oil on canvas",
-    "featured": true
+    "featured": true,
+    "sortYear": 1882
   },
   {
     "path": "assets/gallery-classic/27-02.webp",
@@ -7610,7 +7882,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:DushanTappe.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1885
   },
   {
     "path": "assets/gallery-classic/27-03.webp",
@@ -7634,7 +7907,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:IranianMusicGroup.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1886
   },
   {
     "path": "assets/gallery-classic/27-04.webp",
@@ -7658,7 +7932,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_16.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "path": "assets/gallery-classic/27-05.webp",
@@ -7683,7 +7958,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_20.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/27-06.webp",
@@ -7708,7 +7984,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7959_20.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/27-07.webp",
@@ -7732,7 +8009,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(01).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "path": "assets/gallery-classic/27-08.webp",
@@ -7756,7 +8034,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(02).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "path": "assets/gallery-classic/27-09.webp",
@@ -7780,7 +8059,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(03).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "path": "assets/gallery-classic/27-10.webp",
@@ -7804,7 +8084,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(07).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1912
   },
   {
     "id": "28",
@@ -7844,7 +8125,8 @@
       "https://www.artic.edu/pdf/static/download-my-museum-tour.pdf-layout-42.pdf"
     ],
     "medium": "Oil on canvas",
-    "featured": true
+    "featured": true,
+    "sortYear": 1884
   },
   {
     "path": "assets/gallery-classic/28-02.webp",
@@ -7868,7 +8150,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Baigneurs_a_Asnieres.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1884
   },
   {
     "path": "assets/gallery-classic/28-03.webp",
@@ -7892,7 +8175,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1891,_Le_Cirque_(The_Circus),_oil_on_canvas,_185_x_152_cm,_Mus%C3%A9e_d%27Orsay.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1891
   },
   {
     "path": "assets/gallery-classic/28-04.webp",
@@ -7916,7 +8200,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1889-90,_Le_Chahut,_Kr%C3%B6ller-M%C3%BCller_Museum.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1889
   },
   {
     "path": "assets/gallery-classic/28-05.webp",
@@ -7940,7 +8225,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Circus_Sideshow_(Parade_de_cirque)_MET_DP858712.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1887
   },
   {
     "path": "assets/gallery-classic/28-06.webp",
@@ -7964,7 +8250,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Georges_seurat_vaches_dans_un_pre081938).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/28-07.webp",
@@ -7988,7 +8275,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Madame_Seurat,_the_Artist%27s_Mother_(Madame_Seurat,_m%C3%A8re),_by_Georges_Seurat_(Getty_108VJM).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/28-08.webp",
@@ -8012,7 +8300,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Georges_Seurat_063.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1881
   },
   {
     "path": "assets/gallery-classic/28-09.webp",
@@ -8037,7 +8326,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Seurat_-_Houses_At_Le_Raincy.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1882
   },
   {
     "path": "assets/gallery-classic/28-10.webp",
@@ -8062,7 +8352,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Seurat_-_Pierrot.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "29",
@@ -8112,7 +8403,8 @@
       "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
       "https://www.youtube.com/watch?v=8zCzIyN2QW8"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1963
   },
   {
     "id": "29",
@@ -8144,7 +8436,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Drowning_Girl"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "id": "29",
@@ -8166,7 +8459,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:73_Cap_de_Barcelona,_de_Roy_Lichtenstein.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "id": "29",
@@ -8188,7 +8482,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Modern_head_Daniel_garden.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1975
   },
   {
     "id": "29",
@@ -8211,7 +8506,8 @@
       "https://commons.wikimedia.org/wiki/File:Madrid._Roy_Lichtenstein_sculpture._The_Reina_Sof%C3%ADa_Museum._MNCARS._Spain_(2852266625).jpg",
       "https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "id": "29",
@@ -8243,7 +8539,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/In_the_Car"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "id": "29",
@@ -8275,7 +8572,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Look_Mickey"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1961
   },
   {
     "id": "29",
@@ -8308,7 +8606,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Masterpiece_(Lichtenstein)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "id": "29",
@@ -8340,7 +8639,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Oh,_Jeff...I_Love_You,_Too...But..."
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "id": "29",
@@ -8372,7 +8672,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Hopeless_(Lichtenstein)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "Cakes",
@@ -8400,7 +8701,8 @@
       "https://www.nga.gov/artworks/72040-cakes",
       "https://www.nga.gov/sites/default/files/2025-09/an_eye_for_art_opt.pdf"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1963
   },
   {
     "title": "Three Machines",
@@ -8426,7 +8728,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/three-machines-1963"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "Bakery Counter",
@@ -8452,7 +8755,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/bakery-counter-1962"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "title": "Refrigerator Pies",
@@ -8478,7 +8782,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/refrigerator-pies-1962"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1962
   },
   {
     "title": "Girl with Ice Cream Cone",
@@ -8504,7 +8809,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/girl-with-ice-cream-cone-1963"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "Display Cakes",
@@ -8530,7 +8836,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/display-cakes-1963"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "Pies, Pies, Pies",
@@ -8556,7 +8863,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/pies-pies-pies-1961"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1961
   },
   {
     "title": "24th Street Intersection",
@@ -8582,7 +8890,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/24th-street-intersection-1977"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1977
   },
   {
     "title": "Lipsticks",
@@ -8608,7 +8917,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/lipsticks-1964"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "title": "Seven Suckers",
@@ -8634,7 +8944,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/wayne-thiebaud/seven-suckers-1970"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1970
   },
   {
     "title": "Man Changing into Thunderbird",
@@ -8659,7 +8970,8 @@
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird",
       "https://ago.ca/agoinsider/icymi-elder-influence"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1977
   },
   {
     "title": "Untitled (Thunderbird Transformation)",
@@ -8683,7 +8995,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/untitled-thunderbird-transformation"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1958
   },
   {
     "title": "Self-Portrait Devoured by Demons",
@@ -8707,7 +9020,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/self-portrait-devoured-by-demons"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "title": "Artist in Union with Mother Earth",
@@ -8731,7 +9045,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/artist-in-union-with-mother-earth"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1972
   },
   {
     "title": "Water Spirit",
@@ -8755,7 +9070,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/water-spirit"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1972
   },
   {
     "title": "Indian Jesus Christ",
@@ -8779,7 +9095,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/indian-jesus-christ"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1974
   },
   {
     "title": "The Gift",
@@ -8803,7 +9120,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/the-gift"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1975
   },
   {
     "title": "The Storyteller: The Artist and His Grandfather",
@@ -8827,7 +9145,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/the-storyteller-the-artist-and-his-grandfather"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1978
   },
   {
     "title": "Androgyny",
@@ -8851,7 +9170,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/androgyny"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Observations of the Astral World",
@@ -8875,7 +9195,8 @@
     "infoSources": [
       "https://artbooks.artcanada.com/norval-morrisseau/key-works/observations-of-the-astral-world"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "title": "No.61 (Rust and Blue)",
@@ -8903,7 +9224,8 @@
       "https://www.moca.org/artworks/no-61-rust-and-blue-brown-blue-brown-on-blue",
       "https://www.moca.org/exhibitions/geometric-forms-and-abstract-images-selections-from-the-permanent-collection"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1953
   },
   {
     "title": "White Center (Yellow, Pink and Lavender on Rose)",
@@ -8929,7 +9251,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/white-center"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1950
   },
   {
     "title": "No. 1 (Royal Red and Blue)",
@@ -8955,7 +9278,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/no-1-royal-red-and-blue-1954"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1954
   },
   {
     "title": "Black on Maroon",
@@ -8981,7 +9305,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/black-on-maroon"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1958
   },
   {
     "title": "Four Darks in Red",
@@ -9007,7 +9332,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/four-darks-in-red-1958"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1958
   },
   {
     "title": "No.10",
@@ -9033,7 +9359,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/no-10"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1950
   },
   {
     "title": "Orange and Yellow",
@@ -9059,7 +9386,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/not_detected_242129"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1956
   },
   {
     "title": "Entrance to Subway",
@@ -9085,7 +9413,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/entance-to-subway"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "title": "Slow Swirl at the Edge of the Sea",
@@ -9111,7 +9440,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/slow-swirl-at-the-edge-of-the-sea(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1944
   },
   {
     "title": "No.3/No.13 (Magenta, Black, Green on Orange)",
@@ -9137,7 +9467,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/mark-rothko/no-3-no-13"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1949
   },
   {
     "id": "33",
@@ -9178,7 +9509,8 @@
       "https://americanart.si.edu/artist/augusta-savage-4269",
       "https://www.searchablemuseum.com/art-and-literature-during-segregation/"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1939
   },
   {
     "id": "33",
@@ -9201,7 +9533,8 @@
       "https://www.clevelandart.org/art/2003.40"
     ],
     "medium": "Sculpted portrait",
-    "featured": false
+    "featured": false,
+    "sortYear": 1929
   },
   {
     "title": "Realization",
@@ -9225,7 +9558,8 @@
     "infoSources": [
       "https://urbancivilrightsmuseum.org/whats-on/art-of-the-harlem-renaissance"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "title": "Portrait of Eugene Kinckle Jones",
@@ -9249,7 +9583,8 @@
     "infoSources": [
       "https://urbancivilrightsmuseum.org/whats-on/art-of-the-harlem-renaissance"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "title": "La Citadelle / Freedom",
@@ -9273,7 +9608,8 @@
     "infoSources": [
       "https://glamportal.auctr.edu/exhibits/show/augusta-savage-evolution/item/3177"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1930
   },
   {
     "title": "Susie Q and Truckin (two sculptures, one archival view)",
@@ -9297,7 +9633,8 @@
     "infoSources": [
       "https://www.slam.org/blog/girl-with-pigtails/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1939
   },
   {
     "title": "Untitled (Girl with Pigtails)",
@@ -9321,7 +9658,8 @@
     "infoSources": [
       "https://www.slam.org/blog/girl-with-pigtails/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1931
   },
   {
     "title": "Laborer",
@@ -9345,7 +9683,8 @@
     "infoSources": [
       "https://libguides.nypl.org/c.php?g=815424&p=6629717"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "title": "Gwendolyn Knight",
@@ -9369,7 +9708,8 @@
     "infoSources": [
       "https://www.dixon.org/augusta-savage-renaissance-woman"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "title": "Portrait Head of John Henry",
@@ -9393,7 +9733,8 @@
     "infoSources": [
       "https://artsandculture.google.com/asset/portrait-head-of-john-henry-0107/UwF2_YoMvvYpeA"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "title": "Sharecropper",
@@ -9419,7 +9760,8 @@
     "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
     "id": "34",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1952
   },
   {
     "path": "assets/gallery-american/34-i-am-the-black-woman.webp",
@@ -9452,7 +9794,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "Singing Head",
@@ -9476,7 +9819,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/singing-head-3868"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1980
   },
   {
     "title": "Head",
@@ -9500,7 +9844,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/44134"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "I have special reservations...",
@@ -9524,7 +9869,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10154"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "My role has been important in organizing the unorganized",
@@ -9548,7 +9894,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10149"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "My right is a future of equality with other Americans",
@@ -9572,7 +9919,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10153"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "...special houses...",
@@ -9596,7 +9944,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10151"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "In Phillis Wheatley I proved intellectual equality in the midst of slavery",
@@ -9620,7 +9969,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10147"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "In Sojourner Truth I fought for the rights of women as well as Negroes",
@@ -9644,7 +9994,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10146"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "title": "I have studied in ever increasing numbers",
@@ -9668,7 +10019,8 @@
     "infoSources": [
       "https://whitney.org/collection/works/10150"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1947
   },
   {
     "id": "35",
@@ -9709,7 +10061,8 @@
       "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg",
       "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6369/releases/MOMA_1986_0103_97.pdf"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1922
   },
   {
     "id": "35",
@@ -9731,7 +10084,8 @@
       "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg"
     ],
     "medium": "Painting",
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-classic/35-03.webp",
@@ -9755,7 +10109,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Ad_Parnassum_(originaler,_gefasster_Holzrahmen),_Paul_Klee_(1932).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1932
   },
   {
     "path": "assets/gallery-classic/35-04.webp",
@@ -9779,7 +10134,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paul_Klee,_1922,_Senecio,_oil_on_gauze,_40.3_%C3%97_37.4_cm,_Kunstmuseum_Basel.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1922
   },
   {
     "path": "assets/gallery-classic/35-05.webp",
@@ -9803,7 +10159,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Swiss_-_Fish_Magic_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1925
   },
   {
     "path": "assets/gallery-classic/35-06.webp",
@@ -9827,7 +10184,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:NY_Moma_klee_cat_and_bird.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-classic/35-07.webp",
@@ -9851,7 +10209,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Death_and_Fire_(1940)_-_Paul_Klee_(Zentrum_Paul_Klee).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1940
   },
   {
     "path": "assets/gallery-classic/35-08.webp",
@@ -9875,7 +10234,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paul_Klee_~_Angelus_Novus_~_1920.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/35-09.webp",
@@ -9899,7 +10259,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Paul_Klee_-_Gespenst_eines_Genies_(Ghost_of_a_Genius)_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1922
   },
   {
     "path": "assets/gallery-classic/35-10.webp",
@@ -9923,7 +10284,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:C._-_C._%3D_Fisch,_1931_-_Paul_Klee.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1931
   },
   {
     "id": "36",
@@ -9962,7 +10324,8 @@
       "https://artbooks.artcanada.com/prudence-heward/key-works/rollande"
     ],
     "medium": "Oil on canvas",
-    "featured": true
+    "featured": true,
+    "sortYear": 1929
   },
   {
     "path": "assets/gallery-american/36-girl-on-a-hill.webp",
@@ -9985,7 +10348,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Femme_sur_une_colline_-_Prudence_Heward.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-american/36-at-the-theatre.webp",
@@ -10008,7 +10372,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-american/36-immigrants.webp",
@@ -10031,7 +10396,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Immigrantes_-_Prudence_Heward.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "path": "assets/gallery-american/36-ann.webp",
@@ -10054,7 +10420,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Prudence_Heward_ann-1942.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "path": "assets/gallery-american/36-girl-in-a-yellow-sweater.webp",
@@ -10077,7 +10444,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Prudence_Heward_girl-in-yellow-sweater-1936.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "path": "assets/gallery-american/36-the-farmer-s-daughter.webp",
@@ -10100,7 +10468,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:The-farmer-s-daughter-1945.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1945
   },
   {
     "path": "assets/gallery-american/36-back-garden.webp",
@@ -10123,7 +10492,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Prudence_Heward_back-garden-1938.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "path": "assets/gallery-american/36-autumn-fields-knowlton.webp",
@@ -10146,7 +10516,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-fields-knowlton-1941.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "path": "assets/gallery-american/36-autumn-hills.webp",
@@ -10169,7 +10540,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-hills-c-1941.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "id": "37",
@@ -10214,7 +10586,8 @@
       "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
       "https://www.galleriaaccademiafirenze.it/wp-content/uploads/2024/09/EHD-2024-information-leaflet.pdf"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1501
   },
   {
     "id": "37",
@@ -10239,7 +10612,8 @@
       "https://commons.wikimedia.org/wiki/File:San_Pietro_in_Vincole_May_2022-4.jpg"
     ],
     "medium": "Marble sculpture",
-    "featured": false
+    "featured": false,
+    "sortYear": 1513
   },
   {
     "path": "assets/gallery-classic/37-03.webp",
@@ -10264,7 +10638,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/37-04.webp",
@@ -10289,7 +10664,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1511
   },
   {
     "path": "assets/gallery-classic/37-05.webp",
@@ -10314,7 +10690,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Last_Judgement_(Michelangelo).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1536
   },
   {
     "path": "assets/gallery-classic/37-06.webp",
@@ -10339,7 +10716,8 @@
       "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
       "https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1506
   },
   {
     "path": "assets/gallery-classic/37-07.webp",
@@ -10364,7 +10742,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Michelangelo_Bacchus.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/37-08.webp",
@@ -10392,7 +10771,8 @@
       "https://commons.wikimedia.org/wiki/File:Dying_Slave_by_Michelangelo,_Mus%C3%A9e_de_Louvre,_8_May_2013.jpg",
       "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/imprisoned-in-stone"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1513
   },
   {
     "path": "assets/gallery-classic/37-09.webp",
@@ -10417,7 +10797,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Madonna_michelangelo.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1501
   },
   {
     "path": "assets/gallery-classic/37-10.webp",
@@ -10442,7 +10823,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Pieta_Bandini_Opera_Duomo_Florence_n01.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "38",
@@ -10482,7 +10864,8 @@
     ],
     "medium": "Tempera and grease crayon on cardboard",
     "version": "National Museum, Norway; 1893 version",
-    "featured": true
+    "featured": true,
+    "sortYear": 1893
   },
   {
     "path": "assets/gallery-classic/38-02.webp",
@@ -10506,7 +10889,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Munch_Girls_on_the_pier.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1901
   },
   {
     "path": "assets/gallery-classic/38-03.webp",
@@ -10530,7 +10914,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1897
   },
   {
     "path": "assets/gallery-classic/38-04.webp",
@@ -10554,7 +10939,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_Friedrich_Nietzsche_Thielska_292.tif"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1906
   },
   {
     "path": "assets/gallery-classic/38-05.webp",
@@ -10579,7 +10965,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1894
   },
   {
     "path": "assets/gallery-classic/38-06.webp",
@@ -10603,7 +10990,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Munch_Det_Syke_Barn_1885-86.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1885
   },
   {
     "path": "assets/gallery-classic/38-07.webp",
@@ -10627,7 +11015,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1894
   },
   {
     "path": "assets/gallery-classic/38-08.webp",
@@ -10651,7 +11040,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Ashes_(1895).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1895
   },
   {
     "path": "assets/gallery-classic/38-09.webp",
@@ -10675,7 +11065,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Melancholy_-_NG.M.02813_-_National_Museum_of_Art,_Architecture_and_Design.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1892
   },
   {
     "path": "assets/gallery-classic/38-10.webp",
@@ -10700,7 +11091,8 @@
       "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg",
       "https://www.munch.no/en/our-collection/en-tolkning-av-edvard-munchs-vampyr/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1895
   },
   {
     "id": "39",
@@ -10744,7 +11136,8 @@
       "https://www.guggenheim.org/learning-through-art/art-investigation/community",
       "https://www.guggenheim.org/wp-content/uploads/2025/05/Faith-Ringgold-Press-Kit-Full.pdf"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1988
   },
   {
     "title": "The Sunflowers Quilting Bee at Arles",
@@ -10770,7 +11163,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/the-sunflowers-quilting-bee-at-arles-1996"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1996
   },
   {
     "title": "Freedom of Speech",
@@ -10796,7 +11190,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/freedom-of-speech-1990"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1990
   },
   {
     "title": "We Came to America",
@@ -10822,7 +11217,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/we-came-to-america-1997"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1997
   },
   {
     "title": "American People Series #4: The Civil Rights Triangle",
@@ -10848,7 +11244,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/american-people-series-4-the-civil-rights-triangle-1963"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1963
   },
   {
     "title": "American People #19: US Postage Stamp Commemorating the Advent of Black Power",
@@ -10874,7 +11271,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/american-people-19-us-postage-stamp-commemorating-the-advent-of-black-power-1967"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1967
   },
   {
     "title": "Echoes of Harlem",
@@ -10900,7 +11298,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/echoes-of-harlem-1980"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1980
   },
   {
     "title": "Sonny’s Quilt",
@@ -10926,7 +11325,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/sonny-s-quilt-1986"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1986
   },
   {
     "title": "Tar Beach #2",
@@ -10952,7 +11352,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/tar-beach-2-1990"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1990
   },
   {
     "title": "The United States of Attica",
@@ -10978,7 +11379,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/faith-ringgold/the-united-states-of-attica-1972"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1972
   },
   {
     "id": "40",
@@ -11020,7 +11422,8 @@
       "https://npg.si.edu/object/npg_NPG.2018.15",
       "https://npg.si.edu/learn/classroom-resource/michelle-obama"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 2018
   },
   {
     "title": "Miss Everything (Unsuppressed Deliverance)",
@@ -11045,7 +11448,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2013
   },
   {
     "title": "If You Surrendered to the Air, You Could Ride It",
@@ -11069,7 +11473,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2019
   },
   {
     "title": "They Call Me Redbone, but I'd Rather Be Strawberry Shortcake",
@@ -11093,7 +11498,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2009
   },
   {
     "title": "The Bathers",
@@ -11117,7 +11523,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2015
   },
   {
     "title": "Planes, Rockets, and the Spaces in Between",
@@ -11141,7 +11548,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2018
   },
   {
     "title": "Handsome",
@@ -11165,7 +11573,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2019
   },
   {
     "title": "Breonna Taylor",
@@ -11189,7 +11598,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2020
   },
   {
     "title": "Hope Is the Thing with Feathers (The Little Bird)",
@@ -11213,7 +11623,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2020
   },
   {
     "title": "Trans Forming Liberty",
@@ -11237,7 +11648,8 @@
     "infoSources": [
       "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2024
   },
   {
     "id": "41",
@@ -11277,7 +11689,8 @@
       "https://www.metmuseum.org/art/collection/search/45434"
     ],
     "medium": "Colour woodblock print",
-    "featured": true
+    "featured": true,
+    "sortYear": 1830
   },
   {
     "path": "assets/gallery-classic/41-02.webp",
@@ -11301,7 +11714,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_Japanese_-_Pilgrims_at_Kirifuri_Waterfall_on_Mount_Kurokami_in_Shimotsuke_Province_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1831
   },
   {
     "path": "assets/gallery-classic/41-03.webp",
@@ -11325,7 +11739,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Hokusai_Mt.Fuji_from_high_Bridge(%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E3%81%AE%E3%81%B5%E3%81%98).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/41-04.webp",
@@ -11350,7 +11765,8 @@
       "https://commons.wikimedia.org/wiki/File:Miyako-gai-%E5%85%83%E7%A6%84%E6%AD%8C%E4%BB%99%E8%B2%9D%E5%90%88-Miyako_Shell_MET_DP123642.jpg",
       "https://www.metmuseum.org/art/collection/search/54195"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1821
   },
   {
     "path": "assets/gallery-classic/41-05.webp",
@@ -11374,7 +11790,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Shinagawa_LACMA_M.2006.136.198a-b.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1802
   },
   {
     "path": "assets/gallery-classic/41-06.webp",
@@ -11398,7 +11815,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E5%87%B1%E9%A2%A8%E5%BF%AB%E6%99%B4%E3%80%8D-South_Wind,_Clear_Sky_(Gaif%C5%AB_kaisei),_also_known_as_Red_Fuji,_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141062.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1830
   },
   {
     "path": "assets/gallery-classic/41-07.webp",
@@ -11423,7 +11841,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_tempesta_sotto_la_vetta,_dalla_serie_delle_36_vedute_del_monte_fuji,_1831_ca.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "path": "assets/gallery-classic/41-09.webp",
@@ -11447,7 +11866,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Okaru_and_Kampei_outside_Kamakura_Castle,_Act_III_from_the_Play_Chushingura_LACMA_M.2006.136.128.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1806
   },
   {
     "path": "assets/gallery-classic/41-08.webp",
@@ -11472,7 +11892,8 @@
       "https://commons.wikimedia.org/wiki/File:Hokusai_Nagasakiya.jpg",
       "https://collections.lacma.org/object/134485"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1802
   },
   {
     "path": "assets/gallery-classic/41-10.webp",
@@ -11496,7 +11917,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Kajikazawa_in_Kai_Province_(Koshu_Kajikazawa).jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1831
   },
   {
     "id": "42",
@@ -11537,7 +11959,8 @@
     "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
     "id": "42",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1940
   },
   {
     "title": "Captain Skinner",
@@ -11561,7 +11984,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/captain-skinner-31685"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1944
   },
   {
     "title": "Bar and Grill",
@@ -11585,7 +12009,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/bar-and-grill-79031"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "title": "Community (study for mural, Jamaica, NY)",
@@ -11609,7 +12034,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1986
   },
   {
     "title": "\"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788.",
@@ -11632,7 +12058,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Escape",
@@ -11656,7 +12083,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/escape-14373"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1967
   },
   {
     "title": "Dreams No. 2",
@@ -11680,7 +12108,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/dreams-no-2-14372"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1965
   },
   {
     "title": "New Jersey, from the United States Series",
@@ -11704,7 +12133,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1946
   },
   {
     "title": "\"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man.",
@@ -11728,7 +12158,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1958
   },
   {
     "title": "Firewood #55",
@@ -11752,7 +12183,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/firewood-55-14374"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "title": "The Library",
@@ -11776,7 +12208,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/library-14376"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1960
   },
   {
     "id": "43",
@@ -11819,7 +12252,8 @@
       "https://www.thedavidhockneyfoundation.org/artwork/3667",
       "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1967
   },
   {
     "title": "Mr and Mrs Clark and Percy",
@@ -11845,7 +12279,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Mr_and_Mrs_Clark_and_Percy"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1970
   },
   {
     "title": "Portrait of an Artist (Pool with Two Figures)",
@@ -11871,7 +12306,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Portrait_of_an_Artist_%28Pool_with_Two_Figures%29"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1972
   },
   {
     "title": "Peter Getting Out of Nick's Pool",
@@ -11898,7 +12334,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Peter_Getting_Out_of_Nick%27s_Pool"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1966
   },
   {
     "title": "The Splash",
@@ -11924,7 +12361,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/The_Splash"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1966
   },
   {
     "title": "Bigger Trees Near Warter",
@@ -11949,7 +12387,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:Bigger_Trees_near_Warter.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2007
   },
   {
     "title": "A Bigger Grand Canyon",
@@ -11974,7 +12413,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/File:Hockney,_A_Bigger_Grand_Canyon.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1998
   },
   {
     "title": "My Parents",
@@ -11999,7 +12439,8 @@
     "infoSources": [
       "https://www.tate.org.uk/art/artworks/hockney-my-parents-t03255"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1977
   },
   {
     "title": "The Road to York through Sledmere",
@@ -12024,7 +12465,8 @@
     "infoSources": [
       "https://www.hockney.com/works/paintings"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1997
   },
   {
     "title": "Pearblossom Highway",
@@ -12049,7 +12491,8 @@
     "infoSources": [
       "https://www.hockney.com/works/photos"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1986
   },
   {
     "id": "44",
@@ -12089,7 +12532,8 @@
       "https://www.guggenheim-bilbao.eus/en/exhibitions/kandinsky-in-context"
     ],
     "medium": "Oil on canvas",
-    "featured": true
+    "featured": true,
+    "sortYear": 1923
   },
   {
     "path": "assets/gallery-classic/44-02.webp",
@@ -12113,7 +12557,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky,_GAC.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1913
   },
   {
     "path": "assets/gallery-classic/44-03.webp",
@@ -12137,7 +12582,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1923_-_On_White_II.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1923
   },
   {
     "path": "assets/gallery-classic/44-04.webp",
@@ -12161,7 +12607,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Composition_6.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1913
   },
   {
     "path": "assets/gallery-classic/44-05.webp",
@@ -12185,7 +12632,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Jaune_Rouge_Bleu.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1925
   },
   {
     "path": "assets/gallery-classic/44-06.webp",
@@ -12209,7 +12657,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_Segment_1921.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1921
   },
   {
     "path": "assets/gallery-classic/44-07.webp",
@@ -12233,7 +12682,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_circle_1922.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1922
   },
   {
     "path": "assets/gallery-classic/44-08.webp",
@@ -12257,7 +12707,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1920_-_Red_Oval.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1920
   },
   {
     "path": "assets/gallery-classic/44-09.webp",
@@ -12281,7 +12732,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Painting_with_Green_Center_-_1931.510_-_Art_Institute_of_Chicago.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1913
   },
   {
     "path": "assets/gallery-classic/44-10.webp",
@@ -12305,7 +12757,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1903,_The_Blue_Rider_(Der_Blaue_Reiter),_oil_on_canvas,_52.1_x_54.6_cm,_Stiftung_Sammlung_E.G._B%C3%BChrle,_Zurich.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1903
   },
   {
     "id": "45",
@@ -12347,7 +12800,8 @@
       "https://www.rijksmuseum.nl/en/whats-on/exhibitions/operation-night-watch",
       "https://www.rijksmuseum.nl/en/visit/night-watch"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1642
   },
   {
     "id": "45",
@@ -12369,7 +12823,8 @@
       "https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_(Kenwood).jpg"
     ],
     "medium": "Oil on canvas",
-    "featured": false
+    "featured": false,
+    "sortYear": 1665
   },
   {
     "path": "assets/gallery-classic/45-03.webp",
@@ -12394,7 +12849,8 @@
       "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
       "https://www.rijksmuseum.nl/nl/story/jewish-bride"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1665
   },
   {
     "path": "assets/gallery-classic/45-04.webp",
@@ -12418,7 +12874,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1633
   },
   {
     "path": "assets/gallery-classic/45-05.webp",
@@ -12442,7 +12899,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1668
   },
   {
     "path": "assets/gallery-classic/45-06.webp",
@@ -12466,7 +12924,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:DeMolenRembrandt.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1645
   },
   {
     "path": "assets/gallery-classic/45-07.webp",
@@ -12490,7 +12949,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Abduction_of_Europa_-_Google_Art_Project.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1632
   },
   {
     "path": "assets/gallery-classic/45-08.webp",
@@ -12516,7 +12976,8 @@
       "https://www.lakenhal.nl/nl/collectie/b-564",
       "https://cs.vu.nl/~fjseins/RembrandtCatalogue/r_1624_1631.html"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1626
   },
   {
     "path": "assets/gallery-classic/45-09.webp",
@@ -12540,7 +13001,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Standard_Bearer_1636.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1636
   },
   {
     "path": "assets/gallery-classic/45-10.webp",
@@ -12564,7 +13026,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Rembrandt_Hendrickje_Bathing_in_a_River.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1654
   },
   {
     "title": "The Cremation of Sam McGee — cover painting",
@@ -12591,7 +13054,8 @@
     "dateNote": "The original illustration series was first published1986. This is the original cover painting shown in Yukon Arts Centre’s collection, not the later2006edition book jacket.",
     "id": "46",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1986
   },
   {
     "title": "Northern Trio",
@@ -12614,7 +13078,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/northern-trio-1995"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1995
   },
   {
     "title": "Storm Lovers",
@@ -12637,7 +13102,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/storm-lover-1992"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "title": "Ballooning",
@@ -12660,7 +13126,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/ballooning-1993"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1993
   },
   {
     "title": "Going Outside",
@@ -12683,7 +13150,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/going-outside-1992"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1992
   },
   {
     "title": "Field Trip",
@@ -12706,7 +13174,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/field-trip-1997"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1997
   },
   {
     "title": "Floating Gulls",
@@ -12729,7 +13198,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/floating-gulls-1994"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1994
   },
   {
     "title": "Horses",
@@ -12752,7 +13222,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/horses-1990"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1990
   },
   {
     "title": "Fore",
@@ -12775,7 +13246,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/fore-1997"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1997
   },
   {
     "title": "Tumbler Ridge",
@@ -12798,7 +13270,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/tumbler-ridge-1991"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1991
   },
   {
     "title": "Winter Justice",
@@ -12821,7 +13294,8 @@
     "infoSources": [
       "https://tedharrison.ca/products/winter-justice-2002"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2002
   },
   {
     "id": "47",
@@ -12864,7 +13338,8 @@
       "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)",
       "https://www.lacma.org/art/exhibition/magritte-and-contemporary-art-treachery-images"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1929
   },
   {
     "title": "The Son of Man",
@@ -12890,7 +13365,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/son-of-man-1964(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1964
   },
   {
     "title": "The false mirror",
@@ -12916,7 +13392,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-false-mirror-1928(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "title": "Golconda",
@@ -12942,7 +13419,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/gonconda-1953(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1953
   },
   {
     "title": "The Human Condition",
@@ -12968,7 +13446,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-human-condition-1933(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1933
   },
   {
     "title": "The lovers",
@@ -12994,7 +13473,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-lovers-1928(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1928
   },
   {
     "title": "The empire of lights",
@@ -13020,7 +13500,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-empire-of-lights-1954(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1954
   },
   {
     "title": "Time transfixed",
@@ -13046,7 +13527,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/time-transfixed-1938(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1938
   },
   {
     "title": "The Listening Room",
@@ -13072,7 +13554,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-listening-room-1952(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1952
   },
   {
     "title": "The Castle of the Pyrenees",
@@ -13098,7 +13581,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/rene-magritte/the-castle-of-the-pyrenees-1959(1)"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1959
   },
   {
     "id": "48",
@@ -13139,7 +13623,8 @@
       "https://americanart.si.edu/artwork/machine-composition-2-19551",
       "https://americanart.si.edu/artist/i-rice-pereira-3761"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1937
   },
   {
     "path": "assets/gallery-american/48-white-lines.webp",
@@ -13163,7 +13648,8 @@
       "https://commons.wikimedia.org/wiki/File:White_Lines_MET_sf43.47.26.jpg",
       "https://www.metmuseum.org/art/collection/search/488142"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1941
   },
   {
     "title": "Roselit Day",
@@ -13187,7 +13673,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/roselit-day-19553"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1953
   },
   {
     "title": "Mecca",
@@ -13211,7 +13698,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/mecca-19552"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1953
   },
   {
     "title": "Sketch for Machine Composition #2",
@@ -13235,7 +13723,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/sketch-machine-composition-2-19554"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1936
   },
   {
     "title": "The Celestial Gate Sways on the Ringing Swells",
@@ -13259,7 +13748,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/celestial-gate-sways-ringing-swells-19549"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1961
   },
   {
     "title": "Untitled (Boats at Cape Cod)",
@@ -13283,7 +13773,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/untitled-boats-cape-cod-19555"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1932
   },
   {
     "title": "Heart of Flame",
@@ -13306,7 +13797,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/heart-flame-19550"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "title": "Pendulum",
@@ -13330,7 +13822,8 @@
     "infoSources": [
       "https://www.dwigmore.com/irene-rice-pereira-estate"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "title": "Fluctuating Shapes",
@@ -13354,7 +13847,8 @@
     "infoSources": [
       "https://www.dwigmore.com/irene-rice-pereira-estate"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1948
   },
   {
     "id": "49",
@@ -13402,7 +13896,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13424,7 +13919,9 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null,
+    "chronologyNote": "The photograph is dated, but the artwork’s creation date is unverified."
   },
   {
     "id": "49",
@@ -13446,7 +13943,8 @@
     "infoSources": [
       "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_15568_quot;Wellcomequot;_by_Romero_Britto_in_the_sculp.JPG"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2004
   },
   {
     "id": "49",
@@ -13469,7 +13967,8 @@
       "https://commons.wikimedia.org/wiki/File:Plastika_Garden_Butterfly_v_parku_na_Ortenov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_(Q64815809).jpg",
       "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 2014
   },
   {
     "id": "49",
@@ -13501,7 +14000,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/up-and-up-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13533,7 +14033,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/beinjinhos-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13565,7 +14066,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/pacific-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13597,7 +14099,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/nectar-buzz-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13629,7 +14132,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/abstraction-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "49",
@@ -13661,7 +14165,8 @@
     "infoSources": [
       "https://www.shopbritto.com/collections/original-paintings/products/mother-original-painting"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": null
   },
   {
     "id": "50",
@@ -13703,7 +14208,8 @@
       "https://www.metmuseum.org/art/collection/search/488978",
       "https://assets.moma.org/documents/moma_catalogue_226_300087806.pdf"
     ],
-    "featured": true
+    "featured": true,
+    "sortYear": 1950
   },
   {
     "title": "Number 17A",
@@ -13727,7 +14233,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Number_17A"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1948
   },
   {
     "title": "Mural (1943)",
@@ -13751,7 +14258,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Mural_%281943%29"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1943
   },
   {
     "title": "Convergence (Pollock)",
@@ -13775,7 +14283,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Convergence_%28Pollock%29"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1952
   },
   {
     "title": "Blue Poles",
@@ -13799,7 +14308,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/Blue_Poles"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1952
   },
   {
     "title": "Peddler",
@@ -13823,7 +14333,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/peddler-19822"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1930
   },
   {
     "title": "Untitled",
@@ -13847,7 +14358,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/untitled-19823"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1942
   },
   {
     "title": "Miners",
@@ -13871,7 +14383,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/miners-19821"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "title": "Going West",
@@ -13895,7 +14408,8 @@
     "infoSources": [
       "https://americanart.si.edu/artwork/going-west-19820"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1934
   },
   {
     "title": "No. 5, 1948",
@@ -13919,7 +14433,8 @@
     "infoSources": [
       "https://en.wikipedia.org/wiki/No._5,_1948"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1948
   },
   {
     "id": "51",
@@ -13970,7 +14485,8 @@
     ],
     "id": "51",
     "kind": "work",
-    "featured": true
+    "featured": true,
+    "sortYear": 1981
   },
   {
     "title": "Hollywood Africans",
@@ -13996,7 +14512,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/hollywood-africans"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Horn Players",
@@ -14022,7 +14539,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/horn-players"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Irony of the Negro Policeman",
@@ -14048,7 +14566,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/ironew-york-of-the-negro-policeman"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1981
   },
   {
     "title": "Boy and dog in a Johnnypump",
@@ -14074,7 +14593,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/boy-and-dog-in-a-johnnypump"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1982
   },
   {
     "title": "Dos Cabezas",
@@ -14100,7 +14620,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/dos-cabezas"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1982
   },
   {
     "title": "Flexible",
@@ -14126,7 +14647,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/flexible"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1984
   },
   {
     "title": "In this Case",
@@ -14152,7 +14674,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/in-this-case"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1983
   },
   {
     "title": "Bird on Money",
@@ -14178,7 +14701,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/bird-on-money"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1981
   },
   {
     "title": "Charles the First",
@@ -14204,7 +14728,8 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/charles-the-first"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1982
   },
   {
     "title": "Now's The Time",
@@ -14230,6 +14755,7 @@
     "infoSources": [
       "https://www.wikiart.org/en/jean-michel-basquiat/now-s-the-time"
     ],
-    "featured": false
+    "featured": false,
+    "sortYear": 1985
   }
 ]

@@ -69,3 +69,5 @@ The original classroom photos and pupil artworks are not redistributed. Preview 
 ## Reuse
 
 Original code is provided under MIT; original educational text is offered under CC0. Third-party media retains its individually documented rights and licence requirements. No artist or institution endorsement is implied.
+
+Profile artwork galleries run earliest to latest, using the start of date ranges. Unverified artwork dates appear last. The independently selected featured artwork stays at the top of the profile; enlarged gallery navigation follows date order.
