@@ -696,7 +696,7 @@ Career moments:
 Work studies:
 - David — 1501–1504 — Marble sculpture
 - Sistine Chapel ceiling — 1508–1512 — Fresco cycle
-- Moses — c. 1513–1515 — Marble sculpture
+- Moses — c. 1513–1524 — Marble sculpture
 
 ## 38 — Edvard Munch
 
@@ -983,7 +983,7 @@ Suggested lesson:5 minutes introduce a question;10 minutes investigate one profi
 
 ## Canadian gallery expansion
 
-The owner confirmed Canadian classroom use: the teacher wants a curated resource so pupils do not search unapproved websites. All 51 galleries now have at least ten study entries, totalling 515 artwork images. New copyrighted illustrations have original work-specific visual criticism and discussion questions, and their sources, copyright notices and Canadian fair-dealing assessments are recorded separately from open licences. See EDUCATIONAL-USE.md and IMAGE-CREDITS.json.
+The owner confirmed Canadian classroom use: the teacher wants a curated resource so pupils do not search unapproved websites. All 51 galleries now have at least ten study entries, totalling 524 artwork images. New copyrighted illustrations have original work-specific visual criticism and discussion questions, and their sources, copyright notices and Canadian fair-dealing assessments are recorded separately from open licences. See EDUCATIONAL-USE.md and IMAGE-CREDITS.json.
 
 Heather Galler’s two overview studies describe recurring motifs; her gallery now uses actual titled prints from the artist store linked by her prior official landing page. No objective fame ranking is claimed. Historic photographs can document destroyed sculptures; Savage’s paired SusieQ/Truckin photograph is conservatively counted as one study entry. US public-domain and museum CC0 labels are not assumed to clear Canadian underlying Picasso/Catlett artwork rights.
 

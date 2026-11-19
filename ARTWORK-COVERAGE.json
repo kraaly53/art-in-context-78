@@ -3,8 +3,8 @@
     "id": "01",
     "name": "Jonathan Green",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -13,7 +13,7 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "02",
@@ -145,8 +145,8 @@
     "id": "07",
     "name": "Frida Kahlo",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -191,7 +191,7 @@
         "result": "Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "08",
@@ -361,7 +361,7 @@
     "name": "Robert Indiana",
     "target": 10,
     "count": 10,
-    "educationalFairDealingImages": 8,
+    "educationalFairDealingImages": 9,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -404,8 +404,8 @@
     "id": "13",
     "name": "George Rodrigue",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -450,7 +450,7 @@
         "result": "George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "14",
@@ -504,15 +504,15 @@
     "id": "17",
     "name": "Yayoi Kusama",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "18",
@@ -700,8 +700,8 @@
     "id": "25",
     "name": "Annie Leibovitz",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -746,7 +746,7 @@
         "result": "The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "26",
@@ -970,8 +970,8 @@
     "id": "34",
     "name": "Elizabeth Catlett",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -1020,7 +1020,7 @@
         "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "35",
@@ -1137,8 +1137,8 @@
     "id": "42",
     "name": "Jacob Lawrence",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -1187,7 +1187,7 @@
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "43",
@@ -1240,8 +1240,8 @@
     "id": "46",
     "name": "Ted Harrison",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -1286,7 +1286,7 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   },
   {
     "id": "47",
@@ -1454,14 +1454,14 @@
     "id": "51",
     "name": "Jean-Michel Basquiat",
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
+    "count": 11,
+    "educationalFairDealingImages": 11,
     "shortfallReason": "",
     "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 11
   }
 ]

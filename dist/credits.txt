@@ -1,6 +1,20 @@
 # Image credits and classroom-use assessments
 
-557 local images: 42 artist portraits and 515 artwork reproductions. All 515 artwork records include original piece-specific information. Copyright and source designations remain unchanged; see EDUCATIONAL-USE.md.
+566 local images: 42 artist portraits and 524 artwork images, all with piece-specific information. 308 images have Canadian educational/critical fair-dealing assessments. Source rights are retained. See EDUCATIONAL-USE.md.
+
+## Zebra Farm Bus
+- File: `assets/featured-american/01-zebra-farm-bus.webp`
+- Artist ID: 01 · Type: work
+- Creator/credit: Jonathan Green · © Jonathan Green; The Fralin Museum of Art, University of Virginia, Gift of Ellen A. Hennessy,2010.14.10; museum-credited reproduction published by Crozet Gazette
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.crozetgazette.com/2025/05/02/free-union-school-students-win-uva-contest/
+- Changes: Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.
+- Artwork information: A zebra-striped bus carries a row of people through an intensely coloured coastal landscape beneath a setting sun. The decorated vehicle and repeated passengers connect everyday travel with Green’s celebration of Gullah community life.
+- Information sources: https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Self-Guide.pdf ; https://www.jonathangreenstudios.com/about
+- Assessment: Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.
 
 ## Market Women Succession
 - File: `assets/education-american/01-market-women-succession.webp`
@@ -141,6 +155,19 @@
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Cropped and edited photo of the painter William H Johnson
 
+## Jitterbugs (III)
+- File: `assets/gallery-american/02-jitterbugs-iii.webp`
+- Artist ID: 02 · Type: work
+- Creator/credit: William H. Johnson · Public domain
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg
+- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
+- Use basis: Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.
+- Artwork information: The dancers’ bent limbs and tilted bodies lock together in a lively arrangement. Johnson compresses the action into a shallow space, so the contrast between bright clothing and dark outlines helps us follow the movement.
+- Information sources: https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg ; https://www.moma.org/artists/22989-william-h-johnson ; https://www.metmuseum.org/art/collection/search/491485 ; https://americanart.si.edu/exhibitions/johnson
+
 ## Sowing
 - File: `assets/gallery-american/02-sowing.webp`
 - Artist ID: 02 · Type: work
@@ -176,18 +203,6 @@
 - Use basis: Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.
 - Artwork information: Two musicians stand close together, with instruments crossing the space between their bodies. Strong outlines and repeated angles give this still image an energetic rhythm that echoes its musical subject.
 - Information sources: https://commons.wikimedia.org/wiki/File:Street_Musicians,_by_William_H._Johnson.jpg
-
-## Jitterbugs (III)
-- File: `assets/gallery-american/02-jitterbugs-iii.webp`
-- Artist ID: 02 · Type: work
-- Creator/credit: William H. Johnson · Public domain
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg
-- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
-- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
-- Use basis: Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.
-- Artwork information: The dancers’ bent limbs and tilted bodies lock together in a lively arrangement. Johnson compresses the action into a shallow space, so the contrast between bright clothing and dark outlines helps us follow the movement.
-- Information sources: https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg
 
 ## Going to Church
 - File: `assets/gallery-american/02-going-to-church.webp`
@@ -276,8 +291,9 @@
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: A seated woman turns toward us with her hands folded, while winding paths and distant mountains stretch behind her. Soft transitions between light and shadow make the face appear rounded without a hard outline; the steady pose contrasts with the complicated landscape.
-- Information sources: https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg ; https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana
 
 ## The Last Supper
 - File: `assets/gallery-classic/03-03.webp`
@@ -399,8 +415,9 @@
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: Groups of thinkers read, write, discuss and demonstrate ideas inside a grand imaginary hall. Repeated arches, floor lines and steps organise the many figures around the central pair, turning a crowded scene into a clear lesson in perspective.
-- Information sources: https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg ; https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html
 
 ## Sistine Madonna
 - File: `assets/gallery-classic/04-02.webp`
@@ -509,10 +526,11 @@
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://en.wikipedia.org/wiki/Girl_with_Balloon
 - Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
 - Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
 - Artwork information: A small dark figure reaches toward a red heart-shaped balloon, with a large area of empty wall separating them. Does that open space suggest hope, loss or another idea, and what detail supports your interpretation?
-- Information sources: https://en.wikipedia.org/wiki/Girl_with_Balloon
+- Information sources: https://en.wikipedia.org/wiki/Girl_with_Balloon ; https://www.mocomuseum.com/news/amsterdam/the-most-famous-banksy-artworks-explained/
 - Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
 - Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
 - Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
@@ -701,6 +719,19 @@
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Paul Cezanne
 
+## The Card Players
+- File: `assets/gallery-classic/06-09.webp`
+- Artist ID: 06 · Type: work
+- Creator/credit: Paul Cézanne · Public domain
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg
+- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Use basis: Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
+- Version: Musée d’Orsay, RF 1969; two-player composition
+- Artwork information: Two men in hats sit across a table, concentrating on their cards rather than looking at us. Their bent arms and rounded backs create a balanced arrangement, while the small tabletop separates and connects their matching activities.
+- Information sources: https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg ; https://courtauld.ac.uk/gallery/exhibitions/cezannes-card-players/ ; https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312
+
 ## The Basket of Apples
 - File: `assets/06-artwork.webp`
 - Artist ID: 06 · Type: work
@@ -788,17 +819,6 @@
 - Artwork information: A road bends uphill toward houses beneath a cloudy sky. Angled roofs, walls and stretches of road organise the view into interlocking shapes, allowing a small village scene to become a study of structure as well as place.
 - Information sources: https://commons.wikimedia.org/wiki/File:Cezanne_haus-des-dr-gachet-in-auvers.jpg
 
-## The Card Players
-- File: `assets/gallery-classic/06-09.webp`
-- Artist ID: 06 · Type: work
-- Creator/credit: Paul Cézanne · Public domain
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg
-- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
-- Use basis: Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
-- Artwork information: Two men in hats sit across a table, concentrating on their cards rather than looking at us. Their bent arms and rounded backs create a balanced arrangement, while the small tabletop separates and connects their matching activities.
-- Information sources: https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg
-
 ## Mont Sainte-Victoire seen from Bellevue
 - File: `assets/gallery-classic/06-10.webp`
 - Artist ID: 06 · Type: work
@@ -818,6 +838,22 @@
 - Source: https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Frida Kahlo (gelatin silver print, 15.2 by 10.8 cm)
+
+## The Two Fridas
+- File: `assets/featured-classic/07-the-two-fridas.webp`
+- Artist ID: 07 · Type: work
+- Creator/credit: Artwork: Frida Kahlo; copyright retained by respective rights holders where applicable. Published low-resolution illustration via Wikipedia, whose file record credits The Artchive; separate reproduction photographer not named.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno
+- Changes: Published 315 × 317 pixel illustration converted to WebP without upscaling or artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Copyright notice: Frida Kahlo / respective rights holders where applicable; no open licence asserted for worldwide publication.
+- Source reproduction designation: Published non-free 2D artwork illustration; no reuse permission inferred from Wikipedia’s US rationale.
+- Use basis: Specific Canadian education/criticism assessment for an original work-focused explanation, not an assertion that a US fair-use rationale or public availability grants permission. Canadian underlying copyright term must be considered separately from continuing rights in other jurisdictions; no s.30.04 exception is claimed.
+- Teacher preview note: Symbolic exposed hearts, a connecting blood vessel and small blood marks; teacher preview recommended for discussion of art-historical symbolism.
+- Artwork information: Two versions of Kahlo sit side by side holding hands, one wearing a white dress and the other a Tehuana outfit. Their linked hearts and contrasting clothing turn the double self-portrait into an exploration of connection and identity, using visible symbols rather than an ordinary portrait setting.
+- Information sources: https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno ; https://inba.gob.mx/prensa/23902/la-coleccion-redes-y-trayectorias-del-arte-mexicano-1910-1950-abre-al-publico-en-el-museo-de-arte-moderno ; https://en.wikipedia.org/wiki/File:The_Two_Fridas.jpg
+- Assessment: Purpose: Canadian Grade 7/8 education and criticism of how the original 1939 double self-portrait uses paired figures, clothing and linked hearts to explore connection and identity. Character: a curated lesson with attribution, but the featured card and profile are publicly accessible through GitHub Pages, which increases reach and weighs against fairness relative to restricted classroom use. Amount: one complete 315 × 317 pixel published illustration; the whole paired composition is needed to compare the two figures, their clothing and the connecting vessel. The site already contains ten other Kahlo works, making cumulative copying more extensive and an adverse consideration. Alternatives: using another self-portrait would not illustrate this particular double composition; a text-only label would prevent examining the visual evidence, though restricted access or fewer works are possible alternatives. Nature: a previously published creative work; Kahlo’s death in 1954 means the Canadian underlying-work term requires separate analysis rather than assuming the US or Mexican term applies. Rights may remain outside Canada, relevant to unrestricted worldwide distribution. Effect: very low resolution and original criticism reduce substitution for museum visits, prints and licensed high-resolution images, but licensing-market effects cannot be ruled out. The selected image is the actual painting, not a recreation, derivative or a different version. Retain source attribution and review if purpose, audience or rights-holder circumstances change; this is not automatic permission for every educational use.
 
 ## Self-Portrait with Thorn Necklace and Hummingbird
 - File: `assets/education-modern/07-self-portrait-with-thorn-necklace-and-hummingbird.webp`
@@ -1043,6 +1079,26 @@ Bookmark This Record:
 
    https://www.loc.gov/pictures/item/2020731197/
 
+## Radiant Baby (from Icons)
+- File: `assets/education-modern/08-radiant-baby-from-icons.webp`
+- Artist ID: 08 · Type: work
+- Creator/credit: Artwork © Keith Haring Foundation; reproduction published by the Keith Haring Foundation, photographer not identified.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.haring.com/!/art-work/773
+- Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
+- Artwork information: A crawling baby glows with short radiating marks inside a bright rectangular field. How does the combination of a simple contour and repeated rays turn an ordinary action into a symbol of possibility?
+- Information sources: https://www.haring.com/!/art-work/773
+- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
+- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
+- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
+- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
+- Nature: Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
+- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
+- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
+
 ## Tuttomondo
 - File: `assets/education-modern/08-tuttomondo.webp`
 - Artist ID: 08 · Type: work
@@ -1155,25 +1211,6 @@ Bookmark This Record:
 - Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
 - Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
 
-## Radiant Baby (from Icons)
-- File: `assets/education-modern/08-radiant-baby-from-icons.webp`
-- Artist ID: 08 · Type: work
-- Creator/credit: Artwork © Keith Haring Foundation; reproduction published by the Keith Haring Foundation, photographer not identified.
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://www.haring.com/!/art-work/773
-- Changes: Reduced to at most640px and converted to WebP; composition preserved.
-- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
-- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
-- Artwork information: A crawling baby glows with short radiating marks inside a bright rectangular field. How does the combination of a simple contour and repeated rays turn an ordinary action into a symbol of possibility?
-- Information sources: https://www.haring.com/!/art-work/773
-- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
-- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
-- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
-- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
-- Nature: Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
-- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
-- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
-
 ## Crack Is Wack
 - File: `assets/education-modern/08-crack-is-wack.webp`
 - Artist ID: 08 · Type: work
@@ -1228,10 +1265,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://en.wikipedia.org/wiki/The_Persistence_of_Memory
 - Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
 - Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
 - Artwork information: Soft watches droop over hard edges in a quiet landscape, making time seem flexible rather than precise. How does the contrast between the detailed painting and the impossible objects make the dream convincing?
-- Information sources: https://en.wikipedia.org/wiki/The_Persistence_of_Memory
+- Information sources: https://en.wikipedia.org/wiki/The_Persistence_of_Memory ; https://www.moma.org/collection/artists/1364 ; https://www.moma.org/magazine/articles/1386
 - Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
 - Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
 - Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
@@ -1422,10 +1460,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://americanart.si.edu/artwork/les-fetiches-31947
 - Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
 - Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
 - Artwork information: Overlapping masks emerge from a dark background at different angles. How do scale and overlap make the arrangement feel more active than a row of separate objects?
-- Information sources: https://americanart.si.edu/artwork/les-fetiches-31947
+- Information sources: https://americanart.si.edu/artwork/les-fetiches-31947 ; https://americanart.si.edu/artist/lo%C3%AFs-mailou-jones-5658
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
 ## Self Portrait
@@ -1553,6 +1592,18 @@ Bookmark This Record:
 - Source: https://commons.wikimedia.org/wiki/File:Rousseau_Joyeux_Farceurs_Dornac_crop.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 
+## The Sleeping Gypsy
+- File: `assets/gallery-classic/11-09.webp`
+- Artist ID: 11 · Type: work
+- Creator/credit: Henri Rousseau · Public domain
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg
+- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Use basis: Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
+- Artwork information: A lion approaches a sleeping traveller beside a musical instrument under a full moon. The smooth sand and calm horizontal body contrast with the alert animal, creating suspense without showing an attack.
+- Information sources: https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg ; https://www.moma.org/magazine/articles/250 ; https://www.moma.org/collection/works/80172
+
 ## Surprised! (Tiger in a Tropical Storm)
 - File: `assets/11-artwork.webp`
 - Artist ID: 11 · Type: work
@@ -1640,17 +1691,6 @@ Bookmark This Record:
 - Artwork information: Animals and thick tropical plants surround a pale waterfall. Large, clearly outlined leaves build up the scene in overlapping layers, making the jungle feel richly patterned rather than like a view from a single fixed position.
 - Information sources: https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Waterfall_-_Google_Art_Project.jpg
 
-## The Sleeping Gypsy
-- File: `assets/gallery-classic/11-09.webp`
-- Artist ID: 11 · Type: work
-- Creator/credit: Henri Rousseau · Public domain
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg
-- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
-- Use basis: Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
-- Artwork information: A lion approaches a sleeping traveller beside a musical instrument under a full moon. The smooth sand and calm horizontal body contrast with the alert animal, creating suspense without showing an attack.
-- Information sources: https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg
-
 ## The Snake Charmer
 - File: `assets/gallery-classic/11-10.webp`
 - Artist ID: 11 · Type: work
@@ -1672,17 +1712,26 @@ Bookmark This Record:
 - Rights reference: https://creativecommons.org/licenses/by-sa/4.0
 - Artwork information: Photo by Dennis Griggs
 
-## Imperial Love
-- File: `assets/extra/12-imperial-love.webp`
+## LOVE
+- File: `assets/featured-modern/12-love-1966-newfields.webp`
 - Artist ID: 12 · Type: work
-- Creator/credit: Fridolin freudenfett · CC BY-SA 4.0
-- Rights: CC BY-SA 4.0
-- Source: https://commons.wikimedia.org/wiki/File:Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg
-- Changes: Resized and converted to WebP; content not cropped or altered.
-- Rights reference: https://creativecommons.org/licenses/by-sa/4.0
-- Use basis: Photographer CC BY-SA 4.0. Permanent outdoor sculpture in Germany, documented as donated to the Nationalgalerie in 2016 and installed in its public sculpture garden; German freedom of panorama applies to the depicted work. Underlying artwork is not claimed public domain.
-- Artwork information: Four enormous letters stack into a compact block, with the tilted O breaking the otherwise upright arrangement. Indiana makes a word something viewers can move around, so the spaces inside and between the letters matter as much as their solid surfaces.
-- Information sources: https://commons.wikimedia.org/wiki/File:Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg
+- Creator/credit: Artwork © The Robert Indiana Legacy Initiative / Artists Rights Society (ARS), New York. Photo courtesy Indianapolis Museum of Art, Indiana.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://robertindiana.com/artworks/artworks-items/love5
+- Changes: Complete published image resized to at most640px and converted to WebP; no cropping.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Illustration source: https://robertindiana.com/artworks/artworks-items/love5
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.
+- Artwork information: The red letters of LOVE fit tightly into a square against blue and green fields, with a tilted O disrupting the otherwise stable grid. This is the 1966 canvas in the Indianapolis Museum of Art at Newfields, the familiar composition that later became a widely recognised sculpture.
+- Information sources: https://robertindiana.com/artworks/artworks-items/love5 ; https://www.youtube.com/watch?v=TqDstb54LeY
+- Purpose: Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.
+- Character: One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.
+- Amount: One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.
+- Alternatives: Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.
+- Nature: Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: 1966 Indianapolis Museum of Art at Newfields canvas,71⅞×71⅞inches; not the ImperialLove sculpture or a different colourway.
+- Effect: The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.
+- Conclusion: Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance.
 
 ## Ahava (Love)
 - File: `assets/gallery-modern/12-19421911.webp`
@@ -1857,6 +1906,20 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Portrait cropped to focus on the artist’s face. Responsive display may crop decorative card thumbnails.
 - Rights reference: https://creativecommons.org/licenses/by-sa/4.0
 - Artwork information: George Rodrigue paints in his studio circa 2009.
+
+## Watchdog
+- File: `assets/featured-american/13-watchdog.webp`
+- Artist ID: 13 · Type: work
+- Creator/credit: George Rodrigue · © George Godfrey Rodrigue, Jr. Family Trust; Private Collection; reproduction published by Ogden Museum of Southern Art
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://ogdenmuseum.org/exhibition/the-first-blue-dog/
+- Changes: Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.
+- Artwork information: A blue-grey dog faces the viewer before a red house in a dark, cloud-filled setting. As the first Blue Dog painting, Watchdog links Rodrigue’s later famous canine image to his earlier illustrations of Cajun folklore.
+- Information sources: https://ogdenmuseum.org/exhibition/the-first-blue-dog/ ; https://georgerodrigue.com/blog/before_the_blue_dog/
+- Assessment: Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.
 
 ## Virtual Reality
 - File: `assets/education-modern/13-virtual-reality.webp`
@@ -2056,6 +2119,19 @@ Bookmark This Record:
 - Source: https://commons.wikimedia.org/wiki/File:Emily_Carr_(I0007935).jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 
+## Church at Yuquot Village (formerly The Indian Church)
+- File: `assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp`
+- Artist ID: 14 · Type: work
+- Creator/credit: Emily Carr · Public domain
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg
+- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
+- Use basis: Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.
+- Artwork information: A small white church stands against dense, towering green trees. The striking difference in scale makes the building seem enclosed by the forest, creating a visual tension between human construction and the living landscape.
+- Information sources: https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg ; https://ago.ca/agoinsider/art-toronto-ago-collection
+
 ## Scorned as Timber, Beloved of the Sky
 - File: `assets/extra/14-scorned-timber.webp`
 - Artist ID: 14 · Type: work
@@ -2067,18 +2143,6 @@ Bookmark This Record:
 - Use basis: Historical Canadian artwork; Commons designates the underlying artwork and reproduction public domain. Source file documents the rights basis.
 - Artwork information: A tall, slender tree rises far above the surrounding landscape into a sweeping sky. Its isolation and small crown make it appear vulnerable yet persistent, while curved cloud bands give the open space a sense of movement.
 - Information sources: https://commons.wikimedia.org/wiki/File:Carr,Emily_-_Scorned_as_timber.jpg
-
-## Church at Yuquot Village (formerly The Indian Church)
-- File: `assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp`
-- Artist ID: 14 · Type: work
-- Creator/credit: Emily Carr · Public domain
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg
-- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
-- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
-- Use basis: Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.
-- Artwork information: A small white church stands against dense, towering green trees. The striking difference in scale makes the building seem enclosed by the forest, creating a visual tension between human construction and the living landscape.
-- Information sources: https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg
 
 ## Blunden Harbour
 - File: `assets/gallery-american/14-blunden-harbour.webp`
@@ -2183,8 +2247,9 @@ Bookmark This Record:
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: A mother rests her hand against her face while children turn inward against her shoulders. The tight framing and overlapping bodies concentrate attention on family dependence and worry; the photograph became one of the best-known images of hardship during the Great Depression.
-- Information sources: https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg ; https://www.loc.gov/loc/lcib/9808/fsa-osi.html ; https://www.metmuseum.org/art/collection/search/283316
 
 ## White Angel Breadline, San Francisco
 - File: `assets/gallery-american/15-white-angel-breadline-san-francisco.webp`
@@ -2310,8 +2375,9 @@ Bookmark This Record:
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: Black horizontal and vertical lines divide the surface into unequal rectangles, including one large red area. The smaller blue and yellow sections balance the dominant red without using mirror symmetry, showing how few elements can still create tension and order.
-- Information sources: https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg ; https://collection.kunsthaus.ch/multimedia/5/2455-en.pdf ; https://artsandculture.google.com/asset/komposition-mit-rot-blau-und-gelb-piet-mondrian/5QG2Fm_LGUWAHA?hl=en-GB
 
 ## Broadway Boogie Woogie
 - File: `assets/gallery-classic/16-10.webp`
@@ -2428,6 +2494,27 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Rights reference: https://creativecommons.org/licenses/by/3.0
 - Artwork information: Yayoi Kusama in 2005. Screenshot from the video "Yayoi Kusama poses for Klaus Guingand" filmed by Muriel Guingand.
+
+## Pumpkin (Naoshima)
+- File: `assets/featured-modern/17-pumpkin-naoshima-2022.webp`
+- Artist ID: 17 · Type: work
+- Creator/credit: © Yayoi Kusama. Photograph Tadasu Yamamoto; published by Benesse Art Site Naoshima.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://benesse-artsite.jp/en/special2022/pumpkin.html
+- Changes: Complete published image resized to at most640px and converted to WebP; no cropping.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Illustration source: https://benesse-artsite.jp/en/special2022/pumpkin.html
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.
+- Artwork information: A yellow pumpkin covered in uneven black dots sits at the edge of a pier, with open sea stretching behind it. This photograph shows the 2022 re-creation of Kusama’s 1994 Naoshima sculpture, installed after the earlier work was damaged by a typhoon.
+- Information sources: https://benesse-artsite.jp/en/special2022/pumpkin.html
+- Purpose: Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.
+- Character: One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.
+- Amount: One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.
+- Alternatives: Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.
+- Nature: Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: Benesse identifies the pictured object as Pumpkin2022, newly created and installed4October2022 at the site of the1994 work.
+- Effect: The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.
+- Conclusion: Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance.
 
 ## Pumpkin
 - File: `assets/education-context/17-w01.webp`
@@ -2575,9 +2662,10 @@ Bookmark This Record:
 - Rights: CC0
 - Source: https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://creativecommons.org/publicdomain/zero/1.0/deed.en
 - Artwork information: A rider leans over a rearing, twisting horse, with reins and raised limbs extending into the surrounding space. The sculpture turns a brief, unstable action into a balanced three-dimensional structure that can be studied from several viewpoints.
-- Information sources: https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg ; https://www.metmuseum.org/art/collection/search/11859 ; https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM511135%3Btype%3D101
 
 ## A Map in the Sand
 - File: `assets/gallery-american/18-a-map-in-the-sand.webp`
@@ -2704,10 +2792,11 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/andrew-wyeth/christina-s-world
 - Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: The long stretch of grass makes the buildings feel emotionally as well as physically distant. How does the low viewpoint affect your understanding of the woman’s journey?
-- Information sources: https://www.wikiart.org/en/andrew-wyeth/christina-s-world
+- Information sources: https://www.wikiart.org/en/andrew-wyeth/christina-s-world ; https://www.moma.org/magazine/articles/895 ; https://www.moma.org/collection/works/78455
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of Christina's World. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The long stretch of grass makes the buildings feel emotionally as well as physically distant. How does the low viewpoint affect your understanding of the woman’s journey? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## Wind from the Sea
@@ -2842,12 +2931,13 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/diego-rivera/detroit-industry-north-wall-1933
 - Changes: Whole source illustration resized to at most 640 pixels and converted to WebP; no creative alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Work metadata source: https://dia.org/collection/detroit-industry-north-wall/58538
 - Illustration source: https://www.wikiart.org/en/diego-rivera/detroit-industry-north-wall-1933
 - Copyright notice: Diego Rivera artwork and source photographic rights retained; no open licence is claimed.
 - Use basis: Assessed Canadian fair dealing for education and criticism/review under Copyright Act ss.29 and 29.1: a reduced-size illustration supports the original work-specific analysis and question displayed beside it. This is not an artist permission or an open licence; see EDUCATIONAL-USE.md.
 - Artwork information: Repeated arms, pipes and wheels make the factory wall feel full of motion. Follow one repeated shape through the central manufacturing scene: does the rhythm make people and machines seem connected, opposed, or both? Compare this North Wall view with Rivera’s smaller, individually named SEP panels.
-- Information sources: https://dia.org/collection/detroit-industry-north-wall/58538
+- Information sources: https://dia.org/collection/detroit-industry-north-wall/58538 ; https://dia.org/riveracourt ; https://dia.org/collection/detroit-industry-murals/58537
 - Purpose: Noncommercial Grade 7–8 visual analysis of Detroit Industry murals (North Wall). The adjacent original commentary asks students to examine composition rather than use the image as decoration.
 - Character: Teacher-curated classroom resource, with no student external links, advertising or image export tools. GitHub Pages and its source repository remain public; this wider distribution weighs against fairness and is not described as restricted access.
 - Amount: One whole composition is needed to see spatial relationships and compare forms; only a study-sized image at most 640 pixels is supplied, not the source-resolution file. The North Wall image, if applicable, represents one mural cycle rather than multiple counted crops.
@@ -3008,8 +3098,9 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: A man holding a pitchfork stands beside a woman in front of a house with a pointed upper window. Repeated verticals link the faces, clothing, tool and architecture, making the picture’s strict organization as memorable as its rural subjects.
-- Information sources: https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg ; https://www.artic.edu/artworks/6565/american-gothic ; https://www.youtube.com/watch?v=9kUA2gAlCZY
 
 ## Spring Turning
 - File: `assets/gallery-american/21-spring-turning.webp`
@@ -3135,12 +3226,13 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://museoreinasofia.es/en/collections/artwork/guernica-0/
 - Changes: Whole source illustration resized to at most 640 pixels and converted to WebP; no creative alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Work metadata source: https://museoreinasofia.es/en/collections/artwork/guernica-0/
 - Copyright notice: Artwork copyright retained by the Picasso estate; source museum reproduction rights retained.
 - Use basis: Assessed Canadian fair dealing for education and criticism/review under Copyright Act ss.29 and 29.1: a reduced-size illustration supports the original work-specific analysis and question displayed beside it. This is not an artist permission or an open licence; see EDUCATIONAL-USE.md.
 - Teacher preview note: Stylised wartime suffering and figures in distress; teacher preview recommended.
 - Artwork information: Sharp black, white and grey shapes compress people and animals into a crowded scene. How do the open mouths, broken lines and pointed forms communicate distress without a realistic photograph? Compare the triangular grouping with the quieter rhythm in The Flower Carrier.
-- Information sources: https://museoreinasofia.es/en/collections/artwork/guernica-0/
+- Information sources: https://museoreinasofia.es/en/collections/artwork/guernica-0/ ; https://museoreinasofia.es/colecciones/obra/guernica/
 - Purpose: Noncommercial Grade 7–8 visual analysis of Guernica. The adjacent original commentary asks students to examine composition rather than use the image as decoration.
 - Character: Teacher-curated classroom resource, with no student external links, advertising or image export tools. GitHub Pages and its source repository remain public; this wider distribution weighs against fairness and is not described as restricted access.
 - Amount: One whole composition is needed to see spatial relationships and compare forms; only a study-sized image at most 640 pixels is supplied, not the source-resolution file. The North Wall image, if applicable, represents one mural cycle rather than multiple counted crops.
@@ -3309,6 +3401,20 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Nature: An already published creative visual work. Its expressive nature is acknowledged; publication does not make it public domain.
 - Effect: Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made.
 
+## White Cat on a Patchwork Quilt
+- File: `assets/education-american/23-white-cat-on-a-patchwork-quilt.webp`
+- Artist ID: 23 · Type: work
+- Creator/credit: © Heather Galler
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt
+- Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
+- Artwork information: A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?
+- Information sources: https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt ; https://heather-galler-art.mailchimpsites.com/
+- Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
+
 ## Yorkshire Terrier with Pink Bow
 - File: `assets/education-american/23-yorkshire-terrier-with-pink-bow.webp`
 - Artist ID: 23 · Type: work
@@ -3400,19 +3506,6 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Information sources: https://www.heathergallerstudio.com/products/winged-ginger-cat-with-skull-crown
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
-## White Cat on a Patchwork Quilt
-- File: `assets/education-american/23-white-cat-on-a-patchwork-quilt.webp`
-- Artist ID: 23 · Type: work
-- Creator/credit: © Heather Galler
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt
-- Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
-- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
-- Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
-- Artwork information: A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?
-- Information sources: https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt
-- Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
-
 ## Westie with Heart Tag
 - File: `assets/education-american/23-westie-with-heart-tag.webp`
 - Artist ID: 23 · Type: work
@@ -3449,6 +3542,26 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights reference: https://creativecommons.org/licenses/by-sa/4.0
 - Artwork information: Jeff Koons
 
+## Balloon Dog
+- File: `assets/education-modern/24-balloon-dog.webp`
+- Artist ID: 24 · Type: work
+- Creator/credit: Artwork © Jeff Koons. Published source: https://en.wikipedia.org/wiki/Balloon_Dog. Photograph/reproduction author not identified in retrieved source metadata.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://en.wikipedia.org/wiki/Balloon_Dog
+- Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
+- Artwork information: A familiar twisted balloon becomes an enormous, hard and reflective sculpture. How does knowing the material change your first impression of its weight and fragility?
+- Information sources: https://en.wikipedia.org/wiki/Balloon_Dog ; https://www.jeffkoons.com/artwork/celebration ; https://www.jeffkoons.com/shop ; https://lesoeuvres.pinaultcollection.com/en/artist/jeff-koons
+- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
+- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
+- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
+- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
+- Nature: Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
+- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
+
 ## Puppy
 - File: `assets/extra/24-puppy-close.webp`
 - Artist ID: 24 · Type: work
@@ -3460,25 +3573,6 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Use basis: Photographer CC BY-SA 4.0. The underlying artwork has been permanently installed in the publicly visible Guggenheim Museum Bilbao plaza since 1997; Spanish freedom of panorama covers the public sculpture. Underlying artwork is not claimed public domain.
 - Artwork information: An enormous seated terrier is covered in living flowering plants, so its colourful surface changes as the planting grows and is maintained. A stainless-steel structure and soil support the garden-like skin, combining the shape of a friendly pet with the scale of a monument.
 - Information sources: https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg ; https://www.guggenheim-bilbao.eus/en/the-collection/works/puppy
-
-## Balloon Dog
-- File: `assets/education-modern/24-balloon-dog.webp`
-- Artist ID: 24 · Type: work
-- Creator/credit: Artwork © Jeff Koons. Published source: https://en.wikipedia.org/wiki/Balloon_Dog. Photograph/reproduction author not identified in retrieved source metadata.
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://en.wikipedia.org/wiki/Balloon_Dog
-- Changes: Reduced to at most640px and converted to WebP; composition preserved.
-- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
-- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
-- Artwork information: A familiar twisted balloon becomes an enormous, hard and reflective sculpture. How does knowing the material change your first impression of its weight and fragility?
-- Information sources: https://en.wikipedia.org/wiki/Balloon_Dog
-- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
-- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
-- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
-- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
-- Nature: Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
-- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
-- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
 
 ## Tulips
 - File: `assets/gallery-modern/24-151995702.webp`
@@ -3654,6 +3748,27 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Rights reference: https://creativecommons.org/licenses/by/2.0
 - Artwork information: Annie Leibovitz is one of the most famous photographers alive today. She shoots for magazines, was Rolling Stone's photographer, and has made images of many of the world's most famous people.
+
+## Queen Elizabeth II in the White Drawing Room (2007 portrait)
+- File: `assets/featured-modern/25-queen-elizabeth-ii-2007-white-drawing-room.webp`
+- Artist ID: 25 · Type: work
+- Creator/credit: Photograph © Annie Leibovitz; published with her interview in Vogue,2022. The source explicitly dates this White Drawing Room portrait to2007.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii
+- Changes: Complete published image resized to at most640px and converted to WebP; no cropping.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Illustration source: https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.
+- Artwork information: Queen Elizabeth II sits in a formal gown, tiara and long ceremonial robe beside a bright palace window. The broad dark interior makes the small, illuminated figure stand out, connecting an individual portrait with the grand surroundings of the 2007 royal commission.
+- Information sources: https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii ; https://www.royal.uk/photographic-portraits-queen-annie-liebovitz-publication-arrangements?page=1
+- Purpose: Canadian Grade7/8 teacher-curated education and criticism of Leibovitz’s2007 Queen Elizabeth II portrait, with original discussion of light, scale and the royal setting.
+- Character: One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.
+- Amount: One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.
+- Alternatives: A text-only entry or another portrait cannot demonstrate Leibovitz’s specific lighting and staging. A published artist interview provides the exact canonical image; a640px complete study illustration avoids sending students to unrestricted browsing and does not supply print-quality reproduction.
+- Nature: The exact complete photograph is openly published as the lead image of Vogue’s interview with Annie Leibovitz, with an explicit2007 caption and photographer credit. The source HTML identifies the article as accessible for free; no login, paywall, watermark removal or restriction bypass was used. Photograph copyright remains with Annie Leibovitz; publication is not treated as a reuse licence.
+- Effect: The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.
+- Conclusion: Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance.
 
 ## Agnes Martin, Taos, New Mexico
 - File: `assets/education-modern/25-agnes-martin-taos-new-mexico.webp`
@@ -3861,10 +3976,11 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/andy-warhol/cri-000000318242
 - Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: Repetition makes familiar packaging resemble both a shop display and a carefully organised painting. When does repeating a product image change it into something worth studying?
-- Information sources: https://www.wikiart.org/en/andy-warhol/cri-000000318242
+- Information sources: https://www.wikiart.org/en/andy-warhol/cri-000000318242 ; https://www.moma.org/calendar/exhibitions/1517 ; https://www.moma.org/collection/works/79809
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of Campbell's Soup Cans. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repetition makes familiar packaging resemble both a shop display and a carefully organised painting. When does repeating a product image change it into something worth studying? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## Marilyn Diptych
@@ -4000,8 +4116,9 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: An ornate hall is filled with patterned flooring, tall openings and many glittering reflective surfaces. The repeated architectural details create deep space while the changing highlights make light itself an important part of the subject.
-- Information sources: https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG
+- Information sources: https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG ; https://whc.unesco.org/uploads/nominations/1422.pdf ; https://www.soas.ac.uk/sites/default/files/2024-05/Idea%20of%20Iran%202024%20-%20Programme_0.pdf ; https://www.iranicaonline.org/articles/art-in-iran-xi-post-qajar/
 
 ## The Doshan Tappeh Street
 - File: `assets/gallery-classic/27-02.webp`
@@ -4120,8 +4237,9 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: People, parasols and animals occupy a riverside park in a carefully arranged set of upright and reclining poses. Small marks of colour combine across the surface, while the repeated vertical figures make the busy leisure scene feel surprisingly still.
-- Information sources: https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg ; https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884 ; https://www.artic.edu/pdf/static/download-my-museum-tour.pdf-layout-42.pdf
 
 ## Bathers at Asnières
 - File: `assets/gallery-classic/28-02.webp`
@@ -4263,10 +4381,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://en.wikipedia.org/wiki/Whaam!
 - Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
 - Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
 - Artwork information: A comic-book explosion expands across two panels, making a printed sound feel almost visible. How do the diagonal aircraft and the word WHAAM guide the order in which you read the scene?
-- Information sources: https://en.wikipedia.org/wiki/Whaam!
+- Information sources: https://en.wikipedia.org/wiki/Whaam! ; https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897 ; https://www.youtube.com/watch?v=8zCzIyN2QW8
 - Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
 - Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
 - Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
@@ -4433,10 +4552,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/wayne-thiebaud/cakes-1963
 - Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: Repeated circles and thick-looking paint make the cakes feel both organised and tempting. Which shadow colour seems least realistic, and why might it be useful?
-- Information sources: https://www.wikiart.org/en/wayne-thiebaud/cakes-1963
+- Information sources: https://www.wikiart.org/en/wayne-thiebaud/cakes-1963 ; https://www.nga.gov/artworks/72040-cakes ; https://www.nga.gov/sites/default/files/2025-09/an_eye_for_art_opt.pdf
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of Cakes. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repeated circles and thick-looking paint make the cakes feel both organised and tempting. Which shadow colour seems least realistic, and why might it be useful? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## Three Machines
@@ -4563,10 +4683,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird
 - Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
 - Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
 - Artwork information: Across six panels, a human figure progressively becomes a Thunderbird. What changes between the beginning and end, and how does the sequence make transformation visible?
-- Information sources: https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird
+- Information sources: https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird ; https://ago.ca/agoinsider/icymi-elder-influence
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
 ## Untitled (Thunderbird Transformation)
@@ -4693,10 +4814,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/mark-rothko/1
 - Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: The cool middle band creates a quiet interruption between heavier dark areas. Does the blue appear to advance or recede when you look at it slowly?
-- Information sources: https://www.wikiart.org/en/mark-rothko/1
+- Information sources: https://www.wikiart.org/en/mark-rothko/1 ; https://www.moca.org/artworks/no-61-rust-and-blue-brown-blue-brown-on-blue ; https://www.moca.org/exhibitions/geometric-forms-and-abstract-images-selections-from-the-permanent-collection
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of No.61 (Rust and Blue). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The cool middle band creates a quiet interruption between heavier dark areas. Does the blue appear to advance or recede when you look at it slowly? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## White Center (Yellow, Pink and Lavender on Rose)
@@ -4825,6 +4947,19 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Augusta Savage.
 
+## Lift Every Voice and Sing (The Harp)
+- File: `assets/gallery-american/33-lift-every-voice-and-sing-the-harp.webp`
+- Artist ID: 33 · Type: work
+- Creator/credit: Augusta Savage (sculpture); historic photograph attributed to Carl Van Vechten · source declares PD-US-not renewed
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png
+- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
+- Use basis: Historic photograph of Augusta Savage’s destroyed 1939 sculpture. Source names Savage and photographer Carl Van Vechten and declares PD-US-not-renewed for the 1960 publication; see source file’s stated basis.
+- Artwork information: A graduated group of singers rises above a kneeling figure, with an enormous hand helping form the shape of a harp. Created for the 1939 New York World’s Fair and later destroyed, the sculpture survives through photographs that show how Savage translated collective singing into a monumental form.
+- Information sources: https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png ; https://americanart.si.edu/artist/augusta-savage-4269 ; https://www.searchablemuseum.com/art-and-literature-during-segregation/
+
 ## Gamin
 - File: `assets/33-artwork.webp`
 - Artist ID: 33 · Type: work
@@ -4835,18 +4970,6 @@ Bookmark This Record:
 - Rights reference: https://creativecommons.org/publicdomain/zero/1.0/deed.en
 - Artwork information: A young boy tilts his head beneath a soft cap, with an open collar and carefully modelled facial features. Savage gives an ordinary young person the close attention often reserved for powerful public figures, creating a portrait with a strong individual presence.
 - Information sources: https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg ; https://www.clevelandart.org/art/2003.40
-
-## Lift Every Voice and Sing (The Harp)
-- File: `assets/gallery-american/33-lift-every-voice-and-sing-the-harp.webp`
-- Artist ID: 33 · Type: work
-- Creator/credit: Augusta Savage (sculpture); historic photograph attributed to Carl Van Vechten · source declares PD-US-not renewed
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png
-- Changes: Resized to fit 900 pixels and converted to WebP; no artistic alterations.
-- Rights reference: https://commons.wikimedia.org/wiki/Commons:Public_domain
-- Use basis: Historic photograph of Augusta Savage’s destroyed 1939 sculpture. Source names Savage and photographer Carl Van Vechten and declares PD-US-not-renewed for the 1960 publication; see source file’s stated basis.
-- Artwork information: A graduated group of singers rises above a kneeling figure, with an enormous hand helping form the shape of a harp. Created for the 1939 New York World’s Fair and later destroyed, the sculpture survives through photographs that show how Savage translated collective singing into a monumental form.
-- Information sources: https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png ; https://americanart.si.edu/artist/augusta-savage-4269
 
 ## Realization
 - File: `assets/education-american/33-realization.webp`
@@ -4952,6 +5075,20 @@ Bookmark This Record:
 - Information sources: https://artsandculture.google.com/asset/portrait-head-of-john-henry-0107/UwF2_YoMvvYpeA
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
+## Sharecropper
+- File: `assets/featured-american/34-sharecropper.webp`
+- Artist ID: 34 · Type: work
+- Creator/credit: Elizabeth Catlett · © Mora-Catlett Family / Licensed by VAGA at Artists Rights Society (ARS), New York; Amon Carter Museum of American Art,2008.5
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.cartermuseum.org/collection/sharecropper-20085
+- Changes: Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.
+- Artwork information: A woman in a broad straw hat is seen from a low viewpoint, with deeply carved lines describing her face and clothing. The monumental portrait gives a farm worker a commanding presence while the safety pin at her collar hints at material hardship.
+- Information sources: https://emuseum.toledomuseum.org/objects/60640/sharecropper ; https://hoodmuseum.dartmouth.edu/news/2013/04/recent-acquisitions-elizabeth-catlett-sharecropper-1952-printed-1968 ; https://www.cartermuseum.org/collection/sharecropper-20085
+- Assessment: Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.
+
 ## I Am the Black Woman
 - File: `assets/gallery-american/34-i-am-the-black-woman.webp`
 - Artist ID: 34 · Type: work
@@ -4965,7 +5102,7 @@ Bookmark This Record:
 - Use basis: Canadian educational and critical fair-dealing assessment under ss.29/29.1 covers the underlying work where required. The source separately describes US no-notice status and a CC BY4.0 reproduction; that source distinction and attribution are retained.
 - Artwork information: Bold areas of black and white give the face a strong presence, while fine cut marks create changes in texture. Which lines help you read the expression, and how would that expression change if the contrast were softer?
 - Information sources: https://commons.wikimedia.org/wiki/File:Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg
-- Purpose: Noncommercial Grade7–8 criticism of the carved line, contrast and self-presentation in I Am the Black Woman, with the adjacent original question.
+- Purpose: Noncommercial Grade 7–8 criticism of the carved line, contrast and self-presentation in I Am the Black Woman, with the adjacent original question.
 - Character: Teacher-curated classroom resource, with no student external links, advertising or image export tools. GitHub Pages and its source repository remain public; this wider distribution weighs against fairness and is not described as restricted access.
 - Amount: One whole composition is needed to see spatial relationships and compare forms; only a study-sized image at most 640 pixels is supplied, not the source-resolution file. The North Wall image, if applicable, represents one mural cycle rather than multiple counted crops.
 - Alternatives: A different artist’s work or a written summary cannot show this particular composition. The full reproduction is paired with its own analysis, not offered as a substitute for a museum or commercial image collection.
@@ -5098,6 +5235,18 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Paul Klee, 1922. Foto von Hugo Erfurth
 
+## Twittering Machine
+- File: `assets/gallery-classic/35-02.webp`
+- Artist ID: 35 · Type: work
+- Creator/credit: Paul Klee · Public domain
+- Rights: Public domain
+- Source: https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg
+- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Use basis: Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
+- Artwork information: Thin bird-like creatures balance along a wire connected to a hand crank. The delicate lines combine living shapes with a machine structure, making an apparently playful device seem strange and uncertain.
+- Information sources: https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg ; https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6369/releases/MOMA_1986_0103_97.pdf
+
 ## Castle and Sun
 - File: `assets/35-artwork.webp`
 - Artist ID: 35 · Type: work
@@ -5107,17 +5256,6 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: A colourful town is built from rectangles, triangles and small squares beneath a round sun. Repeated geometric shapes suggest roofs, towers and walls without constructing a fully realistic space, letting the scene work as both a town and a colour pattern.
 - Information sources: https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg
-
-## Twittering Machine
-- File: `assets/gallery-classic/35-02.webp`
-- Artist ID: 35 · Type: work
-- Creator/credit: Paul Klee · Public domain
-- Rights: Public domain
-- Source: https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg
-- Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
-- Use basis: Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
-- Artwork information: Thin bird-like creatures balance along a wire connected to a hand crank. The delicate lines combine living shapes with a machine structure, making an apparently playful device seem strange and uncertain.
-- Information sources: https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg
 
 ## Ad Parnassum
 - File: `assets/gallery-classic/35-03.webp`
@@ -5216,6 +5354,18 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Prudence Heward (July 2, 1896 – March 19, 1947) was a Canadian painter.
 
+## Rollande
+- File: `assets/36-artwork.webp`
+- Artist ID: 36 · Type: work
+- Creator/credit: Guerinf · CC BY-SA 4.0
+- Rights: CC BY-SA 4.0
+- Source: https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg
+- Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://creativecommons.org/licenses/by-sa/4.0
+- Artwork information: A young woman in a vivid pink apron stands with her hands at her waist before a rural house. The frontal pose and sharply defined body create a commanding presence, while the fence and buildings establish a specific working landscape around her.
+- Information sources: https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg ; https://artbooks.artcanada.com/prudence-heward/key-works/rollande
+
 ## Girl on a Hill
 - File: `assets/gallery-american/36-girl-on-a-hill.webp`
 - Artist ID: 36 · Type: work
@@ -5227,17 +5377,6 @@ Bookmark This Record:
 - Use basis: Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.
 - Artwork information: A seated woman in a red dress occupies a rocky hillside, with her body turned slightly away from her direct gaze. Strong outlines and broad areas of colour give her a substantial presence within the landscape rather than making her a small decorative figure.
 - Information sources: https://commons.wikimedia.org/wiki/File:Femme_sur_une_colline_-_Prudence_Heward.jpg
-
-## Rollande
-- File: `assets/36-artwork.webp`
-- Artist ID: 36 · Type: work
-- Creator/credit: Guerinf · CC BY-SA 4.0
-- Rights: CC BY-SA 4.0
-- Source: https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg
-- Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
-- Rights reference: https://creativecommons.org/licenses/by-sa/4.0
-- Artwork information: A young woman in a vivid pink apron stands with her hands at her waist before a rural house. The frontal pose and sharply defined body create a commanding presence, while the fence and buildings establish a specific working landscape around her.
-- Information sources: https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg
 
 ## At the Theatre
 - File: `assets/gallery-american/36-at-the-theatre.webp`
@@ -5350,12 +5489,13 @@ Bookmark This Record:
 - Rights: CC BY-SA 4.0
 - Source: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://creativecommons.org/licenses/by-sa/4.0
 - Use basis: Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
 - Teacher preview note: Nonsexual classical figurative anatomy; teacher preview recommended.
 - Date source: https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/
 - Artwork information: A young man stands with his weight on one leg, turning his head as he holds a sling over his shoulder. The relaxed lower body and concentrated face create a contrast between physical stillness and alert attention; the marble statue represents the biblical David.
-- Information sources: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg ; https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/
+- Information sources: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg ; https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/ ; https://www.galleriaaccademiafirenze.it/wp-content/uploads/2024/09/EHD-2024-information-leaflet.pdf
 
 ## Moses
 - File: `assets/37-artwork.webp`
@@ -5482,8 +5622,10 @@ Bookmark This Record:
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Version: National Museum, Norway; 1893 version
 - Artwork information: A figure presses its hands against its head beneath a sky of sweeping red and orange curves. The straight bridge railing contrasts with the wavering landscape, making an emotional experience appear to spread through the entire setting.
-- Information sources: https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg ; https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939
 
 ## The Girls on the Bridge
 - File: `assets/gallery-classic/38-02.webp`
@@ -5601,10 +5743,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988
 - Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: The quilt joins everyday family life to an imaginative view of freedom above the city. How do the border and written story change the way you read the central picture?
-- Information sources: https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988
+- Information sources: https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988 ; https://www.guggenheim.org/learning-through-art/art-investigation/community ; https://www.guggenheim.org/wp-content/uploads/2025/05/Faith-Ringgold-Press-Kit-Full.pdf
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of Woman on a Bridge #1 of 5: Tar Beach. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The quilt joins everyday family life to an imaginative view of freedom above the city. How do the border and written story change the way you read the central picture? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## The Sunflowers Quilting Bee at Arles
@@ -5741,10 +5884,11 @@ Bookmark This Record:
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf
 - Changes: Individual published artwork illustration extracted from museum PDF; converted to WebP without upscaling.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: © Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: The broad triangular dress gives an intimate seated portrait a monumental structure. How does the patterned dress guide your eye toward the face?
-- Information sources: https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf
+- Information sources: https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf ; https://npg.si.edu/object/npg_NPG.2018.15 ; https://npg.si.edu/learn/classroom-resource/michelle-obama
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of Michelle LaVaughn Robinson Obama. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The broad triangular dress gives an intimate seated portrait a monumental structure. How does the patterned dress guide your eye toward the face? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## Miss Everything (Unsuppressed Deliverance)
@@ -5882,8 +6026,9 @@ Bookmark This Record:
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: A curling wave towers above long boats, with distant Mount Fuji appearing beneath the arch of water. The claw-like foam and repeating curves make the sea seem active, while the small, steady mountain creates a strong contrast in scale and movement.
-- Information sources: https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg ; https://www.britishmuseum.org/sites/default/files/2022-03/korenberg_article-for_hokusai%20_edited_volume_final-2020_accessible.pdf ; https://www.metmuseum.org/art/collection/search/45434
 
 ## Pilgrims at Kirifuri Waterfall on Mount Kurokami in Shimotsuke Province
 - File: `assets/gallery-classic/41-02.webp`
@@ -5996,6 +6141,20 @@ Bookmark This Record:
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Title: Portrait of Jacob Lawrence
 Abstract/medium: 1 photographic print : gelatin silver.
+
+## The Migration Series, Panel No. 1
+- File: `assets/featured-american/42-the-migration-series-panel-no-1.webp`
+- Artist ID: 42 · Type: work
+- Creator/credit: Jacob Lawrence · © The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York; The Phillips Collection, Acquired1942,1152
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern
+- Changes: Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.
+- Artwork information: A crowd carrying belongings moves towards station gates labelled with northern cities. Repeated bodies and strong diagonals turn the opening panel of Lawrence’s sixty-part history into an image of collective movement during the Great Migration.
+- Information sources: https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern ; https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf
+- Assessment: Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.
 
 ## Captain Skinner
 - File: `assets/education-american/42-captain-skinner.webp`
@@ -6142,10 +6301,11 @@ Abstract/medium: 1 photographic print : gelatin silver.
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://en.wikipedia.org/wiki/A_Bigger_Splash
 - Changes: Individual published artwork illustration extracted from museum PDF; converted to WebP without upscaling.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Copyright notice: © David Hockney; copyright retained.
 - Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
 - Artwork information: The brief splash interrupts the still rectangles of the house and pool. Why might an artist spend weeks painting an event that lasts only a second?
-- Information sources: https://en.wikipedia.org/wiki/A_Bigger_Splash
+- Information sources: https://en.wikipedia.org/wiki/A_Bigger_Splash ; https://www.thedavidhockneyfoundation.org/artwork/3667 ; https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of A Bigger Splash. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The brief splash interrupts the still rectangles of the house and pool. Why might an artist spend weeks painting an event that lasts only a second? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## Mr and Mrs Clark and Percy
@@ -6284,8 +6444,9 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Artwork information: Circles, triangles, straight lines and curved bands appear to float across a pale background. Differences in size, angle and spacing create a visual rhythm, allowing the painting to hold attention without describing an identifiable place or event.
-- Information sources: https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg ; https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8
+- Information sources: https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg ; https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8 ; https://www.guggenheim-bilbao.eus/en/exhibitions/kandinsky-in-context
 
 ## Composition VII
 - File: `assets/gallery-classic/44-02.webp`
@@ -6401,9 +6562,10 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Rights: Public domain
 - Source: https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Use basis: Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
 - Artwork information: A captain and lieutenant step forward from a busy company of armed civic guards, while light picks out selected faces, clothing and gestures. The overlapping figures and strong diagonals make a group portrait feel like an event in progress rather than a row of people posing.
-- Information sources: https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg
+- Information sources: https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg ; https://www.rijksmuseum.nl/en/whats-on/exhibitions/operation-night-watch ; https://www.rijksmuseum.nl/en/visit/night-watch
 
 ## Self-Portrait with Two Circles
 - File: `assets/45-artwork.webp`
@@ -6503,6 +6665,20 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Use basis: Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.
 - Artwork information: A woman gathers up her pale shift as she steps into shallow water, looking downward at her footing. Loose, thick strokes describe the cloth and reflected light, giving an everyday action an unusually direct and intimate presence.
 - Information sources: https://commons.wikimedia.org/wiki/File:Rembrandt_Hendrickje_Bathing_in_a_River.jpg
+
+## The Cremation of Sam McGee — cover painting
+- File: `assets/featured-american/46-the-cremation-of-sam-mcgee-cover-painting.webp`
+- Artist ID: 46 · Type: work
+- Creator/credit: Ted Harrison · © Ted Harrison / Ted Harrison Foundation; Yukon Permanent Art Collection, published by Yukon Arts Centre
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://yukonartscentre.com/permanent-art-collections/the-cremation-of-sam-mcgee/
+- Changes: Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.
+- Artwork information: A sled team crosses a rolling northern landscape beneath sweeping bands of aurora and a crescent moon. Harrison’s unusual colours and flowing shapes turn the setting of Robert Service’s poem into an imaginative visual world, without depicting the story’s darker events.
+- Information sources: https://yukonartscentre.com/permanent-art-collections/the-cremation-of-sam-mcgee/ ; https://kidscanpress.com/product/cremation-of-sam-mcgee/ ; https://tedharrison.ca/pages/about
+- Assessment: Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.
 
 ## Northern Trio
 - File: `assets/education-american/46-northern-trio.webp`
@@ -6644,6 +6820,20 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Rights reference: http://creativecommons.org/publicdomain/zero/1.0/deed.en
 - Artwork information: Flash portrait of surrealist painter René Magritte (1898-1967) on 18 October 1961 in front of one of his paintings "La perspective amoureuse" (1935), showing a wooden door cut out with a tree behind it. This may have been a gallery hanging.
 
+## The treachery of images (This is not a pipe)
+- File: `assets/education-context/47-w02.webp`
+- Artist ID: 47 · Type: work
+- Creator/credit: Artwork: Rene Magritte; copyright retained by respective rights holders; published illustration via WikiArt; separate reproduction photographer not named in catalogue record.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)
+- Changes: Reduced to at most 640px and converted to WebP.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
+- Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
+- Artwork information: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence?
+- Information sources: https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2) ; https://www.lacma.org/art/exhibition/magritte-and-contemporary-art-treachery-images
+- Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of The treachery of images (This is not a pipe). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
+
 ## The Son of Man
 - File: `assets/education-context/47-w01.webp`
 - Artist ID: 47 · Type: work
@@ -6656,19 +6846,6 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Artwork information: Hiding the face makes a formally dressed figure feel both familiar and unreachable. What can you know about this person when the most recognisable feature is blocked?
 - Information sources: https://www.wikiart.org/en/rene-magritte/son-of-man-1964(1)
 - Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of The Son of Man. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Hiding the face makes a formally dressed figure feel both familiar and unreachable. What can you know about this person when the most recognisable feature is blocked? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
-
-## The treachery of images (This is not a pipe)
-- File: `assets/education-context/47-w02.webp`
-- Artist ID: 47 · Type: work
-- Creator/credit: Artwork: Rene Magritte; copyright retained by respective rights holders; published illustration via WikiArt; separate reproduction photographer not named in catalogue record.
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)
-- Changes: Reduced to at most 640px and converted to WebP.
-- Copyright notice: Copyright retained by respective rights holders; no open licence asserted.
-- Use basis: Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.
-- Artwork information: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence?
-- Information sources: https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)
-- Assessment: Purpose: Canadian Grade 7/8 teaching and criticism of The treachery of images (This is not a pipe). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.
 
 ## The false mirror
 - File: `assets/education-context/47-w03.webp`
@@ -6783,6 +6960,20 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Changes: Resized and converted to WebP. Portrait cropped to focus on the artist’s face. Responsive display may crop decorative card thumbnails.
 - Artwork information: Pereira with painting.Identification on verso (handwritten and stamped): Federal Art Project W.P.A.; Photographic Division; 235 East 42nd Street; New York CityI. Rice Pererria;  WPA Artist Chosen for World's Fair; Date: 8/16/38; Negative No.: 3229-4; Photographer: Mipaas.
 
+## Machine Composition #2
+- File: `assets/education-american/48-machine-composition-2.webp`
+- Artist ID: 48 · Type: work
+- Creator/credit: I. Rice Pereira, Machine Composition #2, 1937, oil on canvas, Smithsonian American Art Museum, Gift of Patricia and Phillip Frost, 1986.92.72; © Estate of I. Rice Pereira
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://americanart.si.edu/artwork/machine-composition-2-19551
+- Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
+- Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
+- Artwork information: Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?
+- Information sources: https://americanart.si.edu/artwork/machine-composition-2-19551 ; https://americanart.si.edu/artist/i-rice-pereira-3761
+- Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
+
 ## White Lines
 - File: `assets/gallery-american/48-white-lines.webp`
 - Artist ID: 48 · Type: work
@@ -6873,19 +7064,6 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Information sources: https://americanart.si.edu/artwork/heart-flame-19550
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
-## Machine Composition #2
-- File: `assets/education-american/48-machine-composition-2.webp`
-- Artist ID: 48 · Type: work
-- Creator/credit: I. Rice Pereira, Machine Composition #2, 1937, oil on canvas, Smithsonian American Art Museum, Gift of Patricia and Phillip Frost, 1986.92.72; © Estate of I. Rice Pereira
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://americanart.si.edu/artwork/machine-composition-2-19551
-- Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
-- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
-- Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
-- Artwork information: Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?
-- Information sources: https://americanart.si.edu/artwork/machine-composition-2-19551
-- Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
-
 ## Pendulum
 - File: `assets/education-american/48-pendulum.webp`
 - Artist ID: 48 · Type: work
@@ -6922,6 +7100,26 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Rights reference: https://creativecommons.org/licenses/by/3.0
 - Artwork information: Romero Britto (2012)
 
+## Happy Dog
+- File: `assets/education-modern/49-happy-dog.webp`
+- Artist ID: 49 · Type: work
+- Creator/credit: Artwork © Romero Britto; photograph/reproduction published by official Shop Britto original-art catalogue, photographer not identified.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1
+- Changes: Reduced to at most640px and converted to WebP; composition preserved.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
+- Artwork information: A blue dog decorated with spots and hearts sits on green ground under a yellow sky. How do the decorative symbols and bold outlines build an upbeat mood without realistic shading?
+- Information sources: https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1
+- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
+- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
+- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
+- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
+- Nature: Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
+- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
+
 ## Best Buddies Friendship Bear
 - File: `assets/extra/49-friendship-bear.webp`
 - Artist ID: 49 · Type: work
@@ -6957,25 +7155,6 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Use basis: Photograph CC0; permanent sculpture in publicly accessible Ortenovo Square park, covered by Czech Copyright Act Section33 freedom of panorama. Prague7 municipal public-art inventory confirms artist, title, metal and installation2014: https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/
 - Artwork information: Large butterfly wings are divided into spots, stripes and blocks of strong colour, all held together by thick dark outlines. Set among grass and trees, the sculpture makes a familiar garden creature feel both larger than life and deliberately decorative.
 - Information sources: https://commons.wikimedia.org/wiki/File:Plastika_Garden_Butterfly_v_parku_na_Ortenov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_(Q64815809).jpg ; https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/
-
-## Happy Dog
-- File: `assets/education-modern/49-happy-dog.webp`
-- Artist ID: 49 · Type: work
-- Creator/credit: Artwork © Romero Britto; photograph/reproduction published by official Shop Britto original-art catalogue, photographer not identified.
-- Rights: Copyright retained — Canadian fair dealing (education/criticism)
-- Source: https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1
-- Changes: Reduced to at most640px and converted to WebP; composition preserved.
-- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
-- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.
-- Artwork information: A blue dog decorated with spots and hearts sits on green ground under a yellow sky. How do the decorative symbols and bold outlines build an upbeat mood without realistic shading?
-- Information sources: https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1
-- Purpose: Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.
-- Character: One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.
-- Amount: The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.
-- Alternatives: Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.
-- Nature: Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
-- Effect: 640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.
-- Conclusion: Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission.
 
 ## Up and Up
 - File: `assets/education-modern/49-up-and-up.webp`
@@ -7107,10 +7286,11 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Rights: Copyright retained — Canadian fair dealing (education/criticism)
 - Source: https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29
 - Changes: Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
 - Rights reference: https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html
 - Use basis: Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.
 - Artwork information: Dark looping lines spread across an open, warm-coloured ground. How does leaving parts of the background visible affect the painting’s density and pace?
-- Information sources: https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29
+- Information sources: https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29 ; https://www.metmuseum.org/art/collection/search/488978 ; https://assets.moma.org/documents/moma_catalogue_226_300087806.pdf
 - Assessment: Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.
 
 ## Number 17A
@@ -7238,6 +7418,27 @@ Photo credits : Georges Meguerditchian - Centre Pompidou, MNAM-CCI /Dist. RMN-G
 - Source: https://commons.wikimedia.org/wiki/File:Jean-Michel_Basquiat_passport_(cropped).jpg
 - Changes: Resized and converted to WebP. Responsive display may crop decorative card thumbnails.
 - Artwork information: Jean-Michel Basquiat's US passport headshot
+
+## Untitled (Skull; The Broad)
+- File: `assets/featured-modern/51-untitled-skull-1981-broad.webp`
+- Artist ID: 51 · Type: work
+- Creator/credit: © The Estate of Jean-Michel Basquiat. Licensed by Artestar, New York. Photograph Douglas M. Parker Studio, Los Angeles; published by The Broad.
+- Rights: Copyright retained — Canadian fair dealing (education/criticism)
+- Source: https://www.thebroad.org/art/jean-michel-basquiat/untitled
+- Changes: Complete published image resized to at most640px and converted to WebP; no cropping.
+- Featured artwork: yes; selection evidence in FEATURED-WORKS.md.
+- Rights reference: https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html
+- Illustration source: https://www.thebroad.org/art/jean-michel-basquiat/untitled
+- Use basis: Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.
+- Artwork information: An oversized head combines a mask-like outline, exposed teeth and a dense network of coloured marks. The many revised lines make its surface feel intensely worked; The Broad identifies this 1981 painting as a major early work shown in Basquiat’s first New York solo gallery exhibition.
+- Information sources: https://www.thebroad.org/art/jean-michel-basquiat/untitled ; https://www.basquiat.com/news-blog/the-defining-years-notes-on-five-key-works-from-basquiat
+- Purpose: Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.
+- Character: One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.
+- Amount: One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.
+- Alternatives: Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.
+- Nature: Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: The Broad accession B-BASQ-2P82.32,1981,81×69¼inches; not its different1981 Untitled accession F-BASQ-1P92.19 or the separate1982 auction painting.
+- Effect: The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.
+- Conclusion: Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance.
 
 ## Hollywood Africans
 - File: `assets/education-context/51-w01.webp`

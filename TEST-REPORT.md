@@ -4,9 +4,9 @@ Checked 18 November 2026.
 
 ## Current result
 
-All 51 artists have at least ten artwork study entries: **515 artwork images plus 42 portraits**, with 557 matching image-credit records. Picasso and Rivera have 12 works each; Koons has 11; the remaining 48 galleries have 10. There are no artwork-count shortfalls. Savage’s archival view of two separately titled sculptures counts conservatively as one entry, not two.
+All 51 artists have at least ten artwork study entries: **524 artwork images plus 42 portraits**, with 566 matching image-credit records. All 51 featured images are explicitly selected and documented in FEATURED-WORKS.md; new canonical additions preserve full artwork information and source credits.
 
-The Canadian classroom context was confirmed by the owner. The collection now supplements public-domain/licensed images with 298 Canadian educational/critical fair-dealing assessments. Copyright notices and separate reproduction licences are retained. This is a documented working assessment, not a court ruling, open licence or school-board clearance. See EDUCATIONAL-USE.md.
+The Canadian classroom context was confirmed by the owner. The collection now supplements public-domain/licensed images with 308 Canadian educational/critical fair-dealing assessments. Copyright notices and separate reproduction licences are retained. This is a documented working assessment, not a court ruling, open licence or school-board clearance. See EDUCATIONAL-USE.md.
 
 ## Data and image checks
 
@@ -49,3 +49,13 @@ Browser verification covered:
 - Desktop portrait image measured 218×246px, compared with the previous 85px circle. On mobile the main portrait measured 138px wide and its enlarged view approximately 350px wide.
 - At 375px the portrait dialog measured 345px, loaded its image and caused no horizontal overflow. Desktop 1280px also had no horizontal overflow.
 - Full data validation passed for 515 descriptions and 557 matching image-credit records. No new image downloads or changes to image reuse bases were required.
+
+## Pinned signature artwork update
+
+All 51 feature selections were reviewed using museum, artist/foundation or other documented source evidence. Iconic works lead where supported; representative choices are identified honestly when no unique most-famous work is established. Selection reasons and exact version identities are recorded in FEATURED-WORKS.md and its JSON companion.
+
+Ten canonical image records were added, and Indiana’s Imperial Love image was replaced with the familiar 1966 LOVE painting rather than counting that design twice. The updated collection contains 524 artwork images and 566 local image files including portraits. All new images were visually inspected, decode successfully, are at most 640px and include piece information, attribution and a use assessment. No unused WebP files or perceptual near matches were found in validation.
+
+The feature selector is shared by artist cards, profile lead images, the home-page Hokusai image and comparisons. Automated tests reverse each gallery and confirm that the explicit featured-work key continues to select the same image; they also validate all 51 matching manifest entries and source references. The gallery itself starts with that selected work, while every artist retains at least ten works.
+
+Browser checks for the pinned-feature update confirmed that Koons’s index card, profile lead and enlarged viewer all used Balloon Dog. Comparison showed the same Balloon Dog image alongside Cézanne’s The Card Players, with matching captions. Indiana’s mobile profile showed the actual 1966 oil-on-canvas LOVE image and ten fully described works, fitting 375px without horizontal overflow. The canonical additions were also reviewed together on a contact sheet before integration.

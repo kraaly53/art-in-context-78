@@ -64,6 +64,34 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "title": "Zebra Farm Bus",
+        "path": "assets/featured-american/01-zebra-farm-bus.webp",
+        "date": "1997",
+        "medium": "Oil on canvas",
+        "credit": "Jonathan Green · © Jonathan Green; The Fralin Museum of Art, University of Virginia, Gift of Ellen A. Hennessy,2010.14.10; museum-credited reproduction published by Crozet Gazette",
+        "source": "https://www.crozetgazette.com/2025/05/02/free-union-school-students-win-uva-contest/",
+        "sourceDownloadUrl": "https://www.crozetgazette.com/wp-content/uploads/2025/05/UVA-Fralin_Green_2010.14.10-600x438.jpg",
+        "workKey": "01:zebrafarmbus",
+        "creator": "Jonathan Green",
+        "description": "A zebra-striped bus carries a row of people through an intensely coloured coastal landscape beneath a setting sun. The decorated vehicle and repeated passengers connect everyday travel with Green’s celebration of Gullah community life.",
+        "alt": "A zebra-striped farm bus with passengers passes through a bright landscape beneath an orange sunset.",
+        "infoSources": [
+          "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Self-Guide.pdf",
+          "https://www.jonathangreenstudios.com/about"
+        ],
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
+        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
+        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
+        "sourceChecks": [
+          {
+            "source": "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Self-Guide.pdf",
+            "outcome": "Museum catalogue independently verifies title,date,medium,accession,credit and educational selection. Direct download403; not bypassed. Museum-credited public reproduction in Crozet Gazette used instead."
+          }
+        ]
+      },
+      {
         "title": "Market Women Succession",
         "date": "Date not verified",
         "source": "https://www.jonathangreenstudios.com/works",
@@ -267,8 +295,8 @@ window.ARTISTS = [
     "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
       "sourceChecks": [
@@ -277,7 +305,16 @@ window.ARTISTS = [
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "01:zebrafarmbus",
+      "status": "representative",
+      "reason": "A museum-collected, repeatedly reproduced Gullah-community painting selected for the Fralin’s Writer’s Eye teaching programme. No reliable source establishes one objectively most-famous Green painting; this is an explicitly representative, museum-documented choice rather than a recent portfolio upload.",
+      "sources": [
+        "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Self-Guide.pdf",
+        "https://www.jonathangreenstudios.com/about"
+      ]
     }
   },
   {
@@ -356,6 +393,29 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "path": "assets/gallery-american/02-jitterbugs-iii.webp",
+        "title": "Jitterbugs (III)",
+        "date": "c. 1941",
+        "medium": "Screenprint on paperboard",
+        "alt": "Two dancing figures make a rhythmic composition with strong outlines.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:jitterbugsiii",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg/960px-Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "The dancers’ bent limbs and tilted bodies lock together in a lively arrangement. Johnson compresses the action into a shallow space, so the contrast between bright clothing and dark outlines helps us follow the movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg",
+          "https://www.moma.org/artists/22989-william-h-johnson",
+          "https://www.metmuseum.org/art/collection/search/491485",
+          "https://americanart.si.edu/exhibitions/johnson"
+        ]
+      },
+      {
         "path": "assets/gallery-american/02-sowing.webp",
         "title": "Sowing",
         "date": "c. 1939–1940",
@@ -413,26 +473,6 @@ window.ARTISTS = [
         "description": "Two musicians stand close together, with instruments crossing the space between their bodies. Strong outlines and repeated angles give this still image an energetic rhythm that echoes its musical subject.",
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Street_Musicians,_by_William_H._Johnson.jpg"
-        ]
-      },
-      {
-        "path": "assets/gallery-american/02-jitterbugs-iii.webp",
-        "title": "Jitterbugs (III)",
-        "date": "c. 1941",
-        "medium": "Screenprint on paperboard",
-        "alt": "Two dancing figures make a rhythmic composition with strong outlines.",
-        "credit": "William H. Johnson · Public domain",
-        "creator": "William H. Johnson",
-        "source": "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg",
-        "license": "Public domain",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
-        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
-        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
-        "workKey": "02:jitterbugsiii",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg/960px-Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "description": "The dancers’ bent limbs and tilted bodies lock together in a lively arrangement. Johnson compresses the action into a shallow space, so the contrast between bright clothing and dark outlines helps us follow the movement.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg"
         ]
       },
       {
@@ -570,6 +610,16 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "02:jitterbugsiii",
+      "status": "representative",
+      "reason": "The Jitterbugs dancers belong to Johnson’s widely recognized signature series discussed by MoMA, the Met and Smithsonian. This existing III screenprint represents that major series; the sources do not establish one uniquely most-famous individual Johnson work.",
+      "sources": [
+        "https://www.moma.org/artists/22989-william-h-johnson",
+        "https://www.metmuseum.org/art/collection/search/491485",
+        "https://americanart.si.edu/exhibitions/johnson"
+      ]
     }
   },
   {
@@ -661,7 +711,8 @@ window.ARTISTS = [
         "workKey": "03:monalisa",
         "description": "A seated woman turns toward us with her hands folded, while winding paths and distant mountains stretch behind her. Soft transitions between light and shadow make the face appear rounded without a hard outline; the steady pose contrasts with the complicated landscape.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+          "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+          "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana"
         ],
         "medium": "Oil on wood"
       },
@@ -873,6 +924,14 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "03:monalisa",
+      "status": "iconic",
+      "reason": "The Louvre identifies this as the world’s most famous painting; a strong, unambiguous lead image for Leonardo.",
+      "sources": [
+        "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana"
+      ]
     }
   },
   {
@@ -965,7 +1024,8 @@ window.ARTISTS = [
         "workKey": "04:theschoolofathens",
         "description": "Groups of thinkers read, write, discuss and demonstrate ideas inside a grand imaginary hall. Repeated arches, floor lines and steps organise the many figures around the central pair, turning a crowded scene into a clear lesson in perspective.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+          "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+          "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
         ],
         "medium": "Fresco"
       },
@@ -1173,6 +1233,14 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "04:theschoolofathens",
+      "status": "iconic",
+      "reason": "Canonical monumental Raphael fresco, individually interpreted by the Vatican Museums. Selected as the widely recognised signature image, without claiming a measured global fame ranking against the Sistine Madonna.",
+      "sources": [
+        "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
+      ]
     }
   },
   {
@@ -1270,7 +1338,8 @@ window.ARTISTS = [
         "workKey": "05:girlwithballoon",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/77/Girl_with_balloon.jpg",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/Girl_with_Balloon"
+          "https://en.wikipedia.org/wiki/Girl_with_Balloon",
+          "https://www.mocomuseum.com/news/amsterdam/the-most-famous-banksy-artworks-explained/"
         ]
       },
       {
@@ -1596,6 +1665,14 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "05:girlwithballoon",
+      "status": "iconic",
+      "reason": "Moco Museum names Girl with Balloon among Banksy’s most recognisable works. Use the canonical heart-balloon composition already in the gallery, not a different mural or the later partially shredded auction object.",
+      "sources": [
+        "https://www.mocomuseum.com/news/amsterdam/the-most-famous-banksy-artworks-explained/"
+      ]
     }
   },
   {
@@ -1673,6 +1750,30 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
     ],
     "gallery": [
+      {
+        "path": "assets/gallery-classic/06-09.webp",
+        "title": "The Card Players",
+        "date": "1893–1896",
+        "medium": "Oil on canvas",
+        "alt": "Two men in hats sit across a small table studying their playing cards.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:thecardplayers",
+        "sourceFile": "File:Les Joueurs de cartes, par Paul Cézanne.jpg",
+        "sourceDate": "1890",
+        "description": "Two men in hats sit across a table, concentrating on their cards rather than looking at us. Their bent arms and rounded backs create a balanced arrangement, while the small tabletop separates and connects their matching activities.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
+          "https://courtauld.ac.uk/gallery/exhibitions/cezannes-card-players/",
+          "https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312"
+        ],
+        "version": "Musée d’Orsay, RF 1969; two-player composition"
+      },
       {
         "path": "assets/06-artwork.webp",
         "credit": "Paul Cézanne · Public domain",
@@ -1839,27 +1940,6 @@ window.ARTISTS = [
         ]
       },
       {
-        "path": "assets/gallery-classic/06-09.webp",
-        "title": "The Card Players",
-        "date": "1890",
-        "medium": "",
-        "alt": "Two men in hats sit across a small table studying their playing cards.",
-        "credit": "Paul Cézanne · Public domain",
-        "creator": "Paul Cézanne",
-        "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
-        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
-        "workKey": "06:thecardplayers",
-        "sourceFile": "File:Les Joueurs de cartes, par Paul Cézanne.jpg",
-        "sourceDate": "1890",
-        "description": "Two men in hats sit across a table, concentrating on their cards rather than looking at us. Their bent arms and rounded backs create a balanced arrangement, while the small tabletop separates and connects their matching activities.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg"
-        ]
-      },
-      {
         "path": "assets/gallery-classic/06-10.webp",
         "title": "Mont Sainte-Victoire seen from Bellevue",
         "date": "between 1885 and 1895",
@@ -1894,6 +1974,16 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "06:thecardplayers",
+      "status": "iconic",
+      "reason": "The Courtauld describes the Card Players paintings as among Cézanne’s most iconic works. Select the actual Musée d’Orsay two-player painting already in this gallery, not another version or a study; the museum dates this version 1893–1896, superseding the gallery’s broad 1890 caption.",
+      "sources": [
+        "https://courtauld.ac.uk/gallery/exhibitions/cezannes-card-players/",
+        "https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312"
+      ],
+      "version": "Musée d’Orsay, RF 1969; two-player composition"
     }
   },
   {
@@ -1970,6 +2060,32 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Frida_Kahlo"
     ],
     "gallery": [
+      {
+        "path": "assets/featured-classic/07-the-two-fridas.webp",
+        "title": "The Two Fridas",
+        "date": "1939",
+        "medium": "Oil on canvas",
+        "creator": "Frida Kahlo",
+        "alt": "Two versions of Frida Kahlo sit holding hands beneath a stormy sky, with symbolic hearts linked by a thin vessel.",
+        "description": "Two versions of Kahlo sit side by side holding hands, one wearing a white dress and the other a Tehuana outfit. Their linked hearts and contrasting clothing turn the double self-portrait into an exploration of connection and identity, using visible symbols rather than an ordinary portrait setting.",
+        "infoSources": [
+          "https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno",
+          "https://inba.gob.mx/prensa/23902/la-coleccion-redes-y-trayectorias-del-arte-mexicano-1910-1950-abre-al-publico-en-el-museo-de-arte-moderno",
+          "https://en.wikipedia.org/wiki/File:The_Two_Fridas.jpg"
+        ],
+        "source": "https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno",
+        "imageSource": "https://en.wikipedia.org/wiki/File:The_Two_Fridas.jpg",
+        "credit": "Artwork: Frida Kahlo; copyright retained by respective rights holders where applicable. Published low-resolution illustration via Wikipedia, whose file record credits The Artchive; separate reproduction photographer not named.",
+        "copyrightNotice": "Frida Kahlo / respective rights holders where applicable; no open licence asserted for worldwide publication.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "sourceLicense": "Published non-free 2D artwork illustration; no reuse permission inferred from Wikipedia’s US rationale.",
+        "licenseUrl": "",
+        "changes": "Published 315 × 317 pixel illustration converted to WebP without upscaling or artistic alteration.",
+        "workKey": "07:thetwofridas",
+        "contentNote": "Symbolic exposed hearts, a connecting blood vessel and small blood marks; teacher preview recommended for discussion of art-historical symbolism.",
+        "rightsBasis": "Specific Canadian education/criticism assessment for an original work-focused explanation, not an assertion that a US fair-use rationale or public availability grants permission. Canadian underlying copyright term must be considered separately from continuing rights in other jurisdictions; no s.30.04 exception is claimed.",
+        "rightsAssessment": "Purpose: Canadian Grade 7/8 education and criticism of how the original 1939 double self-portrait uses paired figures, clothing and linked hearts to explore connection and identity. Character: a curated lesson with attribution, but the featured card and profile are publicly accessible through GitHub Pages, which increases reach and weighs against fairness relative to restricted classroom use. Amount: one complete 315 × 317 pixel published illustration; the whole paired composition is needed to compare the two figures, their clothing and the connecting vessel. The site already contains ten other Kahlo works, making cumulative copying more extensive and an adverse consideration. Alternatives: using another self-portrait would not illustrate this particular double composition; a text-only label would prevent examining the visual evidence, though restricted access or fewer works are possible alternatives. Nature: a previously published creative work; Kahlo’s death in 1954 means the Canadian underlying-work term requires separate analysis rather than assuming the US or Mexican term applies. Rights may remain outside Canada, relevant to unrestricted worldwide distribution. Effect: very low resolution and original criticism reduce substitution for museum visits, prints and licensed high-resolution images, but licensing-market effects cannot be ruled out. The selected image is the actual painting, not a recreation, derivative or a different version. Retain source attribution and review if purpose, audience or rights-holder circumstances change; this is not automatic permission for every educational use."
+      },
       {
         "id": "07-self-portrait-with-thorn-necklace-and-hummingbird",
         "path": "assets/education-modern/07-self-portrait-with-thorn-necklace-and-hummingbird.webp",
@@ -2269,8 +2385,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
       "sourceChecks": [
@@ -2315,7 +2431,16 @@ window.ARTISTS = [
           "result": "Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "07:thetwofridas",
+      "status": "iconic",
+      "reason": "Mexico’s INBAL identifies the original 1939 painting as one of Kahlo’s most recognised works and a central work of the Museo de Arte Moderno collection. Stronger canonical lead than an availability-driven choice of another self-portrait; fame among Kahlo’s self-portraits is not an objectively unique ranking.",
+      "sources": [
+        "https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno",
+        "https://inba.gob.mx/prensa/23902/la-coleccion-redes-y-trayectorias-del-arte-mexicano-1910-1950-abre-al-publico-en-el-museo-de-arte-moderno"
+      ]
     }
   },
   {
@@ -2394,6 +2519,35 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Keith_Haring"
     ],
     "gallery": [
+      {
+        "id": "08-radiant-baby-from-icons",
+        "path": "assets/education-modern/08-radiant-baby-from-icons.webp",
+        "title": "Radiant Baby (from Icons)",
+        "date": "1990",
+        "medium": "Silkscreen with embossing",
+        "description": "A crawling baby glows with short radiating marks inside a bright rectangular field. How does the combination of a simple contour and repeated rays turn an ordinary action into a symbol of possibility?",
+        "alt": "A crawling baby glows with short radiating marks inside a bright rectangular field.",
+        "credit": "Artwork © Keith Haring Foundation; reproduction published by the Keith Haring Foundation, photographer not identified.",
+        "source": "https://www.haring.com/!/art-work/773",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.",
+        "rightsAssessment": {
+          "purpose": "Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.",
+          "character": "One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.",
+          "amount": "The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.",
+          "alternatives": "Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.",
+          "nature": "Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.",
+          "effect": "640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.",
+          "conclusion": "Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission."
+        },
+        "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
+        "workKey": "08:radiantbabyfromicons",
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/radiant_baby_90.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/773"
+        ]
+      },
       {
         "id": "08-tuttomondo",
         "path": "assets/education-modern/08-tuttomondo.webp",
@@ -2573,35 +2727,6 @@ window.ARTISTS = [
         ]
       },
       {
-        "id": "08-radiant-baby-from-icons",
-        "path": "assets/education-modern/08-radiant-baby-from-icons.webp",
-        "title": "Radiant Baby (from Icons)",
-        "date": "1990",
-        "medium": "Silkscreen with embossing",
-        "description": "A crawling baby glows with short radiating marks inside a bright rectangular field. How does the combination of a simple contour and repeated rays turn an ordinary action into a symbol of possibility?",
-        "alt": "A crawling baby glows with short radiating marks inside a bright rectangular field.",
-        "credit": "Artwork © Keith Haring Foundation; reproduction published by the Keith Haring Foundation, photographer not identified.",
-        "source": "https://www.haring.com/!/art-work/773",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
-        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.",
-        "rightsAssessment": {
-          "purpose": "Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.",
-          "character": "One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.",
-          "amount": "The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.",
-          "alternatives": "Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.",
-          "nature": "Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.",
-          "effect": "640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.",
-          "conclusion": "Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission."
-        },
-        "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
-        "workKey": "08:radiantbabyfromicons",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/radiant_baby_90.jpg",
-        "infoSources": [
-          "https://www.haring.com/!/art-work/773"
-        ]
-      },
-      {
         "id": "08-crack-is-wack",
         "path": "assets/education-modern/08-crack-is-wack.webp",
         "title": "Crack Is Wack",
@@ -2701,6 +2826,14 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "08:radiantbabyfromicons",
+      "status": "iconic",
+      "reason": "Haring’s defining Radiant Baby motif is represented by the exact 1990 Icons silkscreen catalogued by his Foundation. This makes the signature image the feature instead of an incidental outdoor sculpture.",
+      "sources": [
+        "https://www.haring.com/!/art-work/773"
+      ]
     }
   },
   {
@@ -2805,7 +2938,9 @@ window.ARTISTS = [
         "workKey": "09:thepersistenceofmemory",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/The_Persistence_of_Memory"
+          "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+          "https://www.moma.org/collection/artists/1364",
+          "https://www.moma.org/magazine/articles/1386"
         ]
       },
       {
@@ -3112,6 +3247,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "09:thepersistenceofmemory",
+      "status": "iconic",
+      "reason": "MoMA describes this as perhaps Dalí’s most famous painting and notes its immediate success; the original 1931 painting is already present.",
+      "sources": [
+        "https://www.moma.org/collection/artists/1364",
+        "https://www.moma.org/magazine/articles/1386"
+      ]
     }
   },
   {
@@ -3208,7 +3352,8 @@ window.ARTISTS = [
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.56_1&max=640",
         "description": "Overlapping masks emerge from a dark background at different angles. How do scale and overlap make the arrangement feel more active than a row of separate objects?",
         "infoSources": [
-          "https://americanart.si.edu/artwork/les-fetiches-31947"
+          "https://americanart.si.edu/artwork/les-fetiches-31947",
+          "https://americanart.si.edu/artist/lo%C3%AFs-mailou-jones-5658"
         ]
       },
       {
@@ -3454,6 +3599,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "10:lesfetiches",
+      "status": "iconic",
+      "reason": "Jones’s landmark 1938 African-mask painting is the work singled out at length in Smithsonian’s artist biography and collection interpretation, making it a stronger canonical feature than an arbitrary later work.",
+      "sources": [
+        "https://americanart.si.edu/artist/lo%C3%AFs-mailou-jones-5658",
+        "https://americanart.si.edu/artwork/les-fetiches-31947"
+      ]
     }
   },
   {
@@ -3529,6 +3683,29 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Henri_Rousseau"
     ],
     "gallery": [
+      {
+        "path": "assets/gallery-classic/11-09.webp",
+        "title": "The Sleeping Gypsy",
+        "date": "1897",
+        "medium": "",
+        "alt": "A lion sniffs a sleeping traveller beside a musical instrument beneath a full moon.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:thesleepinggypsy",
+        "sourceFile": "File:La Bohémienne endormie.jpg",
+        "sourceDate": "1897",
+        "description": "A lion approaches a sleeping traveller beside a musical instrument under a full moon. The smooth sand and calm horizontal body contrast with the alert animal, creating suspense without showing an attack.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg",
+          "https://www.moma.org/magazine/articles/250",
+          "https://www.moma.org/collection/works/80172"
+        ]
+      },
       {
         "path": "assets/11-artwork.webp",
         "credit": "Henri Rousseau · Public domain",
@@ -3695,27 +3872,6 @@ window.ARTISTS = [
         ]
       },
       {
-        "path": "assets/gallery-classic/11-09.webp",
-        "title": "The Sleeping Gypsy",
-        "date": "1897",
-        "medium": "",
-        "alt": "A lion sniffs a sleeping traveller beside a musical instrument beneath a full moon.",
-        "credit": "Henri Rousseau · Public domain",
-        "creator": "Henri Rousseau",
-        "source": "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
-        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
-        "workKey": "11:thesleepinggypsy",
-        "sourceFile": "File:La Bohémienne endormie.jpg",
-        "sourceDate": "1897",
-        "description": "A lion approaches a sleeping traveller beside a musical instrument under a full moon. The smooth sand and calm horizontal body contrast with the alert animal, creating suspense without showing an attack.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg"
-        ]
-      },
-      {
         "path": "assets/gallery-classic/11-10.webp",
         "title": "The Snake Charmer",
         "date": "1907",
@@ -3750,6 +3906,15 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "11:thesleepinggypsy",
+      "status": "iconic",
+      "reason": "MoMA explicitly calls this one of its most iconic paintings. It is a stronger documented signature-work choice than keeping the tiger merely because it was the original image; The Dream is another major contender, so no unique numerical ranking is claimed.",
+      "sources": [
+        "https://www.moma.org/magazine/articles/250",
+        "https://www.moma.org/collection/works/80172"
+      ]
     }
   },
   {
@@ -3827,24 +3992,35 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
-        "id": "12",
-        "path": "assets/extra/12-imperial-love.webp",
-        "title": "Imperial Love",
-        "date": "1966/2006",
-        "alt": "Large steel letters spelling LOVE in two adjacent arrangements in a Berlin sculpture garden.",
-        "credit": "Fridolin freudenfett · CC BY-SA 4.0",
-        "creator": "Fridolin freudenfett",
-        "source": "https://commons.wikimedia.org/wiki/File:Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "changes": "Resized and converted to WebP; content not cropped or altered.",
-        "rightsBasis": "Photographer CC BY-SA 4.0. Permanent outdoor sculpture in Germany, documented as donated to the Nationalgalerie in 2016 and installed in its public sculpture garden; German freedom of panorama applies to the depicted work. Underlying artwork is not claimed public domain.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg/960px-Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "artworkSource": "https://www.smb.museum/en/whats-new/detail/robert-indianas-pop-art-icon-imperial-love-installed-at-the-hamburger-bahnhof-museum-fuer-gegenwart-berlin/",
-        "workKey": "12:imperiallove",
-        "description": "Four enormous letters stack into a compact block, with the tilted O breaking the otherwise upright arrangement. Indiana makes a word something viewers can move around, so the spaces inside and between the letters matter as much as their solid surfaces.",
+        "title": "LOVE",
+        "date": "1966",
+        "medium": "Oil on canvas",
+        "path": "assets/featured-modern/12-love-1966-newfields.webp",
+        "alt": "Red letters L and a tilted O sit above V and E in a square of blue and green.",
+        "description": "The red letters of LOVE fit tightly into a square against blue and green fields, with a tilted O disrupting the otherwise stable grid. This is the 1966 canvas in the Indianapolis Museum of Art at Newfields, the familiar composition that later became a widely recognised sculpture.",
+        "source": "https://robertindiana.com/artworks/artworks-items/love5",
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/7b645ab72d74dadccdb420fd99aa1adf.jpeg",
+        "imageSourcePage": "https://robertindiana.com/artworks/artworks-items/love5",
+        "credit": "Artwork © The Robert Indiana Legacy Initiative / Artists Rights Society (ARS), New York. Photo courtesy Indianapolis Museum of Art, Indiana.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.",
+        "rightsAssessment": {
+          "purpose": "Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.",
+          "character": "One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.",
+          "amount": "One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.",
+          "alternatives": "Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.",
+          "nature": "Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: 1966 Indianapolis Museum of Art at Newfields canvas,71⅞×71⅞inches; not the ImperialLove sculpture or a different colourway.",
+          "effect": "The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.",
+          "conclusion": "Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance."
+        },
+        "changes": "Complete published image resized to at most640px and converted to WebP; no cropping.",
+        "versionIdentity": "1966 Indianapolis Museum of Art at Newfields canvas,71⅞×71⅞inches; not the ImperialLove sculpture or a different colourway.",
+        "workKey": "12:love",
+        "creator": "Robert Indiana",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg"
+          "https://robertindiana.com/artworks/artworks-items/love5",
+          "https://www.youtube.com/watch?v=TqDstb54LeY"
         ]
       },
       {
@@ -4103,7 +4279,7 @@ window.ARTISTS = [
     "galleryAudit": {
       "target": 10,
       "count": 10,
-      "educationalFairDealingImages": 8,
+      "educationalFairDealingImages": 9,
       "shortfallReason": "",
       "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
       "sourceChecks": [
@@ -4141,6 +4317,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "12:love",
+      "status": "iconic",
+      "reason": "Use the familiar red-letter, blue-and-green 1966 LOVE canvas in the Indianapolis Museum of Art at Newfields. The official Legacy Initiative records this exact painting; replace the Imperial Love sculpture image rather than relabel it or count the same composition twice.",
+      "sources": [
+        "https://robertindiana.com/artworks/artworks-items/love5",
+        "https://www.youtube.com/watch?v=TqDstb54LeY"
+      ]
     }
   },
   {
@@ -4218,6 +4403,29 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/George_Rodrigue"
     ],
     "gallery": [
+      {
+        "title": "Watchdog",
+        "path": "assets/featured-american/13-watchdog.webp",
+        "date": "1983–1984 (museum and estate dates differ)",
+        "medium": "Oil on canvas",
+        "credit": "George Rodrigue · © George Godfrey Rodrigue, Jr. Family Trust; Private Collection; reproduction published by Ogden Museum of Southern Art",
+        "source": "https://ogdenmuseum.org/exhibition/the-first-blue-dog/",
+        "sourceDownloadUrl": "https://ogdenmuseum.org/wp-content/uploads/2024/04/Watchdog-767x1023.jpg",
+        "workKey": "13:watchdog",
+        "creator": "George Rodrigue",
+        "description": "A blue-grey dog faces the viewer before a red house in a dark, cloud-filled setting. As the first Blue Dog painting, Watchdog links Rodrigue’s later famous canine image to his earlier illustrations of Cajun folklore.",
+        "alt": "A blue-grey dog with pointed ears stands on a pale path before a red house under dark clouds.",
+        "infoSources": [
+          "https://ogdenmuseum.org/exhibition/the-first-blue-dog/",
+          "https://georgerodrigue.com/blog/before_the_blue_dog/"
+        ],
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
+        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
+        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
+        "dateNote": "Ogden dates this firstBlueDog work1983; Rodrigue Studios and foundation educator guide date Watchdog1984. The discrepancy is retained rather than silently choosing one."
+      },
       {
         "id": "13-virtual-reality",
         "path": "assets/education-modern/13-virtual-reality.webp",
@@ -4512,8 +4720,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
       "sourceChecks": [
@@ -4558,7 +4766,16 @@ window.ARTISTS = [
           "result": "George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "13:watchdog",
+      "status": "iconic",
+      "reason": "The original Blue Dog painting is a documented turning point and the subject of Ogden Museum’s dedicated exhibition The First Blue Dog. This anchors Rodrigue in his internationally recognized Blue Dog imagery rather than choosing the first available later print.",
+      "sources": [
+        "https://ogdenmuseum.org/exhibition/the-first-blue-dog/",
+        "https://georgerodrigue.com/blog/before_the_blue_dog/"
+      ]
     }
   },
   {
@@ -4636,6 +4853,27 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "path": "assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp",
+        "title": "Church at Yuquot Village (formerly The Indian Church)",
+        "date": "1929",
+        "medium": "Painting",
+        "alt": "A small white church stands against large dark trees.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:churchatyuquotvillageformerlytheindianchurch",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emily_Carr_-_Indian_Church.jpg/960px-Emily_Carr_-_Indian_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A small white church stands against dense, towering green trees. The striking difference in scale makes the building seem enclosed by the forest, creating a visual tension between human construction and the living landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg",
+          "https://ago.ca/agoinsider/art-toronto-ago-collection"
+        ]
+      },
+      {
         "id": "14",
         "path": "assets/extra/14-scorned-timber.webp",
         "title": "Scorned as Timber, Beloved of the Sky",
@@ -4655,26 +4893,6 @@ window.ARTISTS = [
           "https://commons.wikimedia.org/wiki/File:Carr,Emily_-_Scorned_as_timber.jpg"
         ],
         "medium": "Oil on canvas"
-      },
-      {
-        "path": "assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp",
-        "title": "Church at Yuquot Village (formerly The Indian Church)",
-        "date": "1929",
-        "medium": "Painting",
-        "alt": "A small white church stands against large dark trees.",
-        "credit": "Emily Carr · Public domain",
-        "creator": "Emily Carr",
-        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg",
-        "license": "Public domain",
-        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
-        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
-        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
-        "workKey": "14:churchatyuquotvillageformerlytheindianchurch",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emily_Carr_-_Indian_Church.jpg/960px-Emily_Carr_-_Indian_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "description": "A small white church stands against dense, towering green trees. The striking difference in scale makes the building seem enclosed by the forest, creating a visual tension between human construction and the living landscape.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg"
-        ]
       },
       {
         "path": "assets/gallery-american/14-blunden-harbour.webp",
@@ -4851,6 +5069,14 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "14:churchatyuquotvillageformerlytheindianchurch",
+      "status": "iconic",
+      "reason": "The AGO identifies this 1929 church painting as an iconic Carr image, and it is a longstanding collection highlight. Its strong institutional recognition supports choosing it over the previously convenient logging or forest images.",
+      "sources": [
+        "https://ago.ca/agoinsider/art-toronto-ago-collection"
+      ]
     }
   },
   {
@@ -4931,7 +5157,9 @@ window.ARTISTS = [
         "workKey": "15:migrantmother",
         "description": "A mother rests her hand against her face while children turn inward against her shoulders. The tight framing and overlapping bodies concentrate attention on family dependence and worry; the photograph became one of the best-known images of hardship during the Great Depression.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg"
+          "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+          "https://www.loc.gov/loc/lcib/9808/fsa-osi.html",
+          "https://www.metmuseum.org/art/collection/search/283316"
         ],
         "medium": "Black-and-white photograph"
       },
@@ -5131,6 +5359,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "15:migrantmother",
+      "status": "iconic",
+      "reason": "Lange’s defining Depression-era image is identified by the Library of Congress as one of her best-known photographs and a symbol of the Depression. The existing image is the recognizable close portrait, not another view from the sitting.",
+      "sources": [
+        "https://www.loc.gov/loc/lcib/9808/fsa-osi.html",
+        "https://www.metmuseum.org/art/collection/search/283316"
+      ]
     }
   },
   {
@@ -5221,7 +5458,9 @@ window.ARTISTS = [
         "workKey": "16:compositioniiinredblueandyellow",
         "description": "Black horizontal and vertical lines divide the surface into unequal rectangles, including one large red area. The smaller blue and yellow sections balance the dominant red without using mirror symmetry, showing how few elements can still create tension and order.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg"
+          "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg",
+          "https://collection.kunsthaus.ch/multimedia/5/2455-en.pdf",
+          "https://artsandculture.google.com/asset/komposition-mit-rot-blau-und-gelb-piet-mondrian/5QG2Fm_LGUWAHA?hl=en-GB"
         ],
         "medium": "Oil on canvas"
       },
@@ -5436,6 +5675,15 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "16:compositioniiinredblueandyellow",
+      "status": "representative",
+      "reason": "Choose the recognisable 1930 Kunsthaus Zürich composition with the large red field, not a generic Mondrian-style grid or another similarly titled painting. This is a canonical signature image, but primary evidence does not establish a unique most-famous work ahead of Broadway Boogie Woogie; that ambiguity should remain transparent.",
+      "sources": [
+        "https://collection.kunsthaus.ch/multimedia/5/2455-en.pdf",
+        "https://artsandculture.google.com/asset/komposition-mit-rot-blau-und-gelb-piet-mondrian/5QG2Fm_LGUWAHA?hl=en-GB"
+      ]
     }
   },
   {
@@ -5514,6 +5762,37 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Yayoi_Kusama"
     ],
     "gallery": [
+      {
+        "title": "Pumpkin (Naoshima)",
+        "date": "2022 re-creation of the 1994 Naoshima work",
+        "medium": "Outdoor sculpture; material not specified in the cited notice",
+        "path": "assets/featured-modern/17-pumpkin-naoshima-2022.webp",
+        "alt": "A yellow pumpkin sculpture with black dots stands on a low pier beside the sea.",
+        "description": "A yellow pumpkin covered in uneven black dots sits at the edge of a pier, with open sea stretching behind it. This photograph shows the 2022 re-creation of Kusama’s 1994 Naoshima sculpture, installed after the earlier work was damaged by a typhoon.",
+        "source": "https://benesse-artsite.jp/en/special2022/pumpkin.html",
+        "imageSource": "https://benesse-artsite.jp/special/pumpkin20221004.png",
+        "imageSourcePage": "https://benesse-artsite.jp/en/special2022/pumpkin.html",
+        "credit": "© Yayoi Kusama. Photograph Tadasu Yamamoto; published by Benesse Art Site Naoshima.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.",
+        "rightsAssessment": {
+          "purpose": "Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.",
+          "character": "One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.",
+          "amount": "One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.",
+          "alternatives": "Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.",
+          "nature": "Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: Benesse identifies the pictured object as Pumpkin2022, newly created and installed4October2022 at the site of the1994 work.",
+          "effect": "The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.",
+          "conclusion": "Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance."
+        },
+        "changes": "Complete published image resized to at most640px and converted to WebP; no cropping.",
+        "versionIdentity": "Benesse identifies the pictured object as Pumpkin 2022, newly created and installed4October 2022 at the site of the 1994 work.",
+        "workKey": "17:pumpkinnaoshima",
+        "creator": "Yayoi Kusama",
+        "infoSources": [
+          "https://benesse-artsite.jp/en/special2022/pumpkin.html"
+        ]
+      },
       {
         "title": "Pumpkin",
         "date": "1983",
@@ -5748,15 +6027,23 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "17:pumpkinnaoshima",
+      "status": "iconic",
+      "reason": "Use the iconic seaside Naoshima pumpkin rather than a different pumpkin painting. Benesse identifies this photographed sculpture as the 2022 re-creation installed after damage to the original 1994 Naoshima work; both dates and the version identity remain explicit.",
+      "sources": [
+        "https://benesse-artsite.jp/en/special2022/pumpkin.html"
+      ]
     }
   },
   {
@@ -5848,7 +6135,9 @@ window.ARTISTS = [
         "workKey": "18:thebronchobuster",
         "description": "A rider leans over a rearing, twisting horse, with reins and raised limbs extending into the surrounding space. The sculpture turns a brief, unstable action into a balanced three-dimensional structure that can be studied from several viewpoints.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg"
+          "https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg",
+          "https://www.metmuseum.org/art/collection/search/11859",
+          "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM511135%3Btype%3D101"
         ],
         "medium": "Bronze sculpture"
       },
@@ -6047,6 +6336,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "18:thebronchobuster",
+      "status": "iconic",
+      "reason": "The Met calls this Remington’s most popular sculpture and the Autry calls it his first and best-known. The current artwork depicts this exact subject; an alternate cast is not treated as another artwork.",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/11859",
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM511135%3Btype%3D101"
+      ]
     }
   },
   {
@@ -6145,7 +6443,9 @@ window.ARTISTS = [
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
-          "https://www.wikiart.org/en/andrew-wyeth/christina-s-world"
+          "https://www.wikiart.org/en/andrew-wyeth/christina-s-world",
+          "https://www.moma.org/magazine/articles/895",
+          "https://www.moma.org/collection/works/78455"
         ]
       },
       {
@@ -6368,6 +6668,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "19:christinasworld",
+      "status": "iconic",
+      "reason": "MoMA describes the 1948 painting as one of the most iconic in American art; this is the widely recognised Wyeth signature image already in the gallery.",
+      "sources": [
+        "https://www.moma.org/magazine/articles/895",
+        "https://www.moma.org/collection/works/78455"
+      ]
     }
   },
   {
@@ -6473,7 +6782,9 @@ window.ARTISTS = [
         },
         "studyTitle": "Detroit Industry murals",
         "infoSources": [
-          "https://dia.org/collection/detroit-industry-north-wall/58538"
+          "https://dia.org/collection/detroit-industry-north-wall/58538",
+          "https://dia.org/riveracourt",
+          "https://dia.org/collection/detroit-industry-murals/58537"
         ]
       },
       {
@@ -6711,6 +7022,15 @@ window.ARTISTS = [
         "https://dia.org/collection/detroit-industry-north-wall/58538"
       ],
       "descriptionCount": 12
+    },
+    "featuredWork": {
+      "key": "20:detroitindustrymuralsnorthwall",
+      "status": "iconic",
+      "reason": "The Detroit Institute of Arts presents Detroit Industry as Rivera’s masterpiece. This is the existing North Wall view of that mural cycle, identified as a wall view rather than falsely presented as the complete27-panel installation.",
+      "sources": [
+        "https://dia.org/riveracourt",
+        "https://dia.org/collection/detroit-industry-murals/58537"
+      ]
     }
   },
   {
@@ -6802,7 +7122,9 @@ window.ARTISTS = [
         "workKey": "21:americangothic",
         "description": "A man holding a pitchfork stands beside a woman in front of a house with a pointed upper window. Repeated verticals link the faces, clothing, tool and architecture, making the picture’s strict organization as memorable as its rural subjects.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg"
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg",
+          "https://www.artic.edu/artworks/6565/american-gothic",
+          "https://www.youtube.com/watch?v=9kUA2gAlCZY"
         ],
         "medium": "Oil on beaverboard"
       },
@@ -7005,6 +7327,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "21:americangothic",
+      "status": "iconic",
+      "reason": "The Art Institute’s own Essentials Tour calls this one of the most famous American paintings; its original 1930 Wood painting is the established signature image.",
+      "sources": [
+        "https://www.artic.edu/artworks/6565/american-gothic",
+        "https://www.youtube.com/watch?v=9kUA2gAlCZY"
+      ]
     }
   },
   {
@@ -7110,7 +7441,8 @@ window.ARTISTS = [
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
         },
         "infoSources": [
-          "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
+          "https://museoreinasofia.es/en/collections/artwork/guernica-0/",
+          "https://museoreinasofia.es/colecciones/obra/guernica/"
         ]
       },
       {
@@ -7419,6 +7751,14 @@ window.ARTISTS = [
         "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
       ],
       "descriptionCount": 12
+    },
+    "featuredWork": {
+      "key": "22:guernica",
+      "status": "iconic",
+      "reason": "The Reina Sofía identifies Guernica and its associated works as among the most representative artworks of the twentieth century. Choose the actual 1937 painting rather than the early prints; Les Demoiselles d’Avignon remains another major landmark, so a unique objective fame ranking is not asserted.",
+      "sources": [
+        "https://museoreinasofia.es/colecciones/obra/guernica/"
+      ]
     }
   },
   {
@@ -7486,6 +7826,27 @@ window.ARTISTS = [
       "https://heather-galler-art.mailchimpsites.com/"
     ],
     "gallery": [
+      {
+        "title": "White Cat on a Patchwork Quilt",
+        "date": "Date not verified",
+        "source": "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt",
+        "credit": "© Heather Galler",
+        "path": "assets/education-american/23-white-cat-on-a-patchwork-quilt.webp",
+        "creator": "Heather Galler",
+        "alt": "A white cat rests among a crowded arrangement of colourful patches and objects.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
+        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
+        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
+        "workKey": "23:whitecatonapatchworkquilt",
+        "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694053409_mjjc.jpg?v=1795020498",
+        "description": "A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt",
+          "https://heather-galler-art.mailchimpsites.com/"
+        ]
+      },
       {
         "title": "Yorkshire Terrier with Pink Bow",
         "date": "Date not verified",
@@ -7627,26 +7988,6 @@ window.ARTISTS = [
         ]
       },
       {
-        "title": "White Cat on a Patchwork Quilt",
-        "date": "Date not verified",
-        "source": "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt",
-        "credit": "© Heather Galler",
-        "path": "assets/education-american/23-white-cat-on-a-patchwork-quilt.webp",
-        "creator": "Heather Galler",
-        "alt": "A white cat rests among a crowded arrangement of colourful patches and objects.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "23:whitecatonapatchworkquilt",
-        "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694053409_mjjc.jpg?v=1795020498",
-        "description": "A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?",
-        "infoSources": [
-          "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt"
-        ]
-      },
-      {
         "title": "Westie with Heart Tag",
         "date": "Date not verified",
         "source": "https://www.heathergallerstudio.com/products/westie-with-heart-tag",
@@ -7741,6 +8082,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "23:whitecatonapatchworkquilt",
+      "status": "representative",
+      "reason": "An actual titled work from Galler’s authenticated artist store, chosen to represent her recognizable patterned animal portraits and decorative folk-art vocabulary. No museum or artist evidence establishes a single most-famous Galler work, so the selection is openly representative rather than presented as a proven fame ranking.",
+      "sources": [
+        "https://heather-galler-art.mailchimpsites.com/",
+        "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt"
+      ]
     }
   },
   {
@@ -7818,29 +8168,6 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
-        "id": "24",
-        "path": "assets/extra/24-puppy-close.webp",
-        "title": "Puppy",
-        "date": "1992",
-        "alt": "A giant flower-covered terrier sculpture stands outside the Guggenheim Museum Bilbao.",
-        "credit": "Peren Inan · CC BY-SA 4.0",
-        "creator": "Peren Inan",
-        "source": "https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "changes": "Resized and converted to WebP; content not cropped or altered.",
-        "rightsBasis": "Photographer CC BY-SA 4.0. The underlying artwork has been permanently installed in the publicly visible Guggenheim Museum Bilbao plaza since 1997; Spanish freedom of panorama covers the public sculpture. Underlying artwork is not claimed public domain.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puppy_at_Guggenheim_Museum.jpg/960px-Puppy_at_Guggenheim_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "artworkSource": "https://www.guggenheim-bilbao.eus/exposicion/puppy",
-        "workKey": "24:puppy",
-        "description": "An enormous seated terrier is covered in living flowering plants, so its colourful surface changes as the planting grows and is maintained. A stainless-steel structure and soil support the garden-like skin, combining the shape of a friendly pet with the scale of a monument.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg",
-          "https://www.guggenheim-bilbao.eus/en/the-collection/works/puppy"
-        ],
-        "medium": "Stainless steel, soil and flowering plants"
-      },
-      {
         "id": "24-balloon-dog",
         "path": "assets/education-modern/24-balloon-dog.webp",
         "title": "Balloon Dog",
@@ -7866,8 +8193,34 @@ window.ARTISTS = [
         "workKey": "24:balloondog",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/65/Balloon_Dog_%28Blue%29_by_Jeff_Koons%2C_The_Broad.jpg",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/Balloon_Dog"
+          "https://en.wikipedia.org/wiki/Balloon_Dog",
+          "https://www.jeffkoons.com/artwork/celebration",
+          "https://www.jeffkoons.com/shop",
+          "https://lesoeuvres.pinaultcollection.com/en/artist/jeff-koons"
         ]
+      },
+      {
+        "id": "24",
+        "path": "assets/extra/24-puppy-close.webp",
+        "title": "Puppy",
+        "date": "1992",
+        "alt": "A giant flower-covered terrier sculpture stands outside the Guggenheim Museum Bilbao.",
+        "credit": "Peren Inan · CC BY-SA 4.0",
+        "creator": "Peren Inan",
+        "source": "https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; content not cropped or altered.",
+        "rightsBasis": "Photographer CC BY-SA 4.0. The underlying artwork has been permanently installed in the publicly visible Guggenheim Museum Bilbao plaza since 1997; Spanish freedom of panorama covers the public sculpture. Underlying artwork is not claimed public domain.",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puppy_at_Guggenheim_Museum.jpg/960px-Puppy_at_Guggenheim_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "artworkSource": "https://www.guggenheim-bilbao.eus/exposicion/puppy",
+        "workKey": "24:puppy",
+        "description": "An enormous seated terrier is covered in living flowering plants, so its colourful surface changes as the planting grows and is maintained. A stainless-steel structure and soil support the garden-like skin, combining the shape of a friendly pet with the scale of a monument.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg",
+          "https://www.guggenheim-bilbao.eus/en/the-collection/works/puppy"
+        ],
+        "medium": "Stainless steel, soil and flowering plants"
       },
       {
         "id": "24-151995702",
@@ -8169,6 +8522,16 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "24:balloondog",
+      "status": "iconic",
+      "reason": "The artist’s own site calls Balloon Dog iconic, and the Pinault Collection identifies it as a trademark work. Select the existing blue monumental steel version, not a small merchandise edition or Puppy.",
+      "sources": [
+        "https://www.jeffkoons.com/artwork/celebration",
+        "https://www.jeffkoons.com/shop",
+        "https://lesoeuvres.pinaultcollection.com/en/artist/jeff-koons"
+      ]
     }
   },
   {
@@ -8244,6 +8607,38 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Annie_Leibovitz"
     ],
     "gallery": [
+      {
+        "title": "Queen Elizabeth II in the White Drawing Room (2007 portrait)",
+        "date": "2007",
+        "medium": "Photograph; published digital reproduction",
+        "path": "assets/featured-modern/25-queen-elizabeth-ii-2007-white-drawing-room.webp",
+        "alt": "Queen Elizabeth II sits beside a bright window in a dim palace room, wearing a gown, tiara and long dark-blue ceremonial robe.",
+        "description": "Queen Elizabeth II sits in a formal gown, tiara and long ceremonial robe beside a bright palace window. The broad dark interior makes the small, illuminated figure stand out, connecting an individual portrait with the grand surroundings of the 2007 royal commission.",
+        "source": "https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii",
+        "imageSource": "https://assets.vogue.com/photos/631a8da4563d9de75791aabc/master/w_640,c_limit/0616-VF-6QUE98-01.jpg",
+        "imageSourcePage": "https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii",
+        "credit": "Photograph © Annie Leibovitz; published with her interview in Vogue,2022. The source explicitly dates this White Drawing Room portrait to2007.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.",
+        "rightsAssessment": {
+          "purpose": "Canadian Grade7/8 teacher-curated education and criticism of Leibovitz’s2007 Queen Elizabeth II portrait, with original discussion of light, scale and the royal setting.",
+          "character": "One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.",
+          "amount": "One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.",
+          "alternatives": "A text-only entry or another portrait cannot demonstrate Leibovitz’s specific lighting and staging. A published artist interview provides the exact canonical image; a640px complete study illustration avoids sending students to unrestricted browsing and does not supply print-quality reproduction.",
+          "nature": "The exact complete photograph is openly published as the lead image of Vogue’s interview with Annie Leibovitz, with an explicit2007 caption and photographer credit. The source HTML identifies the article as accessible for free; no login, paywall, watermark removal or restriction bypass was used. Photograph copyright remains with Annie Leibovitz; publication is not treated as a reuse licence.",
+          "effect": "The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.",
+          "conclusion": "Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance."
+        },
+        "changes": "Complete published image resized to at most640px and converted to WebP; no cropping.",
+        "versionIdentity": "2007 White Drawing Room, Buckingham Palace portrait, identified in the source caption; not a 2016 Windsor family portrait or the separate 2007 outdoor Admiral’s Cloak image. No unverified NPG accession number assigned.",
+        "workKey": "25:queenelizabethiiinthewhitedrawingroom2007portrait",
+        "infoSources": [
+          "https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii",
+          "https://www.royal.uk/photographic-portraits-queen-annie-liebovitz-publication-arrangements?page=1"
+        ],
+        "creator": "Annie Leibovitz"
+      },
       {
         "id": "25-agnes-martin-taos-new-mexico",
         "path": "assets/education-modern/25-agnes-martin-taos-new-mexico.webp",
@@ -8528,8 +8923,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
       "sourceChecks": [
@@ -8574,7 +8969,16 @@ window.ARTISTS = [
           "result": "The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "25:queenelizabethiiinthewhitedrawingroom2007portrait",
+      "status": "iconic",
+      "reason": "The 2007 Queen portraits are a famous, classroom-appropriate part of Leibovitz’s work. Choose the exact White Drawing Room portrait published with her interview, corroborating the 2007 royal commission with the Royal Household; this is not a 2016 family photograph, and no universal fame ranking over all her portraits is claimed.",
+      "sources": [
+        "https://www.vogue.com/article/annie-leibovitz-remembers-photographing-queen-elizabeth-ii",
+        "https://www.royal.uk/photographic-portraits-queen-annie-liebovitz-publication-arrangements?page=1"
+      ]
     }
   },
   {
@@ -8673,7 +9077,9 @@ window.ARTISTS = [
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
-          "https://www.wikiart.org/en/andy-warhol/cri-000000318242"
+          "https://www.wikiart.org/en/andy-warhol/cri-000000318242",
+          "https://www.moma.org/calendar/exhibitions/1517",
+          "https://www.moma.org/collection/works/79809"
         ]
       },
       {
@@ -8896,6 +9302,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "26:campbellssoupcans",
+      "status": "iconic",
+      "reason": "MoMA calls the complete 1962 work the signature work of Warhol’s career. Select the 32-canvas work as one artwork, not a different single-can print or a later package design.",
+      "sources": [
+        "https://www.moma.org/calendar/exhibitions/1517",
+        "https://www.moma.org/collection/works/79809"
+      ]
     }
   },
   {
@@ -8985,7 +9400,10 @@ window.ARTISTS = [
         "workKey": "27:mirrorhall",
         "description": "An ornate hall is filled with patterned flooring, tall openings and many glittering reflective surfaces. The repeated architectural details create deep space while the changing highlights make light itself an important part of the subject.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG"
+          "https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG",
+          "https://whc.unesco.org/uploads/nominations/1422.pdf",
+          "https://www.soas.ac.uk/sites/default/files/2024-05/Idea%20of%20Iran%202024%20-%20Programme_0.pdf",
+          "https://www.iranicaonline.org/articles/art-in-iran-xi-post-qajar/"
         ],
         "medium": "Oil on canvas"
       },
@@ -9195,6 +9613,16 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "27:mirrorhall",
+      "status": "iconic",
+      "reason": "Mirror Hall is the painter’s canonical court-interior work, distinguished from later landscapes and bird studies. The Golestan Palace World Heritage nomination identifies the painting, and SOAS uses it as the cover image for its Qajar Iran academic programme.",
+      "sources": [
+        "https://whc.unesco.org/uploads/nominations/1422.pdf",
+        "https://www.soas.ac.uk/sites/default/files/2024-05/Idea%20of%20Iran%202024%20-%20Programme_0.pdf",
+        "https://www.iranicaonline.org/articles/art-in-iran-xi-post-qajar/"
+      ]
     }
   },
   {
@@ -9285,7 +9713,9 @@ window.ARTISTS = [
         "workKey": "28:asundayonlagrandejatte",
         "description": "People, parasols and animals occupy a riverside park in a carefully arranged set of upright and reclining poses. Small marks of colour combine across the surface, while the repeated vertical figures make the busy leisure scene feel surprisingly still.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg"
+          "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
+          "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+          "https://www.artic.edu/pdf/static/download-my-museum-tour.pdf-layout-42.pdf"
         ],
         "medium": "Oil on canvas"
       },
@@ -9495,6 +9925,15 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "28:asundayonlagrandejatte",
+      "status": "iconic",
+      "reason": "The Art Institute identifies this as Seurat’s largest and best-known painting. Select the full finished 1884–1886 painting, not a preparatory study.",
+      "sources": [
+        "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884",
+        "https://www.artic.edu/pdf/static/download-my-museum-tour.pdf-layout-42.pdf"
+      ]
     }
   },
   {
@@ -9598,7 +10037,9 @@ window.ARTISTS = [
         "workKey": "29:whaam",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/b/b7/Roy_Lichtenstein_Whaam.jpg",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/Whaam!"
+          "https://en.wikipedia.org/wiki/Whaam!",
+          "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+          "https://www.youtube.com/watch?v=8zCzIyN2QW8"
         ]
       },
       {
@@ -9874,6 +10315,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "29:whaam",
+      "status": "iconic",
+      "reason": "Whaam! is a canonical, widely recognised Lichtenstein comic-image diptych, held and extensively interpreted by Tate. Select the complete two-panel work already in the gallery, rather than the Barcelona sculpture or a study for the painting.",
+      "sources": [
+        "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+        "https://www.youtube.com/watch?v=8zCzIyN2QW8"
+      ]
     }
   },
   {
@@ -9963,7 +10413,9 @@ window.ARTISTS = [
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
-          "https://www.wikiart.org/en/wayne-thiebaud/cakes-1963"
+          "https://www.wikiart.org/en/wayne-thiebaud/cakes-1963",
+          "https://www.nga.gov/artworks/72040-cakes",
+          "https://www.nga.gov/sites/default/files/2025-09/an_eye_for_art_opt.pdf"
         ]
       },
       {
@@ -10186,6 +10638,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "30:cakes",
+      "status": "iconic",
+      "reason": "Thiebaud’s 1963 Cakes is a National Gallery highlight repeatedly used in the museum’s teaching materials to explain his signature painted desserts and thick paint. It is a canonical subject-and-work choice, rather than simply any painting of food.",
+      "sources": [
+        "https://www.nga.gov/artworks/72040-cakes",
+        "https://www.nga.gov/sites/default/files/2025-09/an_eye_for_art_opt.pdf"
+      ]
     }
   },
   {
@@ -10269,7 +10730,8 @@ window.ARTISTS = [
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160635/art-books_11_norval-morrisseau-man-changing-into-thunderbird-1977-ago-contextual.jpg",
         "description": "Across six panels, a human figure progressively becomes a Thunderbird. What changes between the beginning and end, and how does the sequence make transformation visible?",
         "infoSources": [
-          "https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird"
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird",
+          "https://ago.ca/agoinsider/icymi-elder-influence"
         ]
       },
       {
@@ -10512,6 +10974,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "31:manchangingintothunderbird",
+      "status": "iconic",
+      "reason": "ACI explicitly describes this six-panel work as an iconic masterpiece, and the AGO calls it a seminal work. The current image shows the complete six-panel transformation rather than mislabelling one detail as the entire painting.",
+      "sources": [
+        "https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird",
+        "https://ago.ca/agoinsider/icymi-elder-influence"
+      ]
     }
   },
   {
@@ -10598,7 +11069,9 @@ window.ARTISTS = [
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
-          "https://www.wikiart.org/en/mark-rothko/1"
+          "https://www.wikiart.org/en/mark-rothko/1",
+          "https://www.moca.org/artworks/no-61-rust-and-blue-brown-blue-brown-on-blue",
+          "https://www.moca.org/exhibitions/geometric-forms-and-abstract-images-selections-from-the-permanent-collection"
         ]
       },
       {
@@ -10821,6 +11294,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "32:no61rustandblue",
+      "status": "representative",
+      "reason": "No single Rothko canvas has a defensible universal most-famous ranking. Use this established MOCA colour-field painting as the canonical representative, with its exact 1953 identity; the selection is an editorial signature-work choice, not a claim that museum records establish a global rank.",
+      "sources": [
+        "https://www.moca.org/artworks/no-61-rust-and-blue-brown-blue-brown-on-blue",
+        "https://www.moca.org/exhibitions/geometric-forms-and-abstract-images-selections-from-the-permanent-collection"
+      ]
     }
   },
   {
@@ -10898,25 +11380,6 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
-        "path": "assets/33-artwork.webp",
-        "credit": "Augusta Savage · CC0",
-        "source": "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
-        "license": "CC0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "title": "Gamin",
-        "date": "1929",
-        "alt": "A sculpted portrait of a young boy.",
-        "creator": "Augusta Savage",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "33:gamin",
-        "description": "A young boy tilts his head beneath a soft cap, with an open collar and carefully modelled facial features. Savage gives an ordinary young person the close attention often reserved for powerful public figures, creating a portrait with a strong individual presence.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
-          "https://www.clevelandart.org/art/2003.40"
-        ],
-        "medium": "Sculpted portrait"
-      },
-      {
         "path": "assets/gallery-american/33-lift-every-voice-and-sing-the-harp.webp",
         "title": "Lift Every Voice and Sing (The Harp)",
         "date": "1939; historic photograph published 1960",
@@ -10934,8 +11397,28 @@ window.ARTISTS = [
         "description": "A graduated group of singers rises above a kneeling figure, with an enormous hand helping form the shape of a harp. Created for the 1939 New York World’s Fair and later destroyed, the sculpture survives through photographs that show how Savage translated collective singing into a monumental form.",
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png",
-          "https://americanart.si.edu/artist/augusta-savage-4269"
+          "https://americanart.si.edu/artist/augusta-savage-4269",
+          "https://www.searchablemuseum.com/art-and-literature-during-segregation/"
         ]
+      },
+      {
+        "path": "assets/33-artwork.webp",
+        "credit": "Augusta Savage · CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "title": "Gamin",
+        "date": "1929",
+        "alt": "A sculpted portrait of a young boy.",
+        "creator": "Augusta Savage",
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "33:gamin",
+        "description": "A young boy tilts his head beneath a soft cap, with an open collar and carefully modelled facial features. Savage gives an ordinary young person the close attention often reserved for powerful public figures, creating a portrait with a strong individual presence.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
+          "https://www.clevelandart.org/art/2003.40"
+        ],
+        "medium": "Sculpted portrait"
       },
       {
         "title": "Realization",
@@ -11156,6 +11639,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "33:lifteveryvoiceandsingtheharp",
+      "status": "iconic",
+      "reason": "Savage’s celebrated 1939 World’s Fair monument was her largest work and final major commission, and Smithsonian gives it central attention. The historic photograph represents the original destroyed monument, with no claim that a modern reconstruction is the original.",
+      "sources": [
+        "https://americanart.si.edu/artist/augusta-savage-4269",
+        "https://www.searchablemuseum.com/art-and-literature-during-segregation/"
+      ]
     }
   },
   {
@@ -11222,6 +11714,29 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Elizabeth_Catlett"
     ],
     "gallery": [
+      {
+        "title": "Sharecropper",
+        "path": "assets/featured-american/34-sharecropper.webp",
+        "date": "c. 1952",
+        "medium": "Linocut",
+        "credit": "Elizabeth Catlett · © Mora-Catlett Family / Licensed by VAGA at Artists Rights Society (ARS), New York; Amon Carter Museum of American Art,2008.5",
+        "source": "https://www.cartermuseum.org/collection/sharecropper-20085",
+        "sourceDownloadUrl": "https://d2ujpqfu85jxzw.cloudfront.net/website/panth-live/styles/max_600_x_400/s3/artwork/2008-5/carter_2008-5_o2_23.jpg?itok=iTxB5Pp5",
+        "workKey": "34:sharecropper",
+        "creator": "Elizabeth Catlett",
+        "description": "A woman in a broad straw hat is seen from a low viewpoint, with deeply carved lines describing her face and clothing. The monumental portrait gives a farm worker a commanding presence while the safety pin at her collar hints at material hardship.",
+        "alt": "A linocut portrait of a woman looking upward beneath a broad straw hat, her collar fastened with a safety pin.",
+        "infoSources": [
+          "https://emuseum.toledomuseum.org/objects/60640/sharecropper",
+          "https://hoodmuseum.dartmouth.edu/news/2013/04/recent-acquisitions-elizabeth-catlett-sharecropper-1952-printed-1968",
+          "https://www.cartermuseum.org/collection/sharecropper-20085"
+        ],
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
+        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
+        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair."
+      },
       {
         "path": "assets/gallery-american/34-i-am-the-black-woman.webp",
         "title": "I Am the Black Woman",
@@ -11445,8 +11960,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
       "sourceChecks": [
@@ -11495,7 +12010,17 @@ window.ARTISTS = [
           "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "34:sharecropper",
+      "status": "iconic",
+      "reason": "Toledo labels Sharecropper probably Catlett’s most famous and iconic image; Dartmouth’s Hood calls it arguably her best-known. The Carter’s public collection supplies the actual linocut image and object metadata.",
+      "sources": [
+        "https://emuseum.toledomuseum.org/objects/60640/sharecropper",
+        "https://hoodmuseum.dartmouth.edu/news/2013/04/recent-acquisitions-elizabeth-catlett-sharecropper-1952-printed-1968",
+        "https://www.cartermuseum.org/collection/sharecropper-20085"
+      ]
     }
   },
   {
@@ -11574,24 +12099,6 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
-        "path": "assets/35-artwork.webp",
-        "credit": "Paul Klee · Public domain",
-        "source": "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "title": "Castle and Sun",
-        "date": "1928",
-        "alt": "A colourful town built from geometric shapes beneath a round sun.",
-        "creator": "Paul Klee",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "35:castleandsun",
-        "description": "A colourful town is built from rectangles, triangles and small squares beneath a round sun. Repeated geometric shapes suggest roofs, towers and walls without constructing a fully realistic space, letting the scene work as both a town and a colour pattern.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg"
-        ],
-        "medium": "Painting"
-      },
-      {
         "path": "assets/gallery-classic/35-02.webp",
         "title": "Twittering Machine",
         "date": "1922",
@@ -11609,8 +12116,27 @@ window.ARTISTS = [
         "sourceDate": "1922",
         "description": "Thin bird-like creatures balance along a wire connected to a hand crank. The delicate lines combine living shapes with a machine structure, making an apparently playful device seem strange and uncertain.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg"
+          "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg",
+          "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6369/releases/MOMA_1986_0103_97.pdf"
         ]
+      },
+      {
+        "path": "assets/35-artwork.webp",
+        "credit": "Paul Klee · Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "title": "Castle and Sun",
+        "date": "1928",
+        "alt": "A colourful town built from geometric shapes beneath a round sun.",
+        "creator": "Paul Klee",
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "35:castleandsun",
+        "description": "A colourful town is built from rectangles, triangles and small squares beneath a round sun. Repeated geometric shapes suggest roofs, towers and walls without constructing a fully realistic space, letting the scene work as both a town and a colour pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg"
+        ],
+        "medium": "Painting"
       },
       {
         "path": "assets/gallery-classic/35-03.webp",
@@ -11794,6 +12320,14 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "35:twitteringmachine",
+      "status": "iconic",
+      "reason": "MoMA’s Klee exhibition release identifies Twittering Machine as the most well-known of his whimsical oil-transfer scenarios. It has stronger primary fame evidence than Castle and Sun, while acknowledging other major Klee images such as Senecio and Ad Parnassum.",
+      "sources": [
+        "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6369/releases/MOMA_1986_0103_97.pdf"
+      ]
     }
   },
   {
@@ -11871,6 +12405,25 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "path": "assets/36-artwork.webp",
+        "credit": "Guerinf · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "Rollande",
+        "date": "1929",
+        "alt": "A young woman stands in a landscape with her hands on her hips.",
+        "creator": "Guerinf",
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "36:rollande",
+        "description": "A young woman in a vivid pink apron stands with her hands at her waist before a rural house. The frontal pose and sharply defined body create a commanding presence, while the fence and buildings establish a specific working landscape around her.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg",
+          "https://artbooks.artcanada.com/prudence-heward/key-works/rollande"
+        ],
+        "medium": "Oil on canvas"
+      },
+      {
         "path": "assets/gallery-american/36-girl-on-a-hill.webp",
         "title": "Girl on a Hill",
         "date": "1928",
@@ -11889,24 +12442,6 @@ window.ARTISTS = [
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Femme_sur_une_colline_-_Prudence_Heward.jpg"
         ]
-      },
-      {
-        "path": "assets/36-artwork.webp",
-        "credit": "Guerinf · CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "title": "Rollande",
-        "date": "1929",
-        "alt": "A young woman stands in a landscape with her hands on her hips.",
-        "creator": "Guerinf",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "36:rollande",
-        "description": "A young woman in a vivid pink apron stands with her hands at her waist before a rural house. The frontal pose and sharply defined body create a commanding presence, while the fence and buildings establish a specific working landscape around her.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg"
-        ],
-        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-american/36-at-the-theatre.webp",
@@ -12087,6 +12622,14 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "36:rollande",
+      "status": "iconic",
+      "reason": "Rollande is one of Heward’s canonical key works: ACI documents its immediate critical acclaim, international exhibition history and enduring importance as a forceful female figure. It is a stronger recognized feature than selecting one of the lesser-known landscapes.",
+      "sources": [
+        "https://artbooks.artcanada.com/prudence-heward/key-works/rollande"
+      ]
     }
   },
   {
@@ -12192,7 +12735,8 @@ window.ARTISTS = [
         "description": "A young man stands with his weight on one leg, turning his head as he holds a sling over his shoulder. The relaxed lower body and concentrated face create a contrast between physical stillness and alert attention; the marble statue represents the biblical David.",
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
-          "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+          "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+          "https://www.galleriaaccademiafirenze.it/wp-content/uploads/2024/09/EHD-2024-information-leaflet.pdf"
         ]
       },
       {
@@ -12407,6 +12951,14 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "37:david",
+      "status": "iconic",
+      "reason": "The Galleria dell’Accademia identifies David as Michelangelo’s most famous sculpture. Use the photograph of the original marble already supplied, not a replica; The Creation of Adam is a competing iconic painting, but David is a defensible signature artwork across media.",
+      "sources": [
+        "https://www.galleriaaccademiafirenze.it/wp-content/uploads/2024/09/EHD-2024-information-leaflet.pdf"
+      ]
     }
   },
   {
@@ -12498,9 +13050,11 @@ window.ARTISTS = [
         "workKey": "38:thescream",
         "description": "A figure presses its hands against its head beneath a sky of sweeping red and orange curves. The straight bridge railing contrasts with the wavering landscape, making an emotional experience appear to spread through the entire setting.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg"
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg",
+          "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939"
         ],
-        "medium": "Painting, pastel, and print"
+        "medium": "Tempera and grease crayon on cardboard",
+        "version": "National Museum, Norway; 1893 version"
       },
       {
         "path": "assets/gallery-classic/38-02.webp",
@@ -12707,6 +13261,15 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "38:thescream",
+      "status": "iconic",
+      "reason": "Norway’s National Museum calls this one of the best-known images in art history. The existing image is its 1893 version, not the later MUNCH painting, pastel or lithograph.",
+      "sources": [
+        "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939"
+      ],
+      "version": "National Museum, Norway; 1893 version"
     }
   },
   {
@@ -12805,7 +13368,9 @@ window.ARTISTS = [
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
-          "https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988"
+          "https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988",
+          "https://www.guggenheim.org/learning-through-art/art-investigation/community",
+          "https://www.guggenheim.org/wp-content/uploads/2025/05/Faith-Ringgold-Press-Kit-Full.pdf"
         ]
       },
       {
@@ -13028,6 +13593,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "39:womanonabridge1of5tarbeach",
+      "status": "iconic",
+      "reason": "Tar Beach is Ringgold’s signature story-quilt image and a focus of Guggenheim collection teaching and exhibitions. Select the 1988 original quilt, not the related Tar Beach#2 print or the children’s-book cover.",
+      "sources": [
+        "https://www.guggenheim.org/learning-through-art/art-investigation/community",
+        "https://www.guggenheim.org/wp-content/uploads/2025/05/Faith-Ringgold-Press-Kit-Full.pdf"
+      ]
     }
   },
   {
@@ -13124,7 +13698,9 @@ window.ARTISTS = [
         "workKey": "40:michellelavaughnrobinsonobama",
         "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
         "infoSources": [
-          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf",
+          "https://npg.si.edu/object/npg_NPG.2018.15",
+          "https://npg.si.edu/learn/classroom-resource/michelle-obama"
         ]
       },
       {
@@ -13331,6 +13907,15 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "40:michellelavaughnrobinsonobama",
+      "status": "iconic",
+      "reason": "Sherald’s 2018 official Michelle Obama portrait is her internationally recognisable breakthrough commission. Use the exact National Portrait Gallery portrait already in the gallery, rather than another sitter or a photograph of the unveiling.",
+      "sources": [
+        "https://npg.si.edu/object/npg_NPG.2018.15",
+        "https://npg.si.edu/learn/classroom-resource/michelle-obama"
+      ]
     }
   },
   {
@@ -13422,7 +14007,9 @@ window.ARTISTS = [
         "workKey": "41:underthewaveoffkanagawathegreatwave",
         "description": "A curling wave towers above long boats, with distant Mount Fuji appearing beneath the arch of water. The claw-like foam and repeating curves make the sea seem active, while the small, steady mountain creates a strong contrast in scale and movement.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+          "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+          "https://www.britishmuseum.org/sites/default/files/2022-03/korenberg_article-for_hokusai%20_edited_volume_final-2020_accessible.pdf",
+          "https://www.metmuseum.org/art/collection/search/45434"
         ],
         "medium": "Colour woodblock print"
       },
@@ -13633,6 +14220,15 @@ window.ARTISTS = [
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "41:underthewaveoffkanagawathegreatwave",
+      "status": "iconic",
+      "reason": "The British Museum describes The Great Wave as the world’s most famous Japanese woodblock print. Select the actual print design already supplied; different surviving impressions are not separate compositions.",
+      "sources": [
+        "https://www.britishmuseum.org/sites/default/files/2022-03/korenberg_article-for_hokusai%20_edited_volume_final-2020_accessible.pdf",
+        "https://www.metmuseum.org/art/collection/search/45434"
+      ]
     }
   },
   {
@@ -13710,6 +14306,28 @@ window.ARTISTS = [
       "https://www.whitehousehistory.org/photos/the-builders-by-jacob-lawrence"
     ],
     "gallery": [
+      {
+        "title": "The Migration Series, Panel No. 1",
+        "path": "assets/featured-american/42-the-migration-series-panel-no-1.webp",
+        "date": "1940–1941",
+        "medium": "Casein tempera on hardboard",
+        "credit": "Jacob Lawrence · © The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York; The Phillips Collection, Acquired1942,1152",
+        "source": "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
+        "sourceDownloadUrl": "https://www.phillipscollection.org/sites/default/files/styles/feature_extra_large_no_crop_1200_/public/2021-01/The%20Migration%20Series-Panel%201.jpg?itok=wFeb8lIb",
+        "workKey": "42:themigrationseriespanelno1",
+        "creator": "Jacob Lawrence",
+        "description": "A crowd carrying belongings moves towards station gates labelled with northern cities. Repeated bodies and strong diagonals turn the opening panel of Lawrence’s sixty-part history into an image of collective movement during the Great Migration.",
+        "alt": "Travellers with bags crowd a railway station beneath signs for Chicago, New York and St. Louis.",
+        "infoSources": [
+          "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
+          "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf"
+        ],
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
+        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
+        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair."
+      },
       {
         "title": "Captain Skinner",
         "date": "1944",
@@ -13923,8 +14541,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
       "sourceChecks": [
@@ -13973,7 +14591,16 @@ window.ARTISTS = [
           "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "42:themigrationseriespanelno1",
+      "status": "iconic",
+      "reason": "The Migration Series is Lawrence’s defining breakthrough, and its opening train-station panel is the recurring introductory image in museum exhibitions and educational resources. The feature identifies this one panel explicitly rather than implying that a single image shows all 60.",
+      "sources": [
+        "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
+        "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf"
+      ]
     }
   },
   {
@@ -14073,7 +14700,9 @@ window.ARTISTS = [
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/53/Hockney%2C_A_Bigger_Splash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
         "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney%2C_A_Bigger_Splash.jpg",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/A_Bigger_Splash"
+          "https://en.wikipedia.org/wiki/A_Bigger_Splash",
+          "https://www.thedavidhockneyfoundation.org/artwork/3667",
+          "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254"
         ]
       },
       {
@@ -14295,6 +14924,15 @@ window.ARTISTS = [
         "Five reference-file description texts additionally checked for credited source publishers and author; no separate reproduction photographer named. Bigger Trees Near Warter explicitly credits Simon and Karen Spavin."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "43:abiggersplash",
+      "status": "iconic",
+      "reason": "A Bigger Splash is the canonical 1967 pool painting catalogued by the David Hockney Foundation and Tate. Keep its exact version distinct from The Splash and The Little Splash, which are separate related paintings.",
+      "sources": [
+        "https://www.thedavidhockneyfoundation.org/artwork/3667",
+        "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254"
+      ]
     }
   },
   {
@@ -14388,7 +15026,8 @@ window.ARTISTS = [
         "description": "Circles, triangles, straight lines and curved bands appear to float across a pale background. Differences in size, angle and spacing create a visual rhythm, allowing the painting to hold attention without describing an identifiable place or event.",
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg",
-          "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8"
+          "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8",
+          "https://www.guggenheim-bilbao.eus/en/exhibitions/kandinsky-in-context"
         ],
         "medium": "Oil on canvas"
       },
@@ -14595,6 +15234,15 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "44:compositionviii",
+      "status": "iconic",
+      "reason": "Composition8 is a signature Kandinsky abstraction, singled out in Guggenheim collection teaching and the story of the collection’s formation. Select the exact 1923 painting, not an earlier Blue Rider landscape simply because that image was available first.",
+      "sources": [
+        "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8",
+        "https://www.guggenheim-bilbao.eus/en/exhibitions/kandinsky-in-context"
+      ]
     }
   },
   {
@@ -14690,7 +15338,9 @@ window.ARTISTS = [
         "sourceDate": "1642",
         "description": "A captain and lieutenant step forward from a busy company of armed civic guards, while light picks out selected faces, clothing and gestures. The overlapping figures and strong diagonals make a group portrait feel like an event in progress rather than a row of people posing.",
         "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg"
+          "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+          "https://www.rijksmuseum.nl/en/whats-on/exhibitions/operation-night-watch",
+          "https://www.rijksmuseum.nl/en/visit/night-watch"
         ]
       },
       {
@@ -14896,6 +15546,15 @@ window.ARTISTS = [
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "45:thenightwatch",
+      "status": "iconic",
+      "reason": "The Rijksmuseum explicitly calls The Night Watch Rembrandt’s most famous painting. The existing gallery image shows that original work, making it the clear lead ahead of a self-portrait.",
+      "sources": [
+        "https://www.rijksmuseum.nl/en/whats-on/exhibitions/operation-night-watch",
+        "https://www.rijksmuseum.nl/en/visit/night-watch"
+      ]
     }
   },
   {
@@ -14964,6 +15623,30 @@ window.ARTISTS = [
       "https://archives-ftp.gov.yk.ca/library/special/MT_402_Online_2015_02_08.pdf"
     ],
     "gallery": [
+      {
+        "title": "The Cremation of Sam McGee — cover painting",
+        "path": "assets/featured-american/46-the-cremation-of-sam-mcgee-cover-painting.webp",
+        "date": "1986",
+        "medium": "Acrylic on canvas",
+        "credit": "Ted Harrison · © Ted Harrison / Ted Harrison Foundation; Yukon Permanent Art Collection, published by Yukon Arts Centre",
+        "source": "https://yukonartscentre.com/permanent-art-collections/the-cremation-of-sam-mcgee/",
+        "sourceDownloadUrl": "https://yukonartscentre.com/wp-content/uploads/2024/02/Ted_Harrison_McGee_13_cover.png",
+        "workKey": "46:thecremationofsammcgeecoverpainting",
+        "creator": "Ted Harrison",
+        "description": "A sled team crosses a rolling northern landscape beneath sweeping bands of aurora and a crescent moon. Harrison’s unusual colours and flowing shapes turn the setting of Robert Service’s poem into an imaginative visual world, without depicting the story’s darker events.",
+        "alt": "A dog sled travels through pink and blue snowy hills beneath a crescent moon and broad bands of northern lights.",
+        "infoSources": [
+          "https://yukonartscentre.com/permanent-art-collections/the-cremation-of-sam-mcgee/",
+          "https://kidscanpress.com/product/cremation-of-sam-mcgee/",
+          "https://tedharrison.ca/pages/about"
+        ],
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
+        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
+        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
+        "dateNote": "The original illustration series was first published1986. This is the original cover painting shown in Yukon Arts Centre’s collection, not the later2006edition book jacket."
+      },
       {
         "title": "Northern Trio",
         "date": "1995",
@@ -15168,8 +15851,8 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
       "sourceChecks": [
@@ -15214,7 +15897,17 @@ window.ARTISTS = [
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "46:thecremationofsammcgeecoverpainting",
+      "status": "iconic",
+      "reason": "Harrison’s 1986 Sam McGee illustrations are among his most widely recognized published works. Yukon Arts Centre publishes the original 13-painting collection; this feature uses its cover painting, not an unrelated recent print or a photograph of a book for sale.",
+      "sources": [
+        "https://yukonartscentre.com/permanent-art-collections/the-cremation-of-sam-mcgee/",
+        "https://kidscanpress.com/product/cremation-of-sam-mcgee/",
+        "https://tedharrison.ca/pages/about"
+      ]
     }
   },
   {
@@ -15292,6 +15985,30 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "title": "The treachery of images (This is not a pipe)",
+        "date": "1929",
+        "medium": "",
+        "path": "assets/education-context/47-w02.webp",
+        "alt": "A carefully painted pipe appears above the French words saying that this is not a pipe.",
+        "description": "The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence?",
+        "source": "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)",
+        "imageSource": "https://uploads8.wikiart.org/images/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2).jpg",
+        "credit": "Artwork: Rene Magritte; copyright retained by respective rights holders; published illustration via WikiArt; separate reproduction photographer not named in catalogue record.",
+        "creator": "Rene Magritte",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "",
+        "changes": "Reduced to at most 640px and converted to WebP.",
+        "workKey": "47:thetreacheryofimagesthisisnotapipe",
+        "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
+        "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The treachery of images (This is not a pipe). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
+        "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)",
+          "https://www.lacma.org/art/exhibition/magritte-and-contemporary-art-treachery-images"
+        ]
+      },
+      {
         "title": "The Son of Man",
         "date": "1964",
         "medium": "Oil on canvas",
@@ -15312,29 +16029,6 @@ window.ARTISTS = [
         "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
         "infoSources": [
           "https://www.wikiart.org/en/rene-magritte/son-of-man-1964(1)"
-        ]
-      },
-      {
-        "title": "The treachery of images (This is not a pipe)",
-        "date": "1929",
-        "medium": "",
-        "path": "assets/education-context/47-w02.webp",
-        "alt": "A carefully painted pipe appears above the French words saying that this is not a pipe.",
-        "description": "The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence?",
-        "source": "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)",
-        "imageSource": "https://uploads8.wikiart.org/images/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2).jpg",
-        "credit": "Artwork: Rene Magritte; copyright retained by respective rights holders; published illustration via WikiArt; separate reproduction photographer not named in catalogue record.",
-        "creator": "Rene Magritte",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "",
-        "changes": "Reduced to at most 640px and converted to WebP.",
-        "workKey": "47:thetreacheryofimagesthisisnotapipe",
-        "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
-        "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The treachery of images (This is not a pipe). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
-        "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
-        "infoSources": [
-          "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)"
         ]
       },
       {
@@ -15534,6 +16228,14 @@ window.ARTISTS = [
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "47:thetreacheryofimagesthisisnotapipe",
+      "status": "iconic",
+      "reason": "LACMA explicitly calls The Treachery of Images a seminal painting and popular cultural icon. Use the exact 1929 pipe painting already in the gallery; The Son of Man is another famous Magritte, but this selection has direct museum evidence of its iconic status.",
+      "sources": [
+        "https://www.lacma.org/art/exhibition/magritte-and-contemporary-art-treachery-images"
+      ]
     }
   },
   {
@@ -15612,6 +16314,28 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/I._Rice_Pereira"
     ],
     "gallery": [
+      {
+        "title": "Machine Composition #2",
+        "date": "1937",
+        "medium": "oil on canvas",
+        "source": "https://americanart.si.edu/artwork/machine-composition-2-19551",
+        "credit": "I. Rice Pereira, Machine Composition #2, 1937, oil on canvas, Smithsonian American Art Museum, Gift of Patricia and Phillip Frost, 1986.92.72; © Estate of I. Rice Pereira",
+        "path": "assets/education-american/48-machine-composition-2.webp",
+        "creator": "I. Rice Pereira",
+        "alt": "Mechanical forms become bold shapes with carefully separated colours.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
+        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
+        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
+        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
+        "workKey": "48:machinecomposition2",
+        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.92.72_1&max=640",
+        "description": "Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/machine-composition-2-19551",
+          "https://americanart.si.edu/artist/i-rice-pereira-3761"
+        ]
+      },
       {
         "path": "assets/gallery-american/48-white-lines.webp",
         "title": "White Lines",
@@ -15759,27 +16483,6 @@ window.ARTISTS = [
         ]
       },
       {
-        "title": "Machine Composition #2",
-        "date": "1937",
-        "medium": "oil on canvas",
-        "source": "https://americanart.si.edu/artwork/machine-composition-2-19551",
-        "credit": "I. Rice Pereira, Machine Composition #2, 1937, oil on canvas, Smithsonian American Art Museum, Gift of Patricia and Phillip Frost, 1986.92.72; © Estate of I. Rice Pereira",
-        "path": "assets/education-american/48-machine-composition-2.webp",
-        "creator": "I. Rice Pereira",
-        "alt": "Mechanical forms become bold shapes with carefully separated colours.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "48:machinecomposition2",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.92.72_1&max=640",
-        "description": "Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/machine-composition-2-19551"
-        ]
-      },
-      {
         "title": "Pendulum",
         "date": "c. 1942",
         "medium": "Oil and enamel on canvas",
@@ -15868,6 +16571,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "48:machinecomposition2",
+      "status": "representative",
+      "reason": "A prominent 1937 machine-age painting highlighted in Smithsonian’s artist collection and paired with its surviving preparatory study. Pereira has no well-supported single most-famous image; this is an explicitly representative major work that communicates her Bauhaus-related interests.",
+      "sources": [
+        "https://americanart.si.edu/artist/i-rice-pereira-3761",
+        "https://americanart.si.edu/artwork/machine-composition-2-19551"
+      ]
     }
   },
   {
@@ -15948,6 +16660,35 @@ window.ARTISTS = [
     ],
     "gallery": [
       {
+        "id": "49-happy-dog",
+        "path": "assets/education-modern/49-happy-dog.webp",
+        "title": "Happy Dog",
+        "date": "Date not specified in studio listing",
+        "medium": "Acrylic paint, oil pen on canvas",
+        "description": "A blue dog decorated with spots and hearts sits on green ground under a yellow sky. How do the decorative symbols and bold outlines build an upbeat mood without realistic shading?",
+        "alt": "A blue dog decorated with spots and hearts sits on green ground under a yellow sky.",
+        "credit": "Artwork © Romero Britto; photograph/reproduction published by official Shop Britto original-art catalogue, photographer not identified.",
+        "source": "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.",
+        "rightsAssessment": {
+          "purpose": "Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.",
+          "character": "One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.",
+          "amount": "The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.",
+          "alternatives": "Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.",
+          "nature": "Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.",
+          "effect": "640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.",
+          "conclusion": "Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission."
+        },
+        "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
+        "workKey": "49:happydog",
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000310-24_HAPPY-DOG_ORG_F_MAIN.jpg?v=1785878486&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1"
+        ]
+      },
+      {
         "id": "49",
         "path": "assets/extra/49-friendship-bear.webp",
         "title": "Best Buddies Friendship Bear",
@@ -16004,35 +16745,6 @@ window.ARTISTS = [
         "infoSources": [
           "https://commons.wikimedia.org/wiki/File:Plastika_Garden_Butterfly_v_parku_na_Ortenov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_(Q64815809).jpg",
           "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/"
-        ]
-      },
-      {
-        "id": "49-happy-dog",
-        "path": "assets/education-modern/49-happy-dog.webp",
-        "title": "Happy Dog",
-        "date": "Date not specified in studio listing",
-        "medium": "Acrylic paint, oil pen on canvas",
-        "description": "A blue dog decorated with spots and hearts sits on green ground under a yellow sky. How do the decorative symbols and bold outlines build an upbeat mood without realistic shading?",
-        "alt": "A blue dog decorated with spots and hearts sits on green ground under a yellow sky.",
-        "credit": "Artwork © Romero Britto; photograph/reproduction published by official Shop Britto original-art catalogue, photographer not identified.",
-        "source": "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
-        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review; source and artist identified. Case-specific fair-dealing rationale, not a permission grant or open licence.",
-        "rightsAssessment": {
-          "purpose": "Teacher-curated Canadian Grade7/8 art education and work-specific criticism, paired with original visual analysis and a discussion question.",
-          "character": "One locally stored image per distinct artwork, at most640px; public website and GitHub distribution are acknowledged to be broader and more persistent than a closed classroom. No commercial advertising, print product, isolated image download or source-site browsing in student flow. Public distribution weighs against fairness and is balanced against specific contextual teaching.",
-          "amount": "The whole composition is needed to examine the relationships discussed in the accompanying analysis; a crop would prevent students checking that interpretation. One low-resolution study image is used, not the artist entire catalogue.",
-          "alternatives": "Text alone cannot show the specific formal choices. An invented or different open image would not illustrate this work; redirecting students to unrestricted source sites would defeat the teacher-curated setting. Existing open illustrations are retained where available.",
-          "nature": "Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.",
-          "effect": "640px compressed images support comparison rather than print-quality reproduction; full source attribution remains. The public repository may permit copying, which limits this assessment; this is a bounded classroom study selection, not a substitute for exhibitions, catalogues, licensed high-resolution images or saleable prints. Copyright and any photographer rights remain with their holders.",
-          "conclusion": "Educational/critical rationale recorded under s29/29.1; education is not an automatic exemption. This record does not assert s30.04 eligibility or worldwide permission."
-        },
-        "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
-        "workKey": "49:happydog",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000310-24_HAPPY-DOG_ORG_F_MAIN.jpg?v=1785878486&width=640",
-        "infoSources": [
-          "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1"
         ]
       },
       {
@@ -16248,6 +16960,14 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "49:happydog",
+      "status": "representative",
+      "reason": "No reliable consensus establishes one Britto work as his single most famous. Choose an authentic studio-listed original featuring his signature cheerful dog, saturated colour, hearts and black outlines, and label it representative rather than inventing a fame ranking for a public bear sculpture.",
+      "sources": [
+        "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1"
+      ]
     }
   },
   {
@@ -16342,7 +17062,9 @@ window.ARTISTS = [
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Autumn_Rhythm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "description": "Dark looping lines spread across an open, warm-coloured ground. How does leaving parts of the background visible affect the painting’s density and pace?",
         "infoSources": [
-          "https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29"
+          "https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29",
+          "https://www.metmuseum.org/art/collection/search/488978",
+          "https://assets.moma.org/documents/moma_catalogue_226_300087806.pdf"
         ]
       },
       {
@@ -16593,6 +17315,15 @@ window.ARTISTS = [
         }
       ],
       "descriptionCount": 10
+    },
+    "featuredWork": {
+      "key": "50:autumnrhythmnumber30",
+      "status": "iconic",
+      "reason": "A canonical 1950 drip painting at the Met, whose collection text explicitly describes its place in the modern-art canon. Lavender Mist and No.5 are also famous; no primary source establishes a universal first-place ranking, and Autumn Rhythm is chosen on documented museum significance rather than on its position in the current array.",
+      "sources": [
+        "https://www.metmuseum.org/art/collection/search/488978",
+        "https://assets.moma.org/documents/moma_catalogue_226_300087806.pdf"
+      ]
     }
   },
   {
@@ -16671,6 +17402,38 @@ window.ARTISTS = [
       "https://whitney.org/collection/works/453"
     ],
     "gallery": [
+      {
+        "title": "Untitled (Skull; The Broad)",
+        "date": "1981",
+        "medium": "Acrylic and oilstick on canvas",
+        "path": "assets/featured-modern/51-untitled-skull-1981-broad.webp",
+        "alt": "A large multicoloured mask-like head with uneven eyes and exposed teeth fills a blue-and-pink field.",
+        "description": "An oversized head combines a mask-like outline, exposed teeth and a dense network of coloured marks. The many revised lines make its surface feel intensely worked; The Broad identifies this 1981 painting as a major early work shown in Basquiat’s first New York solo gallery exhibition.",
+        "source": "https://www.thebroad.org/art/jean-michel-basquiat/untitled",
+        "imageSource": "https://www.thebroad.org/sites/default/files/styles/webp_convert_only/public/art/basquiat_untitled.jpg.webp?itok=2ev8K24x",
+        "imageSourcePage": "https://www.thebroad.org/art/jean-michel-basquiat/untitled",
+        "credit": "© The Estate of Jean-Michel Basquiat. Licensed by Artestar, New York. Photograph Douglas M. Parker Studio, Los Angeles; published by The Broad.",
+        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
+        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/c-42/Section-29.html",
+        "rightsBasis": "Canadian Copyright Act s29 education and s29.1 criticism/review: one limited-resolution published illustration supports original specific criticism, with artist/source identified. Context-specific assessment follows; copyright is retained.",
+        "rightsAssessment": {
+          "purpose": "Canadian Grade7/8 teacher-curated education and criticism of this particular artwork, accompanied by original work-specific discussion of composition and documented version identity.",
+          "character": "One locally stored low-resolution study illustration is publicly distributed with the educational website and GitHub repository. That broad and persistent reach weighs against fairness compared with a closed classroom; the assessment does not ignore public access. It is integrated with teaching content, without advertising, print sales or a stand-alone image download feature.",
+          "amount": "One complete composition is needed to examine the relationships described in the original commentary; a crop or substitute would remove the evidence being discussed. At most640px is retained, with no extra views or colourways.",
+          "alternatives": "Text alone and an invented open image cannot show this exact canonical work. The teacher-curated site also avoids directing students to unrestricted external browsing. Museum and artist-source links remain available in attribution for adults.",
+          "nature": "Previously published artwork and source reproduction, openly accessible through the cited institution without login, paywall, watermark removal or circumvention. All copyright and any separate photograph rights remain with the named holders. Specific identity: The Broad accession B-BASQ-2P82.32,1981,81×69¼inches; not its different1981 Untitled accession F-BASQ-1P92.19 or the separate1982 auction painting.",
+          "effect": "The small compressed illustration is suitable for study rather than print-quality reproduction and does not replace museum visits, catalogues or licensed high-resolution files. Public source/repository copying and possible licensing-market effects remain limitations; the limited image and specific criticism are weighed against them.",
+          "conclusion": "Context-specific rationale under Canadian Copyright Act s29 education and s29.1 criticism/review, with artist and source attribution; not an open licence, automatic educational exemption or assertion of s30.04 compliance."
+        },
+        "changes": "Complete published image resized to at most640px and converted to WebP; no cropping.",
+        "versionIdentity": "The Broad accession B-BASQ-2P82.32,1981,81×69¼inches; not its different 1981 Untitled accession F-BASQ-1P92.19 or the separate 1982 auction painting.",
+        "workKey": "51:untitledskullthebroad",
+        "creator": "Jean-Michel Basquiat",
+        "infoSources": [
+          "https://www.thebroad.org/art/jean-michel-basquiat/untitled",
+          "https://www.basquiat.com/news-blog/the-defining-years-notes-on-five-key-works-from-basquiat"
+        ]
+      },
       {
         "title": "Hollywood Africans",
         "date": "1983",
@@ -16905,15 +17668,24 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
+      "count": 11,
+      "educationalFairDealingImages": 11,
       "shortfallReason": "",
       "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
-      "descriptionCount": 10
+      "descriptionCount": 11
+    },
+    "featuredWork": {
+      "key": "51:untitledskullthebroad",
+      "status": "iconic",
+      "reason": "Use Basquiat’s canonical 1981 Untitled head painting at The Broad, often called Skull, accessionB-BASQ-2P82.32. The museum and artist estate give it extended interpretation; this is not the distinct 1982 auction head painting or The Broad’s different 1981 collage titled Untitled.",
+      "sources": [
+        "https://www.thebroad.org/art/jean-michel-basquiat/untitled",
+        "https://www.basquiat.com/news-blog/the-defining-years-notes-on-five-key-works-from-basquiat"
+      ]
     }
   }
 ];

@@ -23,7 +23,7 @@ All 51 artists have media, life-date guidance, three career moments, at least tw
 
 Students can search the index, filter media and perspectives, open a chronology, compare two artists, explore medium definitions, solve a timeline-order challenge, and generate creative briefs. Discussion prompts encourage claims supported by visual evidence and context. Impact paragraphs are identified as educational synthesis, not quotations or single-cause historical proof.
 
-**Current artwork coverage:** 515 distinct artwork images and 42 portraits; 51 of 51 artists meet the ten-work target. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
+**Current artwork coverage:** 524 distinct artwork images and 42 portraits; 51 of 51 artists meet the ten-work target. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
 
 ## Files and architecture
 
@@ -50,9 +50,15 @@ Documentation and source notes outside `dist` are available through the reposito
 
 ## Artwork information and portrait viewing
 
-All 515 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
+All 524 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
 
 The 42 available portraits use larger uncropped images with an Enlarge portrait button. Their dedicated dialog includes artist identification and source credit; its close button or Escape returns focus to the portrait button. Missing portraits still use initials rather than an invented image.
+
+## Featured artwork selection
+
+Each artist’s `featuredWork.key` identifies the exact `gallery` item by its stable `workKey`. Index cards, the profile lead and comparisons all use the same selector; gallery order alone cannot pick the lead image. Keep the selected work first in the displayed gallery. Tests check all 51 assignments and reverse gallery arrays to verify that the chosen feature remains stable.
+
+FEATURED-WORKS.md and FEATURED-WORKS.json record the actual work/version, primary-source evidence, reason and iconic/representative status. Change a selection intentionally with supporting evidence; do not infer a fame ranking from the first available file, sale price, social-media popularity or a generic series title. New canonical images still need piece information, attribution and their own use assessment.
 
 ## Image updates
 
@@ -60,7 +66,7 @@ Check both the source photo’s rights and the artwork’s underlying rights, in
 
 Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. Copyrighted educational images also require `description`, `rightsAssessment`, retained copyright credit and a maximum 640px study image; retain any separate `sourceLicense` designation. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
 
-The current checks require 51 artists, 42 portraits, matching artwork/credit totals (currently 515 works), and all 51 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
+The current checks require 51 artists, 42 portraits, matching artwork/credit totals (currently 524 works), and all 51 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
 
 ## Classroom operation
 

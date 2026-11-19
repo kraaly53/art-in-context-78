@@ -2,9 +2,9 @@
 
 Updated 18 November 2026.
 
-The site includes **515 distinct artwork images**, stored locally, plus 42 portraits. **51 of51 artists meet the requested ten-work minimum.** See ARTWORK-COVERAGE.md for exact counts and any actual availability gaps.
+The site includes **524 distinct artwork images**, stored locally, plus 42 portraits. **51 of51 artists meet the requested ten-work minimum.** See ARTWORK-COVERAGE.md for exact counts and any actual availability gaps.
 
-The earlier open-licence-only approach has been replaced with an assessment appropriate to the confirmed Canadian classroom use. There are 298 images with Canadian educational/critical fair-dealing assessments; other images retain documented public-domain/licensed bases. Copyrighted illustrations remain copyrighted. No blanket permission or open licence is claimed.
+The earlier open-licence-only approach has been replaced with an assessment appropriate to the confirmed Canadian classroom use. There are 308 images with Canadian educational/critical fair-dealing assessments; other images retain documented public-domain/licensed bases. Copyrighted illustrations remain copyrighted. No blanket permission or open licence is claimed.
 
 Read EDUCATIONAL-USE.md for the statutory framework and public-hosting limits. IMAGE-CREDITS.json records source, title/date, attribution, modifications, original analysis and individual assessments. Separate rights in a photograph and the underlying art are preserved. A US public-domain or museum CC0 designation is not automatically presented as clearing Canadian underlying-artwork rights.
 
