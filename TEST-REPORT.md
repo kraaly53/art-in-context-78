@@ -20,7 +20,7 @@ Checked 18 November 2026.
 - The timeline-order game rejected a later event, accepted The Scream (1893), Composition VIII (1923), and Guernica (1937) in order, then displayed a solved sequence. Creative-brief theme changes generated a corresponding prompt and constraint.
 - A medium explanation opened and closed as a dialog. Artwork magnification opened and closed. Local read-aloud started and exposed Stop reading, and stopping worked.
 - The teacher source panel contained 51 artist sections. Browser inspection found zero outgoing HTTP anchors.
-- Mobile timeline and artist-profile views measured 375px content within a 375px viewport, without horizontal overflow.
+- Mobile timeline and artist-profile views measured 375px content within a 375px viewport, without horizontal overflow. Tablet index/comparison views at 768px and desktop index/profile views at 1280px also had no measured horizontal overflow; layouts were visually inspected.
 - The notebook export button executed and announced the download request. The downloaded file was not independently opened; confirm download permissions on the school’s actual devices.
 
 ## Resolved browser-test interruption
@@ -30,6 +30,10 @@ An initial native confirmation dialog stalled automated input. It was replaced w
 ## Verification limits
 
 Audible voice quality and artist-name pronunciation were not assessed. This is not a complete screen-reader audit or physical-device test on a managed school iPad/Chromebook. Browser storage restrictions, touch input, downloads, installed offline voices, and school network policies should be checked on the target devices.
+
+## Publication verification
+
+The separate `kraaly53/art-in-context-78` repository published successfully through GitHub Actions. The public Grade 7–8 home page, artist-data file, and an additional mural image returned HTTP 200. The original Little Artist Explorers site also returned HTTP 200, and its repository main commit remained `fdffa31fd645e57775e105e44987ac6b53dd117d`. The original working tree remained clean.
 
 ## Image coverage
 
