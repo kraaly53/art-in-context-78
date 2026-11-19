@@ -40,3 +40,5 @@ const approvedPaths=new Set(schoolReview.approved.map(g=>g.path));
 function checkMedia(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())checkMedia(p);else if(/\.(?:webp|png|jpe?g|gif|avif)$/i.test(e.name))assert(approvedPaths.has(path.relative(dist,p).split(path.sep).join('/')),`Unlisted media in deployment: ${p}`)}}
 checkMedia(path.join(dist,'assets'));
 console.log(`PASS: ${schoolReview.approved.length} exact visually reviewed images; ${schoolReview.excluded.length} excluded images absent from deployment; no unreviewed raster assets.`);
+
+await import('./timeline.mjs');

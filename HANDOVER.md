@@ -101,3 +101,15 @@ To undo a bad update, review the faulty commit and make a new revert commit, the
 See TEST-REPORT.md for the checks completed during delivery and any remaining verification limits. The supporting files are linked from README.md.
 
 School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.
+
+## Horizontal timeline maintenance
+
+The Art Time Machine replaces the paginated event list. `dist/activity.js` holds all 51 creative-period records (`id`, `start`, `end`, `ongoing`, `label`, `basis`, `sources`); `TIMELINE-SOURCES.md` explains each range. Preserve the distinction between a broad career and a narrower documented span. Do not infer career dates from birth/death or extend periods into future years.
+
+`dist/timeline.js` handles a horizontally scrolling map with compact nonoverlapping lanes, a sticky year axis, moving portrait markers, grouped career-moment buttons and a linked detail card. Hover, focus and tap reveal stories; on narrow screens, tapping moves the detail card into view and Back to the map returns focus. Zoom, period filters, an artist finder, a year slider, quick-year buttons and an overlapping-careers list support different ways to explore. Initials or an anonymous symbol replace the nine unavailable portraits. Featured-work previews use the existing reviewed files. No new media files, requests or student storage are added.
+
+Playback starts only on request, can be paused, stops at the period boundary and is destroyed when navigating away, hiding the tab or leaving the page. CSS respects reduced-motion preferences. Timeline state survives navigation within the open page in memory. All 153 career moments remain reachable; nearby moments share a numbered button with every original entry in its card.
+
+`tests/timeline.mjs` is included by `tests/validate.mjs`. It verifies 51 sourced periods, lifetime bounds, career-versus-lifespan edge cases, inclusive year comparisons, nonoverlapping placement at all three zoom levels and all 153 moments. Browser checks cover movement/playback, keyboard panning/focus, grouped stories, mobile tap-to-detail, artist navigation and timer cleanup. Keep script loading order `artists.js`, `activity.js`, `timeline.js`, `app.js`; the asset version script versions all four plus styles.
+
+The map has a second synchronized year slider and compact player next to the chart so students can control time while viewing the faces. Selecting an artist or keyboard-focusing a milestone pauses playback for reading. Quick-year buttons move the chart into view; switching to an older period chooses an appropriate anchor year when necessary.

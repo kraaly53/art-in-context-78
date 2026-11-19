@@ -988,3 +988,7 @@ The owner confirmed Canadian classroom use: the teacher wants a curated resource
 Heather Galler’s two overview studies describe recurring motifs; her gallery now uses actual titled prints from the artist store linked by her prior official landing page. No objective fame ranking is claimed. Historic photographs can document destroyed sculptures; Savage’s paired SusieQ/Truckin photograph is conservatively counted as one study entry. US public-domain and museum CC0 labels are not assumed to clear Canadian underlying Picasso/Catlett artwork rights.
 
 The Whitney’s 2025 exhibition dates Miss Everything (Unsuppressed Deliverance) to 2014, while the Ackland presentation of the Smithsonian Outwin exhibition dates it to 2013. Both profile and gallery now display the discrepancy rather than contradictory unqualified years. Gallery-to-study thumbnails also require compatible known date ranges, preventing a different version with the same title (such as an earlier Pumpkin) from illustrating a later named work.
+
+## Timeline creative-period evidence
+
+See TIMELINE-SOURCES.md and dist/activity.js for the 51 source-based activity ranges used in the Art Time Machine. The view distinguishes approximate creative periods from lifespan and flags narrower documented spans. Its moving faces mark the selected year within a period. An overlap alone does not demonstrate an encounter or artistic influence.

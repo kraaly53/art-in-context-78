@@ -70,3 +70,13 @@ All 566 original images visually reviewed; 92 excluded and 83 approved replaceme
 Browser verification: Raphael, Kahlo, Picasso, Michelangelo, Rembrandt, Magritte and Basquiat profiles show their documented safe features and ten gallery works. Michelangelo’s featured dome opens at its chronological position (9 of 10); Next reaches Porta Pia (10 of 10). Teacher desk shows the new classroom image rule.
 
 Negative check: placing an unlisted harmless raster filename in dist/assets correctly fails validation; the temporary file was removed.
+
+## Horizontal Art Time Machine
+
+All existing content, chronological gallery, safety fingerprint and no-external-browsing checks pass. New automated checks cover 51 source-based career periods, inclusive date boundaries, lifetime limits, early/late activity edge cases, collision-free placement at three zoom settings, and preservation of all 153 career moments.
+
+Desktop browser checks: a Frida marker moved from 1930 to 1945 during requested playback, then paused; 1500 shows Leonardo, Raphael and Michelangelo together; grouped Raphael milestones reveal all three entries on keyboard focus; Left/Right pans the timeline; period filters, range keyboard input, zoom and active-only filtering work. The artist finder switches periods as needed and correctly shows Galler’s initials and documented-since-2009 range; Explore artist opens the matching profile. Leaving during playback and returning shows a stopped player, with no browser console errors.
+
+At 390×844 the document has no horizontal overflow; only the career-map region scrolls horizontally. Tapping an artist brings the matching story card into view. Reduced-motion CSS suppresses marker transitions. Browser checks verify interaction and layout, while date boundaries remain approximate editorial interpretations documented in TIMELINE-SOURCES.md.
+
+Final controls check: the year sliders above and beside the map stay synchronized; either player button updates both Play/Pause states. The compact map player advanced from 1931 to 1964 and paused correctly. Mobile Back to the map returns to the chart, and range-keyboard changes update both year readouts without page overflow.

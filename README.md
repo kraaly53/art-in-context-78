@@ -15,7 +15,8 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 - Every artwork has a piece-specific **About this artwork** section in its gallery card, featured panel and enlarged viewer, with local read-aloud support.
 - Available artist portraits are larger, uncropped and open in a dedicated portrait viewer. Nine artists without a verified portrait retain their initials/anonymous symbol.
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
-- A chronological overview, side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
+- A horizontal **Art Time Machine** with portrait markers that move along sourced career bands, hover/tap/focus story cards, grouped milestones, year playback, period shortcuts, zoom, an artist finder and a live list of overlapping careers. All 153 career moments are preserved. See [timeline date evidence](TIMELINE-SOURCES.md).
+- Side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
 - Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.
 - Device-local English read-aloud. No microphone permission is used.
 
@@ -46,6 +47,7 @@ For school hosting, upload the contents of `dist` together, preserving relative 
 
 - `dist/artists.js` contains `window.ARTISTS`: biographies, media, timelines, work studies, impact paragraphs, quizzes, image galleries, and source addresses.
 - `dist/app.js` implements navigation, filtering, comparison, game, creative briefs, glossary explanations, and speech.
+- `dist/activity.js` holds the 51 sourced approximate career periods; `dist/timeline.js` renders the horizontal timeline, animated year markers and layered details.
 - `dist/styles.css` and `dist/index.html` define the layout, shell, content policy, and teacher desk.
 - `dist/assets` holds local images. The teacher desk’s credit list is generated from the data.
 
