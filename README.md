@@ -78,6 +78,6 @@ School image policy: no nudity or violence. Suitable selections take priority ov
 
 Teacher revision, 19 November 2026: the requested whole-artist and three individual-work exclusions are removed from every student view, the challenge bank and current image files. Stable artist IDs are retained; ID 15 is no longer included. Historical audit entries document removals outside the student site.
 
-The Timeline now opens in **Everyone at a glance**: all 49 named portrait/initial cards fit in one screen, with mini career bands and green highlighting for the selected year. Hover or keyboard focus shows the artist’s larger portrait and story; a tap opens a story dialog on phones. **Focus view** adds room, and **Detailed timeline** retains the larger scrolling career map and all milestone dots.
+The Timeline now opens in **Everyone at a glance**: all 49 named portrait/initial cards fit in one screen, with mini career bands and green highlighting for the selected year. Hover reveals a quick fact; clicking or tapping opens the larger portrait and story in a dialog. **Focus view** adds room, and **Detailed timeline** retains the larger scrolling career map and all milestone dots.
 
 Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.

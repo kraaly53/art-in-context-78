@@ -98,3 +98,7 @@ Browser geometry checks at 1280×720 and 390×844 confirm all 50 artist-card but
 Current collection:49 artists,147 career moments,489 artwork images and41 portraits (530 approved media). Six named galleries intentionally have nine works. Removed Jacob Lawrence’s complete profile/activity/portrait/gallery and the three specified works, including Hollywood Africans from Basquiat’s written study,timeline and challenge card. Fourteen additional media files deleted;27 teacher-removed files total. Regression checks protect all previous removals, validate every remaining game/theme reference, enforce reviewed image hashes and confirm current artist/timeline counts. Earlier report counts describe previous editions.
 
 Browser checks: Jacob Lawrence returns no search results and is absent from both 49-person timeline and comparison selectors. The three affected galleries each show nine works with none of the requested titles in profile text. All49 overview cards remain visible. The challenge lab renders three valid choices.
+
+## Larger timeline faces
+
+The overview now uses full-width horizontal cards on desktop, with larger face-framed thumbnails and stories in a dialog on every device. Original portrait assets remain unchanged. At 1280×720, all 49 cards fit without page scrolling and portrait frames measure about 42px (previously about 23px). Desktop story opening/closing and detailed-view switching were checked. Automated validation passes, including grid capacity and larger portrait sizing.

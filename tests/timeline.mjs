@@ -49,7 +49,9 @@ assert(!activity.some(p=>['15','42'].includes(p.id)));
 
 // Full-group overview keeps one card per retained artist at desktop and phone dimensions.
 for(const [width,height] of [[934,390],[349,450],[760,500],[1200,650]]){
- for(const count of [0,3,19,49,50]){const g=timeline.fitGrid(count,width,height);assert(g.columns*g.rows>=count);assert(g.rows>=1&&g.columns>=1);assert(g.portraitSize>=10&&g.portraitSize<=38);assert(g.fontSize>=8&&g.fontSize<=12)}
+ for(const count of [0,3,19,49,50]){const g=timeline.fitGrid(count,width,height);assert(g.columns*g.rows>=count);assert(g.rows>=1&&g.columns>=1);assert(g.portraitSize>=10&&g.portraitSize<=88);assert(g.fontSize>=8&&g.fontSize<=14)}
 }
 assert(code.includes('Everyone at a glance'));assert(code.includes('resizeObserver.observe'));assert(code.includes('resizeObserver?.disconnect()'));
 console.log('PASS: overview has capacity for all 49 artists across tested screen sizes, with resize cleanup and an optional detailed view.');
+
+assert(timeline.fitGrid(49,1200,450).portraitSize>=50,'Desktop overview portraits must remain large enough to recognise');
