@@ -1,0 +1,42 @@
+name: Deploy Website via FTP
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  web-deploy:
+    name: FTP Deploy Job
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get latest code
+      uses: actions/checkout@v4
+      
+    - name: Stamp script versions
+      # Give js/*.js a new URL on every deploy so phones never run stale code.
+      run: |
+        V="${GITHUB_SHA::7}"
+        sed -i -E "s#(src=\"js/[A-Za-z0-9_-]+\.js)\"#\1?v=$V\"#g" index.html
+        grep -n 'src="js/' index.html
+
+    - name: Sync files to server
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        server-dir: /public_html/ryanruttan.com/art
+        port: 21
+        protocol: ftp
+        timeout: 60000
+        exclude: |
+          **/.git*
+          **/.git*/**
+          saves/**
+          docs/**
+          .claude/**
+          README.md
+          HANDOVER.md
+          package-lock.json
+          node_modules/**
