@@ -2,7 +2,7 @@
 
 A separate Grade 7–8 website exploring the same 51 artists in the supplied classroom bulletin-board photos. It develops art-history context, visual analysis, media knowledge, and creative thinking rather than adapting the younger-student interface.
 
-**Live site:** https://kraaly53.github.io/art-in-context-78/  
+**Live site:** https://kraaly53.github.io/art-in-context-78/
 **Repository:** https://github.com/kraaly53/art-in-context-78
 
 The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-explorers/) site is a separate project and has not been replaced. For operation and maintenance, see [HANDOVER.md](HANDOVER.md).

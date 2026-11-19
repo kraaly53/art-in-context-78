@@ -4,7 +4,7 @@ Checked 18 November 2026. All 51 draft profiles received a separate factual revi
 
 ## 01 — Jonathan Green
 
-Dates: 1955–present  
+Dates: 1955–present
 Media: Oil painting, Printmaking
 
 References:
@@ -22,7 +22,7 @@ Work studies:
 
 ## 02 — William H. Johnson
 
-Dates: 1901–1970  
+Dates: 1901–1970
 Media: Oil painting, Printmaking, Watercolour
 
 References:
@@ -41,7 +41,7 @@ Work studies:
 
 ## 03 — Leonardo da Vinci
 
-Dates: 1452–1519  
+Dates: 1452–1519
 Media: Oil painting, Drawing, Design
 
 References:
@@ -59,7 +59,7 @@ Work studies:
 
 ## 04 — Raphael
 
-Dates: 1483–1520  
+Dates: 1483–1520
 Media: Fresco, Oil painting, Drawing, Architecture
 
 References:
@@ -78,7 +78,7 @@ Work studies:
 
 ## 05 — Banksy
 
-Dates: Birth date unconfirmed; active since the 1990s  
+Dates: Birth date unconfirmed; active since the 1990s
 Media: Stencil, Painting, Installation, Film
 
 References:
@@ -98,7 +98,7 @@ Work studies:
 
 ## 06 — Paul Cézanne
 
-Dates: 1839–1906  
+Dates: 1839–1906
 Media: Oil painting, Watercolour, Drawing
 
 References:
@@ -117,7 +117,7 @@ Work studies:
 
 ## 07 — Frida Kahlo
 
-Dates: 1907–1954  
+Dates: 1907–1954
 Media: Oil painting, Drawing
 
 References:
@@ -136,7 +136,7 @@ Work studies:
 
 ## 08 — Keith Haring
 
-Dates: 1958–1990  
+Dates: 1958–1990
 Media: Drawing, Mural, Printmaking, Painting
 
 References:
@@ -155,7 +155,7 @@ Work studies:
 
 ## 09 — Salvador Dalí
 
-Dates: 1904–1989  
+Dates: 1904–1989
 Media: Oil painting, Drawing, Sculpture, Film
 
 References:
@@ -174,7 +174,7 @@ Work studies:
 
 ## 10 — Loïs Mailou Jones
 
-Dates: 1905–1998  
+Dates: 1905–1998
 Media: Painting, Textile design, Printmaking
 
 References:
@@ -194,7 +194,7 @@ Work studies:
 
 ## 11 — Henri Rousseau
 
-Dates: 1844–1910  
+Dates: 1844–1910
 Media: Oil painting
 
 References:
@@ -213,7 +213,7 @@ Work studies:
 
 ## 12 — Robert Indiana
 
-Dates: 1928–2018  
+Dates: 1928–2018
 Media: Painting, Sculpture, Printmaking
 
 References:
@@ -231,7 +231,7 @@ Work studies:
 
 ## 13 — George Rodrigue
 
-Dates: 1944–2013  
+Dates: 1944–2013
 Media: Oil painting, Printmaking
 
 References:
@@ -250,7 +250,7 @@ Work studies:
 
 ## 14 — Emily Carr
 
-Dates: 1871–1945  
+Dates: 1871–1945
 Media: Oil painting, Watercolour, Writing
 
 References:
@@ -268,7 +268,7 @@ Work studies:
 
 ## 15 — Dorothea Lange
 
-Dates: 1895–1965  
+Dates: 1895–1965
 Media: Photography
 
 References:
@@ -287,7 +287,7 @@ Work studies:
 
 ## 16 — Piet Mondrian
 
-Dates: 1872–1944  
+Dates: 1872–1944
 Media: Oil painting, Drawing
 
 References:
@@ -306,7 +306,7 @@ Work studies:
 
 ## 17 — Yayoi Kusama
 
-Dates: 1929–2026  
+Dates: 1929–2026
 Media: Painting, Sculpture, Installation, Performance
 
 References:
@@ -325,7 +325,7 @@ Work studies:
 
 ## 18 — Frederic Remington
 
-Dates: 1861–1909  
+Dates: 1861–1909
 Media: Oil painting, Sculpture, Illustration
 
 References:
@@ -344,7 +344,7 @@ Work studies:
 
 ## 19 — Andrew Wyeth
 
-Dates: 1917–2009  
+Dates: 1917–2009
 Media: Egg tempera, Watercolour, Drybrush
 
 References:
@@ -364,7 +364,7 @@ Work studies:
 
 ## 20 — Diego Rivera
 
-Dates: 1886–1957  
+Dates: 1886–1957
 Media: Fresco, Oil painting, Drawing
 
 References:
@@ -382,7 +382,7 @@ Work studies:
 
 ## 21 — Grant Wood
 
-Dates: 1891–1942  
+Dates: 1891–1942
 Media: Oil painting, Printmaking
 
 References:
@@ -402,7 +402,7 @@ Work studies:
 
 ## 22 — Pablo Picasso
 
-Dates: 1881–1973  
+Dates: 1881–1973
 Media: Oil painting, Sculpture, Printmaking, Ceramics
 
 References:
@@ -420,7 +420,7 @@ Work studies:
 
 ## 23 — Heather Galler
 
-Dates: Birth date not verified; active contemporary artist  
+Dates: Birth date not verified; active contemporary artist
 Media: Oil painting, Acrylic painting, Mixed media
 
 References:
@@ -438,7 +438,7 @@ Work studies:
 
 ## 24 — Jeff Koons
 
-Dates: 1955–present  
+Dates: 1955–present
 Media: Sculpture, Installation
 
 References:
@@ -457,7 +457,7 @@ Work studies:
 
 ## 25 — Annie Leibovitz
 
-Dates: 1949–present  
+Dates: 1949–present
 Media: Photography
 
 References:
@@ -476,7 +476,7 @@ Work studies:
 
 ## 26 — Andy Warhol
 
-Dates: 1928–1987  
+Dates: 1928–1987
 Media: Screenprinting, Painting, Film, Photography
 
 References:
@@ -495,7 +495,7 @@ Work studies:
 
 ## 27 — Kamal-ol-Molk
 
-Dates: c. 1848–1940; birth year debated  
+Dates: c. 1848–1940; birth year debated
 Media: Oil painting, Drawing
 
 References:
@@ -513,7 +513,7 @@ Work studies:
 
 ## 28 — Georges Seurat
 
-Dates: 1859–1891  
+Dates: 1859–1891
 Media: Oil painting, Conté drawing
 
 References:
@@ -532,7 +532,7 @@ Work studies:
 
 ## 29 — Roy Lichtenstein
 
-Dates: 1923–1997  
+Dates: 1923–1997
 Media: Painting, Printmaking, Sculpture
 
 References:
@@ -551,7 +551,7 @@ Work studies:
 
 ## 30 — Wayne Thiebaud
 
-Dates: 1920–2021  
+Dates: 1920–2021
 Media: Oil painting, Drawing, Printmaking
 
 References:
@@ -571,7 +571,7 @@ Work studies:
 
 ## 31 — Norval Morrisseau
 
-Dates: 1932–2007; birth year varies in sources  
+Dates: 1932–2007; birth year varies in sources
 Media: Painting, Drawing
 
 References:
@@ -588,7 +588,7 @@ Work studies:
 
 ## 32 — Mark Rothko
 
-Dates: 1903–1970  
+Dates: 1903–1970
 Media: Oil painting, Mural-scale painting
 
 References:
@@ -606,7 +606,7 @@ Work studies:
 
 ## 33 — Augusta Savage
 
-Dates: 1892–1962  
+Dates: 1892–1962
 Media: Sculpture, Clay modelling
 
 References:
@@ -625,7 +625,7 @@ Work studies:
 
 ## 34 — Elizabeth Catlett
 
-Dates: 1915–2012  
+Dates: 1915–2012
 Media: Printmaking, Sculpture
 
 References:
@@ -643,7 +643,7 @@ Work studies:
 
 ## 35 — Paul Klee
 
-Dates: 1879–1940  
+Dates: 1879–1940
 Media: Watercolour, Oil painting, Drawing
 
 References:
@@ -662,7 +662,7 @@ Work studies:
 
 ## 36 — Prudence Heward
 
-Dates: 1896–1947  
+Dates: 1896–1947
 Media: Oil painting, Drawing
 
 References:
@@ -681,7 +681,7 @@ Work studies:
 
 ## 37 — Michelangelo
 
-Dates: 1475–1564  
+Dates: 1475–1564
 Media: Marble sculpture, Fresco, Drawing, Architecture
 
 References:
@@ -700,7 +700,7 @@ Work studies:
 
 ## 38 — Edvard Munch
 
-Dates: 1863–1944  
+Dates: 1863–1944
 Media: Oil painting, Pastel, Printmaking
 
 References:
@@ -719,7 +719,7 @@ Work studies:
 
 ## 39 — Faith Ringgold
 
-Dates: 1930–2024  
+Dates: 1930–2024
 Media: Painting, Textile art, Printmaking, Writing
 
 References:
@@ -738,7 +738,7 @@ Work studies:
 
 ## 40 — Amy Sherald
 
-Dates: 1973–present  
+Dates: 1973–present
 Media: Oil painting, Photography as preparation
 
 References:
@@ -757,7 +757,7 @@ Work studies:
 
 ## 41 — Hokusai
 
-Dates: 1760–1849  
+Dates: 1760–1849
 Media: Woodblock printmaking, Painting, Drawing
 
 References:
@@ -776,7 +776,7 @@ Work studies:
 
 ## 42 — Jacob Lawrence
 
-Dates: 1917–2000  
+Dates: 1917–2000
 Media: Tempera painting, Printmaking
 
 References:
@@ -796,7 +796,7 @@ Work studies:
 
 ## 43 — David Hockney
 
-Dates: 1937–2026  
+Dates: 1937–2026
 Media: Oil painting, Acrylic painting, Photography, Digital drawing, Printmaking
 
 References:
@@ -815,7 +815,7 @@ Work studies:
 
 ## 44 — Wassily Kandinsky
 
-Dates: 1866–1944  
+Dates: 1866–1944
 Media: Oil painting, Watercolour, Drawing, Printmaking
 
 References:
@@ -834,7 +834,7 @@ Work studies:
 
 ## 45 — Rembrandt
 
-Dates: 1606–1669  
+Dates: 1606–1669
 Media: Oil painting, Etching, Drawing
 
 References:
@@ -853,7 +853,7 @@ Work studies:
 
 ## 46 — Ted Harrison
 
-Dates: 1926–2015  
+Dates: 1926–2015
 Media: Acrylic painting, Illustration, Writing
 
 References:
@@ -872,7 +872,7 @@ Work studies:
 
 ## 47 — René Magritte
 
-Dates: 1898–1967  
+Dates: 1898–1967
 Media: Oil painting, Drawing
 
 References:
@@ -891,7 +891,7 @@ Work studies:
 
 ## 48 — I. Rice Pereira
 
-Dates: 1902–1971  
+Dates: 1902–1971
 Media: Oil painting, Glass constructions, Drawing, Writing
 
 References:
@@ -910,7 +910,7 @@ Work studies:
 
 ## 49 — Romero Britto
 
-Dates: 1963–present  
+Dates: 1963–present
 Media: Painting, Sculpture, Printmaking, Design
 
 References:
@@ -929,7 +929,7 @@ Work studies:
 
 ## 50 — Jackson Pollock
 
-Dates: 1912–1956  
+Dates: 1912–1956
 Media: Enamel painting, Oil painting, Drawing
 
 References:
@@ -947,7 +947,7 @@ Work studies:
 
 ## 51 — Jean-Michel Basquiat
 
-Dates: 1960–1988  
+Dates: 1960–1988
 Media: Painting, Drawing, Mixed media
 
 References:
