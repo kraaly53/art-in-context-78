@@ -4,33 +4,78 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: ftp-deploy
+  cancel-in-progress: false
 
 jobs:
   web-deploy:
     name: FTP Deploy Job
     runs-on: ubuntu-latest
     steps:
-    - name: Get latest code
-      uses: actions/checkout@v4
-      
+      - name: Get latest code
+        uses: actions/checkout@v4
 
-    - name: Sync files to server
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-      with:
-        server: ${{ secrets.FTP_SECRET }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: /ryanruttan.com/art/
-        port: 21
-        protocol: ftp
-        timeout: 60000
-        exclude: |
-          **/.git*
-          **/.git*/**
-          saves/**
-          docs/**
-          .claude/**
-          README.md
-          HANDOVER.md
-          package-lock.json
-          node_modules/**
+      - name: Refresh browser asset versions
+        run: node scripts/version-assets.mjs
+
+      - name: Validate classroom content and local images
+        run: node tests/validate.mjs
+
+      - name: Install lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      # Only the dist/ folder is the website. lftp reconnects automatically when
+      # the host drops the connection and skips files already on the server, so
+      # a dropped connection no longer restarts the whole upload.
+      - name: Upload dist/ to ryanruttan.com/art
+        env:
+          FTP_HOST: ${{ secrets.FTP_SECRET }}
+          FTP_USER: ${{ secrets.FTP_USERNAME }}
+          FTP_PASS: ${{ secrets.FTP_PASSWORD }}
+          REMOTE_DIR: /ryanruttan.com/art
+        run: |
+          for attempt in 1 2 3 4 5; do
+            echo "Upload attempt $attempt"
+            if lftp -u "$FTP_USER","$FTP_PASS" -p 21 "$FTP_HOST" <<EOF
+          set ftp:ssl-allow no
+          set ftp:passive-mode yes
+          set net:timeout 30
+          set net:max-retries 10
+          set net:reconnect-interval-base 5
+          set net:reconnect-interval-max 30
+          set xfer:clobber yes
+          mkdir -p -f $REMOTE_DIR
+          mirror --reverse --ignore-time --parallel=1 --verbose=1 --exclude-glob .DS_Store ./dist/ $REMOTE_DIR/
+          lcd ./dist
+          cd $REMOTE_DIR
+          mput index.html styles.css app.js artists.js activity.js timeline.js robots.txt credits.txt
+          bye
+          EOF
+            then
+              echo "Upload complete"; exit 0
+            fi
+            echo "Attempt $attempt failed, retrying in 15 s"; sleep 15
+          done
+          echo "Upload failed after 5 attempts"; exit 1
+
+      # Earlier failed runs uploaded the whole repo into /art/. Remove those
+      # leftovers (harmless if they are already gone).
+      - name: Remove leftovers from earlier failed uploads
+        if: success()
+        env:
+          FTP_HOST: ${{ secrets.FTP_SECRET }}
+          FTP_USER: ${{ secrets.FTP_USERNAME }}
+          FTP_PASS: ${{ secrets.FTP_PASSWORD }}
+          REMOTE_DIR: /ryanruttan.com/art
+        run: |
+          lftp -u "$FTP_USER","$FTP_PASS" -p 21 "$FTP_HOST" <<EOF || true
+          set ftp:ssl-allow no
+          set cmd:fail-exit no
+          cd $REMOTE_DIR
+          rm -r -f dist scripts tests .github
+          rm -f ARTIST-INVENTORY.md ARTWORK-COVERAGE.json ARTWORK-COVERAGE.md EDUCATIONAL-USE.md FEATURED-WORKS.json FEATURED-WORKS.md IMAGE-CREDITS.json IMAGE-CREDITS.md IMAGE-PERMISSIONS.md LICENSE SCHOOL-CONTENT-REVIEW.json SCHOOL-CONTENT-REVIEW.md SOURCES-AND-TEACHING-NOTES.md TEST-REPORT.md TIMELINE-SOURCES.md .gitignore .ftp-deploy-sync-state.json
+          bye
+          EOF
