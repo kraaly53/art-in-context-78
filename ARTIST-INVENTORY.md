@@ -60,4 +60,4 @@ Positions describe a clear confirming view, not every duplicate appearance. On I
 
 Names normalised for spelling and accents: Loïs Mailou Jones, Paul Cézanne, Salvador Dalí, René Magritte. William H. Johnson is William Henry Johnson. I. Rice Pereira is Irene Rice Pereira. Kamal-ol-Molk is Mohammad Ghaffari. Hokusai is Katsushika Hokusai. Raphael, Rembrandt, and Michelangelo retain their familiar single names. Banksy is a pseudonym; no identity or likeness is invented. Jackson Pollock and Jean-Michel Basquiat are the two extra cards at the far right.
 
-This Grade 7–8 edition has 28 actual artwork images and 42 portraits. The 51 names match the separate younger-student site; this edition has its own content, files, and repository.
+This Grade 7–8 edition now has 228 distinct artwork images and 42 portraits. The artwork column above records the initial featured image; see ARTWORK-COVERAGE.md for the current full gallery counts. The 51 names match the separate younger-student site; this edition has its own content, files, and repository.

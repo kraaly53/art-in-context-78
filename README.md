@@ -10,7 +10,7 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 ## What students can explore
 
 - 51 artist profiles with media/materials, lifespans and places, 153 career timeline moments, 103 significant-work studies, interesting facts, and separate social and art-historical impact sections.
-- 42 portraits and 28 rights-documented artwork reproductions, with magnification and credits. Twenty-three artists currently have written work studies without a cleared artwork image; see [image permissions](IMAGE-PERMISSIONS.md).
+- 42 portraits and 228 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. Twenty-one artists have ten works each; nine have partial galleries and 21 have no cleared artwork image. See the exact [coverage report](ARTWORK-COVERAGE.md).
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
 - A chronological overview, side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
 - Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.
@@ -55,10 +55,11 @@ Image changes must include a verified reuse basis, accurate title/date, useful a
 - [ARTIST-INVENTORY.md](ARTIST-INVENTORY.md): the 51 names and confirming locations in the original photos.
 - [SOURCES-AND-TEACHING-NOTES.md](SOURCES-AND-TEACHING-NOTES.md): primary-source map, dates, editorial decisions, and lesson framing.
 - [IMAGE-CREDITS.md](IMAGE-CREDITS.md) / [IMAGE-CREDITS.json](IMAGE-CREDITS.json): licences, attribution, and modifications.
+- [ARTWORK-COVERAGE.md](ARTWORK-COVERAGE.md) / [ARTWORK-COVERAGE.json](ARTWORK-COVERAGE.json): exact per-artist counts, source checks, and shortfalls.
 - [IMAGE-PERMISSIONS.md](IMAGE-PERMISSIONS.md): the exact image gaps and completion process.
 - [TEST-REPORT.md](TEST-REPORT.md): completed checks and practical limits.
 
-The original classroom photos and pupil artworks are not redistributed. Preview all images before a lesson; one Dalí sculpture photograph contains nonsexual figurative anatomy. Read-aloud quality depends on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
+The original classroom photos and pupil artworks are not redistributed. Preview all images before a lesson; some Renaissance and modern works include nonsexual figurative anatomy. Read-aloud quality depends on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
 
 ## Reuse
 

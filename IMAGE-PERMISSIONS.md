@@ -1,51 +1,15 @@
-# Reproduction coverage and outstanding permissions
+# Image permissions and remaining work
 
-All 51 artists have substantial written profiles, media, career timelines, at least two significant-work studies, social and historical context, source references, reflection prompts, and a quiz. Actual artwork images are included for 28 artists; 23 artists currently have written studies without an artwork reproduction. Artist portraits are included for 42; nine profiles use initials or an anonymous symbol.
+Updated 18 November 2026.
 
-The site does not pretend this is complete imagery. A photograph of a modern artwork is not treated as freely reusable solely because its photographer selected a Creative Commons licence. No screenshot of an unlicensed work, classroom poster image, or pupil artwork was substituted.
+The site includes **228 distinct artwork images**, stored locally, plus 42 portraits. **21 of 51 artists meet the requested ten-image minimum.** Nine have one to three works; 21 have zero. The target is not complete.
 
-## Artwork reproductions still needed
+See [ARTWORK-COVERAGE.md](ARTWORK-COVERAGE.md) for all 51 exact counts, the 30 shortfall names, and individual research checks. [IMAGE-CREDITS.json](IMAGE-CREDITS.json) records attribution, changes, and underlying-rights evidence for every included file.
 
-- Jonathan Green
-- Banksy
-- Frida Kahlo
-- Loïs Mailou Jones
-- George Rodrigue
-- Yayoi Kusama
-- Andrew Wyeth
-- Heather Galler
-- Annie Leibovitz
-- Andy Warhol
-- Wayne Thiebaud
-- Norval Morrisseau
-- Mark Rothko
-- Elizabeth Catlett
-- Faith Ringgold
-- Amy Sherald
-- Jacob Lawrence
-- David Hockney
-- Ted Harrison
-- René Magritte
-- I. Rice Pereira
-- Jackson Pollock
-- Jean-Michel Basquiat
+Works were found online for the shortfall artists, but enough suitable public-site reproduction rights were not verified. This is a reuse-evidence gap, not a claim that their art cannot be found. Artist portraits, duplicate viewpoints, details, multiple casts, and unrelated substitutes are not counted toward ten. An original painted self-portrait counts as an artwork.
 
-## Artist portraits not included
+Some sculpture and mural photographs use a documented location-specific panorama exception. A Creative Commons photograph alone does not make the underlying work public domain. The copyright status and documented basis must be checked separately. Public-domain status can vary by jurisdiction; review deployment and school reuse requirements before republishing beyond this classroom project.
 
-- Jonathan Green — no suitable reusable portrait was verified.
-- Banksy — identity unconfirmed; intentionally anonymous.
-- Dorothea Lange — no suitable reusable portrait was verified.
-- Heather Galler — no suitable reusable portrait was verified.
-- Wayne Thiebaud — no suitable reusable portrait was verified.
-- Norval Morrisseau — no suitable reusable portrait was verified.
-- Mark Rothko — no suitable reusable portrait was verified.
-- Elizabeth Catlett — no suitable reusable portrait was verified.
-- Ted Harrison — no suitable reusable portrait was verified.
+To complete a gallery: obtain a documented grant covering this publicly accessible website, or locate an applicable museum open-access record or other verified reuse basis; save the image locally; record actual title, date, medium when known, meaningful alt text, source and attribution; update credits, coverage, and tests. Do not send permission requests on the owner’s behalf without authorization.
 
-## Complete an image slot
-
-Obtain a file with a documented licence or explicit permission covering the proposed public school website. Keep permission evidence and required credit. Where a work is still copyrighted, verify both the photograph’s licence and the underlying artwork’s reproduction basis. Record any reliance on public-art panorama rules without claiming the artwork itself is public domain.
-
-Save the local file in `dist/assets/`. Add a record to the artist’s `gallery` array in `dist/artists.js` with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`. Include `rightsBasis` and a teacher content note where relevant. Add the matching IMAGE-CREDITS.json entry and update IMAGE-CREDITS.md and dist/credits.txt. Update coverage counts in the README, handover, inventory, and tests.
-
-If an available licensed image is a different work from the famous examples discussed, preserve its actual title and date. Do not caption an alternate sculpture as the artist’s better-known painting. Some representative works and series have no verified single creation date; the site says so.
+Some famous paintings remain written work studies because their images are not cleared. A public sculpture is labelled as its own work, never as a substitute image for another title. No AI recreations or unlicensed screenshots are included.

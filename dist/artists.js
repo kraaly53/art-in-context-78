@@ -63,7 +63,17 @@ window.ARTISTS = [
       "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Image%20Sheet.pdf"
     ],
     "gallery": [],
-    "workStatus": "Representative bodies of work; no authoritative fame ranking established."
+    "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found in the artist’s portfolio, but no verified grant for public-web reproduction of ten images was found.",
+      "sourceChecks": [
+        "https://www.jonathangreenstudios.com/about",
+        "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Image%20Sheet.pdf"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "02",
@@ -153,10 +163,167 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "The source file marks the underlying U.S. work public domain because it was published without a copyright notice and records the Smithsonian image as no-known-copyright-restrictions. This is not a government-work assumption.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg/960px-William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg/960px-William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "workKey": "02:folkfamily"
+      },
+      {
+        "path": "assets/gallery-american/02-sowing.webp",
+        "title": "Sowing",
+        "date": "c. 1939–1940",
+        "medium": "Screenprint on paper",
+        "alt": "Two farm workers and a mule are arranged in bold, flat shapes.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Sowing,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:sowing",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sowing%2C_by_William_H._Johnson.jpg/960px-Sowing%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-street-musicians.webp",
+        "title": "Street Musicians",
+        "date": "c. 1939–1940",
+        "medium": "Screenprint on paper",
+        "alt": "Musicians play instruments in a bright, flattened street composition.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Street_Musicians,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:streetmusicians",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Street_Musicians%2C_by_William_H._Johnson.jpg/960px-Street_Musicians%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-jitterbugs-iii.webp",
+        "title": "Jitterbugs (III)",
+        "date": "c. 1941",
+        "medium": "Screenprint on paperboard",
+        "alt": "Two dancing figures make a rhythmic composition with strong outlines.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:jitterbugsiii",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg/960px-Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-going-to-church.webp",
+        "title": "Going to Church",
+        "date": "c. 1940–1941",
+        "medium": "Screenprint on paper",
+        "alt": "People travel toward a church in a simplified colourful landscape.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Going_to_Church,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:goingtochurch",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Going_to_Church%2C_by_William_H._Johnson.jpg/960px-Going_to_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-harlem-street-with-church.webp",
+        "title": "Harlem Street with Church",
+        "date": "c. 1939–1940",
+        "medium": "Hand-coloured relief print",
+        "alt": "A hand-coloured relief print shows a church and close-set Harlem buildings in dark carved lines.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Harlem_Street_with_Church,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:harlemstreetwithchurch",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg/960px-Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-off-to-war.webp",
+        "title": "Off to War",
+        "date": "c. 1942",
+        "medium": "serigraph on paper",
+        "alt": "A group of figures moves through a scene of departure during wartime.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Off_to_War,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:offtowar",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Off_to_War%2C_by_William_H._Johnson.jpg/960px-Off_to_War%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-self-portrait.webp",
+        "title": "Self-Portrait",
+        "date": "c. 1933",
+        "medium": "woodcut on paper",
+        "alt": "The artist’s face appears in a black-and-white woodcut, with bold cut lines and high contrast.",
+        "credit": "Smithsonian Institution · Public domain",
+        "creator": "Smithsonian Institution",
+        "source": "https://commons.wikimedia.org/wiki/File:Self-Portrait,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:selfportrait",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Self-Portrait%2C_by_William_H._Johnson.jpg/960px-Self-Portrait%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/02-blind-singer.webp",
+        "title": "Blind Singer",
+        "date": "c. 1939–1940",
+        "medium": "Screenprint (serigraph) on paper",
+        "alt": "A singer and accompanying figure are depicted in bold, simplified forms.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Blind_Singer,_by_William_H._Johnson.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:blindsinger",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Blind_Singer%2C_by_William_H._Johnson.jpg/500px-Blind_Singer%2C_by_William_H._Johnson.jpg"
+      },
+      {
+        "path": "assets/gallery-american/02-ezekiel-saw-the-wheel.webp",
+        "title": "Ezekiel Saw the Wheel",
+        "date": "1944–1945",
+        "medium": "Screenprint on paper",
+        "alt": "A visionary religious scene is arranged with figures and a large wheel motif.",
+        "credit": "William H. Johnson · Public domain",
+        "creator": "William H. Johnson",
+        "source": "https://commons.wikimedia.org/wiki/File:Ezekiel_Saw_the_Wheel.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
+        "workKey": "02:ezekielsawthewheel",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ezekiel_Saw_the_Wheel.jpg/500px-Ezekiel_Saw_the_Wheel.jpg"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:William_H._Johnson",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "03",
@@ -243,10 +410,177 @@ window.ARTISTS = [
         "date": "1503–1519",
         "alt": "A seated woman with folded hands and a distant landscape.",
         "creator": "Leonardo da Vinci",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "03:monalisa"
+      },
+      {
+        "path": "assets/gallery-classic/03-02.webp",
+        "title": "Ginevra de’ Benci",
+        "date": "c. 1474–1478",
+        "medium": "",
+        "alt": "A young woman with curled hair faces the viewer beside a dark juniper tree.",
+        "credit": "Leonardo da Vinci · CC0",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Ginevra_de%27_Benci_(obverse),_c._1474-1478,_NGA_50724.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:ginevradebenci",
+        "sourceFile": "File:Leonardo da Vinci, Ginevra de' Benci (obverse), c. 1474-1478, NGA 50724.jpg",
+        "sourceDate": "c. 1474/1478"
+      },
+      {
+        "path": "assets/gallery-classic/03-03.webp",
+        "title": "The Last Supper",
+        "date": "from 1495 until 1498",
+        "medium": "",
+        "alt": "Jesus and twelve disciples sit along one side of a long table in a room with a distant landscape.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:thelastsupper",
+        "sourceFile": "File:The Last Supper - Leonardo Da Vinci - High Resolution 32x16.jpg",
+        "sourceDate": "from 1495 until 1498"
+      },
+      {
+        "path": "assets/gallery-classic/03-04.webp",
+        "title": "Lady with an Ermine",
+        "date": "c. 1490",
+        "medium": "Oil on wood panel",
+        "alt": "A woman in dark clothing holds a white ermine and looks to her left.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:ladywithanermine",
+        "sourceFile": "File:Lady with an Ermine - Leonardo da Vinci (adjusted levels).jpg",
+        "sourceDate": "2020-10-05 16:12:46",
+        "dateSource": "https://mnk.pl/en/collections/lady-with-an-ermine/"
+      },
+      {
+        "path": "assets/gallery-classic/03-05.webp",
+        "title": "Virgin of the Rocks",
+        "date": "between 1483 and 1486",
+        "medium": "",
+        "alt": "Mary, two children and an angel gather among dark rocks beside water.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci_-_Vergine_delle_Rocce_(Louvre).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:virginoftherocks",
+        "sourceFile": "File:Leonardo Da Vinci - Vergine delle Rocce (Louvre).jpg",
+        "sourceDate": "between 1483 and 1486"
+      },
+      {
+        "path": "assets/gallery-classic/03-06.webp",
+        "title": "The Baptism of Christ (Verrocchio and Leonardo)",
+        "date": "from 1470 until 1475",
+        "medium": "",
+        "alt": "John pours water over Jesus while two angels kneel beside a river.",
+        "credit": "Andrea del Verrocchio / Leonardo da Vinci · CC BY-SA 4.0",
+        "creator": "Andrea del Verrocchio / Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:thebaptismofchristverrocchioandleonardo",
+        "sourceFile": "File:The Baptism of Christ (Verrocchio and Leonardo).jpg",
+        "sourceDate": "from 1470 until 1475"
+      },
+      {
+        "path": "assets/gallery-classic/03-07.webp",
+        "title": "Annunciation",
+        "date": "1472",
+        "medium": "",
+        "alt": "An angel kneels before Mary in a garden outside a Renaissance building.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo_c._1472%E2%80%931476).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:annunciation",
+        "sourceFile": "File:Annunciation (Leonardo c. 1472–1476).jpg",
+        "sourceDate": "1472"
+      },
+      {
+        "path": "assets/gallery-classic/03-08.webp",
+        "title": "Adoration of the Magi",
+        "date": "1481–1482",
+        "medium": "",
+        "alt": "A crowd gathers around Mary and the infant Jesus beneath trees and unfinished buildings.",
+        "credit": "Justin Benttinen · CC BY-SA 4.0",
+        "creator": "Justin Benttinen",
+        "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:adorationofthemagi",
+        "sourceFile": "File:Adoration of the Magi (Leonardo).jpg",
+        "sourceDate": "2023-09-13 03:54:38",
+        "dateSource": "https://www.uffizi.it/en/video/the-adoration-of-the-magi-by-leonardo"
+      },
+      {
+        "path": "assets/gallery-classic/03-09.webp",
+        "title": "Saint John the Baptist",
+        "date": "from 1513 until 1516",
+        "medium": "",
+        "alt": "A smiling figure emerges from darkness and points upward with one hand.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:saintjohnthebaptist",
+        "sourceFile": "File:Leonardo da Vinci - Saint John the Baptist C2RMF retouched.jpg",
+        "sourceDate": "from 1513 until 1516"
+      },
+      {
+        "path": "assets/gallery-classic/03-10.webp",
+        "title": "The Virgin and Child with Saint Anne",
+        "date": "between 1503 and 1519",
+        "medium": "",
+        "alt": "Mary sits with Saint Anne while the infant Jesus reaches toward a lamb.",
+        "credit": "Leonardo da Vinci · Public domain",
+        "creator": "Leonardo da Vinci",
+        "source": "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "03:thevirginandchildwithsaintanne",
+        "sourceFile": "File:Sainte Anne Leonard.jpg",
+        "sourceDate": "between 1503 and 1519"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "04",
@@ -334,10 +668,176 @@ window.ARTISTS = [
         "date": "1509–1511",
         "alt": "Many thinkers gather in a grand hall with arches and steps.",
         "creator": "Raphael",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "04:theschoolofathens"
+      },
+      {
+        "path": "assets/gallery-classic/04-02.webp",
+        "title": "Sistine Madonna",
+        "date": "between circa 1512 and circa 1513",
+        "medium": "",
+        "alt": "Mary carries the infant Jesus above clouds between two saints, with two small angels below.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:sistinemadonna",
+        "sourceFile": "File:RAFAEL - Madonna Sixtina (Gemäldegalerie Alter Meister, Dresden, 1513-14. Óleo sobre lienzo, 265 x 196 cm).jpg",
+        "sourceDate": "between circa 1512 and circa 1513"
+      },
+      {
+        "path": "assets/gallery-classic/04-03.webp",
+        "title": "Transfiguration",
+        "date": "from 1516 until 1520",
+        "medium": "",
+        "alt": "Jesus floats in bright light above a hill while a crowd gathers around a child below.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Transfiguration_Raphael.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:transfiguration",
+        "sourceFile": "File:Transfiguration Raphael.jpg",
+        "sourceDate": "from 1516 until 1520"
+      },
+      {
+        "path": "assets/gallery-classic/04-04.webp",
+        "title": "Disputation of the Holy Sacrament",
+        "date": "1509",
+        "medium": "",
+        "alt": "Rows of religious figures gather around an altar, with more figures seated in clouds above.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Disputa_del_Sacramento_(Rafael).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:disputationoftheholysacrament",
+        "sourceFile": "File:Disputa del Sacramento (Rafael).jpg",
+        "sourceDate": "1509"
+      },
+      {
+        "path": "assets/gallery-classic/04-05.webp",
+        "title": "The Triumph of Galatea",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Galatea rides across blue water among mythological sea figures beneath flying cupids.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Galatea_Raphael.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:thetriumphofgalatea",
+        "sourceFile": "File:Galatea Raphael.jpg",
+        "sourceDate": ""
+      },
+      {
+        "path": "assets/gallery-classic/04-06.webp",
+        "title": "The Marriage of the Virgin",
+        "date": "1504",
+        "medium": "",
+        "alt": "A couple exchange rings before a priest, with a round temple across the square behind them.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:themarriageofthevirgin",
+        "sourceFile": "File:Raffaello - Spozalizio - Web Gallery of Art.jpg",
+        "sourceDate": "1504"
+      },
+      {
+        "path": "assets/gallery-classic/04-07.webp",
+        "title": "Madonna del Prato",
+        "date": "between 1505 and 1506",
+        "medium": "",
+        "alt": "Mary sits in a meadow while two small children hold a slender cross.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:madonnadelprato",
+        "sourceFile": "File:Raphael - Madonna in the Meadow - Google Art Project.jpg",
+        "sourceDate": "between 1505 and 1506"
+      },
+      {
+        "path": "assets/gallery-classic/04-08.webp",
+        "title": "Portrait of Baldassare Castiglione",
+        "date": "Probably Winter 1514–1515",
+        "medium": "",
+        "alt": "A bearded man in a dark cap and fur-trimmed coat sits with his hands together.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Baldassare_Castiglione,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:portraitofbaldassarecastiglione",
+        "sourceFile": "File:Baldassare Castiglione, by Raffaello Sanzio, from C2RMF retouched.jpg",
+        "sourceDate": "Probably Winter 1514–1515"
+      },
+      {
+        "path": "assets/gallery-classic/04-09.webp",
+        "title": "La Fornarina",
+        "date": "between circa 1519 and circa 1520",
+        "medium": "",
+        "alt": "A woman with a patterned headscarf sits before dark leaves with one hand across her chest.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_La_Fornarina_(ca._1519-1520).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:lafornarina",
+        "sourceFile": "File:Raffaello Sanzio - La Fornarina (ca. 1519-1520).jpg",
+        "sourceDate": "between circa 1519 and circa 1520",
+        "contentNote": "Nonsexual Renaissance portrait with partial nudity; teacher preview recommended."
+      },
+      {
+        "path": "assets/gallery-classic/04-10.webp",
+        "title": "Madonna del Cardellino",
+        "date": "between 1505 and 1506",
+        "medium": "",
+        "alt": "Mary holds a book while two children play with a small bird in a landscape.",
+        "credit": "Raphael · Public domain",
+        "creator": "Raphael",
+        "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "04:madonnadelcardellino",
+        "sourceFile": "File:Raffaello Sanzio - Madonna del Cardellino - Google Art Project.jpg",
+        "sourceDate": "between 1505 and 1506"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "05",
@@ -408,7 +908,19 @@ window.ARTISTS = [
       "https://www.sothebys.com/en/buy/auction/2021/contemporary-art-evening-auction-2/love-is-in-the-bin-2"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "No public-web reproduction permission verified for ten works;0 reusable images confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://pestcontroloffice.com/use.asp",
+          "result": "Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found."
+        }
+      ],
+      "searchNotes": "Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found."
+    }
   },
   {
     "id": "06",
@@ -495,10 +1007,175 @@ window.ARTISTS = [
         "date": "c. 1893",
         "alt": "Apples, a tipped basket, a bottle, a plate, and a white tablecloth.",
         "creator": "Paul Cézanne",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "06:thebasketofapples"
+      },
+      {
+        "path": "assets/gallery-classic/06-02.webp",
+        "title": "The House of the Hanged Man",
+        "date": "1873",
+        "medium": "",
+        "alt": "A steep village lane passes closely packed houses and bare trees.",
+        "credit": "Paul Cezanne · Public domain",
+        "creator": "Paul Cezanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_das-haus-des-gehenkten.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:thehouseofthehangedman",
+        "sourceFile": "File:Cezanne das-haus-des-gehenkten.jpg",
+        "sourceDate": "2008-06-18 12:16:16"
+      },
+      {
+        "path": "assets/gallery-classic/06-03.webp",
+        "title": "The Gardener Vallier",
+        "date": "c. 1906",
+        "medium": "",
+        "alt": "A gardener wearing a hat sits with crossed legs among patches of green foliage.",
+        "credit": "Paul Cezanne · Public domain",
+        "creator": "Paul Cezanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_der-gaertner-vallier.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:thegardenervallier",
+        "sourceFile": "File:Cezanne der-gaertner-vallier.jpg",
+        "sourceDate": "2008-06-19 12:41:24"
+      },
+      {
+        "path": "assets/gallery-classic/06-04.webp",
+        "title": "Man with a Blue Cap",
+        "date": "c. 1865–1866",
+        "medium": "",
+        "alt": "A bearded man in a blue cap and pale coat looks sideways against a brown background.",
+        "credit": "Paul Cezanne · Public domain",
+        "creator": "Paul Cezanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_der-mann-mit-der-blauen-muetze.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:manwithabluecap",
+        "sourceFile": "File:Cezanne der-mann-mit-der-blauen-muetze.jpg",
+        "sourceDate": "2008-06-18 11:56:05"
+      },
+      {
+        "path": "assets/gallery-classic/06-05.webp",
+        "title": "Flowers in a Vase",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A tall blue-green vase holds a dense bouquet of flowers on a tabletop.",
+        "credit": "Paul Cezanne · Public domain",
+        "creator": "Paul Cezanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_blumen-in-einer-vase.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:flowersinavase",
+        "sourceFile": "File:Cezanne blumen-in-einer-vase.jpg",
+        "sourceDate": "2008-06-18 12:30:21"
+      },
+      {
+        "path": "assets/gallery-classic/06-06.webp",
+        "title": "Portrait of Ambroise Vollard",
+        "date": "1899",
+        "medium": "",
+        "alt": "A seated man in a brown suit rests his hands in his lap.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_portraet-ambroise-vollard.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:portraitofambroisevollard",
+        "sourceFile": "File:Cezanne portraet-ambroise-vollard.jpg",
+        "sourceDate": "2008-06-19 12:27:23"
+      },
+      {
+        "path": "assets/gallery-classic/06-07.webp",
+        "title": "Still Life with Teapot",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Oranges, pale pots and a teapot sit beside folded patterned fabric.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_stillleben-mit-teekanne.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:stilllifewithteapot",
+        "sourceFile": "File:Cezanne stillleben-mit-teekanne.jpg",
+        "sourceDate": "2008-06-19 12:51:26"
+      },
+      {
+        "path": "assets/gallery-classic/06-08.webp",
+        "title": "House of Dr Gachet at Auvers",
+        "date": "c. 1873",
+        "medium": "",
+        "alt": "A winding road climbs toward houses beneath a cloudy sky.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Cezanne_haus-des-dr-gachet-in-auvers.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:houseofdrgachetatauvers",
+        "sourceFile": "File:Cezanne haus-des-dr-gachet-in-auvers.jpg",
+        "sourceDate": "2008-06-18 12:27:57"
+      },
+      {
+        "path": "assets/gallery-classic/06-09.webp",
+        "title": "The Card Players",
+        "date": "1890",
+        "medium": "",
+        "alt": "Two men in hats sit across a small table studying their playing cards.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:thecardplayers",
+        "sourceFile": "File:Les Joueurs de cartes, par Paul Cézanne.jpg",
+        "sourceDate": "1890"
+      },
+      {
+        "path": "assets/gallery-classic/06-10.webp",
+        "title": "Mont Sainte-Victoire seen from Bellevue",
+        "date": "between 1885 and 1895",
+        "medium": "",
+        "alt": "A pale mountain rises beyond a patchwork of fields, trees and houses.",
+        "credit": "Paul Cézanne · Public domain",
+        "creator": "Paul Cézanne",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "06:montsaintevictoireseenfrombellevue",
+        "sourceFile": "File:Paul Cezanne La Montagne Saint Victoire Barnes.jpg",
+        "sourceDate": "between 1885 and 1895"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "07",
@@ -574,7 +1251,19 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Frida_Kahlo"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but underlying public-web reproduction rights unverified;0 reusable artwork images confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Frida_Kahlo",
+          "result": "Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified."
+        }
+      ],
+      "searchNotes": "Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified."
+    }
   },
   {
     "id": "08",
@@ -667,10 +1356,57 @@ window.ARTISTS = [
         "rightsBasis": "Photograph by Andreas Thum, CC BY-SA 3.0 selected from the offered licences. The source file explicitly carries FoP-Germany covering the permanent public sculpture. Photograph records its former Berlin location; the work moved to Stuttgart in 2025, per the Mercedes-Benz Art Collection.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Boxer_von_Keith_Haring%2C_1987%2C_Berlin.jpg/960px-Boxer_von_Keith_Haring%2C_1987%2C_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/",
-        "locationNote": "Historic photograph in Berlin. The sculpture moved to Stuttgart in 2025."
+        "locationNote": "Historic photograph in Berlin. The sculpture moved to Stuttgart in 2025.",
+        "workKey": "08:untitledboxers"
+      },
+      {
+        "id": "08-12264132",
+        "path": "assets/gallery-modern/08-12264132.webp",
+        "title": "Head through Belly",
+        "date": "1987–1989",
+        "medium": "Painted metal sculpture",
+        "alt": "A playful yellow metal figure with long black arms stands in the public Kaisergarten in Oberhausen.",
+        "credit": "Frank Vincentz; artwork by Keith Haring",
+        "source": "https://commons.wikimedia.org/wiki/File:Oberhausen_-_Kaisergarten_-_Head_through_belly_(Keith_Haring)_01_ies.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsBasis": "Photograph CC BY-SA3.0 by Frank Vincentz; file explicitly documents FoP-Germany for permanently situated public sculpture in Kaisergarten, Oberhausen. German Copyright ActSection59 permits photographs from public paths.",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "08:headthroughbelly"
+      },
+      {
+        "id": "08-44000620",
+        "path": "assets/gallery-modern/08-44000620.webp",
+        "title": "Red Dog for Landois",
+        "date": "1987",
+        "medium": "Painted steel sculpture",
+        "alt": "A huge bright red dog sculpture stands outside Kunsthalle Weishaupt in Ulm.",
+        "credit": "Rufus46; artwork by Keith Haring",
+        "source": "https://commons.wikimedia.org/wiki/File:Keith_Haring_Red_Dog_for_Landois_1987_Kunsthalle_Weishaupt_Ulm-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsBasis": "Photograph CC BY-SA3.0; permanent public outdoor sculpture at Hans-und-Sophie-Scholl-Platz in Ulm covered by German Copyright ActSection59 freedom of panorama. Municipal announcement confirms sculpture and location: https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "08:reddogforlandois"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 3,
+      "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/",
+          "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+        },
+        {
+          "url": "https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet",
+          "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+        }
+      ],
+      "searchNotes": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+    }
   },
   {
     "id": "09",
@@ -763,10 +1499,27 @@ window.ARTISTS = [
         "rightsBasis": "Photograph by Karl Baron, CC BY 2.0. Underlying sculpture is permanently displayed at UOB Plaza. Singapore Copyright Act 2021 s265 permits making and publishing photographs of permanent sculptures in public places or premises open to the public; artwork itself is not claimed public domain. See https://sso.agc.gov.sg/Act/CA2021?ProvIds=pr265- .",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg/960px-SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.uob.com.sg/assets/pdfs/reports1997.pdf",
-        "contentNote": "Nonsexual figurative nude sculpture; suitable for an art-history discussion, with teacher preview."
+        "contentNote": "Nonsexual figurative nude sculpture; suitable for an art-history discussion, with teacher preview.",
+        "workKey": "09:homagetonewton"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 1,
+      "shortfallReason": "1 of10 distinct reusable works confirmed;9 additional artwork permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.nac.gov.sg/singapore-arts-scene/art-forms/visual-arts/public-art-trust/public-artworks/homage-to-newton",
+          "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/Category:Sculptures_by_Salvador_Dal%C3%AD_in_Spain",
+          "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+        }
+      ],
+      "searchNotes": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+    }
   },
   {
     "id": "10",
@@ -844,7 +1597,31 @@ window.ARTISTS = [
       "https://collections.mfa.org/objects/34200/ubi-girl-from-tai-region"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Loïs_Mailou_Jones",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        },
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Lois_Mailou_Jones",
+          "outcome": "Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established."
+        }
+      ],
+      "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "11",
@@ -929,10 +1706,175 @@ window.ARTISTS = [
         "date": "1891",
         "alt": "A tiger among lush green leaves in a rainstorm.",
         "creator": "Henri Rousseau",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "11:surprisedtigerinatropicalstorm"
+      },
+      {
+        "path": "assets/gallery-classic/11-02.webp",
+        "title": "Carnival Evening",
+        "date": "1886",
+        "medium": "",
+        "alt": "Two costumed figures stand beneath bare trees under a moonlit winter sky.",
+        "credit": "Henri-Julien-Félix Rousseau, French, 1844–1910 (1844–1910) – Artist/Maker (French) Born in Laval, France. Died in Paris, France. Details on Google Art Project · Public domain",
+        "creator": "Henri-Julien-Félix Rousseau, French, 1844–1910 (1844–1910) – Artist/Maker (French) Born in Laval, France. Died in Paris, France. Details on Google Art Project",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri-Julien-F%C3%A9lix_Rousseau,_French_-_Carnival_Evening_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:carnivalevening",
+        "sourceFile": "File:Henri-Julien-Félix Rousseau, French - Carnival Evening - Google Art Project.jpg",
+        "sourceDate": "1886"
+      },
+      {
+        "path": "assets/gallery-classic/11-03.webp",
+        "title": "A Centennial of Independence",
+        "date": "1892",
+        "medium": "",
+        "alt": "People dance and gather beneath colourful flags in a green park.",
+        "credit": "Henri Rousseau (French, 1844 - 1910) (1844 - 1910) – artist (French) Details on Google Art Project · Public domain",
+        "creator": "Henri Rousseau (French, 1844 - 1910) (1844 - 1910) – artist (French) Details on Google Art Project",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_(French)_-_A_Centennial_of_Independence_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:acentennialofindependence",
+        "sourceFile": "File:Henri Rousseau (French) - A Centennial of Independence - Google Art Project.jpg",
+        "sourceDate": "1892"
+      },
+      {
+        "path": "assets/gallery-classic/11-04.webp",
+        "title": "Banks of the Marne",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A river and small boats lie below wooded banks and a large distant building.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Banks_of_the_Marne.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:banksofthemarne",
+        "sourceFile": "File:Henri Rousseau - Banks of the Marne.jpg",
+        "sourceDate": "1906"
+      },
+      {
+        "path": "assets/gallery-classic/11-05.webp",
+        "title": "Myself: Portrait–Landscape",
+        "date": "1890",
+        "medium": "",
+        "alt": "A painter holding a palette stands beside a river with buildings and flags behind him.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:myselfportraitlandscape",
+        "sourceFile": "File:Henri Rousseau - Myself- Portrait – Landscape - Google Art Project.jpg",
+        "sourceDate": "1890"
+      },
+      {
+        "path": "assets/gallery-classic/11-06.webp",
+        "title": "The Avenue in the Park at Saint-Cloud",
+        "date": "c. 1908",
+        "medium": "",
+        "alt": "A straight path leads between two tall rows of green trees.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Avenue_in_the_Park_at_Saint_Cloud_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:theavenueintheparkatsaintcloud",
+        "sourceFile": "File:Henri Rousseau - The Avenue in the Park at Saint Cloud - Google Art Project.jpg",
+        "sourceDate": "1908"
+      },
+      {
+        "path": "assets/gallery-classic/11-07.webp",
+        "title": "The Waterfall",
+        "date": "1910",
+        "medium": "",
+        "alt": "Animals stand among thick tropical plants beside a pale waterfall.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Waterfall_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:thewaterfall",
+        "sourceFile": "File:Henri Rousseau - The Waterfall - Google Art Project.jpg",
+        "sourceDate": "1910"
+      },
+      {
+        "path": "assets/gallery-classic/11-08.webp",
+        "title": "The Dream",
+        "date": "1910",
+        "medium": "",
+        "alt": "A reclining woman on a sofa appears among jungle foliage and animals.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:thedream",
+        "sourceFile": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg",
+        "sourceDate": "1910"
+      },
+      {
+        "path": "assets/gallery-classic/11-09.webp",
+        "title": "The Sleeping Gypsy",
+        "date": "1897",
+        "medium": "",
+        "alt": "A lion sniffs a sleeping traveller beside a musical instrument beneath a full moon.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:thesleepinggypsy",
+        "sourceFile": "File:La Bohémienne endormie.jpg",
+        "sourceDate": "1897"
+      },
+      {
+        "path": "assets/gallery-classic/11-10.webp",
+        "title": "The Snake Charmer",
+        "date": "1907",
+        "medium": "",
+        "alt": "A dark figure plays a wind instrument among moonlit plants and snakes.",
+        "credit": "Henri Rousseau · Public domain",
+        "creator": "Henri Rousseau",
+        "source": "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_011.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "11:thesnakecharmer",
+        "sourceFile": "File:Henri Rousseau 011.jpg",
+        "sourceDate": "1907"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "12",
@@ -1022,10 +1964,38 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 4.0. Permanent outdoor sculpture in Germany, documented as donated to the Nationalgalerie in 2016 and installed in its public sculpture garden; German freedom of panorama applies to the depicted work. Underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg/960px-Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "artworkSource": "https://www.smb.museum/en/whats-new/detail/robert-indianas-pop-art-icon-imperial-love-installed-at-the-hamburger-bahnhof-museum-fuer-gegenwart-berlin/"
+        "artworkSource": "https://www.smb.museum/en/whats-new/detail/robert-indianas-pop-art-icon-imperial-love-installed-at-the-hamburger-bahnhof-museum-fuer-gegenwart-berlin/",
+        "workKey": "12:imperiallove"
+      },
+      {
+        "id": "12-19421911",
+        "path": "assets/gallery-modern/12-19421911.webp",
+        "title": "Ahava (Love)",
+        "date": "1977",
+        "medium": "Cor-ten steel",
+        "alt": "Four large Hebrew letters form a rust-coloured sculpture spelling love in a Jerusalem garden.",
+        "credit": "Photograph Avishai Teicher / PikiWiki Israel; artwork Robert Indiana",
+        "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "rightsBasis": "Photograph CC BY2.5; file explicitly documents FoP-Israel for permanently situated public sculpture. Artwork record identifies Israel Museum collection and Ahava1977; Hebrew-letter composition differs from LOVE.",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "12:ahavalove"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 2,
+      "shortfallReason": "2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG",
+          "result": "Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights."
+        }
+      ],
+      "searchNotes": "Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights."
+    }
   },
   {
     "id": "13",
@@ -1102,7 +2072,19 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/George_Rodrigue"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=George+Rodrigue&limit=100",
+        "https://georgerodrigue.com/how-a-cajun-legend-became-a-pop-icon/",
+        "https://georgerodrigue.com/blog/new-lithograph-release-mardi-gras-dog-1991/",
+        "https://georgerodrigue.com/blog/terms-of-use/"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "14",
@@ -1191,10 +2173,167 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Historical Canadian artwork; Commons designates the underlying artwork and reproduction public domain. Source file documents the rights basis.",
-        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Carr%2CEmily_-_Scorned_as_timber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Carr%2CEmily_-_Scorned_as_timber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "workKey": "14:scornedastimberbelovedofthesky"
+      },
+      {
+        "path": "assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp",
+        "title": "Church at Yuquot Village (formerly The Indian Church)",
+        "date": "1929",
+        "medium": "Painting",
+        "alt": "A small white church stands against large dark trees.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:churchatyuquotvillageformerlytheindianchurch",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emily_Carr_-_Indian_Church.jpg/960px-Emily_Carr_-_Indian_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-blunden-harbour.webp",
+        "title": "Blunden Harbour",
+        "date": "1930",
+        "medium": "Painting",
+        "alt": "A coastal village and carved poles stand before a forested background.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily-carr-blunden-harbour-1930.png",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:blundenharbour",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Emily-carr-blunden-harbour-1930.png/960px-Emily-carr-blunden-harbour-1930.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-odds-and-ends.webp",
+        "title": "Odds and Ends",
+        "date": "1939",
+        "medium": "Painting",
+        "alt": "Tree stumps and scattered timber interrupt an expressive forest landscape.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1939)_Odds_and_Ends.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:oddsandends",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Emily_Carr_%281939%29_Odds_and_Ends.jpg/960px-Emily_Carr_%281939%29_Odds_and_Ends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-tossed-by-the-wind.webp",
+        "title": "Tossed by the Wind",
+        "date": "1939",
+        "medium": "Painting",
+        "alt": "Trees and clouds bend into sweeping, wind-driven rhythms.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_Tossed_by_the_wind_1939.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:tossedbythewind",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_Tossed_by_the_wind_1939.jpg/960px-Emily_Carr_Tossed_by_the_wind_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-war-canoes-alert-bay.webp",
+        "title": "War Canoes, Alert Bay",
+        "date": "1912",
+        "medium": "Painting",
+        "alt": "Long canoes lie near a coastal settlement, with vivid blocks of colour.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily-carr-war-canoes-alert-bay-1912.png",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:warcanoesalertbay",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Emily-carr-war-canoes-alert-bay-1912.png/960px-Emily-carr-war-canoes-alert-bay-1912.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-forest-british-columbia.webp",
+        "title": "Forest, British Columbia",
+        "date": "1931–1932",
+        "medium": "Painting",
+        "alt": "Tall trunks and dense foliage form a rhythmic forest interior.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1931%E2%80%9332)_Forest,_British_Columbia.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "14:forestbritishcolumbia",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg/960px-Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/14-deep-woods.webp",
+        "title": "Deep Woods",
+        "date": "1936",
+        "medium": "Oil on paper",
+        "alt": "Layers of green trees create a deeply enclosed forest space.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Deep_Woods_by_Emily_Carr,_1936,_oil_on_paper.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "14:deepwoods",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg/500px-Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg"
+      },
+      {
+        "path": "assets/gallery-american/14-above-the-gravel-pit.webp",
+        "title": "Above the Gravel Pit",
+        "date": "1937",
+        "medium": "Oil on canvas",
+        "alt": "Trees rise above an altered landscape with exposed ground.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Above_the_Gravel_Pit_by_Emily_Carr,_1937,_oil_on_canvas.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "14:abovethegravelpit",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg/500px-Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg"
+      },
+      {
+        "path": "assets/gallery-american/14-kitwancool.webp",
+        "title": "Kitwancool",
+        "date": "1928",
+        "medium": "Painting",
+        "alt": "Village buildings and carved poles are shown beneath a large sky.",
+        "credit": "Emily Carr · Public domain",
+        "creator": "Emily Carr",
+        "source": "https://commons.wikimedia.org/wiki/File:Emily_Carr_1928_Kitwancool.png",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "14:kitwancool",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_1928_Kitwancool.png/500px-Emily_Carr_1928_Kitwancool.png"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Emily_Carr",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "15",
@@ -1270,10 +2409,168 @@ window.ARTISTS = [
         "date": "1936",
         "alt": "A black-and-white photograph of a mother with children beside her.",
         "creator": "Dorothea Lange",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "15:migrantmother"
+      },
+      {
+        "path": "assets/gallery-american/15-white-angel-breadline-san-francisco.webp",
+        "title": "White Angel Breadline, San Francisco",
+        "date": "1932–1933 (sources differ)",
+        "medium": "Black-and-white photograph",
+        "alt": "A man in a worn hat faces away from a crowd waiting for food.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:White_Angel_Breadline,_San_Francisco,_1932,_by_Dorothea_Lange,_3.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:whiteangelbreadlinesanfrancisco",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/White_Angel_Breadline%2C_San_Francisco%2C_1932%2C_by_Dorothea_Lange%2C_3.jpg/960px-White_Angel_Breadline%2C_San_Francisco%2C_1932%2C_by_Dorothea_Lange%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "dateNote": "Source file title/Princeton record uses1932; many other museum catalogues date the negative1933. Displayed approximately rather than asserting a false precise date."
+      },
+      {
+        "path": "assets/gallery-american/15-abandoned-dust-bowl-home.webp",
+        "title": "Abandoned Dust Bowl Home",
+        "date": "1938",
+        "medium": "Black-and-white photograph",
+        "alt": "An abandoned rural house stands in an exposed, dry landscape.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:abandoneddustbowlhome",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg/960px-Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-broke-baby-sick-and-car-trouble.webp",
+        "title": "Broke, Baby Sick, and Car Trouble!",
+        "date": "1937",
+        "medium": "Black-and-white photograph",
+        "alt": "A travelling family rests beside its vehicle with belongings packed around them.",
+        "credit": "Dorothea Lange / Adam Cuerden · Public domain",
+        "creator": "Dorothea Lange / Adam Cuerden",
+        "source": "https://commons.wikimedia.org/wiki/File:Broke,_baby_sick,_and_car_trouble!_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy,_California.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:brokebabysickandcartrouble",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg/960px-Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-child-in-shack-town.webp",
+        "title": "Child in Shack Town",
+        "date": "1936",
+        "medium": "Black-and-white photograph",
+        "alt": "A child is photographed in a makeshift settlement.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Child_in_Shack_Town_by_Dorothea_Lange,_1936,_8b38490a.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:childinshacktown",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg/960px-Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-country-store-on-a-dirt-road-gordonton-north-carolina.webp",
+        "title": "Country Store on a Dirt Road, Gordonton, North Carolina",
+        "date": "1939",
+        "medium": "Black-and-white photograph",
+        "alt": "People gather at a roadside store with signs across its wooden frontage.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:countrystoreonadirtroadgordontonnorthcarolina",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg/960px-Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-drought-refugees-from-oklahoma-blythe-california.webp",
+        "title": "Drought Refugees from Oklahoma, Blythe, California",
+        "date": "1936",
+        "medium": "Black-and-white photograph",
+        "alt": "A family camps beside the road with a vehicle and household belongings.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Drought_refugees_from_Oklahoma_camping_by_the_roadside,_Blythe,_California,_1936.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:droughtrefugeesfromoklahomablythecalifornia",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg/960px-Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-dust-storm-near-mills-new-mexico.webp",
+        "title": "Dust Storm near Mills, New Mexico",
+        "date": "1935",
+        "medium": "Black-and-white photograph",
+        "alt": "Windblown dust obscures an open rural landscape.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Dust_storm_near_Mills,_New_Mexico,_1935.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:duststormnearmillsnewmexico",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg/960px-Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-farmers-with-cooperatively-purchased-machinery-oregon.webp",
+        "title": "Farmers with Cooperatively Purchased Machinery, Oregon",
+        "date": "1939",
+        "medium": "Black-and-white photograph",
+        "alt": "Farmers stand together near agricultural machinery.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Farmers_who_have_bought_machinery_cooperatively,_West_Carlton,_Yamhill_County,_Oregon,_1939.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:farmerswithcooperativelypurchasedmachineryoregon",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg/960px-Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/15-migrant-children-at-an-fsa-nursery-school-tulare-county.webp",
+        "title": "Migrant Children at an FSA Nursery School, Tulare County",
+        "date": "1939",
+        "medium": "Black-and-white photograph",
+        "alt": "Children play together at a nursery school in a migrant camp.",
+        "credit": "Dorothea Lange · Public domain",
+        "creator": "Dorothea Lange",
+        "source": "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Migrant_children_playing_at_nursery_school,_FSA_camp,_Tulare_County,_California,_1939.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "15:migrantchildrenatanfsanurseryschooltularecounty",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg/960px-Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Dorothea_Lange",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "16",
@@ -1359,10 +2656,175 @@ window.ARTISTS = [
         "date": "1930",
         "alt": "Black straight lines divide white, red, blue, and yellow rectangles.",
         "creator": "Piet Mondrian",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "16:compositioniiinredblueandyellow"
+      },
+      {
+        "path": "assets/gallery-classic/16-02.webp",
+        "title": "St James’s Church",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A church tower appears through a web of bare branches above a green field.",
+        "credit": "Piet Mondrian · Public domain",
+        "creator": "Piet Mondrian",
+        "source": "https://commons.wikimedia.org/wiki/File:Mondrian_st-jacobs-church.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:stjamesschurch",
+        "sourceFile": "File:Mondrian st-jacobs-church.jpg",
+        "sourceDate": "1890s"
+      },
+      {
+        "path": "assets/gallery-classic/16-03.webp",
+        "title": "Small House in Sunlight",
+        "date": "1909",
+        "medium": "",
+        "alt": "A small house and garden shimmer with separate dabs of bright colour.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Kleines_Haus_in_der_Sonne,_1909_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:smallhouseinsunlight",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Kleines Haus in der Sonne, 1909 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 12:19:55"
+      },
+      {
+        "path": "assets/gallery-classic/16-04.webp",
+        "title": "Lighthouse at Westkapelle",
+        "date": "1909",
+        "medium": "",
+        "alt": "A tall pink lighthouse rises against a softly dotted blue sky.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Leuchtturm_bei_Westkapelle,_1909_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:lighthouseatwestkapelle",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Leuchtturm bei Westkapelle, 1909 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 12:19:20"
+      },
+      {
+        "path": "assets/gallery-classic/16-05.webp",
+        "title": "Mill at Domburg",
+        "date": "1908",
+        "medium": "",
+        "alt": "A purple windmill stands against a glowing evening sky.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_M%C3%BChle_bei_Domburg,_1908_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:millatdomburg",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Mühle bei Domburg, 1908 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 12:19:04"
+      },
+      {
+        "path": "assets/gallery-classic/16-06.webp",
+        "title": "Pointillist Study: Dunes and Sea",
+        "date": "1909",
+        "medium": "",
+        "alt": "Pale dunes and sea are built from small soft touches of colour.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Pointillistische_Studie._D%C3%BCnen_und_Meer,_1909_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:pointilliststudydunesandsea",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Pointillistische Studie. Dünen und Meer, 1909 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 14:19:45"
+      },
+      {
+        "path": "assets/gallery-classic/16-07.webp",
+        "title": "Composition with Grid 8",
+        "date": "1919",
+        "medium": "",
+        "alt": "A rectangular grid contains many small red, blue and orange blocks.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Rasterkomposition_8._Schachbrettkomposition_mit_dunklen_Farben,_1919_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:compositionwithgrid8",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Rasterkomposition 8. Schachbrettkomposition mit dunklen Farben, 1919 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 12:09:16"
+      },
+      {
+        "path": "assets/gallery-classic/16-08.webp",
+        "title": "Row of Eleven Poplars",
+        "date": "1908",
+        "medium": "",
+        "alt": "A line of slender trees glows above a canal in warm sunset colours.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Reihe_von_elf_Pappeln_in_Rot,_Gelb,_Blau_und_Gr%C3%BCn,_1908_-_Museum_de_Fundatie,_Zwolle.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:rowofelevenpoplars",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Reihe von elf Pappeln in Rot, Gelb, Blau und Grün, 1908 - Museum de Fundatie, Zwolle.jpg",
+        "sourceDate": "2023-08-26 12:18:10"
+      },
+      {
+        "path": "assets/gallery-classic/16-09.webp",
+        "title": "Windmill in the Evening",
+        "date": "1917",
+        "medium": "",
+        "alt": "A dark windmill silhouette rises above a grassy mound under a patterned sky.",
+        "credit": "GodeNehler · CC BY-SA 4.0",
+        "creator": "GodeNehler",
+        "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Windm%C3%BChle_am_Abend,_1917_-_Kunstmuseum_Den_Haag.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:windmillintheevening",
+        "sourceFile": "File:Barberini August 2023-Piet Mondrian - Windmühle am Abend, 1917 - Kunstmuseum Den Haag.jpg",
+        "sourceDate": "2023-08-26 12:08:24"
+      },
+      {
+        "path": "assets/gallery-classic/16-10.webp",
+        "title": "Broadway Boogie Woogie",
+        "date": "between 1942 and 1943",
+        "medium": "",
+        "alt": "Yellow lines and small red, blue and grey squares form a lively grid on white.",
+        "credit": "Piet Mondrian · Public domain",
+        "creator": "Piet Mondrian",
+        "source": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "16:broadwayboogiewoogie",
+        "sourceFile": "File:Piet Mondrian, 1942 - Broadway Boogie Woogie.jpg",
+        "sourceDate": "between 1942 and 1943"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "17",
@@ -1440,7 +2902,22 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Yayoi_Kusama"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Yayoi+Kusama&limit=100",
+        "https://clevelandart.org/art/2010.463",
+        "https://clevelandart.org/art/2022.127",
+        "https://clevelandart.org/art/1999.250",
+        "https://yayoikusamamuseum.jp/en/about/yayoikusama/",
+        "https://yayoikusamamuseum.jp/en/news/news20260827/",
+        "https://yayoikusamamuseum.jp/en/sitepolicy/"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "18",
@@ -1522,15 +2999,172 @@ window.ARTISTS = [
         "credit": "Frederic Remington · CC0",
         "source": "https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg",
         "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "title": "The Broncho Buster",
         "date": "1895",
         "alt": "A bronze sculpture of a rider on a bucking horse.",
         "creator": "Frederic Remington",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "18:thebronchobuster"
+      },
+      {
+        "path": "assets/gallery-american/18-a-map-in-the-sand.webp",
+        "title": "A Map in the Sand",
+        "date": "1905",
+        "medium": "Painting",
+        "alt": "A group gathers around marks being drawn into the ground.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:%27A_Map_in_the_Sand%27_by_Frederic_Remington,_Cincinnati_Art_Museum.JPG",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:amapinthesand",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-the-fall-of-the-cowboy.webp",
+        "title": "The Fall of the Cowboy",
+        "date": "1895",
+        "medium": "Oil on canvas",
+        "alt": "Two mounted cowboys pause near a fence in a subdued landscape.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Fall_of_the_Cowboy.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:thefallofthecowboy",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fall_of_the_Cowboy.jpg/960px-Fall_of_the_Cowboy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-moonlight-wolf.webp",
+        "title": "Moonlight, Wolf",
+        "date": "c. 1904",
+        "medium": "Painting",
+        "alt": "A wolf stands in a spare landscape under cool moonlight.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Moonlight,_Wolf.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:moonlightwolf",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg/960px-Frederic_Remington_-_Moonlight%2C_Wolf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-the-cowboy.webp",
+        "title": "The Cowboy",
+        "date": "1895–1899",
+        "medium": "Painting",
+        "alt": "A cowboy and horse stand in a broad open landscape.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:thecowboy",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-a-texas-pony.webp",
+        "title": "A Texas Pony",
+        "date": "1889",
+        "medium": "Painting",
+        "alt": "A saddled pony is shown in a closely observed outdoor study.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:atexaspony",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-prospecting-for-cattle-range.webp",
+        "title": "Prospecting for Cattle Range",
+        "date": "1889",
+        "medium": "Painting",
+        "alt": "Riders look across an open landscape from a high viewpoint.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Prospecting_for_Cattle_Range_(1889).jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:prospectingforcattlerange",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg/960px-Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-the-belated-traveler.webp",
+        "title": "The Belated Traveler",
+        "date": "1906",
+        "medium": "Painting",
+        "alt": "A solitary mounted traveller moves through a dark landscape.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Belated_Traveler_Frederic_Remington.jpeg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "18:thebelatedtraveler",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Belated_Traveler_Frederic_Remington.jpeg/960px-The_Belated_Traveler_Frederic_Remington.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/18-the-hunters-supper.webp",
+        "title": "The Hunters’ Supper",
+        "date": "1909",
+        "medium": "Painting",
+        "alt": "Travellers gather around the light of an evening campfire.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Hunters%27_Supper.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "18:thehunterssupper",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Hunters%27_Supper.jpg/500px-The_Hunters%27_Supper.jpg"
+      },
+      {
+        "path": "assets/gallery-american/18-coming-and-going-of-the-pony-express.webp",
+        "title": "Coming and Going of the Pony Express",
+        "date": "1900",
+        "medium": "Painting",
+        "alt": "Riders and horses convey the pace of a changing relay journey.",
+        "credit": "Frederic Remington · Public domain",
+        "creator": "Frederic Remington",
+        "source": "https://commons.wikimedia.org/wiki/File:Remington_Coming_and_Going_of_the_Pony_Express.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "18:comingandgoingoftheponyexpress",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Remington_Coming_and_Going_of_the_Pony_Express.jpg/500px-Remington_Coming_and_Going_of_the_Pony_Express.jpg"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Frederic_Remington",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "19",
@@ -1608,7 +3242,18 @@ window.ARTISTS = [
       "https://fenimoreartmuseum.org/uncategorized/andrew-wyeth"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Andrew+Wyeth&limit=100",
+        "https://www.museothyssen.org/en/collection/artists/wyeth-andrew",
+        "https://www.arts.gov/honors/medals/andrew-wyeth"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "20",
@@ -1697,10 +3342,162 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 4.0. The file explicitly carries FoP-Mexico covering the underlying permanently visible public mural under Article 148 VII; underlying artwork is not claimed public domain.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Diego_rivera.jpg/960px-Diego_rivera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Diego_rivera.jpg/960px-Diego_rivera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "workKey": "20:mancontrolleroftheuniverse"
+      },
+      {
+        "id": "20-153256860",
+        "path": "assets/gallery-modern/20-153256860.webp",
+        "title": "Sailor at Breakfast",
+        "date": "1914",
+        "medium": "Oil on canvas",
+        "alt": "A Cubist arrangement of angular shapes represents a sailor seated at breakfast.",
+        "credit": "Diego Rivera; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Marinero_en_el_desayuno,_Diego_Rivera,_1914.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "rightsBasis": "Commons explicitly marks artwork PD-Mexico-1918 and PD-US; pre1918 publication satisfies the documented Mexican public-domain rule and pre1931 work is public domain in the US. File identifies Rivera and1914.",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:sailoratbreakfast"
+      },
+      {
+        "id": "20-85076376",
+        "path": "assets/gallery-modern/20-85076376.webp",
+        "title": "In the Arsenal (En el Arsenal)",
+        "date": "1928",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "Revolutionary figures, including Frida Kahlo, gather around a table of supplies in a red and dark-toned fresco.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_74.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:inthearsenalenelarsenal"
+      },
+      {
+        "id": "20-85062481",
+        "path": "assets/gallery-modern/20-85062481.webp",
+        "title": "The Ribbon Dance (La Danza de los Listones)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "Dancers in white move around a pole with long colourful ribbons in a festive mural.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_17.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:theribbondanceladanzadeloslistones"
+      },
+      {
+        "id": "20-85062473",
+        "path": "assets/gallery-modern/20-85062473.webp",
+        "title": "The Weavers (Los Tejedores)",
+        "date": "1923",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "Three workers operate a large wooden loom in a colourful fresco about textile work.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_11.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:theweaverslostejedores"
+      },
+      {
+        "id": "20-85062471",
+        "path": "assets/gallery-modern/20-85062471.webp",
+        "title": "The Dyers (Los Tintoreros)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "Workers prepare and dye cloth in a fresco about the skilled work behind textiles.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_09.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:thedyerslostintoreros"
+      },
+      {
+        "id": "20-85062464",
+        "path": "assets/gallery-modern/20-85062464.webp",
+        "title": "The Embrace (El Abrazo)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "Two workers embrace in a fresco showing solidarity and friendship.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:theembraceelabrazo"
+      },
+      {
+        "id": "20-85062494",
+        "path": "assets/gallery-modern/20-85062494.webp",
+        "title": "The Offering (La Ofrenda)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "People gather with flowers and offerings in a mural celebrating a Mexican tradition.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_29.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:theofferinglaofrenda"
+      },
+      {
+        "id": "20-85062497",
+        "path": "assets/gallery-modern/20-85062497.webp",
+        "title": "Literacy (Alfabetización)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "A group gathers to learn reading in a fresco linking education and community.",
+        "credit": "Luis Alvaz; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_33.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:literacyalfabetizacion"
+      },
+      {
+        "id": "20-16755855",
+        "path": "assets/gallery-modern/20-16755855.webp",
+        "title": "The Maize Festival (La Fiesta del Maíz)",
+        "date": "1923–1928 (SEP murals)",
+        "medium": "Fresco; individual SEP mural panel",
+        "alt": "The Maize Festival fresco appears at the left of a doorway, beside the separate Harvest panel at the right.",
+        "credit": "Kgv88; artwork by Diego Rivera",
+        "source": "https://commons.wikimedia.org/wiki/File:SEP_Maize_Celebration.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsBasis": "Photograph CC BY-SA3.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "20:themaizefestivallafiestadelmaiz"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "url": "https://murales.sep.gob.mx/Inicio/mural1.html",
+          "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+        },
+        {
+          "url": "https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+          "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+        }
+      ],
+      "searchNotes": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+    }
   },
   {
     "id": "21",
@@ -1787,10 +3584,171 @@ window.ARTISTS = [
         "date": "1930",
         "alt": "Two people stand before a white house with a pointed window. One holds a pitchfork.",
         "creator": "Grant Wood",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "21:americangothic"
+      },
+      {
+        "path": "assets/gallery-american/21-spring-turning.webp",
+        "title": "Spring Turning",
+        "date": "1936",
+        "medium": "Painting",
+        "alt": "Curving fields create an orderly pattern across rolling farmland.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Spring_Turning_by_Grant_Wood,_1936.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:springturning",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Spring_Turning_by_Grant_Wood%2C_1936.jpg/960px-Spring_Turning_by_Grant_Wood%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-spring-in-town.webp",
+        "title": "Spring in Town",
+        "date": "1941",
+        "medium": "Painting",
+        "alt": "People work in gardens among carefully organised town houses.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood,_Spring_in_Town_(1941).jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:springintown",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Grant_Wood%2C_Spring_in_Town_%281941%29.jpg/960px-Grant_Wood%2C_Spring_in_Town_%281941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-sentimental-ballad.webp",
+        "title": "Sentimental Ballad",
+        "date": "1940",
+        "medium": "Painting",
+        "alt": "Male singers gather around a piano in a carefully staged interior.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:%27Sentimental_Ballad%27_by_Grant_Wood,_1940.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:sentimentalballad",
+        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27Sentimental_Ballad%27_by_Grant_Wood%2C_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      {
+        "path": "assets/gallery-american/21-portrait-of-nan.webp",
+        "title": "Portrait of Nan",
+        "date": "1931",
+        "medium": "Painting",
+        "alt": "A seated woman faces the viewer in a detailed portrait.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Nan,_by_Grant_Wood.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:portraitofnan",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Portrait_of_Nan%2C_by_Grant_Wood.jpg/960px-Portrait_of_Nan%2C_by_Grant_Wood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-the-luxembourg-gardens.webp",
+        "title": "The Luxembourg Gardens",
+        "date": "1924",
+        "medium": "Painting",
+        "alt": "Trees and garden paths appear in a bright urban park scene.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_The_Luxembourg_Gardens_(1924).jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:theluxembourggardens",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg/960px-Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-sunlit-house.webp",
+        "title": "Sunlit House",
+        "date": "1928",
+        "medium": "Painting",
+        "alt": "A house and surrounding landscape are modelled with warm light.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Sunlit_House_(1928).jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:sunlithouse",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grant_Wood_-_Sunlit_House_%281928%29.jpg/960px-Grant_Wood_-_Sunlit_House_%281928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-calendulas.webp",
+        "title": "Calendulas",
+        "date": "1928–1929",
+        "medium": "Oil on composition board",
+        "alt": "A bouquet of calendula flowers is arranged in a vase.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Calendulas.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "21:calendulas",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Grant_Wood_-_Calendulas.jpg/960px-Grant_Wood_-_Calendulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/21-dinner-for-threshers.webp",
+        "title": "Dinner for Threshers",
+        "date": "1934",
+        "medium": "Painting",
+        "alt": "Farm workers gather for a meal in a long domestic interior.",
+        "credit": "Grant Wood · Public domain",
+        "creator": "Grant Wood",
+        "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Dinner_for_Threshers.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "21:dinnerforthreshers",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Grant_Wood_-_Dinner_for_Threshers.jpg/500px-Grant_Wood_-_Dinner_for_Threshers.jpg"
+      },
+      {
+        "path": "assets/gallery-american/21-woman-with-plants.webp",
+        "title": "Woman with Plants",
+        "date": "1929",
+        "medium": "Painting",
+        "alt": "A woman holds a potted plant before a rural landscape.",
+        "credit": "Foreverdana3 · CC BY-SA 4.0",
+        "creator": "Foreverdana3",
+        "source": "https://commons.wikimedia.org/wiki/File:Woman_with_Plants_by_Grant_Wood.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "21:womanwithplants",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Woman_with_Plants_by_Grant_Wood.jpg/500px-Woman_with_Plants_by_Grant_Wood.jpg"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Grant_Wood",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://www.crma.org/collections/permanent-collections/Grant-Wood",
+          "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "22",
@@ -1880,10 +3838,168 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "The Cleveland Museum of Art open-access object record explicitly gives share_license_status CC0 and supplies the image as an open-access download.",
-        "sourceDownloadUrl": "https://openaccess-cdn.clevelandart.org/1929.888/1929.888_web.jpg"
+        "sourceDownloadUrl": "https://openaccess-cdn.clevelandart.org/1929.888/1929.888_web.jpg",
+        "workKey": "22:thefrugalmeal"
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111393.webp",
+        "title": "At the Circus",
+        "date": "winter 1905–6, printed 1913",
+        "medium": "drypoint",
+        "alt": "A horse’s head and lightly drawn figures occupy a pale etched sheet.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.895",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:atthecircus",
+        "catalogueId": 111393
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111389.webp",
+        "title": "The Mother at Her Toilette",
+        "date": "1905, printed 1913",
+        "medium": "etching",
+        "alt": "Lightly etched seated and standing figures appear on a pale sheet; one is nude.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.891",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:themotherathertoilette",
+        "catalogueId": 111389,
+        "contentNote": "Nonsexual adult nudity in an art-historical figure study; teacher preview."
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111388.webp",
+        "title": "The Poor",
+        "date": "1905, printed 1913",
+        "medium": "etching",
+        "alt": "A family huddles in a dark interior, rendered with dense etched marks.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.890",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:thepoor",
+        "catalogueId": 111388
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111386.webp",
+        "title": "Head of a Woman: Madeleine",
+        "date": "1905, printed 1913",
+        "medium": "etching",
+        "alt": "A woman’s head is shown close up, with thick hair and tightly drawn facial details.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.889",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:headofawomanmadeleine",
+        "catalogueId": 111386
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111391.webp",
+        "title": "The Saltimbanques",
+        "date": "1905, printed 1913",
+        "medium": "drypoint",
+        "alt": "Thin etched lines describe a group of travelling performers across a horizontal sheet.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.893",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:thesaltimbanques",
+        "catalogueId": 111391
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111394.webp",
+        "title": "Saltimbanque at Rest",
+        "date": "1905, printed 1913",
+        "medium": "drypoint",
+        "alt": "A seated performer leans forward, his pose described with fine etched outlines.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.896",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:saltimbanqueatrest",
+        "catalogueId": 111394
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111397.webp",
+        "title": "Bust of a Man",
+        "date": "1905, printed 1913",
+        "medium": "drypoint",
+        "alt": "A man’s head and shoulders appear in profile, modelled with close curved lines.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.899",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:bustofaman",
+        "catalogueId": 111397
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111400.webp",
+        "title": "The Two Saltimbanques",
+        "date": "1905, printed 1913",
+        "medium": "drypoint",
+        "alt": "Two lightly drawn performers stand near one another against an almost empty background.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.900",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:thetwosaltimbanques",
+        "catalogueId": 111400
+      },
+      {
+        "id": "22",
+        "path": "assets/gallery-modern/22-111401.webp",
+        "title": "Head of a Woman in Profile",
+        "date": "1905, printed 1913",
+        "medium": "drypoint",
+        "alt": "A woman with her hair gathered back is shown in profile, drawn with delicate curved lines.",
+        "credit": "Pablo Picasso; Cleveland Museum of Art · CC0",
+        "source": "https://clevelandart.org/art/1929.901",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized and converted to WebP; complete image preserved.",
+        "rightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
+        "workKey": "22:headofawomaninprofile",
+        "catalogueId": 111401
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Pablo%20Picasso&cc0=1&limit=100",
+          "result": "Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note."
+        }
+      ],
+      "searchNotes": "Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note."
+    }
   },
   {
     "id": "23",
@@ -1950,7 +4066,18 @@ window.ARTISTS = [
       "https://heather-galler-art.mailchimpsites.com/"
     ],
     "gallery": [],
-    "workStatus": "Representative bodies of work; no authoritative fame ranking established."
+    "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Heather+Galler&limit=100",
+        "https://walterfoster.com/walter-foster-book/folk-art-fusion/",
+        "https://heather-galler-art.mailchimpsites.com/"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "24",
@@ -2040,10 +4167,42 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 4.0. The underlying artwork has been permanently installed in the publicly visible Guggenheim Museum Bilbao plaza since 1997; Spanish freedom of panorama covers the public sculpture. Underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puppy_at_Guggenheim_Museum.jpg/960px-Puppy_at_Guggenheim_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "artworkSource": "https://www.guggenheim-bilbao.eus/exposicion/puppy"
+        "artworkSource": "https://www.guggenheim-bilbao.eus/exposicion/puppy",
+        "workKey": "24:puppy"
+      },
+      {
+        "id": "24-151995702",
+        "path": "assets/gallery-modern/24-151995702.webp",
+        "title": "Tulips",
+        "date": "1995–2004",
+        "medium": "High-chromium stainless steel with transparent colour coating",
+        "alt": "A bouquet of enormous reflective balloon-like tulips in bright colours outside the Guggenheim Bilbao.",
+        "credit": "TravelPhotosNL; artwork by Jeff Koons",
+        "source": "https://commons.wikimedia.org/wiki/File:Tulips_sculpture_by_Jeff_Koons_in_the_Bilbao_Guggenheim_Museum.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsBasis": "Photograph CC BY-SA 4.0; underlying sculpture photographed as a permanent outdoor installation in Spain, covered by Spanish freedom of panorama (Copyright Act Article35.2). Museum and BBVA museum exhibition dossier document its permanent publicly visible exterior-terrace display: https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes and https://www.fbbva.es/wp-content/uploads/2015/06/Dossier_Jeff_Koons_ESP.pdf",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "24:tulips"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 2,
+      "shortfallReason": "2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes",
+          "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+        },
+        {
+          "url": "https://www.fbbva.es/wp-content/uploads/2015/06/Dossier_Jeff_Koons_ESP.pdf",
+          "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+        }
+      ],
+      "searchNotes": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+    }
   },
   {
     "id": "25",
@@ -2118,7 +4277,19 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Annie_Leibovitz"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Annie+Leibovitz&limit=100",
+        "https://www.npg.org.uk/collections/search/person/mp08186/annie-leibovitz",
+        "https://www.penguinrandomhouse.com/authors/17200/annie-leibovitz/",
+        "https://sirismm.si.edu/EADpdfs/NMAH.AC.0588.pdf"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "26",
@@ -2196,7 +4367,22 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Andy_Warhol"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Andy+Warhol&limit=100",
+        "https://clevelandart.org/art/1997.246",
+        "https://clevelandart.org/art/2013.108",
+        "https://clevelandart.org/art/2013.108.a",
+        "https://www.warhol.org/andy-warhols-life/",
+        "https://www.nga.gov/artists/1966-andy-warhol",
+        "https://www.warhol.org/legal-notice/"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "27",
@@ -2281,10 +4467,175 @@ window.ARTISTS = [
         "date": "c. 1882–1894",
         "alt": "A detailed view of a large room with glowing mirrors and a patterned floor.",
         "creator": "Kamal-ol-molk",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "27:mirrorhall"
+      },
+      {
+        "path": "assets/gallery-classic/27-02.webp",
+        "title": "The Doshan Tappeh Street",
+        "date": "1885",
+        "medium": "",
+        "alt": "A long tree-lined avenue recedes into the distance between wooden fences.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:DushanTappe.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:thedoshantappehstreet",
+        "sourceFile": "File:DushanTappe.jpg",
+        "sourceDate": "1885 CE / 1302 AH"
+      },
+      {
+        "path": "assets/gallery-classic/27-03.webp",
+        "title": "Iranian Music Group",
+        "date": "1886",
+        "medium": "",
+        "alt": "A large group of musicians poses with traditional instruments.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:IranianMusicGroup.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:iranianmusicgroup",
+        "sourceFile": "File:IranianMusicGroup.jpg",
+        "sourceDate": "1886"
+      },
+      {
+        "path": "assets/gallery-classic/27-04.webp",
+        "title": "View of Shahrestanak Fountain",
+        "date": "1912",
+        "medium": "",
+        "alt": "A stream winds down a rocky mountain valley.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_16.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:viewofshahrestanakfountain",
+        "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7827 16.jpg",
+        "sourceDate": "1912 CE / 1330 AH"
+      },
+      {
+        "path": "assets/gallery-classic/27-05.webp",
+        "title": "The Fortune Teller",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Two seated figures face one another in a dim room with light crossing the wall.",
+        "credit": "Kamal-ol-molk · CC BY 4.0",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_20.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:thefortuneteller",
+        "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7827 20.jpg",
+        "sourceDate": "7 February 2024, 10:41:55"
+      },
+      {
+        "path": "assets/gallery-classic/27-06.webp",
+        "title": "Golestan Palace Springhouse",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "An ornate palace interior surrounds a sunken pool.",
+        "credit": "Kamal-ol-molk · CC BY 4.0",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7959_20.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:golestanpalacespringhouse",
+        "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7959 20.jpg",
+        "sourceDate": "7 February 2024, 12:59:47"
+      },
+      {
+        "path": "assets/gallery-classic/27-07.webp",
+        "title": "Bird study: lark",
+        "date": "1330 AH (c. 1912)",
+        "medium": "",
+        "alt": "A bird with an orange face perches on a leafy branch against white.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(01).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:birdstudylark",
+        "sourceFile": "File:Painting of a Bird (01).jpg",
+        "sourceDate": "Dhu al-Hijjah 1330 AH"
+      },
+      {
+        "path": "assets/gallery-classic/27-08.webp",
+        "title": "Bird study: female partridge",
+        "date": "1330 AH (c. 1912)",
+        "medium": "",
+        "alt": "A brown partridge stands on a fallen branch against a pale background.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(02).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:birdstudyfemalepartridge",
+        "sourceFile": "File:Painting of a Bird (02).jpg",
+        "sourceDate": "Dhu al-Hijjah 1330 AH"
+      },
+      {
+        "path": "assets/gallery-classic/27-09.webp",
+        "title": "Bird study: greenfinch",
+        "date": "1330 AH (c. 1912)",
+        "medium": "",
+        "alt": "A green bird with dark wings perches on a slender branch.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(03).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:birdstudygreenfinch",
+        "sourceFile": "File:Painting of a Bird (03).jpg",
+        "sourceDate": "Dhu al-Hijjah 1330 AH"
+      },
+      {
+        "path": "assets/gallery-classic/27-10.webp",
+        "title": "Bird study: parrot",
+        "date": "1330 AH (c. 1912)",
+        "medium": "",
+        "alt": "A parrot with an orange head and long grey-green tail perches on a twig.",
+        "credit": "Kamal-ol-molk · Public domain",
+        "creator": "Kamal-ol-molk",
+        "source": "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(07).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "27:birdstudyparrot",
+        "sourceFile": "File:Painting of a Bird (07).jpg",
+        "sourceDate": "Dhu al-Hijjah 1330 AH"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "28",
@@ -2370,10 +4721,175 @@ window.ARTISTS = [
         "date": "1884–1886",
         "alt": "People with parasols and animals in a green riverside park.",
         "creator": "Georges Seurat",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "28:asundayonlagrandejatte"
+      },
+      {
+        "path": "assets/gallery-classic/28-02.webp",
+        "title": "Bathers at Asnières",
+        "date": "1884",
+        "medium": "",
+        "alt": "People rest on a grassy riverbank while swimmers enter the water beyond them.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Baigneurs_a_Asnieres.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:bathersatasnieres",
+        "sourceFile": "File:Baigneurs a Asnieres.jpg",
+        "sourceDate": "1884"
+      },
+      {
+        "path": "assets/gallery-classic/28-03.webp",
+        "title": "The Circus",
+        "date": "1891",
+        "medium": "",
+        "alt": "A circus rider balances on a white horse while performers and spectators surround the ring.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1891,_Le_Cirque_(The_Circus),_oil_on_canvas,_185_x_152_cm,_Mus%C3%A9e_d%27Orsay.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:thecircus",
+        "sourceFile": "File:Georges Seurat, 1891, Le Cirque (The Circus), oil on canvas, 185 x 152 cm, Musée d'Orsay.jpg",
+        "sourceDate": "1891"
+      },
+      {
+        "path": "assets/gallery-classic/28-04.webp",
+        "title": "Le Chahut",
+        "date": "1889",
+        "medium": "",
+        "alt": "A line of dancers kicks upward above an orchestra.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1889-90,_Le_Chahut,_Kr%C3%B6ller-M%C3%BCller_Museum.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:lechahut",
+        "sourceFile": "File:Georges Seurat, 1889-90, Le Chahut, Kröller-Müller Museum.jpg",
+        "sourceDate": "1889"
+      },
+      {
+        "path": "assets/gallery-classic/28-05.webp",
+        "title": "Circus Sideshow (Parade de cirque)",
+        "date": "1887–1888",
+        "medium": "",
+        "alt": "Pale figures stand in a softly shaded drawing of a circus sideshow.",
+        "credit": "Georges Seurat · CC0",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Circus_Sideshow_(Parade_de_cirque)_MET_DP858712.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:circussideshowparadedecirque",
+        "sourceFile": "File:Circus Sideshow (Parade de cirque) MET DP858712.jpg",
+        "sourceDate": "1887–88"
+      },
+      {
+        "path": "assets/gallery-classic/28-06.webp",
+        "title": "Cows in a Meadow",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Two brown cows rest in a green meadow.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Georges_seurat_vaches_dans_un_pre081938).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:cowsinameadow",
+        "sourceFile": "File:Georges seurat vaches dans un pre081938).jpg",
+        "sourceDate": ""
+      },
+      {
+        "path": "assets/gallery-classic/28-07.webp",
+        "title": "Madame Seurat, the Artist’s Mother",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A softly lit woman’s face emerges from a dark drawing.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Madame_Seurat,_the_Artist%27s_Mother_(Madame_Seurat,_m%C3%A8re),_by_Georges_Seurat_(Getty_108VJM).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:madameseurattheartistsmother",
+        "sourceFile": "File:Madame Seurat, the Artist's Mother (Madame Seurat, mère), by Georges Seurat (Getty 108VJM).jpg",
+        "sourceDate": "from 1882 until 1883"
+      },
+      {
+        "path": "assets/gallery-classic/28-08.webp",
+        "title": "The Forest at Pontaubert",
+        "date": "1881",
+        "medium": "",
+        "alt": "Slender tree trunks rise through a shaded woodland.",
+        "credit": "Georges Seurat · Public domain",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_063.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:theforestatpontaubert",
+        "sourceFile": "File:Georges Seurat 063.jpg",
+        "sourceDate": "circa 1879-1882"
+      },
+      {
+        "path": "assets/gallery-classic/28-09.webp",
+        "title": "Houses at Le Raincy",
+        "date": "c. 1882–1883",
+        "medium": "",
+        "alt": "A white house with a red roof appears behind trees and garden foliage.",
+        "credit": "Georges Seurat · CC BY-SA 4.0",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Seurat_-_Houses_At_Le_Raincy.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:housesatleraincy",
+        "sourceFile": "File:Seurat - Houses At Le Raincy.jpg",
+        "sourceDate": "19th century"
+      },
+      {
+        "path": "assets/gallery-classic/28-10.webp",
+        "title": "Pierrot",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A standing performer wears a loose white costume decorated with dark patches.",
+        "credit": "Georges Seurat · CC BY-SA 4.0",
+        "creator": "Georges Seurat",
+        "source": "https://commons.wikimedia.org/wiki/File:Seurat_-_Pierrot.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "28:pierrot",
+        "sourceFile": "File:Seurat - Pierrot.jpg",
+        "sourceDate": "1883"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "29",
@@ -2463,10 +4979,57 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 3.0 Spain. The source file explicitly carries FoP-Spain and identifies the artwork in Barcelona’s public-art catalogue; underlying artwork is not claimed public domain.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg/960px-73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg/960px-73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "workKey": "29:barcelonaheadelcapdebarcelona"
+      },
+      {
+        "id": "29-20728945",
+        "path": "assets/gallery-modern/29-20728945.webp",
+        "title": "Modern Head",
+        "date": "1975 /1990",
+        "medium": "Brushed steel",
+        "alt": "A tall geometric metal head stands against trees in Daniel Garden, Jerusalem.",
+        "credit": "Photograph Yair Talmor; artwork Roy Lichtenstein",
+        "source": "https://commons.wikimedia.org/wiki/File:Modern_head_Daniel_garden.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rightsBasis": "Photograph CC BY-SA3.0; permanently installed outdoor sculpture in Daniel Garden, Jerusalem, covered by Israeli freedom of panorama. Collection and location are documented in Commons artwork record and companion file JerusalemMunicipalityP4190022.JPG.",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "29:modernhead"
+      },
+      {
+        "id": "29-75843182",
+        "path": "assets/gallery-modern/29-75843182.webp",
+        "title": "Brushstroke",
+        "date": "1996 /2001 (museum dates)",
+        "medium": "Painted aluminium",
+        "alt": "An enormous sculptural brushstroke with bold black contours rises in the public courtyard of the Reina Sofía museum.",
+        "credit": "Tomás Fano; artwork by Roy Lichtenstein",
+        "source": "https://commons.wikimedia.org/wiki/File:Madrid._Roy_Lichtenstein_sculpture._The_Reina_Sof%C3%ADa_Museum._MNCARS._Spain_(2852266625).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "rightsBasis": "Photograph CC BY-SA2.0; permanently displayed public courtyard sculpture in Spain, covered by Spanish freedom of panorama Article35.2. Museum record documents acquisition2006 and installation in the Jean Nouvel courtyard: https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada/",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "29:brushstroke"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 3,
+      "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada/",
+          "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+        },
+        {
+          "url": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=6194",
+          "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+        }
+      ],
+      "searchNotes": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+    }
   },
   {
     "id": "30",
@@ -2535,7 +5098,20 @@ window.ARTISTS = [
       "https://www.nga.gov/artworks/72040-cakes"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Wayne+Thiebaud&limit=100",
+        "https://clevelandart.org/art/1987.203",
+        "https://clevelandart.org/art/1974.1045",
+        "https://www.crockerart.org/art/artists/wayne-thiebaud",
+        "https://californiamuseum.org/inductee/wayne-thiebaud/"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "31",
@@ -2600,7 +5176,17 @@ window.ARTISTS = [
       "https://artbooks.artcanada.com/norval-morrisseau/biography"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Norval+Morrisseau&limit=100",
+        "https://artbooks.artcanada.com/norval-morrisseau/biography"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "32",
@@ -2666,7 +5252,20 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Mark_Rothko"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Mark+Rothko&limit=100",
+        "https://clevelandart.org/art/1962.239",
+        "https://www.nga.gov/artists/1839-mark-rothko",
+        "https://en.wikipedia.org/wiki/Mark_Rothko",
+        "https://www.nga.gov/terms-and-notices"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "33",
@@ -2747,15 +5346,52 @@ window.ARTISTS = [
         "credit": "Augusta Savage · CC0",
         "source": "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
         "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "title": "Gamin",
         "date": "1929",
         "alt": "A sculpted portrait of a young boy.",
         "creator": "Augusta Savage",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "33:gamin"
+      },
+      {
+        "path": "assets/gallery-american/33-lift-every-voice-and-sing-the-harp.webp",
+        "title": "Lift Every Voice and Sing (The Harp)",
+        "date": "1939; historic photograph published 1960",
+        "medium": "Painted plaster sculpture; historic photograph",
+        "alt": "A choir-like group rises in the shape of a harp above a kneeling figure.",
+        "credit": "Augusta Savage (sculpture); historic photograph attributed to Carl Van Vechten · source declares PD-US-not renewed",
+        "creator": "Augusta Savage",
+        "source": "https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Historic photograph of Augusta Savage’s destroyed 1939 sculpture. Source names Savage and photographer Carl Van Vechten and declares PD-US-not-renewed for the 1960 publication; see source file’s stated basis.",
+        "workKey": "33:lifteveryvoiceandsingtheharp",
+        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lift_Every_Voice_and_Sing_%28sculpture%29_Augusta_Savage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 2,
+      "shortfallReason": "Only two distinct reusable works established: existing Gamin and a historic photograph of the destroyed Lift Every Voice and Sing (The Harp). Commons category contained six files including portraits; Cleveland CC0 collection supplied only Gamin. No eight further artwork reproductions with an applicable underlying-work licence were found.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Augusta_Savage",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        }
+      ],
+      "searchNotes": "2 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "34",
@@ -2820,8 +5456,53 @@ window.ARTISTS = [
       "https://nmwa.org/art/artists/elizabeth-catlett/",
       "https://en.wikipedia.org/wiki/Elizabeth_Catlett"
     ],
-    "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "gallery": [
+      {
+        "path": "assets/gallery-american/34-i-am-the-black-woman.webp",
+        "title": "I Am the Black Woman",
+        "date": "1946–1947; impression date unverified",
+        "medium": "Linocut",
+        "alt": "A black-and-white linocut portrait of a Black woman, built from strong carved lines.",
+        "credit": "Elizabeth Catlett · reproduction by Wikimedia Commons user 19h00s, CC BY 4.0",
+        "creator": "Elizabeth Catlett",
+        "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg",
+        "license": "Artwork: Public domain (US no notice); reproduction: CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source explicitly distinguishes artwork PD-US-no notice from the depiction, licensed CC BY 4.0 by Wikimedia Commons user 19h00s. Both bases recorded; not inferred solely from the photograph licence.",
+        "workKey": "34:iamtheblackwoman",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg/500px-Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      }
+    ],
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 1,
+      "shortfallReason": "One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        },
+        {
+          "source": "https://www.moma.org/collection/works/429291",
+          "outcome": "Verified original series dates1946–1947; later1989editions exist, so no unverified impression date asserted."
+        },
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett",
+          "outcome": "One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established."
+        }
+      ],
+      "searchNotes": "1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "35",
@@ -2908,10 +5589,175 @@ window.ARTISTS = [
         "date": "1928",
         "alt": "A colourful town built from geometric shapes beneath a round sun.",
         "creator": "Paul Klee",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "35:castleandsun"
+      },
+      {
+        "path": "assets/gallery-classic/35-02.webp",
+        "title": "Twittering Machine",
+        "date": "1922",
+        "medium": "",
+        "alt": "Four thin bird-like creatures balance on a wire above a hand-cranked mechanism.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:twitteringmachine",
+        "sourceFile": "File:Die Zwitscher-Maschine (Twittering Machine), 1922 - Paul Klee.jpg",
+        "sourceDate": "1922"
+      },
+      {
+        "path": "assets/gallery-classic/35-03.webp",
+        "title": "Ad Parnassum",
+        "date": "1932",
+        "medium": "",
+        "alt": "A large triangular mountain shape rises above colourful small geometric blocks.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Ad_Parnassum_(originaler,_gefasster_Holzrahmen),_Paul_Klee_(1932).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:adparnassum",
+        "sourceFile": "File:Ad Parnassum (originaler, gefasster Holzrahmen), Paul Klee (1932).jpg",
+        "sourceDate": "1932"
+      },
+      {
+        "path": "assets/gallery-classic/35-04.webp",
+        "title": "Senecio",
+        "date": "1922",
+        "medium": "",
+        "alt": "A round face is divided into pale geometric shapes with two uneven red eyes.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_1922,_Senecio,_oil_on_gauze,_40.3_%C3%97_37.4_cm,_Kunstmuseum_Basel.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:senecio",
+        "sourceFile": "File:Paul Klee, 1922, Senecio, oil on gauze, 40.3 × 37.4 cm, Kunstmuseum Basel.jpg",
+        "sourceDate": "1922"
+      },
+      {
+        "path": "assets/gallery-classic/35-05.webp",
+        "title": "Fish Magic",
+        "date": "1925",
+        "medium": "",
+        "alt": "Colourful fish, flowers and a clock float against a dark background.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Swiss_-_Fish_Magic_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:fishmagic",
+        "sourceFile": "File:Paul Klee, Swiss - Fish Magic - Google Art Project.jpg",
+        "sourceDate": "1925"
+      },
+      {
+        "path": "assets/gallery-classic/35-06.webp",
+        "title": "Cat and Bird",
+        "date": "1928",
+        "medium": "",
+        "alt": "A wide-eyed cat’s face contains a small pink bird above its eyes.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:NY_Moma_klee_cat_and_bird.JPG",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:catandbird",
+        "sourceFile": "File:NY Moma klee cat and bird.JPG",
+        "sourceDate": "1928"
+      },
+      {
+        "path": "assets/gallery-classic/35-07.webp",
+        "title": "Death and Fire",
+        "date": "1940",
+        "medium": "",
+        "alt": "A pale skull-like face and dark marks sit within a glowing orange field.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Death_and_Fire_(1940)_-_Paul_Klee_(Zentrum_Paul_Klee).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:deathandfire",
+        "sourceFile": "File:Death and Fire (1940) - Paul Klee (Zentrum Paul Klee).jpg",
+        "sourceDate": "1940"
+      },
+      {
+        "path": "assets/gallery-classic/35-08.webp",
+        "title": "Angelus Novus",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "An angel-like figure spreads angular wings beneath a large curly head.",
+        "credit": "Christian Mantey (photographer), Kulturagent · Public domain",
+        "creator": "Christian Mantey (photographer), Kulturagent",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Klee_~_Angelus_Novus_~_1920.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:angelusnovus",
+        "sourceFile": "File:Paul Klee ~ Angelus Novus ~ 1920.jpg",
+        "sourceDate": "2015-01-03"
+      },
+      {
+        "path": "assets/gallery-classic/35-09.webp",
+        "title": "Ghost of a Genius",
+        "date": "1922",
+        "medium": "",
+        "alt": "A small pale figure with a tilted block-like head stands against muted brown.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Klee_-_Gespenst_eines_Genies_(Ghost_of_a_Genius)_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:ghostofagenius",
+        "sourceFile": "File:Paul Klee - Gespenst eines Genies (Ghost of a Genius) - Google Art Project.jpg",
+        "sourceDate": "1922"
+      },
+      {
+        "path": "assets/gallery-classic/35-10.webp",
+        "title": "C. – C. = Fish",
+        "date": "1931",
+        "medium": "",
+        "alt": "An angular fish shape sits within a textured field of intersecting lines.",
+        "credit": "Paul Klee · Public domain",
+        "creator": "Paul Klee",
+        "source": "https://commons.wikimedia.org/wiki/File:C._-_C._%3D_Fisch,_1931_-_Paul_Klee.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "35:ccfish",
+        "sourceFile": "File:C. - C. = Fisch, 1931 - Paul Klee.jpg",
+        "sourceDate": "1931"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "36",
@@ -2997,10 +5843,171 @@ window.ARTISTS = [
         "date": "1929",
         "alt": "A young woman stands in a landscape with her hands on her hips.",
         "creator": "Guerinf",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "36:rollande"
+      },
+      {
+        "path": "assets/gallery-american/36-girl-on-a-hill.webp",
+        "title": "Girl on a Hill",
+        "date": "1928",
+        "medium": "Oil on canvas",
+        "alt": "A seated young woman on a hill confronts the viewer directly.",
+        "credit": "Guerinf · CC BY-SA 4.0",
+        "creator": "Guerinf",
+        "source": "https://commons.wikimedia.org/wiki/File:Femme_sur_une_colline_-_Prudence_Heward.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "36:girlonahill",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Femme_sur_une_colline_-_Prudence_Heward.jpg/960px-Femme_sur_une_colline_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/36-at-the-theatre.webp",
+        "title": "At the Theatre",
+        "date": "1928",
+        "medium": "Oil on canvas",
+        "alt": "Two women occupy theatre seats, separated by glances and gestures.",
+        "credit": "Guerinf · CC BY-SA 4.0",
+        "creator": "Guerinf",
+        "source": "https://commons.wikimedia.org/wiki/File:Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "36:atthetheatre",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg/960px-Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/36-immigrants.webp",
+        "title": "Immigrants",
+        "date": "c. 1928",
+        "medium": "Painting",
+        "alt": "Two women sit together in a carefully structured interior scene.",
+        "credit": "Guerinf · CC BY-SA 4.0",
+        "creator": "Guerinf",
+        "source": "https://commons.wikimedia.org/wiki/File:Immigrantes_-_Prudence_Heward.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
+        "workKey": "36:immigrants",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Immigrantes_-_Prudence_Heward.jpg/960px-Immigrantes_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "path": "assets/gallery-american/36-ann.webp",
+        "title": "Ann",
+        "date": "1942",
+        "medium": "Painting",
+        "alt": "A young woman is portrayed with strong shapes and direct colour.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:Prudence_Heward_ann-1942.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:ann",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Prudence_Heward_ann-1942.jpg/500px-Prudence_Heward_ann-1942.jpg"
+      },
+      {
+        "path": "assets/gallery-american/36-girl-in-a-yellow-sweater.webp",
+        "title": "Girl in a Yellow Sweater",
+        "date": "1936",
+        "medium": "Painting",
+        "alt": "A young woman in a yellow sweater sits before a landscape.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:Prudence_Heward_girl-in-yellow-sweater-1936.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:girlinayellowsweater",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Prudence_Heward_girl-in-yellow-sweater-1936.jpg/500px-Prudence_Heward_girl-in-yellow-sweater-1936.jpg"
+      },
+      {
+        "path": "assets/gallery-american/36-the-farmer-s-daughter.webp",
+        "title": "The Farmer’s Daughter",
+        "date": "1945",
+        "medium": "Painting",
+        "alt": "A young woman stands before a rural landscape.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:The-farmer-s-daughter-1945.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:thefarmersdaughter",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The-farmer-s-daughter-1945.jpg/500px-The-farmer-s-daughter-1945.jpg"
+      },
+      {
+        "path": "assets/gallery-american/36-back-garden.webp",
+        "title": "Back Garden",
+        "date": "1938",
+        "medium": "Painting",
+        "alt": "A garden’s foliage and structures are built from expressive colour shapes.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:Prudence_Heward_back-garden-1938.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:backgarden",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prudence_Heward_back-garden-1938.jpg/500px-Prudence_Heward_back-garden-1938.jpg"
+      },
+      {
+        "path": "assets/gallery-american/36-autumn-fields-knowlton.webp",
+        "title": "Autumn Fields, Knowlton",
+        "date": "1941",
+        "medium": "Painting",
+        "alt": "Autumn-coloured fields and distant hills form a broad landscape.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-fields-knowlton-1941.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:autumnfieldsknowlton",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Prudence_Heward_autumn-fields-knowlton-1941.jpg/500px-Prudence_Heward_autumn-fields-knowlton-1941.jpg"
+      },
+      {
+        "path": "assets/gallery-american/36-autumn-hills.webp",
+        "title": "Autumn Hills",
+        "date": "c. 1941",
+        "medium": "Painting",
+        "alt": "Rolling hills and fields are organised into broad bands of autumn colour.",
+        "credit": "Prudence Heward · Public domain",
+        "creator": "Prudence Heward",
+        "source": "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-hills-c-1941.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
+        "workKey": "36:autumnhills",
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Prudence_Heward_autumn-hills-c-1941.jpg/500px-Prudence_Heward_autumn-hills-c-1941.jpg"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Prudence_Heward",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf",
+          "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."
+        }
+      ],
+      "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "37",
@@ -3093,10 +6100,182 @@ window.ARTISTS = [
         "date": "c. 1513–1515",
         "alt": "A seated, bearded figure carved in marble, wearing robes and holding tablets.",
         "creator": "Alvesgaspar",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "37:moses"
+      },
+      {
+        "path": "assets/gallery-classic/37-02.webp",
+        "title": "David",
+        "date": "1501–1504",
+        "medium": "",
+        "alt": "A marble figure stands with one hand near his shoulder and his weight shifted onto one leg.",
+        "credit": "Commonists · CC BY-SA 4.0",
+        "creator": "Commonists",
+        "source": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:david",
+        "sourceFile": "File:Michelangelo's David - right view 2.jpg",
+        "sourceDate": "2021-08-01 11:59:28",
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
+        "dateSource": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+      },
+      {
+        "path": "assets/gallery-classic/37-03.webp",
+        "title": "Pietà",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Mary sits holding the body of Jesus across her lap in a marble sculpture.",
+        "credit": "original file by Stanislav Traykov · CC BY 2.5",
+        "creator": "original file by Stanislav Traykov",
+        "source": "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:pieta",
+        "sourceFile": "File:Pieta de Michelangelo - Vaticano.jpg",
+        "sourceDate": "2008"
+      },
+      {
+        "path": "assets/gallery-classic/37-04.webp",
+        "title": "The Creation of Adam",
+        "date": "circa 1511",
+        "medium": "",
+        "alt": "Two outstretched hands nearly touch as Adam reclines and God approaches through the sky.",
+        "credit": "Michelangelo · Public domain",
+        "creator": "Michelangelo",
+        "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:thecreationofadam",
+        "sourceFile": "File:Michelangelo - Creation of Adam (cropped).jpg",
+        "sourceDate": "circa 1511",
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+      },
+      {
+        "path": "assets/gallery-classic/37-05.webp",
+        "title": "The Last Judgment",
+        "date": "between 1536 and 1541",
+        "medium": "",
+        "alt": "A dense fresco of human figures rises and falls around a central figure of Jesus.",
+        "credit": "Michelangelo · Public domain",
+        "creator": "Michelangelo",
+        "source": "https://commons.wikimedia.org/wiki/File:Last_Judgement_(Michelangelo).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:thelastjudgment",
+        "sourceFile": "File:Last Judgement (Michelangelo).jpg",
+        "sourceDate": "between 1536 and 1541",
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+      },
+      {
+        "path": "assets/gallery-classic/37-06.webp",
+        "title": "Doni Tondo",
+        "date": "from 1506 until 1506",
+        "medium": "",
+        "alt": "Mary turns toward the infant Jesus and Joseph within a circular painted scene.",
+        "credit": "Michelangelo · Public domain",
+        "creator": "Michelangelo",
+        "source": "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:donitondo",
+        "sourceFile": "File:Tondo Doni 2015.png",
+        "sourceDate": "from 1506 until 1506"
+      },
+      {
+        "path": "assets/gallery-classic/37-07.webp",
+        "title": "Bacchus",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A marble figure holds up a cup beside a smaller satyr.",
+        "credit": "http://en.wikipedia.org/wiki/User:Attilios · Public domain",
+        "creator": "http://en.wikipedia.org/wiki/User:Attilios",
+        "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_Bacchus.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:bacchus",
+        "sourceFile": "File:Michelangelo Bacchus.jpg",
+        "sourceDate": "",
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+      },
+      {
+        "path": "assets/gallery-classic/37-08.webp",
+        "title": "Dying Slave",
+        "date": "1513–1515",
+        "medium": "",
+        "alt": "A marble figure raises one arm behind his head and rests the other across his chest.",
+        "credit": "Neil Turner from Sowerby Bridge, United Kingdom · CC BY-SA 2.0",
+        "creator": "Neil Turner from Sowerby Bridge, United Kingdom",
+        "source": "https://commons.wikimedia.org/wiki/File:Dying_Slave_by_Michelangelo,_Mus%C3%A9e_de_Louvre,_8_May_2013.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:dyingslave",
+        "sourceFile": "File:Dying Slave by Michelangelo, Musée de Louvre, 8 May 2013.jpg",
+        "sourceDate": "2013-05-08 10:15",
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
+        "dateSource": "https://collections.louvre.fr/en/ark%3A/53355/cl010091872"
+      },
+      {
+        "path": "assets/gallery-classic/37-09.webp",
+        "title": "Madonna of Bruges",
+        "date": "between 1501 and 1504",
+        "medium": "",
+        "alt": "Mary sits with the infant Jesus standing between her knees in a marble sculpture.",
+        "credit": "Michelangelo · CC BY-SA 3.0",
+        "creator": "Michelangelo",
+        "source": "https://commons.wikimedia.org/wiki/File:Madonna_michelangelo.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:madonnaofbruges",
+        "sourceFile": "File:Madonna michelangelo.jpg",
+        "sourceDate": "between 1501 and 1504"
+      },
+      {
+        "path": "assets/gallery-classic/37-10.webp",
+        "title": "The Deposition",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "Several marble figures support the body of Jesus beneath a hooded figure.",
+        "credit": "Marie-Lan Nguyen · CC BY 2.5",
+        "creator": "Marie-Lan Nguyen",
+        "source": "https://commons.wikimedia.org/wiki/File:Pieta_Bandini_Opera_Duomo_Florence_n01.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "37:thedeposition",
+        "sourceFile": "File:Pieta Bandini Opera Duomo Florence n01.jpg",
+        "sourceDate": "2012-09-10"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "38",
@@ -3183,10 +6362,176 @@ window.ARTISTS = [
         "date": "1893",
         "alt": "A figure with hands beside its face beneath a swirling orange sky.",
         "creator": "Edvard Munch",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "38:thescream"
+      },
+      {
+        "path": "assets/gallery-classic/38-02.webp",
+        "title": "The Girls on the Bridge",
+        "date": "1901",
+        "medium": "",
+        "alt": "Three girls lean over a wooden bridge railing beside water and houses.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Munch_Girls_on_the_pier.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:thegirlsonthebridge",
+        "sourceFile": "File:Munch Girls on the pier.jpg",
+        "sourceDate": "1901"
+      },
+      {
+        "path": "assets/gallery-classic/38-03.webp",
+        "title": "The Kiss",
+        "date": "1897",
+        "medium": "",
+        "alt": "Two figures embrace in a dark room beside a window.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:thekiss",
+        "sourceFile": "File:Edvard Munch - The Kiss - Google Art Project.jpg",
+        "sourceDate": "1897"
+      },
+      {
+        "path": "assets/gallery-classic/38-04.webp",
+        "title": "Friedrich Nietzsche",
+        "date": "1906",
+        "medium": "",
+        "alt": "A moustached man in a blue coat stands before a winding colourful landscape.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_Friedrich_Nietzsche_Thielska_292.tif",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:friedrichnietzsche",
+        "sourceFile": "File:Edvard Munch Friedrich Nietzsche Thielska 292.tif",
+        "sourceDate": "1906"
+      },
+      {
+        "path": "assets/gallery-classic/38-05.webp",
+        "title": "Madonna",
+        "date": "1894",
+        "medium": "",
+        "alt": "A dark-haired woman tilts her head with her eyes closed against a swirling background.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:madonna",
+        "sourceFile": "File:Edvard Munch - Madonna - Google Art Project.jpg",
+        "sourceDate": "1894",
+        "contentNote": "Nonsexual artistic nude; teacher preview recommended."
+      },
+      {
+        "path": "assets/gallery-classic/38-06.webp",
+        "title": "The Sick Child",
+        "date": "between 1885 and 1886",
+        "medium": "",
+        "alt": "A pale child with red hair sits in bed beside a bowed adult.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Munch_Det_Syke_Barn_1885-86.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:thesickchild",
+        "sourceFile": "File:Munch Det Syke Barn 1885-86.jpg",
+        "sourceDate": "between 1885 and 1886"
+      },
+      {
+        "path": "assets/gallery-classic/38-07.webp",
+        "title": "Anxiety",
+        "date": "1894",
+        "medium": "",
+        "alt": "A group of wide-eyed figures faces the viewer beneath a red and yellow sky.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:anxiety",
+        "sourceFile": "File:Edvard Munch - Anxiety - Google Art Project.jpg",
+        "sourceDate": "C.E.1894 (H.E.11,894)"
+      },
+      {
+        "path": "assets/gallery-classic/38-08.webp",
+        "title": "Ashes",
+        "date": "1895",
+        "medium": "",
+        "alt": "A woman in white lifts her hands to her head while a dark figure bends nearby.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Ashes_(1895).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:ashes",
+        "sourceFile": "File:Edvard Munch - Ashes (1895).jpg",
+        "sourceDate": "1895"
+      },
+      {
+        "path": "assets/gallery-classic/38-09.webp",
+        "title": "Melancholy",
+        "date": "1892",
+        "medium": "",
+        "alt": "A seated man rests his head on his hand beside a curving rocky shore.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Melancholy_-_NG.M.02813_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:melancholy",
+        "sourceFile": "File:Edvard Munch - Melancholy - NG.M.02813 - National Museum of Art, Architecture and Design.jpg",
+        "sourceDate": "1892"
+      },
+      {
+        "path": "assets/gallery-classic/38-10.webp",
+        "title": "Love and Pain",
+        "date": "1895",
+        "medium": "",
+        "alt": "A red-haired woman bends over and embraces a dark-haired man.",
+        "credit": "Edvard Munch · Public domain",
+        "creator": "Edvard Munch",
+        "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "38:loveandpain",
+        "sourceFile": "File:Edvard Munch - Vampire (1895) - Google Art Project.jpg",
+        "sourceDate": "1895"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "39",
@@ -3264,7 +6609,19 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Faith_Ringgold"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Faith+Ringgold&limit=100",
+        "https://clevelandart.org/art/2025.165",
+        "https://americanart.si.edu/artist/faith-ringgold-7236",
+        "https://www.guggenheim.org/artwork/artist/faith-ringgold"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "40",
@@ -3340,7 +6697,22 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Amy_Sherald"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Amy+Sherald&limit=100",
+        "https://clevelandart.org/art/2023.5",
+        "https://clevelandart.org/art/2020.277",
+        "https://clevelandart.org/art/2021.173",
+        "https://nmwa.org/art/artists/amy-sherald/",
+        "https://npg.si.edu/sites/default/files/michelle_obama_by_amy_sherald.pdf",
+        "https://www.si.edu/object/looking-amy-sheralds-portrait-michelle-obama%3Aposts_8388d843a1d6753827031035209a33a6"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "41",
@@ -3427,10 +6799,175 @@ window.ARTISTS = [
         "date": "c. 1830–1832",
         "alt": "A curling blue wave rises above boats. Mount Fuji is tiny in the distance.",
         "creator": "Katsushika Hokusai",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "41:underthewaveoffkanagawathegreatwave"
+      },
+      {
+        "path": "assets/gallery-classic/41-02.webp",
+        "title": "Pilgrims at Kirifuri Waterfall on Mount Kurokami in Shimotsuke Province",
+        "date": "c. 1831–1832",
+        "medium": "",
+        "alt": "A tall waterfall splits into white streams among green and orange cliffs while tiny travellers look on.",
+        "credit": "Katsushika Hokusai, Japanese, 1760 - 1849 (1760 - 1849) – Artist/Maker (Japanese) Born in Tokyo, Japan. Died in Tokyo, Japan. Details on Google Art Project · Public domain",
+        "creator": "Katsushika Hokusai, Japanese, 1760 - 1849 (1760 - 1849) – Artist/Maker (Japanese) Born in Tokyo, Japan. Died in Tokyo, Japan. Details on Google Art Project",
+        "source": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_Japanese_-_Pilgrims_at_Kirifuri_Waterfall_on_Mount_Kurokami_in_Shimotsuke_Province_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:pilgrimsatkirifuriwaterfallonmountkurokamiinshimotsukeprovince",
+        "sourceFile": "File:Katsushika Hokusai, Japanese - Pilgrims at Kirifuri Waterfall on Mount Kurokami in Shimotsuke Province - Google Art Project.jpg",
+        "sourceDate": "c. 1831-32; Edo Period (1615-1868)"
+      },
+      {
+        "path": "assets/gallery-classic/41-03.webp",
+        "title": "Mount Fuji from a High Bridge",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "People pass beneath a very tall wooden bridge with Mount Fuji visible beyond it.",
+        "credit": "Katsushika Hokusai · Public domain",
+        "creator": "Katsushika Hokusai",
+        "source": "https://commons.wikimedia.org/wiki/File:Hokusai_Mt.Fuji_from_high_Bridge(%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E3%81%AE%E3%81%B5%E3%81%98).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:mountfujifromahighbridge",
+        "sourceFile": "File:Hokusai Mt.Fuji from high Bridge(たかはしのふじ).jpg",
+        "sourceDate": "1805-06-17"
+      },
+      {
+        "path": "assets/gallery-classic/41-04.webp",
+        "title": "Miyako Shell",
+        "date": "probably 1821",
+        "medium": "",
+        "alt": "A boat carrying figures passes along a shore beneath lines of Japanese calligraphy.",
+        "credit": "Katsushika Hokusai · CC0",
+        "creator": "Katsushika Hokusai",
+        "source": "https://commons.wikimedia.org/wiki/File:Miyako-gai-%E5%85%83%E7%A6%84%E6%AD%8C%E4%BB%99%E8%B2%9D%E5%90%88-Miyako_Shell_MET_DP123642.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:miyakoshell",
+        "sourceFile": "File:Miyako-gai-元禄歌仙貝合-Miyako Shell MET DP123642.jpg",
+        "sourceDate": "probably 1821"
+      },
+      {
+        "path": "assets/gallery-classic/41-05.webp",
+        "title": "Shinagawa",
+        "date": "c. 1802",
+        "medium": "",
+        "alt": "Figures and boats fill a wide coastal landscape beneath Japanese writing.",
+        "credit": "Katsushika Hokusai (Japan, 1760-1849) · Public domain",
+        "creator": "Katsushika Hokusai (Japan, 1760-1849)",
+        "source": "https://commons.wikimedia.org/wiki/File:Shinagawa_LACMA_M.2006.136.198a-b.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:shinagawa",
+        "sourceFile": "File:Shinagawa LACMA M.2006.136.198a-b.jpg",
+        "sourceDate": "circa 1802"
+      },
+      {
+        "path": "assets/gallery-classic/41-06.webp",
+        "title": "Fine Wind, Clear Morning",
+        "date": "circa 1830",
+        "medium": "",
+        "alt": "A red Mount Fuji rises into blue sky streaked with white clouds.",
+        "credit": "Katsushika Hokusai · CC0",
+        "creator": "Katsushika Hokusai",
+        "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E5%87%B1%E9%A2%A8%E5%BF%AB%E6%99%B4%E3%80%8D-South_Wind,_Clear_Sky_(Gaif%C5%AB_kaisei),_also_known_as_Red_Fuji,_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141062.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:finewindclearmorning",
+        "sourceFile": "File:「富嶽三十六景 凱風快晴」-South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141062.jpg",
+        "sourceDate": "circa 1830"
+      },
+      {
+        "path": "assets/gallery-classic/41-07.webp",
+        "title": "Thunderstorm Beneath the Summit",
+        "date": "Artwork date not verified",
+        "medium": "",
+        "alt": "A dark Mount Fuji rises above clouds as angular lightning crosses its lower slopes.",
+        "credit": "Sailko · CC BY 3.0",
+        "creator": "Sailko",
+        "source": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_tempesta_sotto_la_vetta,_dalla_serie_delle_36_vedute_del_monte_fuji,_1831_ca.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:thunderstormbeneaththesummit",
+        "sourceFile": "File:Katsushika Hokusai, tempesta sotto la vetta, dalla serie delle 36 vedute del monte fuji, 1831 ca.jpg",
+        "sourceDate": "2017-11-07 05:45:59"
+      },
+      {
+        "path": "assets/gallery-classic/41-09.webp",
+        "title": "Ōkaru and Kampei outside Kamakura Castle",
+        "date": "1806",
+        "medium": "",
+        "alt": "Figures in traditional clothing gather outside buildings in a detailed Japanese print.",
+        "credit": "Katsushika Hokusai (Japan, 1760-1849) · Public domain",
+        "creator": "Katsushika Hokusai (Japan, 1760-1849)",
+        "source": "https://commons.wikimedia.org/wiki/File:Okaru_and_Kampei_outside_Kamakura_Castle,_Act_III_from_the_Play_Chushingura_LACMA_M.2006.136.128.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:okaruandkampeioutsidekamakuracastle",
+        "sourceFile": "File:Okaru and Kampei outside Kamakura Castle, Act III from the Play Chushingura LACMA M.2006.136.128.jpg",
+        "sourceDate": "1806"
+      },
+      {
+        "path": "assets/gallery-classic/41-08.webp",
+        "title": "Nagasakiya",
+        "date": "1802",
+        "medium": "",
+        "alt": "People gather below a lodging-house window while three visitors look down from the upper floor.",
+        "credit": "Katsushika Hokusai · Public domain",
+        "creator": "Katsushika Hokusai",
+        "source": "https://commons.wikimedia.org/wiki/File:Hokusai_Nagasakiya.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:nagasakiya",
+        "sourceFile": "File:Hokusai Nagasakiya.jpg",
+        "sourceDate": "1802"
+      },
+      {
+        "path": "assets/gallery-classic/41-10.webp",
+        "title": "Kajikazawa in Kai Province",
+        "date": "1831",
+        "medium": "",
+        "alt": "A fisherman casts a net from a rocky outcrop above curling waves, with Mount Fuji beyond.",
+        "credit": "Katsushika Hokusai · Public domain",
+        "creator": "Katsushika Hokusai",
+        "source": "https://commons.wikimedia.org/wiki/File:Kajikazawa_in_Kai_Province_(Koshu_Kajikazawa).jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "41:kajikazawainkaiprovince",
+        "sourceFile": "File:Kajikazawa in Kai Province (Koshu Kajikazawa).jpg",
+        "sourceDate": "1831"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "42",
@@ -3507,7 +7044,31 @@ window.ARTISTS = [
       "https://www.whitehousehistory.org/photos/the-builders-by-jacob-lawrence"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        },
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence",
+          "outcome": "Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established."
+        }
+      ],
+      "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "43",
@@ -3586,7 +7147,22 @@ window.ARTISTS = [
       "https://www.thedavidhockneyfoundation.org/chronology/2009"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=David+Hockney&limit=100",
+        "https://clevelandart.org/art/2022.81",
+        "https://clevelandart.org/art/1998.306.10",
+        "https://clevelandart.org/art/1981.205",
+        "https://nga.gov.au/stories-ideas/david-hockney/",
+        "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254",
+        "https://www.hockney.com/index.php/contact/repro_request"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "44",
@@ -3674,10 +7250,175 @@ window.ARTISTS = [
         "date": "1923",
         "alt": "Circles, lines, triangles, and other shapes arranged across a pale background.",
         "creator": "Wassily Kandinsky",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "44:compositionviii"
+      },
+      {
+        "path": "assets/gallery-classic/44-02.webp",
+        "title": "Composition VII",
+        "date": "1913",
+        "medium": "",
+        "alt": "Bright colours, curved lines and overlapping abstract shapes fill the canvas.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky,_GAC.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:compositionvii",
+        "sourceFile": "File:Composition VII - Wassily Kandinsky, GAC.jpg",
+        "sourceDate": "1913"
+      },
+      {
+        "path": "assets/gallery-classic/44-03.webp",
+        "title": "On White II",
+        "date": "1923",
+        "medium": "",
+        "alt": "Angular black lines cross red, yellow and blue geometric shapes on a white ground.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1923_-_On_White_II.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:onwhiteii",
+        "sourceFile": "File:Vassily Kandinsky, 1923 - On White II.jpg",
+        "sourceDate": "1923"
+      },
+      {
+        "path": "assets/gallery-classic/44-04.webp",
+        "title": "Composition VI",
+        "date": "1913",
+        "medium": "",
+        "alt": "A dense swirl of bright abstract shapes fills the canvas around dark crossing lines.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Composition_6.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:compositionvi",
+        "sourceFile": "File:Vassily Kandinsky, 1913 - Composition 6.jpg",
+        "sourceDate": "1913"
+      },
+      {
+        "path": "assets/gallery-classic/44-05.webp",
+        "title": "Yellow-Red-Blue",
+        "date": "1925",
+        "medium": "",
+        "alt": "A yellow rectangle and red shapes contrast with a large blue circle and curving black lines.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Jaune_Rouge_Bleu.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:yellowredblue",
+        "sourceFile": "File:Kandinsky - Jaune Rouge Bleu.jpg",
+        "sourceDate": "1925"
+      },
+      {
+        "path": "assets/gallery-classic/44-06.webp",
+        "title": "Blue Segment",
+        "date": "1921",
+        "medium": "",
+        "alt": "A blue curved segment crosses a pale field of angular and rounded abstract forms.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_Segment_1921.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:bluesegment",
+        "sourceFile": "File:Kandinsky - Blue Segment 1921.jpg",
+        "sourceDate": "2023-12-15 14:56:52"
+      },
+      {
+        "path": "assets/gallery-classic/44-07.webp",
+        "title": "Blue Circle",
+        "date": "1922",
+        "medium": "",
+        "alt": "Coloured circles and sharp geometric forms cluster around a diagonal black shape.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_circle_1922.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:bluecircle",
+        "sourceFile": "File:Kandinsky - Blue circle 1922.jpg",
+        "sourceDate": "2023-12-15 15:02:29"
+      },
+      {
+        "path": "assets/gallery-classic/44-08.webp",
+        "title": "Red Oval",
+        "date": "1920",
+        "medium": "",
+        "alt": "A red oval and overlapping geometric forms float within a pale tilted rectangle.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1920_-_Red_Oval.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:redoval",
+        "sourceFile": "File:Wassily Kandinsky, 1920 - Red Oval.jpg",
+        "sourceDate": "2023-12-15 14:59:40"
+      },
+      {
+        "path": "assets/gallery-classic/44-09.webp",
+        "title": "Painting with Green Center",
+        "date": "1913",
+        "medium": "",
+        "alt": "Loose strokes of green, blue, yellow and red overlap in an abstract composition.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Painting_with_Green_Center_-_1931.510_-_Art_Institute_of_Chicago.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:paintingwithgreencenter",
+        "sourceFile": "File:Vasily Kandinsky - Painting with Green Center - 1931.510 - Art Institute of Chicago.jpg",
+        "sourceDate": "1913"
+      },
+      {
+        "path": "assets/gallery-classic/44-10.webp",
+        "title": "The Blue Rider",
+        "date": "1903",
+        "medium": "",
+        "alt": "A rider on a pale horse gallops across a green hillside beneath trees.",
+        "credit": "Wassily Kandinsky · Public domain",
+        "creator": "Wassily Kandinsky",
+        "source": "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1903,_The_Blue_Rider_(Der_Blaue_Reiter),_oil_on_canvas,_52.1_x_54.6_cm,_Stiftung_Sammlung_E.G._B%C3%BChrle,_Zurich.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "44:thebluerider",
+        "sourceFile": "File:Wassily Kandinsky, 1903, The Blue Rider (Der Blaue Reiter), oil on canvas, 52.1 x 54.6 cm, Stiftung Sammlung E.G. Bührle, Zurich.jpg",
+        "sourceDate": "1903"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "45",
@@ -3764,10 +7505,175 @@ window.ARTISTS = [
         "date": "c. 1665–1669",
         "alt": "Rembrandt stands holding painting tools, with two circles on the wall behind him.",
         "creator": "Rembrandt",
-        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
+        "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
+        "workKey": "45:selfportraitwithtwocircles"
+      },
+      {
+        "path": "assets/gallery-classic/45-02.webp",
+        "title": "The Night Watch",
+        "date": "1642",
+        "medium": "",
+        "alt": "A group of armed civic guards gathers in a dark passage as two officers step forward.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:thenightwatch",
+        "sourceFile": "File:La ronda de noche, por Rembrandt van Rijn.jpg",
+        "sourceDate": "1642"
+      },
+      {
+        "path": "assets/gallery-classic/45-03.webp",
+        "title": "The Jewish Bride",
+        "date": "circa 1665-1669",
+        "medium": "",
+        "alt": "A richly dressed couple stands close together with their hands gently touching.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:thejewishbride",
+        "sourceFile": "File:Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg",
+        "sourceDate": "circa 1665-1669"
+      },
+      {
+        "path": "assets/gallery-classic/45-04.webp",
+        "title": "The Storm on the Sea of Galilee",
+        "date": "1633",
+        "medium": "",
+        "alt": "A small crowded sailing boat pitches on a stormy sea beneath dark clouds.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:thestormontheseaofgalilee",
+        "sourceFile": "File:Rembrandt Christ in the Storm on the Lake of Galilee.jpg",
+        "sourceDate": "1633"
+      },
+      {
+        "path": "assets/gallery-classic/45-05.webp",
+        "title": "The Return of the Prodigal Son",
+        "date": "circa 1668",
+        "medium": "",
+        "alt": "An elderly man embraces a kneeling figure while several people watch in the shadows.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:thereturnoftheprodigalson",
+        "sourceFile": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg",
+        "sourceDate": "circa 1668"
+      },
+      {
+        "path": "assets/gallery-classic/45-06.webp",
+        "title": "The Mill",
+        "date": "between 1645 and 1648",
+        "medium": "",
+        "alt": "A windmill stands on a high bank above calm water under a dramatic sky.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:DeMolenRembrandt.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:themill",
+        "sourceFile": "File:DeMolenRembrandt.jpg",
+        "sourceDate": "between 1645 and 1648"
+      },
+      {
+        "path": "assets/gallery-classic/45-07.webp",
+        "title": "The Abduction of Europa",
+        "date": "1632",
+        "medium": "",
+        "alt": "A white bull carries a woman through shallow water while companions watch from the bank.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Abduction_of_Europa_-_Google_Art_Project.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:theabductionofeuropa",
+        "sourceFile": "File:Rembrandt - The Abduction of Europa - Google Art Project.jpg",
+        "sourceDate": "1632"
+      },
+      {
+        "path": "assets/gallery-classic/45-08.webp",
+        "title": "Historical Scene",
+        "date": "1626",
+        "medium": "",
+        "alt": "Figures in elaborate clothing gather around a kneeling person in a historical scene.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Historical_Painting_1626.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:historicalscene",
+        "sourceFile": "File:Rembrandt Historical Painting 1626.jpg",
+        "sourceDate": "1626"
+      },
+      {
+        "path": "assets/gallery-classic/45-09.webp",
+        "title": "The Standard Bearer",
+        "date": "1636",
+        "medium": "",
+        "alt": "A moustached man wearing a broad hat holds a large flag against his shoulder.",
+        "credit": "Rembrandt · CC0",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Standard_Bearer_1636.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:thestandardbearer",
+        "sourceFile": "File:Standard Bearer 1636.jpg",
+        "sourceDate": "2023-01-12 17:44:10"
+      },
+      {
+        "path": "assets/gallery-classic/45-10.webp",
+        "title": "A Woman Bathing in a Stream",
+        "date": "1654",
+        "medium": "",
+        "alt": "A woman lifts her pale garment as she steps into a shallow stream.",
+        "credit": "Rembrandt · Public domain",
+        "creator": "Rembrandt",
+        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Hendrickje_Bathing_in_a_River.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
+        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
+        "workKey": "45:awomanbathinginastream",
+        "sourceFile": "File:Rembrandt Hendrickje Bathing in a River.jpg",
+        "sourceDate": "1654"
       }
     ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 10,
+      "shortfallReason": "",
+      "sourceChecks": [
+        "Source file metadata checked for title, artist and image licence.",
+        "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+      ],
+      "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+    }
   },
   {
     "id": "46",
@@ -3835,7 +7741,18 @@ window.ARTISTS = [
       "https://archives-ftp.gov.yk.ca/library/special/MT_402_Online_2015_02_08.pdf"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Ted+Harrison&limit=100",
+        "https://tedharrison.ca/pages/about",
+        "https://www.madronagallery.com/historical/ted-harrison"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "47",
@@ -3911,7 +7828,21 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Ren%C3%A9+Magritte&limit=100",
+        "https://clevelandart.org/art/1992.298",
+        "https://clevelandart.org/art/1992.274",
+        "https://clevelandart.org/art/1992.275",
+        "https://musee-magritte-museum.be/en/about-the-museum/biography",
+        "https://www.guggenheim.org/artwork/artist/rene-magritte"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   },
   {
     "id": "48",
@@ -3988,8 +7919,45 @@ window.ARTISTS = [
       "https://michaelrosenfeld.com/artists/irene-rice-pereira",
       "https://en.wikipedia.org/wiki/I._Rice_Pereira"
     ],
-    "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "gallery": [
+      {
+        "path": "assets/gallery-american/48-white-lines.webp",
+        "title": "White Lines",
+        "date": "1941",
+        "medium": "Opaque matte paint with scraping on paper",
+        "alt": "White linear structures cross a layered geometric composition.",
+        "credit": "I. Rice Pereira · The Metropolitan Museum of Art, Gift of the artist,1943 · CC0",
+        "creator": "I. Rice Pereira",
+        "source": "https://commons.wikimedia.org/wiki/File:White_Lines_MET_sf43.47.26.jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
+        "rightsBasis": "Metropolitan Museum of Art expressly marks object 488142 Public Domain and supplied this image under CC0.",
+        "workKey": "48:whitelines",
+        "sourceDownloadUrl": "https://images.metmuseum.org/CRDImages/ma/web-large/sf43.47.26.jpg"
+      }
+    ],
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 1,
+      "shortfallReason": "Only White Lines (1941) verified as an actual reusable work through the Met CC0 donation and object 488142. Commons category had White Lines plus three artist photographs; Cleveland returned no matching artwork. Nine additional reusable works were not established.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:I._Rice_Pereira",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        }
+      ],
+      "searchNotes": "1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "49",
@@ -4081,10 +8049,53 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 3.0. Permanently installed outdoor public sculpture at Mühlenstraße, Berlin, documented by the source location and the artwork’s public history; German freedom of panorama covers the underlying work. Underlying artwork is not claimed public domain.",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg/960px-Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg/960px-Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "workKey": "49:bestbuddiesfriendshipbear"
+      },
+      {
+        "id": "49-17550089",
+        "path": "assets/gallery-modern/49-17550089.webp",
+        "title": "Welcome",
+        "date": "2004",
+        "medium": "Painted metal",
+        "alt": "Brightly patterned metal figures welcome visitors in the outdoor sculpture garden at Sheba Hospital.",
+        "credit": "ד\"ר אבישי טייכר; artwork by Romero Britto",
+        "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_15568_quot;Wellcomequot;_by_Romero_Britto_in_the_sculp.JPG",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "rightsBasis": "Photograph CC BY2.5; permanent public sculpture in the Topor sculpture garden at Sheba Hospital, Israel, covered by Israeli freedom of panorama. PikiWiki photographer description identifies title, artist, material, creation2004 and location.",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "49:welcome"
+      },
+      {
+        "id": "49-106941236",
+        "path": "assets/gallery-modern/49-106941236.webp",
+        "title": "Garden Butterfly",
+        "date": "Installed2014",
+        "medium": "Metal",
+        "alt": "A large butterfly sculpture combines bright colours, dots, stripes and bold black outlines in a Prague park.",
+        "credit": "Barocco; artwork by Romero Britto",
+        "source": "https://commons.wikimedia.org/wiki/File:Plastika_Garden_Butterfly_v_parku_na_Ortenov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_(Q64815809).jpg",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "rightsBasis": "Photograph CC0; permanent sculpture in publicly accessible Ortenovo Square park, covered by Czech Copyright Act Section33 freedom of panorama. Prague7 municipal public-art inventory confirms artist, title, metal and installation2014: https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/",
+        "changes": "Resized and converted to WebP; full photograph preserved.",
+        "workKey": "49:gardenbutterfly"
       }
     ],
-    "workStatus": "Representative bodies of work; no authoritative fame ranking established."
+    "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 3,
+      "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/",
+          "result": "Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified."
+        }
+      ],
+      "searchNotes": "Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified."
+    }
   },
   {
     "id": "50",
@@ -4160,7 +8171,35 @@ window.ARTISTS = [
       "https://en.wikipedia.org/wiki/Jackson_Pollock"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established.",
+      "sourceChecks": [
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock",
+          "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+        },
+        {
+          "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+          "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+        },
+        {
+          "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+          "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+        },
+        {
+          "source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock",
+          "outcome": "Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established."
+        },
+        {
+          "source": "https://www.museothyssen.org/en/use-images-and-legal-terms/photographic-archive-and-use-images-works",
+          "outcome": "Webpage uses listed among uses requiring contact with commercial archive; broad classroom policy not assumed to authorise GitHub Pages reproduction."
+        }
+      ],
+      "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+    }
   },
   {
     "id": "51",
@@ -4238,6 +8277,17 @@ window.ARTISTS = [
       "https://whitney.org/collection/works/453"
     ],
     "gallery": [],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement."
+    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
+    "galleryAudit": {
+      "target": 10,
+      "count": 0,
+      "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+      "sourceChecks": [
+        "https://openaccess-api.clevelandart.org/api/artworks/?q=Jean-Michel+Basquiat&limit=100",
+        "https://www.basquiat.com/about",
+        "https://www.moma.org/artists/370-jean-michel-basquiat"
+      ],
+      "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+    }
   }
 ];

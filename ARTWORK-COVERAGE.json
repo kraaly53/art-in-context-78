@@ -1,0 +1,811 @@
+[
+  {
+    "id": "01",
+    "name": "Jonathan Green",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found in the artist’s portfolio, but no verified grant for public-web reproduction of ten images was found.",
+    "sourceChecks": [
+      "https://www.jonathangreenstudios.com/about",
+      "https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Image%20Sheet.pdf"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "02",
+    "name": "William H. Johnson",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:William_H._Johnson",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "03",
+    "name": "Leonardo da Vinci",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "04",
+    "name": "Raphael",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "05",
+    "name": "Banksy",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "No public-web reproduction permission verified for ten works;0 reusable images confirmed.",
+    "sourceChecks": [
+      {
+        "url": "https://pestcontroloffice.com/use.asp",
+        "result": "Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found."
+      }
+    ],
+    "searchNotes": "Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found."
+  },
+  {
+    "id": "06",
+    "name": "Paul Cézanne",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "07",
+    "name": "Frida Kahlo",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but underlying public-web reproduction rights unverified;0 reusable artwork images confirmed.",
+    "sourceChecks": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Frida_Kahlo",
+        "result": "Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified."
+      }
+    ],
+    "searchNotes": "Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified."
+  },
+  {
+    "id": "08",
+    "name": "Keith Haring",
+    "target": 10,
+    "count": 3,
+    "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/",
+        "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+      },
+      {
+        "url": "https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet",
+        "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+      }
+    ],
+    "searchNotes": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."
+  },
+  {
+    "id": "09",
+    "name": "Salvador Dalí",
+    "target": 10,
+    "count": 1,
+    "shortfallReason": "1 of10 distinct reusable works confirmed;9 additional artwork permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://www.nac.gov.sg/singapore-arts-scene/art-forms/visual-arts/public-art-trust/public-artworks/homage-to-newton",
+        "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sculptures_by_Salvador_Dal%C3%AD_in_Spain",
+        "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+      }
+    ],
+    "searchNotes": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."
+  },
+  {
+    "id": "10",
+    "name": "Loïs Mailou Jones",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Loïs_Mailou_Jones",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      },
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Lois_Mailou_Jones",
+        "outcome": "Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established."
+      }
+    ],
+    "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "11",
+    "name": "Henri Rousseau",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "12",
+    "name": "Robert Indiana",
+    "target": 10,
+    "count": 2,
+    "shortfallReason": "2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG",
+        "result": "Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights."
+      }
+    ],
+    "searchNotes": "Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights."
+  },
+  {
+    "id": "13",
+    "name": "George Rodrigue",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=George+Rodrigue&limit=100",
+      "https://georgerodrigue.com/how-a-cajun-legend-became-a-pop-icon/",
+      "https://georgerodrigue.com/blog/new-lithograph-release-mardi-gras-dog-1991/",
+      "https://georgerodrigue.com/blog/terms-of-use/"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "14",
+    "name": "Emily Carr",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Emily_Carr",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "15",
+    "name": "Dorothea Lange",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Dorothea_Lange",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "16",
+    "name": "Piet Mondrian",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "17",
+    "name": "Yayoi Kusama",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Yayoi+Kusama&limit=100",
+      "https://clevelandart.org/art/2010.463",
+      "https://clevelandart.org/art/2022.127",
+      "https://clevelandart.org/art/1999.250",
+      "https://yayoikusamamuseum.jp/en/about/yayoikusama/",
+      "https://yayoikusamamuseum.jp/en/news/news20260827/",
+      "https://yayoikusamamuseum.jp/en/sitepolicy/"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "18",
+    "name": "Frederic Remington",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Frederic_Remington",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "19",
+    "name": "Andrew Wyeth",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Andrew+Wyeth&limit=100",
+      "https://www.museothyssen.org/en/collection/artists/wyeth-andrew",
+      "https://www.arts.gov/honors/medals/andrew-wyeth"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "20",
+    "name": "Diego Rivera",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "url": "https://murales.sep.gob.mx/Inicio/mural1.html",
+        "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+      },
+      {
+        "url": "https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
+        "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+      }
+    ],
+    "searchNotes": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."
+  },
+  {
+    "id": "21",
+    "name": "Grant Wood",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Grant_Wood",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://www.crma.org/collections/permanent-collections/Grant-Wood",
+        "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "22",
+    "name": "Pablo Picasso",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Pablo%20Picasso&cc0=1&limit=100",
+        "result": "Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note."
+      }
+    ],
+    "searchNotes": "Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note."
+  },
+  {
+    "id": "23",
+    "name": "Heather Galler",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Heather+Galler&limit=100",
+      "https://walterfoster.com/walter-foster-book/folk-art-fusion/",
+      "https://heather-galler-art.mailchimpsites.com/"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "24",
+    "name": "Jeff Koons",
+    "target": 10,
+    "count": 2,
+    "shortfallReason": "2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes",
+        "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+      },
+      {
+        "url": "https://www.fbbva.es/wp-content/uploads/2015/06/Dossier_Jeff_Koons_ESP.pdf",
+        "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+      }
+    ],
+    "searchNotes": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."
+  },
+  {
+    "id": "25",
+    "name": "Annie Leibovitz",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Annie+Leibovitz&limit=100",
+      "https://www.npg.org.uk/collections/search/person/mp08186/annie-leibovitz",
+      "https://www.penguinrandomhouse.com/authors/17200/annie-leibovitz/",
+      "https://sirismm.si.edu/EADpdfs/NMAH.AC.0588.pdf"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "26",
+    "name": "Andy Warhol",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Andy+Warhol&limit=100",
+      "https://clevelandart.org/art/1997.246",
+      "https://clevelandart.org/art/2013.108",
+      "https://clevelandart.org/art/2013.108.a",
+      "https://www.warhol.org/andy-warhols-life/",
+      "https://www.nga.gov/artists/1966-andy-warhol",
+      "https://www.warhol.org/legal-notice/"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "27",
+    "name": "Kamal-ol-Molk",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "28",
+    "name": "Georges Seurat",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "29",
+    "name": "Roy Lichtenstein",
+    "target": 10,
+    "count": 3,
+    "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada/",
+        "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+      },
+      {
+        "url": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=6194",
+        "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+      }
+    ],
+    "searchNotes": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."
+  },
+  {
+    "id": "30",
+    "name": "Wayne Thiebaud",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Wayne+Thiebaud&limit=100",
+      "https://clevelandart.org/art/1987.203",
+      "https://clevelandart.org/art/1974.1045",
+      "https://www.crockerart.org/art/artists/wayne-thiebaud",
+      "https://californiamuseum.org/inductee/wayne-thiebaud/"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "31",
+    "name": "Norval Morrisseau",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Norval+Morrisseau&limit=100",
+      "https://artbooks.artcanada.com/norval-morrisseau/biography"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "32",
+    "name": "Mark Rothko",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Mark+Rothko&limit=100",
+      "https://clevelandart.org/art/1962.239",
+      "https://www.nga.gov/artists/1839-mark-rothko",
+      "https://en.wikipedia.org/wiki/Mark_Rothko",
+      "https://www.nga.gov/terms-and-notices"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "33",
+    "name": "Augusta Savage",
+    "target": 10,
+    "count": 2,
+    "shortfallReason": "Only two distinct reusable works established: existing Gamin and a historic photograph of the destroyed Lift Every Voice and Sing (The Harp). Commons category contained six files including portraits; Cleveland CC0 collection supplied only Gamin. No eight further artwork reproductions with an applicable underlying-work licence were found.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Augusta_Savage",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      }
+    ],
+    "searchNotes": "2 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "34",
+    "name": "Elizabeth Catlett",
+    "target": 10,
+    "count": 1,
+    "shortfallReason": "One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      },
+      {
+        "source": "https://www.moma.org/collection/works/429291",
+        "outcome": "Verified original series dates1946–1947; later1989editions exist, so no unverified impression date asserted."
+      },
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett",
+        "outcome": "One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established."
+      }
+    ],
+    "searchNotes": "1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "35",
+    "name": "Paul Klee",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "36",
+    "name": "Prudence Heward",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Prudence_Heward",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf",
+        "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."
+      }
+    ],
+    "searchNotes": "10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "37",
+    "name": "Michelangelo",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "38",
+    "name": "Edvard Munch",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "39",
+    "name": "Faith Ringgold",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Faith+Ringgold&limit=100",
+      "https://clevelandart.org/art/2025.165",
+      "https://americanart.si.edu/artist/faith-ringgold-7236",
+      "https://www.guggenheim.org/artwork/artist/faith-ringgold"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "40",
+    "name": "Amy Sherald",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Amy+Sherald&limit=100",
+      "https://clevelandart.org/art/2023.5",
+      "https://clevelandart.org/art/2020.277",
+      "https://clevelandart.org/art/2021.173",
+      "https://nmwa.org/art/artists/amy-sherald/",
+      "https://npg.si.edu/sites/default/files/michelle_obama_by_amy_sherald.pdf",
+      "https://www.si.edu/object/looking-amy-sheralds-portrait-michelle-obama%3Aposts_8388d843a1d6753827031035209a33a6"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "41",
+    "name": "Hokusai",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "42",
+    "name": "Jacob Lawrence",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      },
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence",
+        "outcome": "Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established."
+      }
+    ],
+    "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "43",
+    "name": "David Hockney",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=David+Hockney&limit=100",
+      "https://clevelandart.org/art/2022.81",
+      "https://clevelandart.org/art/1998.306.10",
+      "https://clevelandart.org/art/1981.205",
+      "https://nga.gov.au/stories-ideas/david-hockney/",
+      "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254",
+      "https://www.hockney.com/index.php/contact/repro_request"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "44",
+    "name": "Wassily Kandinsky",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "45",
+    "name": "Rembrandt",
+    "target": 10,
+    "count": 10,
+    "shortfallReason": "",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
+  },
+  {
+    "id": "46",
+    "name": "Ted Harrison",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Ted+Harrison&limit=100",
+      "https://tedharrison.ca/pages/about",
+      "https://www.madronagallery.com/historical/ted-harrison"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "47",
+    "name": "René Magritte",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Ren%C3%A9+Magritte&limit=100",
+      "https://clevelandart.org/art/1992.298",
+      "https://clevelandart.org/art/1992.274",
+      "https://clevelandart.org/art/1992.275",
+      "https://musee-magritte-museum.be/en/about-the-museum/biography",
+      "https://www.guggenheim.org/artwork/artist/rene-magritte"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  },
+  {
+    "id": "48",
+    "name": "I. Rice Pereira",
+    "target": 10,
+    "count": 1,
+    "shortfallReason": "Only White Lines (1941) verified as an actual reusable work through the Met CC0 donation and object 488142. Commons category had White Lines plus three artist photographs; Cleveland returned no matching artwork. Nine additional reusable works were not established.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:I._Rice_Pereira",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      }
+    ],
+    "searchNotes": "1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "49",
+    "name": "Romero Britto",
+    "target": 10,
+    "count": 3,
+    "shortfallReason": "3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.",
+    "sourceChecks": [
+      {
+        "url": "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/",
+        "result": "Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified."
+      }
+    ],
+    "searchNotes": "Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified."
+  },
+  {
+    "id": "50",
+    "name": "Jackson Pollock",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established.",
+    "sourceChecks": [
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock",
+        "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
+      },
+      {
+        "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+        "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."
+      },
+      {
+        "source": "https://collectionapi.metmuseum.org/public/collection/v1/search",
+        "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."
+      },
+      {
+        "source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock",
+        "outcome": "Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established."
+      },
+      {
+        "source": "https://www.museothyssen.org/en/use-images-and-legal-terms/photographic-archive-and-use-images-works",
+        "outcome": "Webpage uses listed among uses requiring contact with commercial archive; broad classroom policy not assumed to authorise GitHub Pages reproduction."
+      }
+    ],
+    "searchNotes": "0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded."
+  },
+  {
+    "id": "51",
+    "name": "Jean-Michel Basquiat",
+    "target": 10,
+    "count": 0,
+    "shortfallReason": "Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.",
+    "sourceChecks": [
+      "https://openaccess-api.clevelandart.org/api/artworks/?q=Jean-Michel+Basquiat&limit=100",
+      "https://www.basquiat.com/about",
+      "https://www.moma.org/artists/370-jean-michel-basquiat"
+    ],
+    "searchNotes": "Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established."
+  }
+]

@@ -23,7 +23,7 @@ All 51 artists have media, life-date guidance, three career moments, at least tw
 
 Students can search the index, filter media and perspectives, open a chronology, compare two artists, explore medium definitions, solve a timeline-order challenge, and generate creative briefs. Discussion prompts encourage claims supported by visual evidence and context. Impact paragraphs are identified as educational synthesis, not quotations or single-cause historical proof.
 
-**Image coverage is incomplete:** 42 portraits and 28 actual artwork reproductions are included. Nine profiles have no verified portrait; 23 have no cleared artwork reproduction. Those profiles use text studies and, where available, a portrait. They do not display invented works. See IMAGE-PERMISSIONS.md for every remaining name.
+**Image target remains incomplete:** 228 distinct artwork images and 42 portraits are included. Twenty-one artists have ten works; nine have partial galleries and 21 have no cleared artwork reproduction. The profile gallery appears near the top and shows its exact count. Students can enlarge works and navigate with buttons or arrow keys. Teacher desk and ARTWORK-COVERAGE.md identify every shortfall and the sources checked.
 
 ## Files and architecture
 
@@ -52,7 +52,7 @@ Check both the source photo’s licence and the artwork’s underlying rights. S
 
 Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
 
-The current tests deliberately expect 51 artists, 42 portraits, and 28 work images, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
+The current tests deliberately expect 51 artists, 42 portraits, 228 work images, and 21 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
 
 ## Classroom operation
 
@@ -62,7 +62,7 @@ Read-aloud selects only installed local English voices. Its absence does not hid
 
 The site is public and does not control the address bar or other tabs. Follow school policy for kiosk/guided access or restricted hosting. The hosted version has no guaranteed offline cache; a downloaded copy served locally can operate without an internet connection.
 
-The content addresses race, inequality, cultural representation, war, anxiety, and public debate in non-graphic educational language. The Dalí sculpture photograph includes nonsexual figurative anatomy. Preview the collection for the particular class. Indigenous cultures are described as living and distinct; briefs ask for students’ own symbols rather than copying sacred imagery.
+The content addresses race, inequality, cultural representation, war, anxiety, and public debate in non-graphic educational language. Some Renaissance works and modern figure studies include nonsexual anatomy; review the actual images before class. Preview the collection for the particular class. Indigenous cultures are described as living and distinct; briefs ask for students’ own symbols rather than copying sacred imagery.
 
 ## Troubleshooting and rollback
 
@@ -79,7 +79,7 @@ To undo a bad update, review the faulty commit and make a new revert commit, the
 
 ## Known limits and next priorities
 
-1. Obtain permissions for the 23 missing artwork images and nine missing portraits, retaining all credit evidence. Banksy is intentionally anonymous.
+1. Complete the ten-work target for the 30 shortfall artists listed in ARTWORK-COVERAGE.md and obtain nine missing portraits, retaining all credit evidence. Banksy is intentionally anonymous.
 2. Check local voices, touch behaviour, and school restrictions on actual classroom devices.
 3. Consider additional teacher-reviewed visual analysis questions and lesson sequences after classroom feedback.
 4. Keep dates and sources current, and preserve explicit uncertainty rather than inventing an exact birth or creation year.

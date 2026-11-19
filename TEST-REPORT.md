@@ -2,40 +2,33 @@
 
 Checked 18 November 2026.
 
-## Content and source review
+## Content and assets
 
-- All four source photographs had already been inspected; this edition uses the same deduplicated inventory of 51 artists.
-- All 51 expanded profiles received a separate research review covering media, life-date uncertainty, selected work titles, career events, and historical framing. Primary museum, artist, foundation, archive, and collection references are recorded in SOURCES-AND-TEACHING-NOTES.md.
-- Reviewed corrections include Cakes (1963), Love is in the Bin (canvas rather than print), Harrison’s Carcross settlement (1968), and qualified or unverified birth dates. Impact sections are identified as educational synthesis.
-- All ten additional artwork images were visually inspected and their underlying-work reuse basis documented separately from the photo licence. The existing 60 image records were retained with their credits.
+All 51 names follow the deduplicated inventory from the four classroom photos. Profiles retain 153 career moments, 103 significant-work studies, and 51 quizzes. Primary museum, artist, foundation, archive, and collection sources are recorded in the content and supporting source notes. Reviewed date corrections and uncertain births remain guarded by tests.
+
+This expansion adds 200 distinct artwork images, for **228 artworks and 42 portraits**. Twenty-one artists have ten works; nine have partial galleries and 21 have no cleared artwork reproduction. ARTWORK-COVERAGE.md and its JSON companion give all counts, source checks, and remaining needs. The ten-per-artist target is not complete.
+
+Source records and underlying rights were reviewed; contact sheets were visually checked. Duplicate Hokusai imagery was replaced, unsuitable candidates excluded, and photograph timestamps separated from artwork creation dates. Unknown creation dates are explicitly labelled. All 270 WebP images decoded, had unique file hashes, matched credits and were referenced by the data. No unused WebP files remained.
 
 ## Passed checks
 
-- Repository validation: 51 unique artists, 153 career moments, 103 significant-work studies, 51 quizzes, 42 portraits, 28 artwork images, and 70 matching media-credit records. All required profile sections and local asset paths are present.
-- All 70 WebP images decoded successfully. The SVG site mark is local. Unused younger-student learning illustrations were removed from this edition.
-- JavaScript syntax and selected reviewed-date assertions passed. Static checks found no outbound request code, external resource references, embedded frames, or outgoing student links. The content policy blocks remote resources and application connections.
-- Opened all 51 artist profiles through browser navigation. Each showed the expected name, three timeline items, at least two work studies, three quiz choices, and a source section. No broken completed image loads were observed during this pass.
-- Search and combined media/perspective filtering worked. Combining photography and power/politics isolated Dorothea Lange. The early timeline filter showed 12 chronologically ordered career moments.
-- A wrong quiz response invited reconsideration; a correct response recorded a completed challenge. Comparison selection and navigation worked.
-- The timeline-order game rejected a later event, accepted The Scream (1893), Composition VIII (1923), and Guernica (1937) in order, then displayed a solved sequence. Creative-brief theme changes generated a corresponding prompt and constraint.
-- A medium explanation opened and closed as a dialog. Artwork magnification opened and closed. Local read-aloud started and exposed Stop reading, and stopping worked.
-- The teacher source panel contained 51 artist sections. Browser inspection found zero outgoing HTTP anchors.
-- Mobile timeline and artist-profile views measured 375px content within a 375px viewport, without horizontal overflow. Tablet index/comparison views at 768px and desktop index/profile views at 1280px also had no measured horizontal overflow; layouts were visually inspected.
+- Validation covers all 51 profiles, local files, 270 matching credit records, 228 artwork records, 21 galleries at ten, matching coverage reports, distinct per-artist work keys, and specific corrected historical dates.
+- JavaScript syntax passes. Static checks verify no outgoing student links, remote resource references, outbound request code, frames or forms. The content policy blocks remote resources and application connections.
+- Galleries appear after the overview, before the career timeline. Index cards and profile buttons show actual image counts. Significant-work studies display a thumbnail only for a matching actual artwork.
+- Browser checks covered Leonardo’s ten-work gallery, Rivera’s ten-work gallery, Catlett’s single-work gallery, and Kahlo’s empty gallery. Empty states distinguish written studies from images.
+- The larger-image viewer opened a selected work, advanced and returned with buttons, and accepted the left arrow key. A single-work viewer disabled both navigation buttons.
+- The teacher coverage table displayed all 51 artists and their counts. Artist selection closed the teacher panel and opened the profile. Detailed audit reasons and checked sources appear as plain text in its source section.
+- No horizontal overflow was measured in gallery views at 375px, 768px and 1280px. Mobile and desktop layouts were visually inspected. Images outside the viewport are intentionally lazy-loaded; every local image was independently decoded.
+- Notebook removal remains guarded: no notebook route, writing field, note-storage key, reflection editor or export action. Navigation remains Explore, Timeline, Compare and Challenge lab.
 
-## Notebook removal update
+## Earlier regression checks
 
-The student notebook, saved reflections, comparison-note button, creative-brief writing field, export/download code, note routes, and note-storage reads/writes have been removed. Navigation now contains Explore, Timeline, Compare, and Challenge lab. The artist quiz occupies the full available panel width. The teacher desk resets completed challenges only, using an in-page confirmation.
+The original delivery browser pass opened all 51 profiles, checked search and combined filters, timeline ordering, quizzes, comparisons, creative briefs, medium explanations, image magnification and local read-aloud controls. Notebook removal also received a browser regression pass. This expansion used representative browser cases plus all-record structural/asset checks; a long repeat browser sweep timed out and is not claimed as a completed new all-profile pass.
 
-Regression checks assert that there is no notebook route, note editor, note-storage key, export action, or textarea in the application. Browser checks of the index, artist profile, comparison view, and challenge lab found zero writing fields and zero notebook/export controls. Navigation showed only Explore, Timeline, Compare, and Challenge lab. An artist quiz still accepted a correct answer; the teacher progress reset cleared its completion marker and enabled the choices again.
+## Limits
 
-## Verification limits
+This is not a complete screen-reader or physical classroom-device audit. Audible quality and name pronunciation were not assessed. Local voices, touch behaviour, storage policy and school restrictions should be checked on the actual devices. Public-domain status and panorama exceptions can differ across jurisdictions; the documented evidence does not confer additional rights.
 
-Audible voice quality and artist-name pronunciation were not assessed. This is not a complete screen-reader audit or physical-device test on a managed school iPad/Chromebook. Browser storage restrictions, touch input, installed offline voices, and school network policies should be checked on the target devices.
+## Publication
 
-## Publication verification
-
-The separate `kraaly53/art-in-context-78` repository published successfully through GitHub Actions. The public Grade 7–8 home page, artist-data file, and an additional mural image returned HTTP 200. The original Little Artist Explorers site also returned HTTP 200, and its repository main commit remained `fdffa31fd645e57775e105e44987ac6b53dd117d`. The original working tree remained clean.
-
-## Image coverage
-
-Full imagery remains incomplete. Twenty-three artist profiles have written work studies without a cleared artwork reproduction; nine have no verified portrait. The exact gaps are listed in IMAGE-PERMISSIONS.md. The site does not display substitute graphics as an artist’s own work.
+The Grade 7–8 site uses the existing separate repository and GitHub Pages workflow. The earlier Little Artist Explorers repository is outside this update. Publication status for this expansion is recorded in the accompanying delivery message.
