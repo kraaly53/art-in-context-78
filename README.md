@@ -13,10 +13,10 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 - 42 portraits and 28 rights-documented artwork reproductions, with magnification and credits. Twenty-three artists currently have written work studies without a cleared artwork image; see [image permissions](IMAGE-PERMISSIONS.md).
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
 - A chronological overview, side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
-- Creative briefs with constraints, context-based quizzes, and a notebook for claims supported by visual evidence and historical context.
+- Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.
 - Device-local English read-aloud. No microphone permission is used.
 
-There are no student accounts, ads, external media embeds, outgoing clickable student links, uploads, analytics, or server-side storage. Source and licence addresses are shown as plain text. Student notes and completed quizzes are held in this tab’s session storage. Students can export a text notebook through the device’s download system.
+There are no student accounts, ads, external media embeds, outgoing clickable student links, uploads, analytics, or server-side storage. Source and licence addresses are shown as plain text. Only completed-quiz markers and comparison choices are held in this tab’s session storage. There are no student writing fields or saved reflections.
 
 ## Run locally
 
@@ -41,7 +41,7 @@ For school hosting, upload the contents of `dist` together, preserving relative 
 ## Edit content
 
 - `dist/artists.js` contains `window.ARTISTS`: biographies, media, timelines, work studies, impact paragraphs, quizzes, image galleries, and source addresses.
-- `dist/app.js` implements navigation, filtering, comparison, notebook, game, creative briefs, glossary explanations, and speech.
+- `dist/app.js` implements navigation, filtering, comparison, game, creative briefs, glossary explanations, and speech.
 - `dist/styles.css` and `dist/index.html` define the layout, shell, content policy, and teacher desk.
 - `dist/assets` holds local images. The teacher desk’s credit list is generated from the data.
 
@@ -58,7 +58,7 @@ Image changes must include a verified reuse basis, accurate title/date, useful a
 - [IMAGE-PERMISSIONS.md](IMAGE-PERMISSIONS.md): the exact image gaps and completion process.
 - [TEST-REPORT.md](TEST-REPORT.md): completed checks and practical limits.
 
-The original classroom photos and pupil artworks are not redistributed. Preview all images before a lesson; one Dalí sculpture photograph contains nonsexual figurative anatomy. Read-aloud quality and downloads depend on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
+The original classroom photos and pupil artworks are not redistributed. Preview all images before a lesson; one Dalí sculpture photograph contains nonsexual figurative anatomy. Read-aloud quality depends on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
 
 ## Reuse
 

@@ -16,20 +16,21 @@ Checked 18 November 2026.
 - JavaScript syntax and selected reviewed-date assertions passed. Static checks found no outbound request code, external resource references, embedded frames, or outgoing student links. The content policy blocks remote resources and application connections.
 - Opened all 51 artist profiles through browser navigation. Each showed the expected name, three timeline items, at least two work studies, three quiz choices, and a source section. No broken completed image loads were observed during this pass.
 - Search and combined media/perspective filtering worked. Combining photography and power/politics isolated Dorothea Lange. The early timeline filter showed 12 chronologically ordered career moments.
-- A wrong quiz response invited reconsideration; a correct response recorded a completed challenge. A written artist reflection appeared in the notebook. Comparison selection and notebook navigation worked.
+- A wrong quiz response invited reconsideration; a correct response recorded a completed challenge. Comparison selection and navigation worked.
 - The timeline-order game rejected a later event, accepted The Scream (1893), Composition VIII (1923), and Guernica (1937) in order, then displayed a solved sequence. Creative-brief theme changes generated a corresponding prompt and constraint.
 - A medium explanation opened and closed as a dialog. Artwork magnification opened and closed. Local read-aloud started and exposed Stop reading, and stopping worked.
 - The teacher source panel contained 51 artist sections. Browser inspection found zero outgoing HTTP anchors.
 - Mobile timeline and artist-profile views measured 375px content within a 375px viewport, without horizontal overflow. Tablet index/comparison views at 768px and desktop index/profile views at 1280px also had no measured horizontal overflow; layouts were visually inspected.
-- The notebook export button executed and announced the download request. The downloaded file was not independently opened; confirm download permissions on the school’s actual devices.
 
-## Resolved browser-test interruption
+## Notebook removal update
 
-An initial native confirmation dialog stalled automated input. It was replaced with an in-page, two-choice confirmation for notebook deletion and session reset. The replacement was then tested: Keep my work returned to the teacher desk; Clear this work removed the temporary test note; the notebook showed zero entries and zero completed challenges. The browser interaction resumed successfully after the old native dialog was dismissed.
+The student notebook, saved reflections, comparison-note button, creative-brief writing field, export/download code, note routes, and note-storage reads/writes have been removed. Navigation now contains Explore, Timeline, Compare, and Challenge lab. The artist quiz occupies the full available panel width. The teacher desk resets completed challenges only, using an in-page confirmation.
+
+Regression checks assert that there is no notebook route, note editor, note-storage key, export action, or textarea in the application. Browser checks of the index, artist profile, comparison view, and challenge lab found zero writing fields and zero notebook/export controls. Navigation showed only Explore, Timeline, Compare, and Challenge lab. An artist quiz still accepted a correct answer; the teacher progress reset cleared its completion marker and enabled the choices again.
 
 ## Verification limits
 
-Audible voice quality and artist-name pronunciation were not assessed. This is not a complete screen-reader audit or physical-device test on a managed school iPad/Chromebook. Browser storage restrictions, touch input, downloads, installed offline voices, and school network policies should be checked on the target devices.
+Audible voice quality and artist-name pronunciation were not assessed. This is not a complete screen-reader audit or physical-device test on a managed school iPad/Chromebook. Browser storage restrictions, touch input, installed offline voices, and school network policies should be checked on the target devices.
 
 ## Publication verification
 
