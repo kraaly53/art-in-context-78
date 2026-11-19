@@ -488,8 +488,8 @@ window.ARTISTS = [
         "date": "from 1470 until 1475",
         "medium": "",
         "alt": "John pours water over Jesus while two angels kneel beside a river.",
-        "credit": "Andrea del Verrocchio / Leonardo da Vinci · CC BY-SA 4.0",
-        "creator": "Andrea del Verrocchio / Leonardo da Vinci",
+        "credit": "Artwork: Andrea del Verrocchio and Leonardo da Vinci; photograph: Justin Benttinen · CC BY-SA 4.0",
+        "creator": "Andrea del Verrocchio and Leonardo da Vinci",
         "source": "https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -497,7 +497,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:thebaptismofchristverrocchioandleonardo",
         "sourceFile": "File:The Baptism of Christ (Verrocchio and Leonardo).jpg",
-        "sourceDate": "from 1470 until 1475"
+        "sourceDate": "from 1470 until 1475",
+        "photographer": "Justin Benttinen"
       },
       {
         "path": "assets/gallery-classic/03-07.webp",
@@ -522,8 +523,8 @@ window.ARTISTS = [
         "date": "1481–1482",
         "medium": "",
         "alt": "A crowd gathers around Mary and the infant Jesus beneath trees and unfinished buildings.",
-        "credit": "Justin Benttinen · CC BY-SA 4.0",
-        "creator": "Justin Benttinen",
+        "credit": "Artwork: Leonardo da Vinci; photograph: Justin Benttinen · CC BY-SA 4.0",
+        "creator": "Leonardo da Vinci",
         "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -532,7 +533,8 @@ window.ARTISTS = [
         "workKey": "03:adorationofthemagi",
         "sourceFile": "File:Adoration of the Magi (Leonardo).jpg",
         "sourceDate": "2023-09-13 03:54:38",
-        "dateSource": "https://www.uffizi.it/en/video/the-adoration-of-the-magi-by-leonardo"
+        "dateSource": "https://www.uffizi.it/en/video/the-adoration-of-the-magi-by-leonardo",
+        "photographer": "Justin Benttinen"
       },
       {
         "path": "assets/gallery-classic/03-09.webp",
@@ -577,7 +579,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }
@@ -2682,8 +2685,8 @@ window.ARTISTS = [
         "date": "1909",
         "medium": "",
         "alt": "A small house and garden shimmer with separate dabs of bright colour.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Kleines_Haus_in_der_Sonne,_1909_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2691,7 +2694,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:smallhouseinsunlight",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Kleines Haus in der Sonne, 1909 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 12:19:55"
+        "sourceDate": "2023-08-26 12:19:55",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-04.webp",
@@ -2699,8 +2703,8 @@ window.ARTISTS = [
         "date": "1909",
         "medium": "",
         "alt": "A tall pink lighthouse rises against a softly dotted blue sky.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Leuchtturm_bei_Westkapelle,_1909_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2708,7 +2712,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:lighthouseatwestkapelle",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Leuchtturm bei Westkapelle, 1909 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 12:19:20"
+        "sourceDate": "2023-08-26 12:19:20",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-05.webp",
@@ -2716,8 +2721,8 @@ window.ARTISTS = [
         "date": "1908",
         "medium": "",
         "alt": "A purple windmill stands against a glowing evening sky.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_M%C3%BChle_bei_Domburg,_1908_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2725,7 +2730,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:millatdomburg",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Mühle bei Domburg, 1908 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 12:19:04"
+        "sourceDate": "2023-08-26 12:19:04",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-06.webp",
@@ -2733,8 +2739,8 @@ window.ARTISTS = [
         "date": "1909",
         "medium": "",
         "alt": "Pale dunes and sea are built from small soft touches of colour.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Pointillistische_Studie._D%C3%BCnen_und_Meer,_1909_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2742,7 +2748,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:pointilliststudydunesandsea",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Pointillistische Studie. Dünen und Meer, 1909 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 14:19:45"
+        "sourceDate": "2023-08-26 14:19:45",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-07.webp",
@@ -2750,8 +2757,8 @@ window.ARTISTS = [
         "date": "1919",
         "medium": "",
         "alt": "A rectangular grid contains many small red, blue and orange blocks.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Rasterkomposition_8._Schachbrettkomposition_mit_dunklen_Farben,_1919_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2759,7 +2766,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:compositionwithgrid8",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Rasterkomposition 8. Schachbrettkomposition mit dunklen Farben, 1919 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 12:09:16"
+        "sourceDate": "2023-08-26 12:09:16",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-08.webp",
@@ -2767,8 +2775,8 @@ window.ARTISTS = [
         "date": "1908",
         "medium": "",
         "alt": "A line of slender trees glows above a canal in warm sunset colours.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Reihe_von_elf_Pappeln_in_Rot,_Gelb,_Blau_und_Gr%C3%BCn,_1908_-_Museum_de_Fundatie,_Zwolle.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2776,7 +2784,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:rowofelevenpoplars",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Reihe von elf Pappeln in Rot, Gelb, Blau und Grün, 1908 - Museum de Fundatie, Zwolle.jpg",
-        "sourceDate": "2023-08-26 12:18:10"
+        "sourceDate": "2023-08-26 12:18:10",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-09.webp",
@@ -2784,8 +2793,8 @@ window.ARTISTS = [
         "date": "1917",
         "medium": "",
         "alt": "A dark windmill silhouette rises above a grassy mound under a patterned sky.",
-        "credit": "GodeNehler · CC BY-SA 4.0",
-        "creator": "GodeNehler",
+        "credit": "Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0",
+        "creator": "Piet Mondrian",
         "source": "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Windm%C3%BChle_am_Abend,_1917_-_Kunstmuseum_Den_Haag.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -2793,7 +2802,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:windmillintheevening",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Windmühle am Abend, 1917 - Kunstmuseum Den Haag.jpg",
-        "sourceDate": "2023-08-26 12:08:24"
+        "sourceDate": "2023-08-26 12:08:24",
+        "photographer": "GodeNehler"
       },
       {
         "path": "assets/gallery-classic/16-10.webp",
@@ -2821,7 +2831,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }
@@ -4527,8 +4538,8 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "Two seated figures face one another in a dim room with light crossing the wall.",
-        "credit": "Kamal-ol-molk · CC BY 4.0",
-        "creator": "Kamal-ol-molk",
+        "credit": "Artwork: Kamal-ol-Molk; photograph: Mardetanha · CC BY 4.0",
+        "creator": "Kamal-ol-Molk",
         "source": "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_20.jpg",
         "license": "CC BY 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -4536,7 +4547,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:thefortuneteller",
         "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7827 20.jpg",
-        "sourceDate": "7 February 2024, 10:41:55"
+        "sourceDate": "7 February 2024, 10:41:55",
+        "photographer": "Mardetanha"
       },
       {
         "path": "assets/gallery-classic/27-06.webp",
@@ -4544,8 +4556,8 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "An ornate palace interior surrounds a sunken pool.",
-        "credit": "Kamal-ol-molk · CC BY 4.0",
-        "creator": "Kamal-ol-molk",
+        "credit": "Artwork: Kamal-ol-Molk; photograph: Mardetanha · CC BY 4.0",
+        "creator": "Kamal-ol-Molk",
         "source": "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7959_20.jpg",
         "license": "CC BY 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
@@ -4553,7 +4565,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:golestanpalacespringhouse",
         "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7959 20.jpg",
-        "sourceDate": "7 February 2024, 12:59:47"
+        "sourceDate": "7 February 2024, 12:59:47",
+        "photographer": "Mardetanha"
       },
       {
         "path": "assets/gallery-classic/27-07.webp",
@@ -4632,7 +4645,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }
@@ -4849,7 +4863,7 @@ window.ARTISTS = [
         "date": "c. 1882–1883",
         "medium": "",
         "alt": "A white house with a red roof appears behind trees and garden foliage.",
-        "credit": "Georges Seurat · CC BY-SA 4.0",
+        "credit": "Artwork: Georges Seurat; reproduction source: ayay.co.uk; no separate reproduction author named on source file · CC BY-SA 4.0",
         "creator": "Georges Seurat",
         "source": "https://commons.wikimedia.org/wiki/File:Seurat_-_Houses_At_Le_Raincy.jpg",
         "license": "CC BY-SA 4.0",
@@ -4858,7 +4872,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:housesatleraincy",
         "sourceFile": "File:Seurat - Houses At Le Raincy.jpg",
-        "sourceDate": "19th century"
+        "sourceDate": "19th century",
+        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained."
       },
       {
         "path": "assets/gallery-classic/28-10.webp",
@@ -4866,7 +4881,7 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "A standing performer wears a loose white costume decorated with dark patches.",
-        "credit": "Georges Seurat · CC BY-SA 4.0",
+        "credit": "Artwork: Georges Seurat; reproduction source: le-blog-de-mcbalson-palys.over-blog.com; no separate reproduction author named on source file · CC BY-SA 4.0",
         "creator": "Georges Seurat",
         "source": "https://commons.wikimedia.org/wiki/File:Seurat_-_Pierrot.jpg",
         "license": "CC BY-SA 4.0",
@@ -4875,7 +4890,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:pierrot",
         "sourceFile": "File:Seurat - Pierrot.jpg",
-        "sourceDate": "1883"
+        "sourceDate": "1883",
+        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained."
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -4886,7 +4902,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }
@@ -6109,8 +6126,8 @@ window.ARTISTS = [
         "date": "1501–1504",
         "medium": "",
         "alt": "A marble figure stands with one hand near his shoulder and his weight shifted onto one leg.",
-        "credit": "Commonists · CC BY-SA 4.0",
-        "creator": "Commonists",
+        "credit": "Artwork: Michelangelo; photograph: Commonists · CC BY-SA 4.0",
+        "creator": "Michelangelo",
         "source": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -6120,7 +6137,8 @@ window.ARTISTS = [
         "sourceFile": "File:Michelangelo's David - right view 2.jpg",
         "sourceDate": "2021-08-01 11:59:28",
         "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
-        "dateSource": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+        "dateSource": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+        "photographer": "Commonists"
       },
       {
         "path": "assets/gallery-classic/37-03.webp",
@@ -6128,8 +6146,8 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "Mary sits holding the body of Jesus across her lap in a marble sculpture.",
-        "credit": "original file by Stanislav Traykov · CC BY 2.5",
-        "creator": "original file by Stanislav Traykov",
+        "credit": "Artwork: Michelangelo; photograph: Stanislav Traykov (original photograph) · CC BY 2.5",
+        "creator": "Michelangelo",
         "source": "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg",
         "license": "CC BY 2.5",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -6137,7 +6155,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "37:pieta",
         "sourceFile": "File:Pieta de Michelangelo - Vaticano.jpg",
-        "sourceDate": "2008"
+        "sourceDate": "2008",
+        "photographer": "Stanislav Traykov (original photograph)"
       },
       {
         "path": "assets/gallery-classic/37-04.webp",
@@ -6216,8 +6235,8 @@ window.ARTISTS = [
         "date": "1513–1515",
         "medium": "",
         "alt": "A marble figure raises one arm behind his head and rests the other across his chest.",
-        "credit": "Neil Turner from Sowerby Bridge, United Kingdom · CC BY-SA 2.0",
-        "creator": "Neil Turner from Sowerby Bridge, United Kingdom",
+        "credit": "Artwork: Michelangelo; photograph: Neil Turner · CC BY-SA 2.0",
+        "creator": "Michelangelo",
         "source": "https://commons.wikimedia.org/wiki/File:Dying_Slave_by_Michelangelo,_Mus%C3%A9e_de_Louvre,_8_May_2013.jpg",
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -6227,7 +6246,8 @@ window.ARTISTS = [
         "sourceFile": "File:Dying Slave by Michelangelo, Musée de Louvre, 8 May 2013.jpg",
         "sourceDate": "2013-05-08 10:15",
         "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
-        "dateSource": "https://collections.louvre.fr/en/ark%3A/53355/cl010091872"
+        "dateSource": "https://collections.louvre.fr/en/ark%3A/53355/cl010091872",
+        "photographer": "Neil Turner"
       },
       {
         "path": "assets/gallery-classic/37-09.webp",
@@ -6235,7 +6255,7 @@ window.ARTISTS = [
         "date": "between 1501 and 1504",
         "medium": "",
         "alt": "Mary sits with the infant Jesus standing between her knees in a marble sculpture.",
-        "credit": "Michelangelo · CC BY-SA 3.0",
+        "credit": "Artwork: Michelangelo; photograph: Elke Wetzig (Elya) · CC BY-SA 3.0",
         "creator": "Michelangelo",
         "source": "https://commons.wikimedia.org/wiki/File:Madonna_michelangelo.jpg",
         "license": "CC BY-SA 3.0",
@@ -6244,7 +6264,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "37:madonnaofbruges",
         "sourceFile": "File:Madonna michelangelo.jpg",
-        "sourceDate": "between 1501 and 1504"
+        "sourceDate": "between 1501 and 1504",
+        "photographer": "Elke Wetzig (Elya)"
       },
       {
         "path": "assets/gallery-classic/37-10.webp",
@@ -6252,8 +6273,8 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "Several marble figures support the body of Jesus beneath a hooded figure.",
-        "credit": "Marie-Lan Nguyen · CC BY 2.5",
-        "creator": "Marie-Lan Nguyen",
+        "credit": "Artwork: Michelangelo; photograph: Marie-Lan Nguyen (Jastrow) · CC BY 2.5",
+        "creator": "Michelangelo",
         "source": "https://commons.wikimedia.org/wiki/File:Pieta_Bandini_Opera_Duomo_Florence_n01.jpg",
         "license": "CC BY 2.5",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
@@ -6261,7 +6282,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "37:thedeposition",
         "sourceFile": "File:Pieta Bandini Opera Duomo Florence n01.jpg",
-        "sourceDate": "2012-09-10"
+        "sourceDate": "2012-09-10",
+        "photographer": "Marie-Lan Nguyen (Jastrow)"
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -6272,7 +6294,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }
@@ -6893,8 +6916,8 @@ window.ARTISTS = [
         "date": "Artwork date not verified",
         "medium": "",
         "alt": "A dark Mount Fuji rises above clouds as angular lightning crosses its lower slopes.",
-        "credit": "Sailko · CC BY 3.0",
-        "creator": "Sailko",
+        "credit": "Artwork: Hokusai; photograph: Sailko · CC BY 3.0",
+        "creator": "Hokusai",
         "source": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_tempesta_sotto_la_vetta,_dalla_serie_delle_36_vedute_del_monte_fuji,_1831_ca.jpg",
         "license": "CC BY 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
@@ -6902,7 +6925,8 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:thunderstormbeneaththesummit",
         "sourceFile": "File:Katsushika Hokusai, tempesta sotto la vetta, dalla serie delle 36 vedute del monte fuji, 1831 ca.jpg",
-        "sourceDate": "2017-11-07 05:45:59"
+        "sourceDate": "2017-11-07 05:45:59",
+        "photographer": "Sailko"
       },
       {
         "path": "assets/gallery-classic/41-09.webp",
@@ -6964,7 +6988,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+        "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+        "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
       ],
       "searchNotes": "Curated major works plus distinct source-catalogued works; no alternate crops counted."
     }

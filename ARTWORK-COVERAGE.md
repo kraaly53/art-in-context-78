@@ -88,6 +88,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Raphael — 10/10
 
@@ -208,6 +209,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Yayoi Kusama — 0/10
 
@@ -320,6 +322,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Georges Seurat — 10/10
 
@@ -330,6 +333,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Roy Lichtenstein — 3/10
 
@@ -423,6 +427,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Edvard Munch — 10/10
 
@@ -468,6 +473,7 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
+- CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
 ### Jacob Lawrence — 0/10
 

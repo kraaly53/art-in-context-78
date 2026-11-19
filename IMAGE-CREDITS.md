@@ -155,7 +155,7 @@
 ## The Baptism of Christ (Verrocchio and Leonardo)
 - File: `assets/gallery-classic/03-06.webp`
 - Artist ID: 03 · Type: work
-- Creator/credit: Andrea del Verrocchio / Leonardo da Vinci · CC BY-SA 4.0
+- Creator/credit: Artwork: Andrea del Verrocchio and Leonardo da Vinci; photograph: Justin Benttinen · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -173,7 +173,7 @@
 ## Adoration of the Magi
 - File: `assets/gallery-classic/03-08.webp`
 - Artist ID: 03 · Type: work
-- Creator/credit: Justin Benttinen · CC BY-SA 4.0
+- Creator/credit: Artwork: Leonardo da Vinci; photograph: Justin Benttinen · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -805,7 +805,7 @@
 ## Small House in Sunlight
 - File: `assets/gallery-classic/16-03.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Kleines_Haus_in_der_Sonne,_1909_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -814,7 +814,7 @@
 ## Lighthouse at Westkapelle
 - File: `assets/gallery-classic/16-04.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Leuchtturm_bei_Westkapelle,_1909_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -823,7 +823,7 @@
 ## Mill at Domburg
 - File: `assets/gallery-classic/16-05.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_M%C3%BChle_bei_Domburg,_1908_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -832,7 +832,7 @@
 ## Pointillist Study: Dunes and Sea
 - File: `assets/gallery-classic/16-06.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Pointillistische_Studie._D%C3%BCnen_und_Meer,_1909_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -841,7 +841,7 @@
 ## Composition with Grid 8
 - File: `assets/gallery-classic/16-07.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Rasterkomposition_8._Schachbrettkomposition_mit_dunklen_Farben,_1919_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -850,7 +850,7 @@
 ## Row of Eleven Poplars
 - File: `assets/gallery-classic/16-08.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Reihe_von_elf_Pappeln_in_Rot,_Gelb,_Blau_und_Gr%C3%BCn,_1908_-_Museum_de_Fundatie,_Zwolle.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -859,7 +859,7 @@
 ## Windmill in the Evening
 - File: `assets/gallery-classic/16-09.webp`
 - Artist ID: 16 · Type: work
-- Creator/credit: GodeNehler · CC BY-SA 4.0
+- Creator/credit: Artwork: Piet Mondrian; photograph: GodeNehler · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Windm%C3%BChle_am_Abend,_1917_-_Kunstmuseum_Den_Haag.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1369,7 +1369,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## The Fortune Teller
 - File: `assets/gallery-classic/27-05.webp`
 - Artist ID: 27 · Type: work
-- Creator/credit: Kamal-ol-molk · CC BY 4.0
+- Creator/credit: Artwork: Kamal-ol-Molk; photograph: Mardetanha · CC BY 4.0
 - Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_20.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1378,7 +1378,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Golestan Palace Springhouse
 - File: `assets/gallery-classic/27-06.webp`
 - Artist ID: 27 · Type: work
-- Creator/credit: Kamal-ol-molk · CC BY 4.0
+- Creator/credit: Artwork: Kamal-ol-Molk; photograph: Mardetanha · CC BY 4.0
 - Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7959_20.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1502,7 +1502,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Houses at Le Raincy
 - File: `assets/gallery-classic/28-09.webp`
 - Artist ID: 28 · Type: work
-- Creator/credit: Georges Seurat · CC BY-SA 4.0
+- Creator/credit: Artwork: Georges Seurat; reproduction source: ayay.co.uk; no separate reproduction author named on source file · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Seurat_-_Houses_At_Le_Raincy.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1511,7 +1511,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Pierrot
 - File: `assets/gallery-classic/28-10.webp`
 - Artist ID: 28 · Type: work
-- Creator/credit: Georges Seurat · CC BY-SA 4.0
+- Creator/credit: Artwork: Georges Seurat; reproduction source: le-blog-de-mcbalson-palys.over-blog.com; no separate reproduction author named on source file · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Seurat_-_Pierrot.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1799,7 +1799,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## David
 - File: `assets/gallery-classic/37-02.webp`
 - Artist ID: 37 · Type: work
-- Creator/credit: Commonists · CC BY-SA 4.0
+- Creator/credit: Artwork: Michelangelo; photograph: Commonists · CC BY-SA 4.0
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Source: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1808,7 +1808,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Pietà
 - File: `assets/gallery-classic/37-03.webp`
 - Artist ID: 37 · Type: work
-- Creator/credit: original file by Stanislav Traykov · CC BY 2.5
+- Creator/credit: Artwork: Michelangelo; photograph: Stanislav Traykov (original photograph) · CC BY 2.5
 - Licence: CC BY 2.5 https://creativecommons.org/licenses/by/2.5
 - Source: https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1853,7 +1853,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Dying Slave
 - File: `assets/gallery-classic/37-08.webp`
 - Artist ID: 37 · Type: work
-- Creator/credit: Neil Turner from Sowerby Bridge, United Kingdom · CC BY-SA 2.0
+- Creator/credit: Artwork: Michelangelo; photograph: Neil Turner · CC BY-SA 2.0
 - Licence: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
 - Source: https://commons.wikimedia.org/wiki/File:Dying_Slave_by_Michelangelo,_Mus%C3%A9e_de_Louvre,_8_May_2013.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1862,7 +1862,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Madonna of Bruges
 - File: `assets/gallery-classic/37-09.webp`
 - Artist ID: 37 · Type: work
-- Creator/credit: Michelangelo · CC BY-SA 3.0
+- Creator/credit: Artwork: Michelangelo; photograph: Elke Wetzig (Elya) · CC BY-SA 3.0
 - Licence: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
 - Source: https://commons.wikimedia.org/wiki/File:Madonna_michelangelo.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -1871,7 +1871,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## The Deposition
 - File: `assets/gallery-classic/37-10.webp`
 - Artist ID: 37 · Type: work
-- Creator/credit: Marie-Lan Nguyen · CC BY 2.5
+- Creator/credit: Artwork: Michelangelo; photograph: Marie-Lan Nguyen (Jastrow) · CC BY 2.5
 - Licence: CC BY 2.5 https://creativecommons.org/licenses/by/2.5
 - Source: https://commons.wikimedia.org/wiki/File:Pieta_Bandini_Opera_Duomo_Florence_n01.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
@@ -2054,7 +2054,7 @@ Andrew_Wyeth-George_W_Bush.jpg: NEA photographer Michael Stewart · Public domai
 ## Thunderstorm Beneath the Summit
 - File: `assets/gallery-classic/41-07.webp`
 - Artist ID: 41 · Type: work
-- Creator/credit: Sailko · CC BY 3.0
+- Creator/credit: Artwork: Hokusai; photograph: Sailko · CC BY 3.0
 - Licence: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
 - Source: https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_tempesta_sotto_la_vetta,_dalla_serie_delle_36_vedute_del_monte_fuji,_1831_ca.jpg
 - Changes: Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.
