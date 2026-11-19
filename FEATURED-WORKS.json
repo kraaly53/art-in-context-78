@@ -41,14 +41,15 @@
   {
     "id": "04",
     "artist": "Raphael",
-    "title": "The School of Athens",
-    "path": "assets/04-artwork.webp",
-    "key": "04:theschoolofathens",
-    "status": "iconic",
-    "reason": "Canonical monumental Raphael fresco, individually interpreted by the Vatican Museums. Selected as the widely recognised signature image, without claiming a measured global fame ranking against the Sistine Madonna.",
+    "title": "Portrait of Baldassare Castiglione",
+    "path": "assets/gallery-classic/04-08.webp",
+    "key": "04:portraitofbaldassarecastiglione",
+    "status": "representative",
+    "reason": "A widely recognised Raphael portrait in the Louvre, selected in place of The School of Athens because the full fresco includes a nude statue. Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
-    ]
+      "https://commons.wikimedia.org/wiki/File:Baldassare_Castiglione,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "05",
@@ -65,29 +66,28 @@
   {
     "id": "06",
     "artist": "Paul Cézanne",
-    "title": "The Card Players",
-    "path": "assets/gallery-classic/06-09.webp",
-    "key": "06:thecardplayers",
-    "status": "iconic",
-    "reason": "The Courtauld describes the Card Players paintings as among Cézanne’s most iconic works. Select the actual Musée d’Orsay two-player painting already in this gallery, not another version or a study; the museum dates this version 1893–1896, superseding the gallery’s broad 1890 caption.",
+    "title": "The Basket of Apples",
+    "path": "assets/06-artwork.webp",
+    "key": "06:thebasketofapples",
+    "status": "representative",
+    "reason": "A major Cézanne still life held by the Art Institute of Chicago, selected in place of The Card Players because that image contains a smoking pipe. This school-appropriate feature represents his influential still-life practice.",
     "sources": [
-      "https://courtauld.ac.uk/gallery/exhibitions/cezannes-card-players/",
-      "https://www.musee-orsay.fr/fr/oeuvres/les-joueurs-de-cartes-1312"
+      "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg"
     ],
-    "version": "Musée d’Orsay, RF 1969; two-player composition"
+    "schoolAppropriateOverride": true
   },
   {
     "id": "07",
     "artist": "Frida Kahlo",
-    "title": "The Two Fridas",
-    "path": "assets/featured-classic/07-the-two-fridas.webp",
-    "key": "07:thetwofridas",
-    "status": "iconic",
-    "reason": "Mexico’s INBAL identifies the original 1939 painting as one of Kahlo’s most recognised works and a central work of the Museo de Arte Moderno collection. Stronger canonical lead than an availability-driven choice of another self-portrait; fame among Kahlo’s self-portraits is not an objectively unique ranking.",
+    "title": "The Frame (painting)",
+    "path": "assets/education-modern/07-the-frame-painting.webp",
+    "key": "07:theframepainting",
+    "status": "representative",
+    "reason": "The Centre Pompidou’s distinctive framed self-portrait is a well-known, fully clothed Kahlo work. It replaces The Two Fridas because that painting shows exposed hearts and blood. Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno",
-      "https://inba.gob.mx/prensa/23902/la-coleccion-redes-y-trayectorias-del-arte-mexicano-1910-1950-abre-al-publico-en-el-museo-de-arte-moderno"
-    ]
+      "https://en.wikipedia.org/wiki/The_Frame_(painting)"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "08",
@@ -245,15 +245,15 @@
   {
     "id": "20",
     "artist": "Diego Rivera",
-    "title": "Detroit Industry murals (North Wall)",
-    "path": "assets/education-famous/20-detroit-industry.webp",
-    "key": "20:detroitindustrymuralsnorthwall",
-    "status": "iconic",
-    "reason": "The Detroit Institute of Arts presents Detroit Industry as Rivera’s masterpiece. This is the existing North Wall view of that mural cycle, identified as a wall view rather than falsely presented as the complete27-panel installation.",
+    "title": "The Flower Carrier",
+    "path": "assets/education-famous/20-flower-carrier.webp",
+    "key": "20:theflowercarrier",
+    "status": "representative",
+    "reason": "A widely recognised Rivera painting in SFMOMA, selected as the school-appropriate feature instead of the Detroit Industry mural, whose full composition includes unclothed figures.",
     "sources": [
-      "https://dia.org/riveracourt",
-      "https://dia.org/collection/detroit-industry-murals/58537"
-    ]
+      "https://www.sfmoma.org/artwork/35.4516/"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "21",
@@ -271,14 +271,16 @@
   {
     "id": "22",
     "artist": "Pablo Picasso",
-    "title": "Guernica",
-    "path": "assets/education-famous/22-guernica.webp",
-    "key": "22:guernica",
-    "status": "iconic",
-    "reason": "The Reina Sofía identifies Guernica and its associated works as among the most representative artworks of the twentieth century. Choose the actual 1937 painting rather than the early prints; Les Demoiselles d’Avignon remains another major landmark, so a unique objective fame ranking is not asserted.",
+    "title": "Three Musicians (Philadelphia version)",
+    "path": "assets/school-reviewed/22-musicians-with-masks.webp",
+    "key": "22:school-musicians-with-masks",
+    "status": "representative",
+    "reason": "A major Cubist composition, selected as the school-appropriate Picasso feature instead of Guernica, which depicts suffering and violence. The exact version and its source are identified in the artwork record.",
     "sources": [
-      "https://museoreinasofia.es/colecciones/obra/guernica/"
-    ]
+      "https://www.philamuseum.org/objects/53963",
+      "https://www.wikiart.org/en/pablo-picasso/all-works"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "23",
@@ -363,15 +365,15 @@
   {
     "id": "29",
     "artist": "Roy Lichtenstein",
-    "title": "Whaam!",
-    "path": "assets/education-modern/29-whaam.webp",
-    "key": "29:whaam",
-    "status": "iconic",
-    "reason": "Whaam! is a canonical, widely recognised Lichtenstein comic-image diptych, held and extensively interpreted by Tate. Select the complete two-panel work already in the gallery, rather than the Barcelona sculpture or a study for the painting.",
+    "title": "Look Mickey",
+    "path": "assets/education-modern/29-look-mickey.webp",
+    "key": "29:lookmickey",
+    "status": "representative",
+    "reason": "A signature early Pop painting with familiar cartoon characters, selected as the school-appropriate feature instead of the aerial combat in Whaam! Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
-      "https://www.youtube.com/watch?v=8zCzIyN2QW8"
-    ]
+      "https://en.wikipedia.org/wiki/Look_Mickey"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "30",
@@ -466,14 +468,16 @@
   {
     "id": "37",
     "artist": "Michelangelo",
-    "title": "David",
-    "path": "assets/gallery-classic/37-02.webp",
-    "key": "37:david",
-    "status": "iconic",
-    "reason": "The Galleria dell’Accademia identifies David as Michelangelo’s most famous sculpture. Use the photograph of the original marble already supplied, not a replica; The Creation of Adam is a competing iconic painting, but David is a defensible signature artwork across media.",
+    "title": "Dome of Saint Peter’s Basilica",
+    "path": "assets/school-reviewed/37-dome-of-saint-peter-s-basilica.webp",
+    "key": "37:school:domeofsaintpetersbasilica",
+    "status": "representative",
+    "reason": "One of Michelangelo’s best-known architectural designs, selected as the school-appropriate feature instead of the nude David. The description credits the architects who completed the dome after Michelangelo’s death.",
     "sources": [
-      "https://www.galleriaaccademiafirenze.it/wp-content/uploads/2024/09/EHD-2024-information-leaflet.pdf"
-    ]
+      "https://www.basilicasanpietro.va/en/san-pietro/the-dome",
+      "https://commons.wikimedia.org/wiki/File:Dome_of_Saint_Peter%27s_Basilica_(exterior).jpg"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "38",
@@ -569,15 +573,15 @@
   {
     "id": "45",
     "artist": "Rembrandt",
-    "title": "The Night Watch",
-    "path": "assets/gallery-classic/45-02.webp",
-    "key": "45:thenightwatch",
-    "status": "iconic",
-    "reason": "The Rijksmuseum explicitly calls The Night Watch Rembrandt’s most famous painting. The existing gallery image shows that original work, making it the clear lead ahead of a self-portrait.",
+    "title": "Self-Portrait with Two Circles",
+    "path": "assets/45-artwork.webp",
+    "key": "45:selfportraitwithtwocircles",
+    "status": "representative",
+    "reason": "A celebrated late Rembrandt self-portrait in Kenwood’s collection, selected as the school-appropriate feature instead of The Night Watch, whose full composition contains firearms. Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://www.rijksmuseum.nl/en/whats-on/exhibitions/operation-night-watch",
-      "https://www.rijksmuseum.nl/en/visit/night-watch"
-    ]
+      "https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_(Kenwood).jpg"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "46",
@@ -596,14 +600,15 @@
   {
     "id": "47",
     "artist": "René Magritte",
-    "title": "The treachery of images (This is not a pipe)",
-    "path": "assets/education-context/47-w02.webp",
-    "key": "47:thetreacheryofimagesthisisnotapipe",
-    "status": "iconic",
-    "reason": "LACMA explicitly calls The Treachery of Images a seminal painting and popular cultural icon. Use the exact 1929 pipe painting already in the gallery; The Son of Man is another famous Magritte, but this selection has direct museum evidence of its iconic status.",
+    "title": "The Son of Man",
+    "path": "assets/education-context/47-w01.webp",
+    "key": "47:thesonofman",
+    "status": "representative",
+    "reason": "A widely recognised Magritte painting, selected as the school-appropriate feature instead of the smoking pipe in The Treachery of Images. Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://www.lacma.org/art/exhibition/magritte-and-contemporary-art-treachery-images"
-    ]
+      "https://www.wikiart.org/en/rene-magritte/son-of-man-1964(1)"
+    ],
+    "schoolAppropriateOverride": true
   },
   {
     "id": "48",
@@ -646,14 +651,14 @@
   {
     "id": "51",
     "artist": "Jean-Michel Basquiat",
-    "title": "Untitled (Skull; The Broad)",
-    "path": "assets/featured-modern/51-untitled-skull-1981-broad.webp",
-    "key": "51:untitledskullthebroad",
-    "status": "iconic",
-    "reason": "Use Basquiat’s canonical 1981 Untitled head painting at The Broad, often called Skull, accessionB-BASQ-2P82.32. The museum and artist estate give it extended interpretation; this is not the distinct 1982 auction head painting or The Broad’s different 1981 collage titled Untitled.",
+    "title": "Horn Players",
+    "path": "assets/education-context/51-w02.webp",
+    "key": "51:hornplayers",
+    "status": "representative",
+    "reason": "A major Basquiat painting celebrating jazz musicians, selected as the school-appropriate feature instead of the anatomical and skeletal imagery in Untitled (Skull). Classroom suitability takes priority over an absolute fame ranking.",
     "sources": [
-      "https://www.thebroad.org/art/jean-michel-basquiat/untitled",
-      "https://www.basquiat.com/news-blog/the-defining-years-notes-on-five-key-works-from-basquiat"
-    ]
+      "https://www.wikiart.org/en/jean-michel-basquiat/horn-players"
+    ],
+    "schoolAppropriateOverride": true
   }
 ]

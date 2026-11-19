@@ -1,3 +1,4 @@
+import crypto from 'node:crypto';
 import fs from 'node:fs';import path from 'node:path';import vm from 'node:vm';import assert from 'node:assert/strict';import{fileURLToPath}from'node:url';
 const root=fileURLToPath(new URL('../',import.meta.url)),dist=path.join(root,'dist');const ctx={window:{}};vm.runInNewContext(fs.readFileSync(path.join(dist,'artists.js'),'utf8'),ctx);const a=ctx.window.ARTISTS,credits=JSON.parse(fs.readFileSync(path.join(root,'IMAGE-CREDITS.json'),'utf8'));
 assert.equal(a.length,51);assert.equal(new Set(a.map(x=>x.id)).size,51);assert.equal(new Set(a.map(x=>x.name)).size,51);assert.equal(a.filter(x=>x.gallery.length).length,51);assert(a.every(x=>x.gallery.length>=10),"Each artist needs at least ten distinct artwork images");const artworkTotal=a.reduce((n,x)=>n+x.gallery.length,0);assert(artworkTotal>=510);assert.equal(a.filter(x=>x.portrait).length,42);assert.equal(credits.length,artworkTotal+42);
@@ -19,4 +20,23 @@ assert(!js.includes('a.gallery[0]'),'Lead images must use the explicit feature s
 // Dates follow the pictured work, with unknown creation dates last.
 for(const x of a){let previous=-Infinity,undated=false;for(const g of x.gallery){assert(Object.hasOwn(g,'sortYear'));assert.equal(credits.find(c=>c.path===g.path).sortYear,g.sortYear);if(g.sortYear===null){undated=true;continue}assert(Number.isInteger(g.sortYear)&&g.sortYear>=1400&&g.sortYear<=2026);assert(!undated,`${x.name}: dated work follows undated work`);assert(g.sortYear>=previous,`${x.name}: gallery out of order`);previous=g.sortYear}}
 for(const x of a)for(const g of x.gallery){if(/^Photographed/i.test(g.date)||/motif;.*pictured.*date not specified/i.test(g.date))assert.equal(g.sortYear,null)}
-console.log('PASS: all 524 works ordered by artwork year; unverified dates last; featured selections preserved.');
+console.log(`PASS: all ${artworkTotal} works ordered by artwork year; unverified dates last; featured selections preserved.`);
+
+// Approval belongs to reviewed file bytes; hiding a rejected image is insufficient.
+const schoolReview=JSON.parse(fs.readFileSync(path.join(root,'SCHOOL-CONTENT-REVIEW.json'),'utf8'));
+assert.equal(schoolReview.originalImageCount,566);assert.equal(schoolReview.approved.filter(g=>!g.path.includes('/school-reviewed/')).length+schoolReview.excluded.length,566);assert.equal(schoolReview.approved.length,credits.length);
+assert.equal(new Set(schoolReview.approved.map(g=>g.path)).size,credits.length);
+const excludedHashes=new Set(schoolReview.excluded.map(g=>g.sha256));
+for(const x of a)for(const g of [...x.gallery,...(x.portrait?[x.portrait]:[])]){
+ const review=schoolReview.approved.find(r=>r.path===g.path&&r.artistId===x.id);
+ assert(review?.decision==='approved',`Unreviewed image: ${g.path}`);
+ const hash=crypto.createHash('sha256').update(fs.readFileSync(path.join(dist,g.path))).digest('hex');
+ assert.equal(hash,review.sha256,`Image changed since visual review: ${g.path}`);
+ assert(!excludedHashes.has(hash),`Excluded image reused: ${g.path}`);
+ if(x.gallery.includes(g))assert.equal(g.schoolReview?.decision,'approved');
+}
+for(const g of schoolReview.excluded){assert(!fs.existsSync(path.join(dist,g.path)),`Excluded image still published: ${g.path}`);assert(!credits.some(c=>c.path===g.path))}
+const approvedPaths=new Set(schoolReview.approved.map(g=>g.path));
+function checkMedia(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())checkMedia(p);else if(/\.(?:webp|png|jpe?g|gif|avif)$/i.test(e.name))assert(approvedPaths.has(path.relative(dist,p).split(path.sep).join('/')),`Unlisted media in deployment: ${p}`)}}
+checkMedia(path.join(dist,'assets'));
+console.log(`PASS: ${schoolReview.approved.length} exact visually reviewed images; ${schoolReview.excluded.length} excluded images absent from deployment; no unreviewed raster assets.`);

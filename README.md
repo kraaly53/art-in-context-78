@@ -10,8 +10,8 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 ## What students can explore
 
 - 51 artist profiles with media/materials, lifespans and places, 153 career timeline moments, 103 significant-work studies, interesting facts, and separate social and art-historical impact sections.
-- 42 portraits and 524 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 51 of 51 artists meet the ten-work target. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
-- Every artist has a pinned signature artwork, shared by the index card, profile and comparison view. [Selection evidence](FEATURED-WORKS.md) distinguishes iconic works from representative choices where no single most-famous work is established.
+- 42 portraits and 515 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 51 of 51 artists meet the ten-work target. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
+- Every artist has a pinned classroom-appropriate featured artwork, shared by the index card, profile and comparison view. [Selection evidence](FEATURED-WORKS.md) distinguishes iconic works from representative choices where no single most-famous work is established.
 - Every artwork has a piece-specific **About this artwork** section in its gallery card, featured panel and enlarged viewer, with local read-aloud support.
 - Available artist portraits are larger, uncropped and open in a dedicated portrait viewer. Nine artists without a verified portrait retain their initials/anonymous symbol.
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
@@ -64,10 +64,12 @@ Image changes must include an accurate work identity/date, useful alt text, attr
 - [IMAGE-PERMISSIONS.md](IMAGE-PERMISSIONS.md): the exact image gaps and completion process.
 - [TEST-REPORT.md](TEST-REPORT.md): completed checks and practical limits.
 
-The original classroom photos and pupil artworks are not redistributed. Preview all images before a lesson; some Renaissance and modern works include nonsexual figurative anatomy. Read-aloud quality depends on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
+The original classroom photos and pupil artworks are not redistributed. The current images have been visually reviewed against the teacher’s no-nudity/no-violence rule; see SCHOOL-CONTENT-REVIEW.md. Read-aloud quality depends on the school’s actual browser and device policies. The site itself does not prevent address-bar or other-tab navigation.
 
 ## Reuse
 
 Original code is provided under MIT; original educational text is offered under CC0. Third-party media retains its individually documented rights and licence requirements. No artist or institution endorsement is implied.
 
 Profile artwork galleries run earliest to latest, using the start of date ranges. Unverified artwork dates appear last. The independently selected featured artwork stays at the top of the profile; enlarged gallery navigation follows date order.
+
+School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.

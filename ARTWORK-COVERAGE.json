@@ -1,10 +1,8 @@
 [
   {
-    "id": "01",
-    "name": "Jonathan Green",
     "target": 10,
-    "count": 11,
-    "educationalFairDealingImages": 11,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -13,14 +11,15 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "01",
+    "name": "Jonathan Green"
   },
   {
-    "id": "02",
-    "name": "William H. Johnson",
     "target": 10,
     "count": 10,
-    "educationalFairDealingImages": 0,
+    "educationalFairDealingImages": 1,
     "shortfallReason": "",
     "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
     "sourceChecks": [
@@ -29,11 +28,12 @@
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "02",
+    "name": "William H. Johnson"
   },
   {
-    "id": "03",
-    "name": "Leonardo da Vinci",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -45,11 +45,12 @@
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "03",
+    "name": "Leonardo da Vinci"
   },
   {
-    "id": "04",
-    "name": "Raphael",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -60,11 +61,12 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "04",
+    "name": "Raphael"
   },
   {
-    "id": "05",
-    "name": "Banksy",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -124,11 +126,12 @@
         "result": "Photographer’s openly published original image, with Commons source record identifying this as Banksy’s Umbrella Girl and directing to this original unblurred Flickr publication. Photographer licence CC BY-SA2.0; underlying artwork assessed separately for Canadian criticism."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "05",
+    "name": "Banksy"
   },
   {
-    "id": "06",
-    "name": "Paul Cézanne",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -139,14 +142,15 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "06",
+    "name": "Paul Cézanne"
   },
   {
-    "id": "07",
-    "name": "Frida Kahlo",
     "target": 10,
-    "count": 11,
-    "educationalFairDealingImages": 11,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -191,14 +195,15 @@
         "result": "Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "07",
+    "name": "Frida Kahlo"
   },
   {
-    "id": "08",
-    "name": "Keith Haring",
     "target": 10,
     "count": 10,
-    "educationalFairDealingImages": 7,
+    "educationalFairDealingImages": 9,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -235,14 +240,15 @@
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "08",
+    "name": "Keith Haring"
   },
   {
-    "id": "09",
-    "name": "Salvador Dalí",
     "target": 10,
     "count": 10,
-    "educationalFairDealingImages": 9,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -283,11 +289,12 @@
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "09",
+    "name": "Salvador Dalí"
   },
   {
-    "id": "10",
-    "name": "Loïs Mailou Jones",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -339,11 +346,12 @@
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "10",
+    "name": "Loïs Mailou Jones"
   },
   {
-    "id": "11",
-    "name": "Henri Rousseau",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -354,11 +362,12 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "11",
+    "name": "Henri Rousseau"
   },
   {
-    "id": "12",
-    "name": "Robert Indiana",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 9,
@@ -398,11 +407,12 @@
         "result": "Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "12",
+    "name": "Robert Indiana"
   },
   {
-    "id": "13",
-    "name": "George Rodrigue",
     "target": 10,
     "count": 11,
     "educationalFairDealingImages": 11,
@@ -450,11 +460,12 @@
         "result": "George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 11,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "13",
+    "name": "George Rodrigue"
   },
   {
-    "id": "14",
-    "name": "Emily Carr",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -466,11 +477,12 @@
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "14",
+    "name": "Emily Carr"
   },
   {
-    "id": "15",
-    "name": "Dorothea Lange",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -482,11 +494,12 @@
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "15",
+    "name": "Dorothea Lange"
   },
   {
-    "id": "16",
-    "name": "Piet Mondrian",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -498,11 +511,12 @@
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "16",
+    "name": "Piet Mondrian"
   },
   {
-    "id": "17",
-    "name": "Yayoi Kusama",
     "target": 10,
     "count": 11,
     "educationalFairDealingImages": 11,
@@ -512,11 +526,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 11
+    "descriptionCount": 11,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "17",
+    "name": "Yayoi Kusama"
   },
   {
-    "id": "18",
-    "name": "Frederic Remington",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -528,11 +543,12 @@
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "18",
+    "name": "Frederic Remington"
   },
   {
-    "id": "19",
-    "name": "Andrew Wyeth",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -542,13 +558,14 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "19",
+    "name": "Andrew Wyeth"
   },
   {
-    "id": "20",
-    "name": "Diego Rivera",
     "target": 10,
-    "count": 12,
+    "count": 10,
     "educationalFairDealingImages": 2,
     "shortfallReason": "",
     "searchNotes": "Canonical work images added for specific visual-analysis lessons, not simply to increase the gallery count.",
@@ -556,14 +573,15 @@
       "https://www.sfmoma.org/artwork/35.4516/",
       "https://dia.org/collection/detroit-industry-north-wall/58538"
     ],
-    "descriptionCount": 12
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "20",
+    "name": "Diego Rivera"
   },
   {
-    "id": "21",
-    "name": "Grant Wood",
     "target": 10,
     "count": 10,
-    "educationalFairDealingImages": 0,
+    "educationalFairDealingImages": 1,
     "shortfallReason": "",
     "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
     "sourceChecks": [
@@ -576,25 +594,27 @@
         "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "21",
+    "name": "Grant Wood"
   },
   {
-    "id": "22",
-    "name": "Pablo Picasso",
     "target": 10,
-    "count": 12,
-    "educationalFairDealingImages": 12,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Canonical work images added for specific visual-analysis lessons, not simply to increase the gallery count.",
     "sourceChecks": [
       "https://www.moma.org/collection/works/79766",
       "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
     ],
-    "descriptionCount": 12
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "22",
+    "name": "Pablo Picasso"
   },
   {
-    "id": "23",
-    "name": "Heather Galler",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -646,11 +666,12 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "23",
+    "name": "Heather Galler"
   },
   {
-    "id": "24",
-    "name": "Jeff Koons",
     "target": 10,
     "count": 11,
     "educationalFairDealingImages": 9,
@@ -694,14 +715,15 @@
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 11,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "24",
+    "name": "Jeff Koons"
   },
   {
-    "id": "25",
-    "name": "Annie Leibovitz",
     "target": 10,
-    "count": 11,
-    "educationalFairDealingImages": 11,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.",
     "sourceChecks": [
@@ -746,11 +768,12 @@
         "result": "The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "25",
+    "name": "Annie Leibovitz"
   },
   {
-    "id": "26",
-    "name": "Andy Warhol",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -760,11 +783,29 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "26",
+    "name": "Andy Warhol"
   },
   {
+    "target": 10,
+    "count": 10,
+    "educationalFairDealingImages": 0,
+    "shortfallReason": "",
+    "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
+      "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
+    ],
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
     "id": "27",
-    "name": "Kamal-ol-Molk",
+    "name": "Kamal-ol-Molk"
+  },
+  {
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -776,27 +817,12 @@
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
     ],
-    "descriptionCount": 10
-  },
-  {
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
     "id": "28",
-    "name": "Georges Seurat",
-    "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 0,
-    "shortfallReason": "",
-    "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
-    "sourceChecks": [
-      "Source file metadata checked for title, artist and image licence.",
-      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
-      "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ],
-    "descriptionCount": 10
+    "name": "Georges Seurat"
   },
   {
-    "id": "29",
-    "name": "Roy Lichtenstein",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 7,
@@ -832,11 +858,12 @@
         "result": "Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "29",
+    "name": "Roy Lichtenstein"
   },
   {
-    "id": "30",
-    "name": "Wayne Thiebaud",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -846,11 +873,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "30",
+    "name": "Wayne Thiebaud"
   },
   {
-    "id": "31",
-    "name": "Norval Morrisseau",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -898,11 +926,12 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "31",
+    "name": "Norval Morrisseau"
   },
   {
-    "id": "32",
-    "name": "Mark Rothko",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -912,11 +941,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "32",
+    "name": "Mark Rothko"
   },
   {
-    "id": "33",
-    "name": "Augusta Savage",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 8,
@@ -964,11 +994,12 @@
         "outcome": "MFA collection page and pressPDF returned403. Museum-owned Google Arts&Culture record publicly accessible and used instead."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "33",
+    "name": "Augusta Savage"
   },
   {
-    "id": "34",
-    "name": "Elizabeth Catlett",
     "target": 10,
     "count": 11,
     "educationalFairDealingImages": 11,
@@ -1020,11 +1051,12 @@
         "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 11,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "34",
+    "name": "Elizabeth Catlett"
   },
   {
-    "id": "35",
-    "name": "Paul Klee",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1035,11 +1067,12 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "35",
+    "name": "Paul Klee"
   },
   {
-    "id": "36",
-    "name": "Prudence Heward",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1055,11 +1088,12 @@
         "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "36",
+    "name": "Prudence Heward"
   },
   {
-    "id": "37",
-    "name": "Michelangelo",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1071,11 +1105,12 @@
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "37",
+    "name": "Michelangelo"
   },
   {
-    "id": "38",
-    "name": "Edvard Munch",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1086,11 +1121,12 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "38",
+    "name": "Edvard Munch"
   },
   {
-    "id": "39",
-    "name": "Faith Ringgold",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -1100,11 +1136,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "39",
+    "name": "Faith Ringgold"
   },
   {
-    "id": "40",
-    "name": "Amy Sherald",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -1115,11 +1152,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "40",
+    "name": "Amy Sherald"
   },
   {
-    "id": "41",
-    "name": "Hokusai",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1131,14 +1169,15 @@
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "41",
+    "name": "Hokusai"
   },
   {
-    "id": "42",
-    "name": "Jacob Lawrence",
     "target": 10,
-    "count": 11,
-    "educationalFairDealingImages": 11,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
     "sourceChecks": [
@@ -1187,11 +1226,12 @@
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "42",
+    "name": "Jacob Lawrence"
   },
   {
-    "id": "43",
-    "name": "David Hockney",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -1204,11 +1244,28 @@
       "No s.30.04 exception asserted; assessment relies on specific educational criticism and acknowledges public distribution.",
       "Five reference-file description texts additionally checked for credited source publishers and author; no separate reproduction photographer named. Bigger Trees Near Warter explicitly credits Simon and Karen Spavin."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "43",
+    "name": "David Hockney"
   },
   {
+    "target": 10,
+    "count": 10,
+    "educationalFairDealingImages": 0,
+    "shortfallReason": "",
+    "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
+    "sourceChecks": [
+      "Source file metadata checked for title, artist and image licence.",
+      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
+      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
+    ],
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
     "id": "44",
-    "name": "Wassily Kandinsky",
+    "name": "Wassily Kandinsky"
+  },
+  {
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 0,
@@ -1219,26 +1276,12 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10
-  },
-  {
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
     "id": "45",
-    "name": "Rembrandt",
-    "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 0,
-    "shortfallReason": "",
-    "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
-    "sourceChecks": [
-      "Source file metadata checked for title, artist and image licence.",
-      "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
-      "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ],
-    "descriptionCount": 10
+    "name": "Rembrandt"
   },
   {
-    "id": "46",
-    "name": "Ted Harrison",
     "target": 10,
     "count": 11,
     "educationalFairDealingImages": 11,
@@ -1286,11 +1329,12 @@
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
     ],
-    "descriptionCount": 11
+    "descriptionCount": 11,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "46",
+    "name": "Ted Harrison"
   },
   {
-    "id": "47",
-    "name": "René Magritte",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -1300,11 +1344,12 @@
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "47",
+    "name": "René Magritte"
   },
   {
-    "id": "48",
-    "name": "I. Rice Pereira",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 9,
@@ -1348,11 +1393,12 @@
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "48",
+    "name": "I. Rice Pereira"
   },
   {
-    "id": "49",
-    "name": "Romero Britto",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 7,
@@ -1388,11 +1434,12 @@
         "result": "Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "49",
+    "name": "Romero Britto"
   },
   {
-    "id": "50",
-    "name": "Jackson Pollock",
     "target": 10,
     "count": 10,
     "educationalFairDealingImages": 10,
@@ -1448,20 +1495,24 @@
         "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
       }
     ],
-    "descriptionCount": 10
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "50",
+    "name": "Jackson Pollock"
   },
   {
-    "id": "51",
-    "name": "Jean-Michel Basquiat",
     "target": 10,
-    "count": 11,
-    "educationalFairDealingImages": 11,
+    "count": 10,
+    "educationalFairDealingImages": 10,
     "shortfallReason": "",
     "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 11
+    "descriptionCount": 10,
+    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "id": "51",
+    "name": "Jean-Michel Basquiat"
   }
 ]

@@ -23,7 +23,7 @@ All 51 artists have media, life-date guidance, three career moments, at least tw
 
 Students can search the index, filter media and perspectives, open a chronology, compare two artists, explore medium definitions, solve a timeline-order challenge, and generate creative briefs. Discussion prompts encourage claims supported by visual evidence and context. Impact paragraphs are identified as educational synthesis, not quotations or single-cause historical proof.
 
-**Current artwork coverage:** 524 distinct artwork images and 42 portraits; 51 of 51 artists meet the ten-work target. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
+**Current artwork coverage:** 515 distinct artwork images and 42 portraits; 51 of 51 artists meet the ten-work target. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
 
 ## Files and architecture
 
@@ -50,7 +50,7 @@ Documentation and source notes outside `dist` are available through the reposito
 
 ## Artwork information and portrait viewing
 
-All 524 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
+All 515 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
 
 The 42 available portraits use larger uncropped images with an Enlarge portrait button. Their dedicated dialog includes artist identification and source credit; its close button or Escape returns focus to the portrait button. Missing portraits still use initials rather than an invented image.
 
@@ -66,7 +66,7 @@ Check both the source photo’s rights and the artwork’s underlying rights, in
 
 Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. Copyrighted educational images also require `description`, `rightsAssessment`, retained copyright credit and a maximum 640px study image; retain any separate `sourceLicense` designation. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
 
-The current checks require 51 artists, 42 portraits, matching artwork/credit totals (currently 524 works), and all 51 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
+The current checks require 51 artists, 42 portraits, matching artwork/credit totals (currently 515 works), and all 51 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
 
 ## Classroom operation
 
@@ -76,7 +76,7 @@ Read-aloud selects only installed local English voices. Its absence does not hid
 
 The site is public and does not control the address bar or other tabs. Follow school policy for kiosk/guided access or restricted hosting. The hosted version has no guaranteed offline cache; a downloaded copy served locally can operate without an internet connection.
 
-The content addresses race, inequality, cultural representation, war, anxiety, and public debate in non-graphic educational language. Some Renaissance works and modern figure studies include nonsexual anatomy; review the actual images before class. Preview the collection for the particular class. Indigenous cultures are described as living and distinct; briefs ask for students’ own symbols rather than copying sacred imagery.
+The content addresses race, inequality, cultural representation, war, anxiety, and public debate in non-graphic educational language. All current images were visually reviewed against the teacher’s no-nudity/no-violence rule, including background figures and featured works. See SCHOOL-CONTENT-REVIEW.md for the full audit and maintenance requirements. Indigenous cultures are described as living and distinct; briefs ask for students’ own symbols rather than copying sacred imagery.
 
 ## Troubleshooting and rollback
 
@@ -99,3 +99,5 @@ To undo a bad update, review the faulty commit and make a new revert commit, the
 4. Keep dates and sources current, and preserve explicit uncertainty rather than inventing an exact birth or creation year.
 
 See TEST-REPORT.md for the checks completed during delivery and any remaining verification limits. The supporting files are linked from README.md.
+
+School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.

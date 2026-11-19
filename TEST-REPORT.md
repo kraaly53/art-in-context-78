@@ -62,3 +62,11 @@ Browser checks for the pinned-feature update confirmed that Koons’s index card
 
 ## Chronological galleries
 All 524 artworks across 51 profiles validated in ascending artwork-year order; unknown creation dates appear last. Range dates use their starting year, while photo dates do not stand in for creation dates. Featured selections remain pinned independently. Browser check: Leonardo gallery starts with Baptism (1470–1475), then Annunciation (1472); enlarged viewer Next advances to Annunciation. All existing content, media and student browsing checks pass.
+
+## School image review — 18 November 2026
+
+All 566 original images visually reviewed; 92 excluded and 83 approved replacements added. Current collection: 515 artworks, 42 portraits, all 51 galleries at ten or more. Changed featured selections documented. Excluded images physically removed from current dist; fingerprint tests cover every current media file and prevent excluded image reuse. Copyright credits, piece descriptions and chronological ordering validated. Browser checks and final publication status are recorded after the final review.
+
+Browser verification: Raphael, Kahlo, Picasso, Michelangelo, Rembrandt, Magritte and Basquiat profiles show their documented safe features and ten gallery works. Michelangelo’s featured dome opens at its chronological position (9 of 10); Next reaches Porta Pia (10 of 10). Teacher desk shows the new classroom image rule.
+
+Negative check: placing an unlisted harmless raster filename in dist/assets correctly fails validation; the temporary file was removed.
