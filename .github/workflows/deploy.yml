@@ -26,7 +26,7 @@ jobs:
         server: ${{ secrets.FTP_SECRET }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: /public_html/ryanruttan.com/art
+        server-dir: /public_html/ryanruttan.com/art/
         port: 21
         protocol: ftp
         timeout: 60000
