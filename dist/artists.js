@@ -78,7 +78,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:marketwomensuccession",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/69b4929da9b052b5aa251465_Market%20Women%20Succession%20jpg.jpg",
-        "description": "The baskets create a repeating rhythm above the walking figures. How does repetition make this community feel connected?"
+        "description": "The baskets create a repeating rhythm above the walking figures. How does repetition make this community feel connected?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Blooms in the Bateau",
@@ -95,7 +98,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:bloomsinthebateau",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/69b491c93a139e0a3a4e5bc6_Blooms%20in%20the%20Bateau%20low%20resolution.JPG",
-        "description": "The bright canoe cuts horizontally across a forest of vertical trunks. Why might this contrast make the boat feel especially noticeable?"
+        "description": "The bright canoe cuts horizontally across a forest of vertical trunks. Why might this contrast make the boat feel especially noticeable?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Guerrero Mask Series #2",
@@ -112,7 +118,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:guerreromaskseries2",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/69b4904884b30471b43ff1a4_Guerrero%20Mask%20Series%202.jpg",
-        "description": "Bands of curved lines wrap around a mask-like face. What changes when you read the image as a face rather than as a pattern?"
+        "description": "Bands of curved lines wrap around a mask-like face. What changes when you read the image as a face rather than as a pattern?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Peacan Empress",
@@ -129,7 +138,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:peacanempress",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/69b48e3043a2a4290f499ba6_Peacan%20Empress.jpg",
-        "description": "Broad golden shapes suggest a person while preserving an abstract pattern. Which shape gives you the strongest clue that a figure is present?"
+        "description": "Broad golden shapes suggest a person while preserving an abstract pattern. Which shape gives you the strongest clue that a figure is present?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "The Guardian",
@@ -146,7 +158,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:theguardian",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/69b48f4ae2062e924ccbf794_The%20Guardian%20low%20res.JPG",
-        "description": "Blue wings surround a figure against a glowing sky. How do the wing shapes communicate protection without using words?"
+        "description": "Blue wings surround a figure against a glowing sky. How do the wing shapes communicate protection without using words?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Sharing Time",
@@ -163,7 +178,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:sharingtime",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/682f57aa6c781e3f595d9cac_sharing%20time.JPG",
-        "description": "Two figures face the same landscape beneath a broad red umbrella. How does their shared direction of view support the title’s idea of companionship?"
+        "description": "Two figures face the same landscape beneath a broad red umbrella. How does their shared direction of view support the title’s idea of companionship?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Little Eyes Upon You",
@@ -180,7 +198,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:littleeyesuponyou",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/682f4c641ce1f927e88de4a7_little%20eyes%20upon%20you.JPG",
-        "description": "A child in bright patterned clothing holds a small yellow doll against one shoulder. How does repeating a face at two different scales change the relationship you imagine between child and doll?"
+        "description": "A child in bright patterned clothing holds a small yellow doll against one shoulder. How does repeating a face at two different scales change the relationship you imagine between child and doll?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Lincoln Park in Chicago",
@@ -197,7 +218,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:lincolnparkinchicago",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/682f4bd84f42e1d42aeb03cb_Lincoln%20Park%20Chicago.JPG",
-        "description": "Green transforms a named city place through his distinctive colour and shape choices. How does the setting differ from his coastal scenes, and which visual choices remain recognizable?"
+        "description": "Green transforms a named city place through his distinctive colour and shape choices. How does the setting differ from his coastal scenes, and which visual choices remain recognizable?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "We are Sisters",
@@ -214,7 +238,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:wearesisters",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/632f5b6f0479200120b31864_wearesisters.jpg",
-        "description": "The title invites us to compare the figures as individuals within a relationship. Which repeated shape connects them, and which difference gives each a distinct presence?"
+        "description": "The title invites us to compare the figures as individuals within a relationship. Which repeated shape connects them, and which difference gives each a distinct presence?",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       },
       {
         "title": "Casting for Bait",
@@ -231,7 +258,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "01:castingforbait",
         "sourceDownloadUrl": "https://cdn.prod.website-files.com/6325e995acd3d8d3225fb9cf/632f485491252d0a08f0385c_castingforbaitsilkscreen.jpg",
-        "description": "The figure’s action gives an everyday task a clear visual rhythm. Trace the lines that connect the body to its surroundings and explain how they suggest movement."
+        "description": "The figure’s action gives an everyday task a clear visual rhythm. Trace the lines that connect the body to its surroundings and explain how they suggest movement.",
+        "infoSources": [
+          "https://www.jonathangreenstudios.com/works"
+        ]
       }
     ],
     "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
@@ -246,7 +276,8 @@ window.ARTISTS = [
           "source": "https://www.jonathangreenstudios.com/works",
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -338,7 +369,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:sowing",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sowing%2C_by_William_H._Johnson.jpg/960px-Sowing%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Sowing%2C_by_William_H._Johnson.jpg/960px-Sowing%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Two workers, a mule and planted rows are arranged in broad, flat areas of colour. Repeated diagonals turn the everyday task of sowing into a clear visual rhythm, linking the people to the land they work.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Sowing,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "id": "02",
@@ -354,7 +389,11 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "The source file marks the underlying U.S. work public domain because it was published without a copyright notice and records the Smithsonian image as no-known-copyright-restrictions. This is not a government-work assumption.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg/960px-William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "workKey": "02:folkfamily"
+        "workKey": "02:folkfamily",
+        "description": "A family group fills the picture with simplified faces, long limbs and sharply separated colours. Differences in height and overlapping bodies make the relationships legible without relying on realistic depth or finely modelled details.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:William_H._Johnson_-_Folk_Family_-_Smithsonian_American_Art_Museum.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-street-musicians.webp",
@@ -370,7 +409,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:streetmusicians",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Street_Musicians%2C_by_William_H._Johnson.jpg/960px-Street_Musicians%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Street_Musicians%2C_by_William_H._Johnson.jpg/960px-Street_Musicians%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Two musicians stand close together, with instruments crossing the space between their bodies. Strong outlines and repeated angles give this still image an energetic rhythm that echoes its musical subject.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Street_Musicians,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-jitterbugs-iii.webp",
@@ -386,7 +429,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:jitterbugsiii",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg/960px-Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg/960px-Jitterbugs_%28III%29%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "The dancers’ bent limbs and tilted bodies lock together in a lively arrangement. Johnson compresses the action into a shallow space, so the contrast between bright clothing and dark outlines helps us follow the movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Jitterbugs_(III),_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-going-to-church.webp",
@@ -402,7 +449,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:goingtochurch",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Going_to_Church%2C_by_William_H._Johnson.jpg/960px-Going_to_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Going_to_Church%2C_by_William_H._Johnson.jpg/960px-Going_to_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A horse-drawn vehicle carries figures through a landscape of houses, fields and a church. Johnson stacks the scenery into coloured bands, making the journey readable through patterns rather than realistic perspective.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Going_to_Church,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-harlem-street-with-church.webp",
@@ -418,7 +469,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:harlemstreetwithchurch",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg/960px-Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg/960px-Harlem_Street_with_Church%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Close-set buildings and a church fill this hand-coloured relief print with dark carved lines. The contrast between the large church and surrounding structures makes architecture the main subject, while repeated windows create a crowded city rhythm.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Harlem_Street_with_Church,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-off-to-war.webp",
@@ -434,7 +489,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:offtowar",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Off_to_War%2C_by_William_H._Johnson.jpg/960px-Off_to_War%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Off_to_War%2C_by_William_H._Johnson.jpg/960px-Off_to_War%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Flags, raised arms and uniformed figures turn a departure into a compact public scene. The bright, simplified shapes create a ceremonial appearance, while the wartime title makes the gathering more serious than an ordinary celebration.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Off_to_War,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-self-portrait.webp",
@@ -450,7 +509,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:selfportrait",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Self-Portrait%2C_by_William_H._Johnson.jpg/960px-Self-Portrait%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Self-Portrait%2C_by_William_H._Johnson.jpg/960px-Self-Portrait%2C_by_William_H._Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Johnson cuts his own face into a stark arrangement of dark and light marks. The woodcut’s rough edges and strong contrasts give the portrait an immediacy quite different from his colourful screenprints.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Self-Portrait,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-blind-singer.webp",
@@ -466,7 +529,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:blindsinger",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Blind_Singer%2C_by_William_H._Johnson.jpg/500px-Blind_Singer%2C_by_William_H._Johnson.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Blind_Singer%2C_by_William_H._Johnson.jpg/500px-Blind_Singer%2C_by_William_H._Johnson.jpg",
+        "description": "Two performers appear against a pale background, with a guitar extending across the composition. Their vivid clothing and strongly outlined forms focus attention on performance and partnership rather than a detailed setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Blind_Singer,_by_William_H._Johnson.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/02-ezekiel-saw-the-wheel.webp",
@@ -482,7 +549,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Underlying artwork source declares PD-US-no notice (publication without the then-required US copyright notice); not a claim based on a new photograph licence.",
         "workKey": "02:ezekielsawthewheel",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ezekiel_Saw_the_Wheel.jpg/500px-Ezekiel_Saw_the_Wheel.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Ezekiel_Saw_the_Wheel.jpg/500px-Ezekiel_Saw_the_Wheel.jpg",
+        "description": "A large coloured wheel hovers above a kneeling figure and a sharply simplified landscape. The biblical subject becomes a vivid arrangement of circles, diagonals and raised arms, showing how a spiritual story can be communicated through accessible graphic forms.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Ezekiel_Saw_the_Wheel.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -497,7 +568,8 @@ window.ARTISTS = [
           "source": "https://commons.wikimedia.org/wiki/Category:William_H._Johnson",
           "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -586,13 +658,18 @@ window.ARTISTS = [
         "alt": "A seated woman with folded hands and a distant landscape.",
         "creator": "Leonardo da Vinci",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "03:monalisa"
+        "workKey": "03:monalisa",
+        "description": "A seated woman turns toward us with her hands folded, while winding paths and distant mountains stretch behind her. Soft transitions between light and shadow make the face appear rounded without a hard outline; the steady pose contrasts with the complicated landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+        ],
+        "medium": "Oil on wood"
       },
       {
         "path": "assets/gallery-classic/03-03.webp",
         "title": "The Last Supper",
         "date": "from 1495 until 1498",
-        "medium": "",
+        "medium": "Experimental wall painting",
         "alt": "Jesus and twelve disciples sit along one side of a long table in a room with a distant landscape.",
         "credit": "Leonardo da Vinci · Public domain",
         "creator": "Leonardo da Vinci",
@@ -603,7 +680,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:thelastsupper",
         "sourceFile": "File:The Last Supper - Leonardo Da Vinci - High Resolution 32x16.jpg",
-        "sourceDate": "from 1495 until 1498"
+        "sourceDate": "from 1495 until 1498",
+        "description": "Jesus sits at the centre of a long table as the disciples respond with different gestures and expressions. The ceiling, walls and windows lead the eye toward him, while the figures form smaller groups that make the large gathering easier to read.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-02.webp",
@@ -620,7 +701,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:ginevradebenci",
         "sourceFile": "File:Leonardo da Vinci, Ginevra de' Benci (obverse), c. 1474-1478, NGA 50724.jpg",
-        "sourceDate": "c. 1474/1478"
+        "sourceDate": "c. 1474/1478",
+        "description": "This close portrait places a young woman before a dark juniper tree and a distant watery landscape. Her pale face stands out against the dense foliage, while carefully described curls and clothing bring attention to small differences in texture.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Ginevra_de%27_Benci_(obverse),_c._1474-1478,_NGA_50724.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-04.webp",
@@ -638,7 +723,11 @@ window.ARTISTS = [
         "workKey": "03:ladywithanermine",
         "sourceFile": "File:Lady with an Ermine - Leonardo da Vinci (adjusted levels).jpg",
         "sourceDate": "2020-10-05 16:12:46",
-        "dateSource": "https://mnk.pl/en/collections/lady-with-an-ermine/"
+        "dateSource": "https://mnk.pl/en/collections/lady-with-an-ermine/",
+        "description": "A young woman turns her head while holding a white ermine, whose body follows a similar direction. The pale animal, face and hands form a connected group of highlights against the dark background, making the turning pose especially clear.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-05.webp",
@@ -655,7 +744,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:virginoftherocks",
         "sourceFile": "File:Leonardo Da Vinci - Vergine delle Rocce (Louvre).jpg",
-        "sourceDate": "between 1483 and 1486"
+        "sourceDate": "between 1483 and 1486",
+        "description": "Mary, two children and an angel gather inside a rocky landscape rather than a richly furnished room. Their gestures connect them into a compact group, while distant water and openings in the rocks extend the space behind them.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Leonardo_Da_Vinci_-_Vergine_delle_Rocce_(Louvre).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-06.webp",
@@ -673,7 +766,11 @@ window.ARTISTS = [
         "workKey": "03:thebaptismofchristverrocchioandleonardo",
         "sourceFile": "File:The Baptism of Christ (Verrocchio and Leonardo).jpg",
         "sourceDate": "from 1470 until 1475",
-        "photographer": "Justin Benttinen"
+        "photographer": "Justin Benttinen",
+        "description": "John pours water over Jesus beside a river, while two angels kneel at the left. This is a collaborative work associated with Verrocchio and Leonardo: the different figures, landscape and flowing water invite close comparison of how natural forms are represented.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The_Baptism_of_Christ_(Verrocchio_and_Leonardo).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-07.webp",
@@ -690,7 +787,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:annunciation",
         "sourceFile": "File:Annunciation (Leonardo c. 1472–1476).jpg",
-        "sourceDate": "1472"
+        "sourceDate": "1472",
+        "description": "A kneeling angel addresses Mary in a garden outside a building, with a broad landscape opening beyond them. The low wall and long horizontal format connect the two figures while leaving a deliberate space between their different gestures.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo_c._1472%E2%80%931476).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-08.webp",
@@ -709,7 +810,11 @@ window.ARTISTS = [
         "sourceFile": "File:Adoration of the Magi (Leonardo).jpg",
         "sourceDate": "2023-09-13 03:54:38",
         "dateSource": "https://www.uffizi.it/en/video/the-adoration-of-the-magi-by-leonardo",
-        "photographer": "Justin Benttinen"
+        "photographer": "Justin Benttinen",
+        "description": "Mary and the infant Jesus form a calm centre within a crowded gathering of figures, trees and buildings. The unfinished surface reveals drawn outlines and brown modelling, allowing viewers to see stages of construction that a fully finished painting can conceal.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Leonardo).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-09.webp",
@@ -726,7 +831,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:saintjohnthebaptist",
         "sourceFile": "File:Leonardo da Vinci - Saint John the Baptist C2RMF retouched.jpg",
-        "sourceDate": "from 1513 until 1516"
+        "sourceDate": "from 1513 until 1516",
+        "description": "A smiling figure emerges from a nearly black background and points upward. Light falls selectively on the face, shoulder and raised hand, so the gesture remains clear even though much of the body disappears into shadow.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/03-10.webp",
@@ -743,7 +852,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Leonardo da Vinci; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "03:thevirginandchildwithsaintanne",
         "sourceFile": "File:Sainte Anne Leonard.jpg",
-        "sourceDate": "between 1503 and 1519"
+        "sourceDate": "between 1503 and 1519",
+        "description": "Mary sits with Saint Anne as the infant Jesus reaches toward a lamb. The leaning bodies and overlapping arms form a linked, roughly triangular group, while the broad landscape gives the intimate family scene an expansive setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -758,7 +871,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -848,13 +962,18 @@ window.ARTISTS = [
         "alt": "Many thinkers gather in a grand hall with arches and steps.",
         "creator": "Raphael",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "04:theschoolofathens"
+        "workKey": "04:theschoolofathens",
+        "description": "Groups of thinkers read, write, discuss and demonstrate ideas inside a grand imaginary hall. Repeated arches, floor lines and steps organise the many figures around the central pair, turning a crowded scene into a clear lesson in perspective.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+        ],
+        "medium": "Fresco"
       },
       {
         "path": "assets/gallery-classic/04-02.webp",
         "title": "Sistine Madonna",
         "date": "between circa 1512 and circa 1513",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "Mary carries the infant Jesus above clouds between two saints, with two small angels below.",
         "credit": "Raphael · Public domain",
         "creator": "Raphael",
@@ -865,7 +984,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:sistinemadonna",
         "sourceFile": "File:RAFAEL - Madonna Sixtina (Gemäldegalerie Alter Meister, Dresden, 1513-14. Óleo sobre lienzo, 265 x 196 cm).jpg",
-        "sourceDate": "between circa 1512 and circa 1513"
+        "sourceDate": "between circa 1512 and circa 1513",
+        "description": "Mary carries the infant Jesus above a bank of clouds between two saints, with two small angels resting at the bottom. Curtains and the figures’ downward looks make the heavenly gathering feel as though it is being revealed directly to a viewer below.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-03.webp",
@@ -882,7 +1005,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:transfiguration",
         "sourceFile": "File:Transfiguration Raphael.jpg",
-        "sourceDate": "from 1516 until 1520"
+        "sourceDate": "from 1516 until 1520",
+        "description": "The upper scene shows Jesus in bright light above a hill, while the lower scene contains a crowded group gathered around a child. Strong contrasts of light, movement and spacing connect two very different kinds of experience within one tall composition.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Transfiguration_Raphael.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-04.webp",
@@ -899,7 +1026,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:disputationoftheholysacrament",
         "sourceFile": "File:Disputa del Sacramento (Rafael).jpg",
-        "sourceDate": "1509"
+        "sourceDate": "1509",
+        "description": "People gather around an altar below a second, semicircular gathering of sacred figures in the clouds. The repeated curves connect the earthly and heavenly groups, while gestures and open books make the lower scene feel like an active discussion.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Disputa_del_Sacramento_(Rafael).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-05.webp",
@@ -916,7 +1047,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:thetriumphofgalatea",
         "sourceFile": "File:Galatea Raphael.jpg",
-        "sourceDate": ""
+        "sourceDate": "",
+        "description": "Galatea travels over the sea among mythological figures, animals and flying cupids. Curving bodies, billowing fabric and gestures pointing in different directions create a rotating movement around the central figure.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Galatea_Raphael.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-06.webp",
@@ -933,7 +1068,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:themarriageofthevirgin",
         "sourceFile": "File:Raffaello - Spozalizio - Web Gallery of Art.jpg",
-        "sourceDate": "1504"
+        "sourceDate": "1504",
+        "description": "A couple exchanges rings before a priest, with other figures watching and a round temple behind them. Lines in the paved square converge toward the temple doorway, giving the ceremony a carefully measured architectural setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-07.webp",
@@ -950,7 +1089,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:madonnadelprato",
         "sourceFile": "File:Raphael - Madonna in the Meadow - Google Art Project.jpg",
-        "sourceDate": "between 1505 and 1506"
+        "sourceDate": "between 1505 and 1506",
+        "description": "Mary sits in a meadow with two children who handle a slender cross. Their bodies form a stable triangle, while the children’s reaching hands add a small movement within the otherwise balanced arrangement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-08.webp",
@@ -967,7 +1110,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:portraitofbaldassarecastiglione",
         "sourceFile": "File:Baldassare Castiglione, by Raffaello Sanzio, from C2RMF retouched.jpg",
-        "sourceDate": "Probably Winter 1514–1515"
+        "sourceDate": "Probably Winter 1514–1515",
+        "description": "A bearded man wearing a dark cap and fur-trimmed clothing sits with his hands together. The restrained colours and simple background keep attention on the face, while differences between skin, cloth and fur give the quiet portrait variety.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Baldassare_Castiglione,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-09.webp",
@@ -985,7 +1132,11 @@ window.ARTISTS = [
         "workKey": "04:lafornarina",
         "sourceFile": "File:Raffaello Sanzio - La Fornarina (ca. 1519-1520).jpg",
         "sourceDate": "between circa 1519 and circa 1520",
-        "contentNote": "Nonsexual Renaissance portrait with partial nudity; teacher preview recommended."
+        "contentNote": "Nonsexual Renaissance portrait with partial nudity; teacher preview recommended.",
+        "description": "A seated woman looks outward with a patterned scarf around her hair and dark leaves behind her. The sharply lit figure and jewellery stand out from the foliage, while the direction of her gaze creates a direct encounter with the viewer.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_La_Fornarina_(ca._1519-1520).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/04-10.webp",
@@ -1002,7 +1153,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Raphael; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "04:madonnadelcardellino",
         "sourceFile": "File:Raffaello Sanzio - Madonna del Cardellino - Google Art Project.jpg",
-        "sourceDate": "between 1505 and 1506"
+        "sourceDate": "between 1505 and 1506",
+        "description": "Mary holds a book while two children gather around a small bird in a landscape. The linked hands and glances draw attention to the bird, making a tiny detail the centre of a much larger, balanced group.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -1016,7 +1171,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -1112,7 +1268,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:girlwithballoon",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/77/Girl_with_balloon.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/77/Girl_with_balloon.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Girl_with_Balloon"
+        ]
       },
       {
         "id": "05-one-nation-under-cctv",
@@ -1138,7 +1297,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:onenationundercctv",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bansky_one_nation_under_cctv.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bansky_one_nation_under_cctv.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/One_Nation_Under_CCTV"
+        ]
       },
       {
         "id": "05-slave-labour-mural",
@@ -1164,7 +1326,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:slavelabourmural",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/5a/Banksy_Slave_Labour_Mural%2C_2012.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/5a/Banksy_Slave_Labour_Mural%2C_2012.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Slave_Labour_(mural)"
+        ]
       },
       {
         "id": "05-draw-the-raised-bridge",
@@ -1190,7 +1355,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:drawtheraisedbridge",
-        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg/960px-Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg"
+        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg/960px-Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg"
+        ]
       },
       {
         "id": "05-kate-moss",
@@ -1216,7 +1384,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:katemoss",
-        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kate_Moss_by_Banksy_2006_01.jpg/960px-Kate_Moss_by_Banksy_2006_01.jpg"
+        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kate_Moss_by_Banksy_2006_01.jpg/960px-Kate_Moss_by_Banksy_2006_01.jpg",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kate_Moss_by_Banksy_2006_01.jpg"
+        ]
       },
       {
         "id": "05-migrant-child",
@@ -1242,7 +1413,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:migrantchild",
-        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Migrant_Child_by_Banksy.jpg/960px-Migrant_Child_by_Banksy.jpg"
+        "imageSource": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Migrant_Child_by_Banksy.jpg/960px-Migrant_Child_by_Banksy.jpg",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Migrant_Child_by_Banksy.jpg"
+        ]
       },
       {
         "id": "05-love-is-in-the-air-flower-thrower",
@@ -1268,7 +1442,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:loveisintheairflowerthrower",
-        "imageSource": "https://andipa.com/sites/default/files/imagecache/ARTWORK_BROWSER_NEW/artwork/Banksy_Love%20is%20in%20the%20Air_Print_L.jpg"
+        "imageSource": "https://andipa.com/sites/default/files/imagecache/ARTWORK_BROWSER_NEW/artwork/Banksy_Love%20is%20in%20the%20Air_Print_L.jpg",
+        "infoSources": [
+          "https://www.andipa.com/node/621"
+        ]
       },
       {
         "id": "05-game-changer",
@@ -1294,7 +1471,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:gamechanger",
-        "imageSource": "https://www.uhs.nhs.uk/Media/UHS-website-2019/Images/About-the-Trust/News/2020/Banksy2020-Cropped-460x401.jpg"
+        "imageSource": "https://www.uhs.nhs.uk/Media/UHS-website-2019/Images/About-the-Trust/News/2020/Banksy2020-Cropped-460x401.jpg",
+        "infoSources": [
+          "https://www.uhs.nhs.uk/whats-new/news/new-banksy-artwork-displayed-at-university-hospital-southampton"
+        ]
       },
       {
         "id": "05-kissing-coppers",
@@ -1319,7 +1499,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:kissingcoppers",
-        "imageSource": "https://static-assets.artlogic.net/w_640,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0447/usr/library/main/images/9399-image.jpg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0447/usr/library/main/images/9399-image.jpg",
+        "infoSources": [
+          "https://andipagallery.com/blog/38-from-the-andipa-archives-three-seminal-artworks/"
+        ]
       },
       {
         "id": "05-umbrella-girl-nola",
@@ -1345,7 +1528,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "05:umbrellagirlnola",
-        "imageSource": "https://live.staticflickr.com/3170/2817595676_a5b3a01db7_z.jpg"
+        "imageSource": "https://live.staticflickr.com/3170/2817595676_a5b3a01db7_z.jpg",
+        "infoSources": [
+          "https://www.flickr.com/photos/infrogmation/2817595676/"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -1408,7 +1594,8 @@ window.ARTISTS = [
           "url": "https://www.flickr.com/photos/infrogmation/2817595676/",
           "result": "Photographer’s openly published original image, with Commons source record identifying this as Banksy’s Umbrella Girl and directing to this original unblurred Flickr publication. Photographer licence CC BY-SA2.0; underlying artwork assessed separately for Canadian criticism."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -1497,7 +1684,12 @@ window.ARTISTS = [
         "alt": "Apples, a tipped basket, a bottle, a plate, and a white tablecloth.",
         "creator": "Paul Cézanne",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "06:thebasketofapples"
+        "workKey": "06:thebasketofapples",
+        "description": "Apples spill from a tilted basket beside a bottle, pastries and a rumpled white cloth. The tabletop edges do not quite align, so the arrangement combines recognisable objects with an unstable space that rewards looking beyond ordinary realism.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/06-02.webp",
@@ -1514,7 +1706,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:thehouseofthehangedman",
         "sourceFile": "File:Cezanne das-haus-des-gehenkten.jpg",
-        "sourceDate": "2008-06-18 12:16:16"
+        "sourceDate": "2008-06-18 12:16:16",
+        "description": "Closely packed houses stand beside a steep village lane and bare trees. Thick-looking patches of colour give the buildings and ground a solid structure, while the narrow route pulls the eye into the clustered forms.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_das-haus-des-gehenkten.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-03.webp",
@@ -1531,7 +1727,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:thegardenervallier",
         "sourceFile": "File:Cezanne der-gaertner-vallier.jpg",
-        "sourceDate": "2008-06-19 12:41:24"
+        "sourceDate": "2008-06-19 12:41:24",
+        "description": "A gardener in a hat sits among green foliage, with his body built from distinct patches of colour. Clothing, face and plants share similar visible marks, connecting the person to the surrounding landscape instead of isolating him against it.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_der-gaertner-vallier.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-04.webp",
@@ -1548,7 +1748,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:manwithabluecap",
         "sourceFile": "File:Cezanne der-mann-mit-der-blauen-muetze.jpg",
-        "sourceDate": "2008-06-18 11:56:05"
+        "sourceDate": "2008-06-18 11:56:05",
+        "description": "A bearded man in a blue cap looks sideways against a subdued background. Broad areas of light and dark shape the face and coat, giving the portrait weight without describing every fold or hair separately.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_der-mann-mit-der-blauen-muetze.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-05.webp",
@@ -1565,7 +1769,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:flowersinavase",
         "sourceFile": "File:Cezanne blumen-in-einer-vase.jpg",
-        "sourceDate": "2008-06-18 12:30:21"
+        "sourceDate": "2008-06-18 12:30:21",
+        "description": "A dense bouquet rises from a tall blue-green vase on a tabletop. The flowers are organised through clusters of colour and changes in light, while the narrow vase provides a stable vertical support for the spreading arrangement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_blumen-in-einer-vase.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-06.webp",
@@ -1582,7 +1790,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:portraitofambroisevollard",
         "sourceFile": "File:Cezanne portraet-ambroise-vollard.jpg",
-        "sourceDate": "2008-06-19 12:27:23"
+        "sourceDate": "2008-06-19 12:27:23",
+        "description": "A seated man in a brown suit rests his hands in his lap against an interior made from muted colour patches. The strong vertical body and joined hands make a stable structure, while the uneven surface keeps the portrait visibly connected to the act of painting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_portraet-ambroise-vollard.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-07.webp",
@@ -1599,7 +1811,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:stilllifewithteapot",
         "sourceFile": "File:Cezanne stillleben-mit-teekanne.jpg",
-        "sourceDate": "2008-06-19 12:51:26"
+        "sourceDate": "2008-06-19 12:51:26",
+        "description": "Fruit, pale vessels and a teapot sit beside folds of patterned fabric. Curves in the pots and fruit repeat across the arrangement, while the rising cloth and tilted surfaces make the objects feel more complex than a simple row on a table.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_stillleben-mit-teekanne.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-08.webp",
@@ -1616,7 +1832,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:houseofdrgachetatauvers",
         "sourceFile": "File:Cezanne haus-des-dr-gachet-in-auvers.jpg",
-        "sourceDate": "2008-06-18 12:27:57"
+        "sourceDate": "2008-06-18 12:27:57",
+        "description": "A road bends uphill toward houses beneath a cloudy sky. Angled roofs, walls and stretches of road organise the view into interlocking shapes, allowing a small village scene to become a study of structure as well as place.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Cezanne_haus-des-dr-gachet-in-auvers.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-09.webp",
@@ -1633,7 +1853,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:thecardplayers",
         "sourceFile": "File:Les Joueurs de cartes, par Paul Cézanne.jpg",
-        "sourceDate": "1890"
+        "sourceDate": "1890",
+        "description": "Two men in hats sit across a table, concentrating on their cards rather than looking at us. Their bent arms and rounded backs create a balanced arrangement, while the small tabletop separates and connects their matching activities.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/06-10.webp",
@@ -1650,7 +1874,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Cézanne; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "06:montsaintevictoireseenfrombellevue",
         "sourceFile": "File:Paul Cezanne La Montagne Saint Victoire Barnes.jpg",
-        "sourceDate": "between 1885 and 1895"
+        "sourceDate": "between 1885 and 1895",
+        "description": "A pale mountain rises beyond a patchwork of fields, trees and houses. Changes between warm and cool colour help separate the layers of land, while the mountain’s broad outline holds the detailed foreground together.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -1664,7 +1892,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -1765,7 +1994,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:selfportraitwiththornnecklaceandhummingbird",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/1/1e/Frida_Kahlo_%28self_portrait%29.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/1/1e/Frida_Kahlo_%28self_portrait%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird"
+        ]
       },
       {
         "id": "07-my-dress-hangs-there",
@@ -1791,7 +2023,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:mydresshangsthere",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/40/All%C3%A1_cuelga_mi_vestido_%28Frida_Kahlo%29.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/40/All%C3%A1_cuelga_mi_vestido_%28Frida_Kahlo%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/My_Dress_Hangs_There"
+        ]
       },
       {
         "id": "07-self-portrait-in-a-velvet-dress",
@@ -1817,7 +2052,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:selfportraitinavelvetdress",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/67/Self_Portrait_in_a_Velvet_Dress.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/67/Self_Portrait_in_a_Velvet_Dress.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Self-Portrait_in_a_Velvet_Dress"
+        ]
       },
       {
         "id": "07-self-portrait-with-monkey",
@@ -1843,7 +2081,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:selfportraitwithmonkey",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/fc/Frida_Kahlo_Self-portrait_with_monkey_1938.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/fc/Frida_Kahlo_Self-portrait_with_monkey_1938.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Self-Portrait_with_Monkey"
+        ]
       },
       {
         "id": "07-the-frame-painting",
@@ -1869,7 +2110,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:theframepainting",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Frame_%28Frida_Kahlo_painting%29.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Frame_%28Frida_Kahlo_painting%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Frame_(painting)"
+        ]
       },
       {
         "id": "07-two-women-dos-mujeres",
@@ -1896,7 +2140,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:twowomendosmujeres",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/d6/Dos_mujeres%2C_Frida_Kahlo%2C_1928.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Dos_mujeres,_Frida_Kahlo,_1928.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Dos_mujeres,_Frida_Kahlo,_1928.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:Dos_mujeres,_Frida_Kahlo,_1928.jpg"
+        ]
       },
       {
         "id": "07-the-bus-el-cami-n",
@@ -1923,7 +2170,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:thebuselcamion",
         "imageSource": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/El_cami%C3%B3n%2C_Frida_Kahlo%2C_1929.jpg/960px-El_cami%C3%B3n%2C_Frida_Kahlo%2C_1929.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:El_cami%C3%B3n,_Frida_Kahlo,_1929.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:El_cami%C3%B3n,_Frida_Kahlo,_1929.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:El_cami%C3%B3n,_Frida_Kahlo,_1929.jpg"
+        ]
       },
       {
         "id": "07-time-flies-el-tiempo-vuela",
@@ -1950,7 +2200,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:timeflieseltiempovuela",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/8/8d/El_tiempo_vuela%2C_Frida_Kahlo%2C_1929.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:El_tiempo_vuela,_Frida_Kahlo,_1929.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:El_tiempo_vuela,_Frida_Kahlo,_1929.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:El_tiempo_vuela,_Frida_Kahlo,_1929.jpg"
+        ]
       },
       {
         "id": "07-portrait-of-alejandro-g-mez-arias",
@@ -1977,7 +2230,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:portraitofalejandrogomezarias",
         "imageSource": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/de/Retrato_de_Alejandro_G%C3%B3mez_Arias%2C_Frida_Kahlo%2C_1928.jpg/960px-Retrato_de_Alejandro_G%C3%B3mez_Arias%2C_Frida_Kahlo%2C_1928.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Retrato_de_Alejandro_G%C3%B3mez_Arias,_Frida_Kahlo,_1928.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Retrato_de_Alejandro_G%C3%B3mez_Arias,_Frida_Kahlo,_1928.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:Retrato_de_Alejandro_G%C3%B3mez_Arias,_Frida_Kahlo,_1928.jpg"
+        ]
       },
       {
         "id": "07-portrait-of-cristina-my-sister",
@@ -2004,7 +2260,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "07:portraitofcristinamysister",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/4b/Retrato_de_Cristina%2C_mi_hermana%2C_Frida_Kahlo%2C_1928.jpeg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -2055,7 +2314,8 @@ window.ARTISTS = [
           "url": "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg",
           "result": "Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -2158,7 +2418,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:tuttomondo",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tuttomondo_-_Keith_Haring_1.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tuttomondo_-_Keith_Haring_1.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Tuttomondo"
+        ]
       },
       {
         "id": "08",
@@ -2176,7 +2439,12 @@ window.ARTISTS = [
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Boxer_von_Keith_Haring%2C_1987%2C_Berlin.jpg/960px-Boxer_von_Keith_Haring%2C_1987%2C_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/",
         "locationNote": "Historic photograph in Berlin. The sculpture moved to Stuttgart in 2025.",
-        "workKey": "08:untitledboxers"
+        "workKey": "08:untitledboxers",
+        "description": "Two brightly coloured metal figures interlock their arms and bodies, leaving openings through which the surroundings remain visible. Haring turns his simple drawn outlines into a sculpture whose overlapping shapes can suggest a playful contest as well as human connection.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Boxer_von_Keith_Haring,_1987,_Berlin.jpg",
+          "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/"
+        ]
       },
       {
         "id": "08-12264132",
@@ -2191,7 +2459,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "rightsBasis": "Photograph CC BY-SA3.0 by Frank Vincentz; file explicitly documents FoP-Germany for permanently situated public sculpture in Kaisergarten, Oberhausen. German Copyright ActSection59 permits photographs from public paths.",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "08:headthroughbelly"
+        "workKey": "08:headthroughbelly",
+        "description": "A bent yellow figure passes through the space within a tall grey figure, creating an impossible arrangement of human bodies. Flat sheets of metal preserve the clear silhouettes of a drawing, while the open gaps make the view change as a visitor walks around it.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Oberhausen_-_Kaisergarten_-_Head_through_belly_(Keith_Haring)_01_ies.jpg"
+        ]
       },
       {
         "id": "08-44000620",
@@ -2206,7 +2478,12 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "rightsBasis": "Photograph CC BY-SA3.0; permanent public outdoor sculpture at Hans-und-Sophie-Scholl-Platz in Ulm covered by German Copyright ActSection59 freedom of panorama. Municipal announcement confirms sculpture and location: https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "08:reddogforlandois"
+        "workKey": "08:reddogforlandois",
+        "description": "A large red dog is reduced to a pointed head, an open mouth and sharply bent legs. The flat metal silhouette resembles one of Haring’s bold outlined drawings, but its scale turns a familiar animal motif into a landmark in a public square.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Keith_Haring_Red_Dog_for_Landois_1987_Kunsthalle_Weishaupt_Ulm-1.jpg",
+          "https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet"
+        ]
       },
       {
         "id": "08-free-south-africa",
@@ -2232,7 +2509,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:freesouthafrica",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/freesouthafrica.jpg"
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/freesouthafrica.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/252"
+        ]
       },
       {
         "id": "08-a-pile-of-crowns-for-jean-michel-basquiat",
@@ -2258,7 +2538,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:apileofcrownsforjeanmichelbasquiat",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/pileofcrowns.jpg"
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/pileofcrowns.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/187"
+        ]
       },
       {
         "id": "08-silence-death",
@@ -2284,7 +2567,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:silencedeath",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/18_may7_89.jpg"
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/18_may7_89.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/25"
+        ]
       },
       {
         "id": "08-radiant-baby-from-icons",
@@ -2310,7 +2596,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:radiantbabyfromicons",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/radiant_baby_90.jpg"
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/radiant_baby_90.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/773"
+        ]
       },
       {
         "id": "08-crack-is-wack",
@@ -2336,7 +2625,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:crackiswack",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/0/09/Keith_Harring_Crack_is_Wack_Mural.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/0/09/Keith_Harring_Crack_is_Wack_Mural.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Crack_Is_Wack"
+        ]
       },
       {
         "id": "08-untitled-1982-foundation-record386",
@@ -2361,7 +2653,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "08:untitled1982foundationrecord386",
-        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/drawing82_3.jpg"
+        "imageSource": "https://www.haring.com/!/wp-content/uploads/2012/12/drawing82_3.jpg",
+        "infoSources": [
+          "https://www.haring.com/!/art-work/386-2"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -2404,7 +2699,8 @@ window.ARTISTS = [
           "url": "https://www.haring.com/!/art-work/386-2",
           "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -2507,7 +2803,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:thepersistenceofmemory",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Persistence_of_Memory"
+        ]
       },
       {
         "id": "09-swans-reflecting-elephants",
@@ -2533,7 +2832,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:swansreflectingelephants",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f6/Swans_reflecting_elephants.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f6/Swans_reflecting_elephants.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Swans_Reflecting_Elephants"
+        ]
       },
       {
         "id": "09",
@@ -2551,7 +2853,12 @@ window.ARTISTS = [
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg/960px-SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.uob.com.sg/assets/pdfs/reports1997.pdf",
         "contentNote": "Nonsexual figurative nude sculpture; suitable for an art-history discussion, with teacher preview.",
-        "workKey": "09:homagetonewton"
+        "workKey": "09:homagetonewton",
+        "description": "A tall human-like figure balances around large empty spaces in its head and torso, with a small suspended form drawing attention to gravity. The openings make solid bronze appear unexpectedly light, fitting Dalí’s habit of transforming familiar bodies into dreamlike inventions.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:SalvadorDali-HomagetoNewton-1985-Singapore-20071231.jpg",
+          "https://www.nac.gov.sg/singapore-arts-scene/art-forms/visual-arts/public-art-trust/public-artworks/homage-to-newton"
+        ]
       },
       {
         "id": "09-galatea-of-the-spheres",
@@ -2578,7 +2885,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:galateaofthespheres",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/0/08/Galaofspheres.JPG",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Galaofspheres.JPG"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Galaofspheres.JPG",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Galatea_of_the_Spheres"
+        ]
       },
       {
         "id": "09-metamorphosis-of-narcissus",
@@ -2604,7 +2914,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:metamorphosisofnarcissus",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/21/Metamorphosis_of_Narcissus.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/21/Metamorphosis_of_Narcissus.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus"
+        ]
       },
       {
         "id": "09-the-discovery-of-america-by-christopher-columbus",
@@ -2630,7 +2943,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:thediscoveryofamericabychristophercolumbus",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/68/Dali_DiscoveryOfAmerica.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/68/Dali_DiscoveryOfAmerica.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Discovery_of_America_by_Christopher_Columbus"
+        ]
       },
       {
         "id": "09-the-disintegration-of-the-persistence-of-memory",
@@ -2657,7 +2973,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:thedisintegrationofthepersistenceofmemory",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/7c/DisintegrationofPersistence.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:DisintegrationofPersistence.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:DisintegrationofPersistence.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Disintegration_of_the_Persistence_of_Memory"
+        ]
       },
       {
         "id": "09-the-elephants",
@@ -2683,7 +3002,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:theelephants",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/43/Dali_Elephants.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/43/Dali_Elephants.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Elephants"
+        ]
       },
       {
         "id": "09-the-hallucinogenic-toreador",
@@ -2709,7 +3031,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:thehallucinogenictoreador",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Hallucinogenic_Toreador.png"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Hallucinogenic_Toreador.png",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador"
+        ]
       },
       {
         "id": "09-the-sacrament-of-the-last-supper",
@@ -2735,7 +3060,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "09:thesacramentofthelastsupper",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f1/Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f1/Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -2782,7 +3110,8 @@ window.ARTISTS = [
           "url": "https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper",
           "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -2877,7 +3206,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:lesfetiches",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.56_1&max=640",
-        "description": "Overlapping masks emerge from a dark background at different angles. How do scale and overlap make the arrangement feel more active than a row of separate objects?"
+        "description": "Overlapping masks emerge from a dark background at different angles. How do scale and overlap make the arrangement feel more active than a row of separate objects?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/les-fetiches-31947"
+        ]
       },
       {
         "title": "Self Portrait",
@@ -2895,7 +3227,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:selfportrait",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.2_1&max=640",
-        "description": "Jones places her own face within a richly worked studio setting. What does the background tell you about the identity she chooses to present?"
+        "description": "Jones places her own face within a richly worked studio setting. What does the background tell you about the identity she chooses to present?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/self-portrait-76331"
+        ]
       },
       {
         "title": "Textile Design for Cretonne",
@@ -2913,7 +3248,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:textiledesignforcretonne",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.10_2&max=640",
-        "description": "Repeated flowers and figures form a pattern designed for fabric. How would repeating this image across a curtain change the way you experience it?"
+        "description": "Repeated flowers and figures form a pattern designed for fabric. How would repeating this image across a curtain change the way you experience it?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/textile-design-cretonne-76339"
+        ]
       },
       {
         "title": "Woman with Necklace",
@@ -2931,7 +3269,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:womanwithnecklace",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.17_1&max=640",
-        "description": "The necklace and strong facial features organize this direct portrait. Which contrast draws your attention to the sitter’s face first?"
+        "description": "The necklace and strong facial features organize this direct portrait. Which contrast draws your attention to the sitter’s face first?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/woman-necklace-76346"
+        ]
       },
       {
         "title": "Portrait of Pierre",
@@ -2949,7 +3290,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:portraitofpierre",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.19_1&max=640",
-        "description": "Fine lines build the sitter’s face while darker marks gather around its edges. How does a drawn portrait convey age or character differently from a brightly coloured painting?"
+        "description": "Fine lines build the sitter’s face while darker marks gather around its edges. How does a drawn portrait convey age or character differently from a brightly coloured painting?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/portrait-pierre-76348"
+        ]
       },
       {
         "title": "Seated Man in Yellow Overalls",
@@ -2967,7 +3311,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:seatedmaninyellowoveralls",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.18_1&max=640",
-        "description": "Yellow clothing anchors a seated worker within a closely observed interior. What does the posture suggest, and which visible detail supports that inference?"
+        "description": "Yellow clothing anchors a seated worker within a closely observed interior. What does the posture suggest, and which visible detail supports that inference?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/seated-man-yellow-overalls-76347"
+        ]
       },
       {
         "title": "Greetings",
@@ -2985,7 +3332,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:greetings",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.15_1&max=640",
-        "description": "A domestic room becomes the central image of a greeting design. How do the furniture and lettering work together to communicate hospitality?"
+        "description": "A domestic room becomes the central image of a greeting design. How do the furniture and lettering work together to communicate hospitality?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/greetings-76344"
+        ]
       },
       {
         "title": "Men Working",
@@ -3002,7 +3352,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:menworking",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.13_1&max=640",
-        "description": "Dark simplified bodies bend and reach across an open background. Which repeated angle makes separate actions feel like a group rhythm?"
+        "description": "Dark simplified bodies bend and reach across an open background. Which repeated angle makes separate actions feel like a group rhythm?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/men-working-76342"
+        ]
       },
       {
         "title": "Les Clochards, Montmartre, Paris",
@@ -3020,7 +3373,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:lesclochardsmontmartreparis",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.9_1&max=640",
-        "description": "Three seated people occupy a city space with markedly different poses. How does Jones direct us to notice individuals within a shared social situation?"
+        "description": "Three seated people occupy a city space with markedly different poses. How does Jones direct us to notice individuals within a shared social situation?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/les-clochards-montmartre-paris-76338"
+        ]
       },
       {
         "title": "Moon Masque",
@@ -3038,7 +3394,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "10:moonmasque",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2006.24.5_1&max=640",
-        "description": "A small mask-like face sits inside concentric circles framed by bold geometric bands. How do repeated circles and contrasting directions make the central face seem especially significant?"
+        "description": "A small mask-like face sits inside concentric circles framed by bold geometric bands. How do repeated circles and contrasting directions make the central face seem especially significant?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/moon-masque-76334"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -3093,7 +3452,8 @@ window.ARTISTS = [
           "source": "https://api.artic.edu/api/v1/artworks/search",
           "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -3180,13 +3540,18 @@ window.ARTISTS = [
         "alt": "A tiger among lush green leaves in a rainstorm.",
         "creator": "Henri Rousseau",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "11:surprisedtigerinatropicalstorm"
+        "workKey": "11:surprisedtigerinatropicalstorm",
+        "description": "A tiger crouches among overlapping tropical leaves as diagonal streaks of rain cut across the scene. Repeated pointed leaves and slanting lines make the still image feel windy and restless, while the striped animal is partly hidden within the pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Surprised-Rousseau.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/11-08.webp",
         "title": "The Dream",
         "date": "1910",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "A reclining woman on a sofa appears among jungle foliage and animals.",
         "credit": "Henri Rousseau · Public domain",
         "creator": "Henri Rousseau",
@@ -3197,7 +3562,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:thedream",
         "sourceFile": "File:Henri Rousseau - Le Rêve - Google Art Project.jpg",
-        "sourceDate": "1910"
+        "sourceDate": "1910",
+        "description": "A reclining woman on a sofa appears among dense jungle plants and animals. Bringing an indoor piece of furniture into this lush outdoor setting breaks ordinary expectations, while repeated leaves and blooms weave the separate elements into one patterned scene.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-02.webp",
@@ -3214,7 +3583,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:carnivalevening",
         "sourceFile": "File:Henri-Julien-Félix Rousseau, French - Carnival Evening - Google Art Project.jpg",
-        "sourceDate": "1886"
+        "sourceDate": "1886",
+        "description": "Two costumed figures stand under bare trees in a dark, moonlit landscape. Their pale clothing contrasts with the sky and branches, making a small human encounter seem unusually still and mysterious.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri-Julien-F%C3%A9lix_Rousseau,_French_-_Carnival_Evening_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-03.webp",
@@ -3231,7 +3604,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:acentennialofindependence",
         "sourceFile": "File:Henri Rousseau (French) - A Centennial of Independence - Google Art Project.jpg",
-        "sourceDate": "1892"
+        "sourceDate": "1892",
+        "description": "People dance and gather beneath colourful flags around a large tree. The linked dancers and repeated decorations turn the park into a public celebration, with many small figures contributing to a shared rhythm.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_(French)_-_A_Centennial_of_Independence_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-04.webp",
@@ -3248,7 +3625,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:banksofthemarne",
         "sourceFile": "File:Henri Rousseau - Banks of the Marne.jpg",
-        "sourceDate": "1906"
+        "sourceDate": "1906",
+        "description": "A river and boats lie beneath wooded banks and a distant large building. The clearly separated bands of water, land and sky make the landscape easy to follow, while small boats provide a sense of the scene’s scale.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Banks_of_the_Marne.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-05.webp",
@@ -3265,7 +3646,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:myselfportraitlandscape",
         "sourceFile": "File:Henri Rousseau - Myself- Portrait – Landscape - Google Art Project.jpg",
-        "sourceDate": "1890"
+        "sourceDate": "1890",
+        "description": "A painter holding a palette stands in front of a river, bridge and flags. The unusually large figure joins the roles of portrait and landscape in one image, with the tools in his hands identifying the activity he presents to the viewer.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-06.webp",
@@ -3282,7 +3667,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:theavenueintheparkatsaintcloud",
         "sourceFile": "File:Henri Rousseau - The Avenue in the Park at Saint Cloud - Google Art Project.jpg",
-        "sourceDate": "1908"
+        "sourceDate": "1908",
+        "description": "A straight avenue runs between two rows of tall green trees. The narrowing path and shrinking figures create depth, while the strongly repeated trunks make the park resemble a long outdoor corridor.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Avenue_in_the_Park_at_Saint_Cloud_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-07.webp",
@@ -3299,7 +3688,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:thewaterfall",
         "sourceFile": "File:Henri Rousseau - The Waterfall - Google Art Project.jpg",
-        "sourceDate": "1910"
+        "sourceDate": "1910",
+        "description": "Animals and thick tropical plants surround a pale waterfall. Large, clearly outlined leaves build up the scene in overlapping layers, making the jungle feel richly patterned rather than like a view from a single fixed position.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_The_Waterfall_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-09.webp",
@@ -3316,7 +3709,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:thesleepinggypsy",
         "sourceFile": "File:La Bohémienne endormie.jpg",
-        "sourceDate": "1897"
+        "sourceDate": "1897",
+        "description": "A lion approaches a sleeping traveller beside a musical instrument under a full moon. The smooth sand and calm horizontal body contrast with the alert animal, creating suspense without showing an attack.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/11-10.webp",
@@ -3333,7 +3730,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Henri Rousseau; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "11:thesnakecharmer",
         "sourceFile": "File:Henri Rousseau 011.jpg",
-        "sourceDate": "1907"
+        "sourceDate": "1907",
+        "description": "A dark figure plays a wind instrument beside water among snakes and moonlit plants. Silhouettes and overlapping foliage connect the musician to the landscape, while the bright moon and pale water create a route through the deep greens.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Henri_Rousseau_011.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -3347,7 +3748,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -3439,7 +3841,11 @@ window.ARTISTS = [
         "rightsBasis": "Photographer CC BY-SA 4.0. Permanent outdoor sculpture in Germany, documented as donated to the Nationalgalerie in 2016 and installed in its public sculpture garden; German freedom of panorama applies to the depicted work. Underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg/960px-Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.smb.museum/en/whats-new/detail/robert-indianas-pop-art-icon-imperial-love-installed-at-the-hamburger-bahnhof-museum-fuer-gegenwart-berlin/",
-        "workKey": "12:imperiallove"
+        "workKey": "12:imperiallove",
+        "description": "Four enormous letters stack into a compact block, with the tilted O breaking the otherwise upright arrangement. Indiana makes a word something viewers can move around, so the spaces inside and between the letters matter as much as their solid surfaces.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Tiergarten_Neue_Nationalgalerie_Robert_Indiana_Imperial_Love_01.jpg"
+        ]
       },
       {
         "id": "12-19421911",
@@ -3454,7 +3860,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "rightsBasis": "Photograph CC BY2.5; file explicitly documents FoP-Israel for permanently situated public sculpture. Artwork record identifies Israel Museum collection and Ahava1977; Hebrew-letter composition differs from LOVE.",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "12:ahavalove"
+        "workKey": "12:ahavalove",
+        "description": "Four Hebrew letters form the word ahava, meaning love, in a sculpture of weathering steel. Its rust-coloured surface and stacked lettering give a familiar emotion a strong physical presence, while the openings connect the word to the landscape behind it.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG"
+        ]
       },
       {
         "id": "12-the-american-dream-i",
@@ -3480,7 +3890,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:theamericandreami",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/a66cb9c191d70c27cec4ef507572d9e2.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/a66cb9c191d70c27cec4ef507572d9e2.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-american-dream-i"
+        ]
       },
       {
         "id": "12-the-demuth-american-dream-no-5",
@@ -3506,7 +3919,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:thedemuthamericandreamno5",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/e127b689ef059a9f781a2a5162ffecd4.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/e127b689ef059a9f781a2a5162ffecd4.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-demuth-american-dream-no-5"
+        ]
       },
       {
         "id": "12-eat",
@@ -3532,7 +3948,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:eat",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/831f06b6dd187e56bb2cf58fdc24a2b8.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/831f06b6dd187e56bb2cf58fdc24a2b8.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/eat2"
+        ]
       },
       {
         "id": "12-the-eateria",
@@ -3558,7 +3977,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:theeateria",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/f01e2a95745d476dfb311c89ee5e8666.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/f01e2a95745d476dfb311c89ee5e8666.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-eateria"
+        ]
       },
       {
         "id": "12-the-american-four",
@@ -3584,7 +4006,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:theamericanfour",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/cc6e1ffc1abf11791b0afbfe17c9615b.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/cc6e1ffc1abf11791b0afbfe17c9615b.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-american-four"
+        ]
       },
       {
         "id": "12-the-new-glory-penny",
@@ -3610,7 +4035,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:thenewglorypenny",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/bcdc92209676a9269646c5b621f36d0e.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/bcdc92209676a9269646c5b621f36d0e.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-new-glory-penny"
+        ]
       },
       {
         "id": "12-the-american-art",
@@ -3636,7 +4064,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:theamericanart",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/eb73e38c64cf7d2b0cd548a1d0009524.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/eb73e38c64cf7d2b0cd548a1d0009524.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-american-art"
+        ]
       },
       {
         "id": "12-the-eighth-american-dream",
@@ -3662,7 +4093,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "12:theeighthamericandream",
-        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/4fd248ca02b3101476c18541d62e5715.jpeg"
+        "imageSource": "https://static-assets.artlogic.net/w_640,h_640,c_limit/exhibit-e/61fd44bf9789833084405ac2/4fd248ca02b3101476c18541d62e5715.jpeg",
+        "infoSources": [
+          "https://www.robertindiana.com/artworks/artworks-items/the-eighth-american-dream"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -3705,7 +4139,8 @@ window.ARTISTS = [
           "url": "https://www.robertindiana.com/artworks/artworks-items/the-eighth-american-dream",
           "result": "Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -3807,7 +4242,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:virtualreality",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/02/Virtual-Reality-framed-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/02/Virtual-Reality-framed-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-big-eye-is-watching-you",
@@ -3833,7 +4271,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:bigeyeiswatchingyou",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/03/Big-Eye-is-Watching-You-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/03/Big-Eye-is-Watching-You-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-before-the-hour-of-dawn-approaches",
@@ -3859,7 +4300,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:beforethehourofdawnapproaches",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Before-the-Hour-of-Dawn-Approaches-new-frame-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Before-the-Hour-of-Dawn-Approaches-new-frame-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-untitled-blue-dog-on-red-and-yellow",
@@ -3885,7 +4329,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:untitledbluedogonredandyellow",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Banner-Yellow-and-Red-web-3.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Banner-Yellow-and-Red-web-3.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-sister-in-law",
@@ -3911,7 +4358,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:sisterinlaw",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Sister-In-Law-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Sister-In-Law-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-untitled-blue-dog-with-tie",
@@ -3937,7 +4387,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:untitledbluedogwithtie",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Banner-with-Tie-web-4.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/08/Banner-with-Tie-web-4.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-untitled-we-love-both-of-you",
@@ -3963,7 +4416,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:untitledwelovebothofyou",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2023/11/George-Rodrigue-Blue-Dog-Untitled-We-Love-You-Both-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2023/11/George-Rodrigue-Blue-Dog-Untitled-We-Love-You-Both-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-side-by-side",
@@ -3989,7 +4445,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:sidebyside",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2025/03/Side-By-Side-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2025/03/Side-By-Side-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-two-can-play-this-game",
@@ -4015,7 +4474,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:twocanplaythisgame",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/10/Rodrigue_Two_Can_Play.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2026/10/Rodrigue_Two_Can_Play.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       },
       {
         "id": "13-happy-flowers",
@@ -4041,7 +4503,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "13:happyflowers",
-        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2025/07/Happy-Flowers-edit-web.jpg"
+        "imageSource": "https://georgerodrigue.com/blog/wp-content/uploads/2025/07/Happy-Flowers-edit-web.jpg",
+        "infoSources": [
+          "https://georgerodrigue.com/art/available-paintings/"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -4092,7 +4557,8 @@ window.ARTISTS = [
           "url": "https://georgerodrigue.com/art/available-paintings/",
           "result": "George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -4183,7 +4649,12 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Historical Canadian artwork; Commons designates the underlying artwork and reproduction public domain. Source file documents the rights basis.",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Carr%2CEmily_-_Scorned_as_timber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "workKey": "14:scornedastimberbelovedofthesky"
+        "workKey": "14:scornedastimberbelovedofthesky",
+        "description": "A tall, slender tree rises far above the surrounding landscape into a sweeping sky. Its isolation and small crown make it appear vulnerable yet persistent, while curved cloud bands give the open space a sense of movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Carr,Emily_-_Scorned_as_timber.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-american/14-church-at-yuquot-village-formerly-the-indian-church.webp",
@@ -4199,7 +4670,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:churchatyuquotvillageformerlytheindianchurch",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emily_Carr_-_Indian_Church.jpg/960px-Emily_Carr_-_Indian_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Emily_Carr_-_Indian_Church.jpg/960px-Emily_Carr_-_Indian_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A small white church stands against dense, towering green trees. The striking difference in scale makes the building seem enclosed by the forest, creating a visual tension between human construction and the living landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_-_Indian_Church.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-blunden-harbour.webp",
@@ -4215,7 +4690,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:blundenharbour",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Emily-carr-blunden-harbour-1930.png/960px-Emily-carr-blunden-harbour-1930.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Emily-carr-blunden-harbour-1930.png/960px-Emily-carr-blunden-harbour-1930.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Carved poles occupy the foreground of a coastal village, with water and wooded land extending behind them. Carr uses strong vertical forms and dark, rounded masses to connect the built settlement to its surrounding landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily-carr-blunden-harbour-1930.png"
+        ]
       },
       {
         "path": "assets/gallery-american/14-odds-and-ends.webp",
@@ -4231,7 +4710,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:oddsandends",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Emily_Carr_%281939%29_Odds_and_Ends.jpg/960px-Emily_Carr_%281939%29_Odds_and_Ends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Emily_Carr_%281939%29_Odds_and_Ends.jpg/960px-Emily_Carr_%281939%29_Odds_and_Ends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Cut stumps and scattered timber interrupt a landscape that also contains standing trees and distant hills. Strong directional brushwork connects the damaged foreground to the remaining forest, making human alteration of the land especially visible.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1939)_Odds_and_Ends.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-tossed-by-the-wind.webp",
@@ -4247,7 +4730,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:tossedbythewind",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_Tossed_by_the_wind_1939.jpg/960px-Emily_Carr_Tossed_by_the_wind_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_Tossed_by_the_wind_1939.jpg/960px-Emily_Carr_Tossed_by_the_wind_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Curving trees and sweeping passages of green make the landscape appear to bend under moving air. Carr builds the sensation of wind through the direction of her marks rather than by showing the wind itself.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_Tossed_by_the_wind_1939.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-war-canoes-alert-bay.webp",
@@ -4263,7 +4750,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:warcanoesalertbay",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Emily-carr-war-canoes-alert-bay-1912.png/960px-Emily-carr-war-canoes-alert-bay-1912.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Emily-carr-war-canoes-alert-bay-1912.png/960px-Emily-carr-war-canoes-alert-bay-1912.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Large canoes rest near a coastal settlement, their curved sides occupying much of the foreground. Bands of vivid colour and strong outlines give the boats a weighty presence while keeping the surrounding scene deliberately simplified.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily-carr-war-canoes-alert-bay-1912.png"
+        ]
       },
       {
         "path": "assets/gallery-american/14-forest-british-columbia.webp",
@@ -4279,7 +4770,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Emily Carr. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "14:forestbritishcolumbia",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg/960px-Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg/960px-Emily_Carr_%281931%E2%80%9332%29_Forest%2C_British_Columbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Thick trunks and dark foliage create an enclosed forest space with little open sky. Carr’s curving forms turn trees into an interlocking structure, drawing attention to the physical density of the woods.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_(1931%E2%80%9332)_Forest,_British_Columbia.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-deep-woods.webp",
@@ -4295,7 +4790,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "14:deepwoods",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg/500px-Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg/500px-Deep_Woods_by_Emily_Carr%2C_1936%2C_oil_on_paper.jpg",
+        "description": "Tall, closely spaced trunks lead into a dark green forest interior. Small changes of light and colour create depth, while quick, directional marks keep the scene from feeling still or mechanically ordered.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Deep_Woods_by_Emily_Carr,_1936,_oil_on_paper.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-above-the-gravel-pit.webp",
@@ -4311,7 +4810,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "14:abovethegravelpit",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg/500px-Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg/500px-Above_the_Gravel_Pit_by_Emily_Carr%2C_1937%2C_oil_on_canvas.jpg",
+        "description": "An exposed slope and cut stumps occupy the foreground beneath a sweeping sky. The contrast between open ground, surviving trees and curving clouds makes the relationship between extraction and the wider landscape visible.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Above_the_Gravel_Pit_by_Emily_Carr,_1937,_oil_on_canvas.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/14-kitwancool.webp",
@@ -4327,7 +4830,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "14:kitwancool",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_1928_Kitwancool.png/500px-Emily_Carr_1928_Kitwancool.png"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Emily_Carr_1928_Kitwancool.png/500px-Emily_Carr_1928_Kitwancool.png",
+        "description": "Carved poles rise beside buildings and tree trunks in a closely organized village scene. Carr emphasizes repeated vertical shapes, but differences in colour and carved silhouettes keep the individual poles distinct.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Emily_Carr_1928_Kitwancool.png"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -4342,7 +4849,8 @@ window.ARTISTS = [
           "source": "https://commons.wikimedia.org/wiki/Category:Emily_Carr",
           "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -4420,7 +4928,12 @@ window.ARTISTS = [
         "alt": "A black-and-white photograph of a mother with children beside her.",
         "creator": "Dorothea Lange",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "15:migrantmother"
+        "workKey": "15:migrantmother",
+        "description": "A mother rests her hand against her face while children turn inward against her shoulders. The tight framing and overlapping bodies concentrate attention on family dependence and worry; the photograph became one of the best-known images of hardship during the Great Depression.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg"
+        ],
+        "medium": "Black-and-white photograph"
       },
       {
         "path": "assets/gallery-american/15-white-angel-breadline-san-francisco.webp",
@@ -4437,7 +4950,11 @@ window.ARTISTS = [
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:whiteangelbreadlinesanfrancisco",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/White_Angel_Breadline%2C_San_Francisco%2C_1932%2C_by_Dorothea_Lange%2C_3.jpg/960px-White_Angel_Breadline%2C_San_Francisco%2C_1932%2C_by_Dorothea_Lange%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "dateNote": "Source file title/Princeton record uses1932; many other museum catalogues date the negative1933. Displayed approximately rather than asserting a false precise date."
+        "dateNote": "Source file title/Princeton record uses1932; many other museum catalogues date the negative1933. Displayed approximately rather than asserting a false precise date.",
+        "description": "A man in a worn hat faces away from a dense crowd, holding his hands near a container. The surrounding hats create a repeated pattern, but his isolated face interrupts it, connecting a large public crisis with an individual experience.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:White_Angel_Breadline,_San_Francisco,_1932,_by_Dorothea_Lange,_3.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-abandoned-dust-bowl-home.webp",
@@ -4453,7 +4970,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:abandoneddustbowlhome",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg/960px-Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg/960px-Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A small wooden house stands alone in a broad, exposed landscape. The large areas of empty ground and sky make the abandoned building seem especially isolated, turning the absence of people into an important part of the photograph.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Abandoned_Dust_Bowl_Home_-_Dorothea_Lange.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-broke-baby-sick-and-car-trouble.webp",
@@ -4469,7 +4990,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:brokebabysickandcartrouble",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg/960px-Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg/960px-Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A heavily loaded vehicle and a travelling family occupy a roadside scene. Household belongings packed onto the vehicle show that this is more than a short outing, while the low viewpoint makes the family’s improvised situation immediately visible.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Broke,_baby_sick,_and_car_trouble!_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy,_California.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-child-in-shack-town.webp",
@@ -4485,7 +5010,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:childinshacktown",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg/960px-Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg/960px-Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A child looks directly towards the camera against a plain, rough-textured backdrop. The close framing gives the child an individual presence, resisting the tendency to describe a makeshift settlement only through buildings or statistics.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Child_in_Shack_Town_by_Dorothea_Lange,_1936,_8b38490a.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-country-store-on-a-dirt-road-gordonton-north-carolina.webp",
@@ -4501,7 +5030,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:countrystoreonadirtroadgordontonnorthcarolina",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg/960px-Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg/960px-Dorothea_Lange%2C_Country_store_on_dirt_road%2C_Gordonton%2C_North_Carolina%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "People gather beneath the signs and overhang of a wooden country store. The many posted advertisements and occupied doorways make the building readable as both a place of commerce and a meeting point.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Country_store_on_dirt_road,_Gordonton,_North_Carolina,_1939.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-drought-refugees-from-oklahoma-blythe-california.webp",
@@ -4517,7 +5050,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:droughtrefugeesfromoklahomablythecalifornia",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg/960px-Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg/960px-Dorothea_Lange%2C_Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_Blythe%2C_California%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A woman and child sit beneath a makeshift roadside shelter surrounded by belongings. Fabric, shade and closely grouped bodies show how a temporary space has been adapted for family life during displacement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Drought_refugees_from_Oklahoma_camping_by_the_roadside,_Blythe,_California,_1936.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-dust-storm-near-mills-new-mexico.webp",
@@ -4533,7 +5070,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:duststormnearmillsnewmexico",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg/960px-Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg/960px-Dorothea_Lange%2C_Dust_storm_near_Mills%2C_New_Mexico%2C_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A spreading wall of dust darkens the horizon above an open landscape. The relatively small fence and ground features provide a sense of scale, showing how environmental conditions could overwhelm everyday rural surroundings.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Dust_storm_near_Mills,_New_Mexico,_1935.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-farmers-with-cooperatively-purchased-machinery-oregon.webp",
@@ -4549,7 +5090,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:farmerswithcooperativelypurchasedmachineryoregon",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg/960px-Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg/960px-Dorothea_Lange%2C_Farmers_who_have_bought_machinery_cooperatively%2C_West_Carlton%2C_Yamhill_County%2C_Oregon%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A line of farmers stands together in work clothes outside a wooden building. Their repeated upright poses make the group itself the subject, complementing the photograph’s record of people sharing the cost of agricultural equipment.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Farmers_who_have_bought_machinery_cooperatively,_West_Carlton,_Yamhill_County,_Oregon,_1939.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/15-migrant-children-at-an-fsa-nursery-school-tulare-county.webp",
@@ -4565,7 +5110,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Dorothea Lange. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "15:migrantchildrenatanfsanurseryschooltularecounty",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg/960px-Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg/960px-Dorothea_Lange%2C_Migrant_children_playing_at_nursery_school%2C_FSA_camp%2C_Tulare_County%2C_California%2C_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Children cluster close to the camera, with arms and faces overlapping in a lively pattern. Their active play adds a different perspective to Lange’s migrant photographs by showing childhood and community life alongside material hardship.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dorothea_Lange,_Migrant_children_playing_at_nursery_school,_FSA_camp,_Tulare_County,_California,_1939.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -4580,7 +5129,8 @@ window.ARTISTS = [
           "source": "https://commons.wikimedia.org/wiki/Category:Dorothea_Lange",
           "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -4668,13 +5218,18 @@ window.ARTISTS = [
         "alt": "Black straight lines divide white, red, blue, and yellow rectangles.",
         "creator": "Piet Mondrian",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "16:compositioniiinredblueandyellow"
+        "workKey": "16:compositioniiinredblueandyellow",
+        "description": "Black horizontal and vertical lines divide the surface into unequal rectangles, including one large red area. The smaller blue and yellow sections balance the dominant red without using mirror symmetry, showing how few elements can still create tension and order.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/16-10.webp",
         "title": "Broadway Boogie Woogie",
         "date": "between 1942 and 1943",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "Yellow lines and small red, blue and grey squares form a lively grid on white.",
         "credit": "Piet Mondrian · Public domain",
         "creator": "Piet Mondrian",
@@ -4685,7 +5240,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:broadwayboogiewoogie",
         "sourceFile": "File:Piet Mondrian, 1942 - Broadway Boogie Woogie.jpg",
-        "sourceDate": "between 1942 and 1943"
+        "sourceDate": "between 1942 and 1943",
+        "description": "Yellow lines and small coloured squares form a lively grid over a white ground. Interruptions within the lines make the eye pause, turn and move again, giving a geometric arrangement a visual rhythm suggested by its musical title.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-02.webp",
@@ -4702,7 +5261,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Piet Mondrian; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "16:stjamesschurch",
         "sourceFile": "File:Mondrian st-jacobs-church.jpg",
-        "sourceDate": "1890s"
+        "sourceDate": "1890s",
+        "description": "A church tower appears through a network of bare tree branches above a green field. The branches divide the view into many small shapes, showing how a recognisable landscape can also be organised as an interlocking pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mondrian_st-jacobs-church.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-03.webp",
@@ -4720,7 +5283,11 @@ window.ARTISTS = [
         "workKey": "16:smallhouseinsunlight",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Kleines Haus in der Sonne, 1909 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 12:19:55",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "A small house and garden are described with separate touches of bright colour. Contrasting marks make the surface sparkle and keep the eye active, even though the subject is a quiet building and its surroundings.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Kleines_Haus_in_der_Sonne,_1909_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-04.webp",
@@ -4738,7 +5305,11 @@ window.ARTISTS = [
         "workKey": "16:lighthouseatwestkapelle",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Leuchtturm bei Westkapelle, 1909 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 12:19:20",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "A tall pink lighthouse rises against a blue sky made from small coloured marks. The strong vertical shape anchors the view, while the surrounding dots and dabs prevent the sky from feeling like an empty background.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Leuchtturm_bei_Westkapelle,_1909_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-05.webp",
@@ -4756,7 +5327,11 @@ window.ARTISTS = [
         "workKey": "16:millatdomburg",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Mühle bei Domburg, 1908 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 12:19:04",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "A purple windmill stands against a softly glowing evening sky. Its simple silhouette makes the structure easy to recognise, while the unexpected colour shifts attention toward light and atmosphere rather than exact local colour.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_M%C3%BChle_bei_Domburg,_1908_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-06.webp",
@@ -4774,7 +5349,11 @@ window.ARTISTS = [
         "workKey": "16:pointilliststudydunesandsea",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Pointillistische Studie. Dünen und Meer, 1909 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 14:19:45",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "Pale dunes and sea are built from small touches of colour. The marks merge into a landscape from a distance but remain separate up close, so the experience changes with the viewer’s attention and position.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Pointillistische_Studie._D%C3%BCnen_und_Meer,_1909_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-07.webp",
@@ -4792,7 +5371,11 @@ window.ARTISTS = [
         "workKey": "16:compositionwithgrid8",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Rasterkomposition 8. Schachbrettkomposition mit dunklen Farben, 1919 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 12:09:16",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "A regular grid contains many small blocks of red, blue and orange. Differences in the placement of colours create groups and interruptions inside the repeated structure, giving the grid movement without introducing a recognisable object.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Rasterkomposition_8._Schachbrettkomposition_mit_dunklen_Farben,_1919_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-08.webp",
@@ -4810,7 +5393,11 @@ window.ARTISTS = [
         "workKey": "16:rowofelevenpoplars",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Reihe von elf Pappeln in Rot, Gelb, Blau und Grün, 1908 - Museum de Fundatie, Zwolle.jpg",
         "sourceDate": "2023-08-26 12:18:10",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "Slender trees form a row above water in warm sunset colours. Their repeated trunks and reflections establish a steady rhythm, while changes in the sky and foliage make the scene feel luminous rather than mechanically uniform.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Reihe_von_elf_Pappeln_in_Rot,_Gelb,_Blau_und_Gr%C3%BCn,_1908_-_Museum_de_Fundatie,_Zwolle.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/16-09.webp",
@@ -4828,7 +5415,11 @@ window.ARTISTS = [
         "workKey": "16:windmillintheevening",
         "sourceFile": "File:Barberini August 2023-Piet Mondrian - Windmühle am Abend, 1917 - Kunstmuseum Den Haag.jpg",
         "sourceDate": "2023-08-26 12:08:24",
-        "photographer": "GodeNehler"
+        "photographer": "GodeNehler",
+        "description": "A dark windmill rises above a grassy mound under a patterned sky. The large silhouette is set against smaller patches of light, creating a strong contrast between a solid structure and a changing atmosphere.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Barberini_August_2023-Piet_Mondrian_-_Windm%C3%BChle_am_Abend,_1917_-_Kunstmuseum_Den_Haag.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -4843,7 +5434,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -4940,7 +5532,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Pumpkin. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The dots follow the pumpkin’s ribs and make an ordinary vegetable feel animated. How would the sculpture feel different if every dot were the same size? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/pumpkin-1983"
+        ]
       },
       {
         "title": "Yellow Pumpkin",
@@ -4960,7 +5555,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Yellow Pumpkin. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Its rounded ribs stand out against the dense, flat background. Which pattern makes the pumpkin seem to push forward? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/yellow-pumpkin-1992"
+        ]
       },
       {
         "title": "Infinity Net",
@@ -4980,7 +5578,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Infinity Net. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Small changes within the repeated marks keep the surface from feeling mechanical. Where does your eye find a pause in this apparently endless pattern? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/infinity-net-1998"
+        ]
       },
       {
         "title": "Waves",
@@ -5000,7 +5601,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Waves. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The curved boundary creates movement even though the surface is flat. Does your eye follow the red band or the small repeated shapes first? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/waves-1953"
+        ]
       },
       {
         "title": "Flowers",
@@ -5020,7 +5624,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Flowers. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Different patterns separate the pot, blossoms and tabletop without realistic shading. Which pattern would you change to make the flowers stand out more? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/flowers-1983"
+        ]
       },
       {
         "title": "Dandelions",
@@ -5040,7 +5647,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Dandelions. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The sharp leaves and round blooms create contrasting rhythms. How does the dark background change the brightness of the yellow flowers? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/dandelions-1985"
+        ]
       },
       {
         "title": "Butterfly",
@@ -5060,7 +5670,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Butterfly. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The near symmetry gives the butterfly balance while the dots add energy. Where can you find a small difference between its two wings? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/butterfly-1988"
+        ]
       },
       {
         "title": "Mushrooms",
@@ -5080,7 +5693,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Mushrooms. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Changes in size and direction turn the mushrooms into a lively visual group. Which mushroom seems nearest, and what visual clue creates that effect? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/mushrooms-1995"
+        ]
       },
       {
         "title": "Ascension of Polkadots on the Trees",
@@ -5100,7 +5716,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Ascension of Polkadots on the Trees. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The repeated pattern joins living trees to the surrounding public space. How might walking through this work feel different from looking at a painting? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/ascension-of-polkadots-on-the-trees-2006-jpg-blog"
+        ]
       },
       {
         "title": "Dots",
@@ -5120,7 +5739,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Dots. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The scattered circles create a field without a single obvious focal point. Can you choose a route for your eye through the dots without starting at the centre? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/yayoi-kusama/dots-2004"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -5133,7 +5755,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -5222,7 +5845,12 @@ window.ARTISTS = [
         "alt": "A bronze sculpture of a rider on a bucking horse.",
         "creator": "Frederic Remington",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "18:thebronchobuster"
+        "workKey": "18:thebronchobuster",
+        "description": "A rider leans over a rearing, twisting horse, with reins and raised limbs extending into the surrounding space. The sculpture turns a brief, unstable action into a balanced three-dimensional structure that can be studied from several viewpoints.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The_Broncho_Buster_MET_DP361132.jpg"
+        ],
+        "medium": "Bronze sculpture"
       },
       {
         "path": "assets/gallery-american/18-a-map-in-the-sand.webp",
@@ -5238,7 +5866,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:amapinthesand",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG/960px-%27A_Map_in_the_Sand%27_by_Frederic_Remington%2C_Cincinnati_Art_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Several figures gather around a person marking the ground. Their heads and bodies direct attention towards the same low point, making the act of exchanging geographical knowledge the centre of the scene.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:%27A_Map_in_the_Sand%27_by_Frederic_Remington,_Cincinnati_Art_Museum.JPG"
+        ]
       },
       {
         "path": "assets/gallery-american/18-the-fall-of-the-cowboy.webp",
@@ -5254,7 +5886,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:thefallofthecowboy",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fall_of_the_Cowboy.jpg/960px-Fall_of_the_Cowboy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fall_of_the_Cowboy.jpg/960px-Fall_of_the_Cowboy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Two cowboys pause with their horses beside a fence in a muted landscape. The barrier, still poses and subdued colours present a quieter image of western life than Remington’s fast-moving riding scenes.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Fall_of_the_Cowboy.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-moonlight-wolf.webp",
@@ -5270,7 +5906,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:moonlightwolf",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg/960px-Frederic_Remington_-_Moonlight%2C_Wolf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Frederic_Remington_-_Moonlight%2C_Wolf.jpg/960px-Frederic_Remington_-_Moonlight%2C_Wolf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A lone wolf crosses a dark, open landscape under cool moonlight. Limited colour and large areas of shadow make the animal’s small silhouette the focus, creating tension through atmosphere rather than dramatic action.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Moonlight,_Wolf.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-the-cowboy.webp",
@@ -5286,7 +5926,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:thecowboy",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg/960px-Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A mounted cowboy is described with a relatively spare setting and loosely handled marks. The horse, rider and equipment supply the essential information, showing how a few selected details can establish a recognizable working figure.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_The_Cowboy_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-a-texas-pony.webp",
@@ -5302,7 +5946,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:atexaspony",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg/960px-Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "The saddled horse and rider occupy a closely observed study with little distracting scenery. Tonal changes and careful attention to the animal’s stance make this a study of weight, equipment and physical presence.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_A_Texas_Pony_-_1975.115.1_-_Yale_University_Art_Gallery.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-prospecting-for-cattle-range.webp",
@@ -5318,7 +5966,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:prospectingforcattlerange",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg/960px-Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg/960px-Frederic_Remington_-_Prospecting_for_Cattle_Range_%281889%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Mounted figures pause at a high viewpoint while looking across the land. The contrast between the carefully grouped riders and the space beyond them presents the landscape as something being examined and evaluated.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Frederic_Remington_-_Prospecting_for_Cattle_Range_(1889).jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-the-belated-traveler.webp",
@@ -5334,7 +5986,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Frederic Remington. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "18:thebelatedtraveler",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Belated_Traveler_Frederic_Remington.jpeg/960px-The_Belated_Traveler_Frederic_Remington.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Belated_Traveler_Frederic_Remington.jpeg/960px-The_Belated_Traveler_Frederic_Remington.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A traveller and pack animal move through a scene dominated by dark shapes and unusually cool light. The limited illumination makes the journey feel slow and uncertain, with atmosphere doing much of the storytelling.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The_Belated_Traveler_Frederic_Remington.jpeg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-the-hunters-supper.webp",
@@ -5350,7 +6006,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "18:thehunterssupper",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Hunters%27_Supper.jpg/500px-The_Hunters%27_Supper.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Hunters%27_Supper.jpg/500px-The_Hunters%27_Supper.jpg",
+        "description": "A campfire illuminates a small group gathered for an evening meal while the surrounding landscape remains dark. Warm light gathers the figures into a shared space, contrasting a temporary place of rest with the larger night beyond it.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The_Hunters%27_Supper.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/18-coming-and-going-of-the-pony-express.webp",
@@ -5366,7 +6026,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "18:comingandgoingoftheponyexpress",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Remington_Coming_and_Going_of_the_Pony_Express.jpg/500px-Remington_Coming_and_Going_of_the_Pony_Express.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Remington_Coming_and_Going_of_the_Pony_Express.jpg/500px-Remington_Coming_and_Going_of_the_Pony_Express.jpg",
+        "description": "Horses and figures crowd a relay station, with different poses suggesting arrival, waiting and departure. Repeated animal bodies connect separate moments of activity, making the scene feel like part of an ongoing transport system.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Remington_Coming_and_Going_of_the_Pony_Express.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -5381,7 +6045,8 @@ window.ARTISTS = [
           "source": "https://commons.wikimedia.org/wiki/Category:Frederic_Remington",
           "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -5463,7 +6128,7 @@ window.ARTISTS = [
       {
         "title": "Christina's World",
         "date": "1948",
-        "medium": "",
+        "medium": "Egg tempera on panel",
         "path": "assets/education-context/19-w01.webp",
         "alt": "A woman in a pink dress lies in a large field facing distant farm buildings.",
         "description": "The long stretch of grass makes the buildings feel emotionally as well as physically distant. How does the low viewpoint affect your understanding of the woman’s journey?",
@@ -5478,7 +6143,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Christina's World. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The long stretch of grass makes the buildings feel emotionally as well as physically distant. How does the low viewpoint affect your understanding of the woman’s journey? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/christina-s-world"
+        ]
       },
       {
         "title": "Wind from the Sea",
@@ -5498,7 +6166,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Wind from the Sea. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The moving fabric brings a trace of life into an otherwise still room. What can you infer about the unseen person who opened the window? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/wind-from-the-sea"
+        ]
       },
       {
         "title": "Winter",
@@ -5518,7 +6189,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Winter. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The tilted ground and long shadow make the movement feel uncertain. Would the scene feel as urgent if the figure stood at the top of the hill? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/winter"
+        ]
       },
       {
         "title": "Trodden Weed",
@@ -5538,7 +6212,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Trodden Weed. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Cropping out the person’s face directs attention toward walking and close observation. What story can these boots tell without showing their owner’s expression? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/trodden-weed"
+        ]
       },
       {
         "title": "Groundhog Day",
@@ -5558,7 +6235,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Groundhog Day. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The empty seat invites us to imagine someone who has just left the room. Which detail makes the absence of a person noticeable? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/groundhog-day-1"
+        ]
       },
       {
         "title": "Public Sale",
@@ -5578,7 +6258,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Public Sale. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The broad, quiet field contrasts with the distant gathering. Why might the artist place the main event so far from us? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/public-sale"
+        ]
       },
       {
         "title": "Snow Hill",
@@ -5598,7 +6281,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Snow Hill. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Their circular arrangement gives a frozen scene an unusual sense of motion. How does the circle of figures change your reading of the winter setting? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/snow-hill"
+        ]
       },
       {
         "title": "Turkey Pond",
@@ -5618,7 +6304,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Turkey Pond. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The figure’s back and the surrounding field create a private, reflective mood. How would seeing the walker’s face change the story? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/turkey-pond"
+        ]
       },
       {
         "title": "Christina Olson",
@@ -5638,7 +6327,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Christina Olson. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The doorway frames the landscape while keeping the figure in deep shadow. Does the doorway seem to offer shelter, separation or possibility? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/christina-olson"
+        ]
       },
       {
         "title": "The White Dory",
@@ -5658,7 +6350,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The White Dory. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The light boat provides a small focal point within a rough, cold setting. Which textures make this shoreline feel different from a sunny beach? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andrew-wyeth/the-white-dory"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -5671,7 +6366,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -5775,7 +6471,10 @@ window.ARTISTS = [
           "nature": "An already published creative visual work. Its expressive nature is acknowledged; publication does not make it public domain.",
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
         },
-        "studyTitle": "Detroit Industry murals"
+        "studyTitle": "Detroit Industry murals",
+        "infoSources": [
+          "https://dia.org/collection/detroit-industry-north-wall/58538"
+        ]
       },
       {
         "title": "The Flower Carrier",
@@ -5802,7 +6501,10 @@ window.ARTISTS = [
           "alternatives": "A different artist’s work or a written summary cannot show this particular composition. The full reproduction is paired with its own analysis, not offered as a substitute for a museum or commercial image collection.",
           "nature": "An already published creative visual work. Its expressive nature is acknowledged; publication does not make it public domain.",
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
-        }
+        },
+        "infoSources": [
+          "https://www.sfmoma.org/artwork/35.4516/"
+        ]
       },
       {
         "id": "20",
@@ -5818,7 +6520,11 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 4.0. The file explicitly carries FoP-Mexico covering the underlying permanently visible public mural under Article 148 VII; underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Diego_rivera.jpg/960px-Diego_rivera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "workKey": "20:mancontrolleroftheuniverse"
+        "workKey": "20:mancontrolleroftheuniverse",
+        "description": "A worker stands at the centre of a machine-filled world, surrounded by sweeping lenses, crowds and contrasting visions of society. Rivera links scientific discovery with choices about how people live together, using the large wall surface to hold many connected stories at once.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Diego_rivera.jpg"
+        ]
       },
       {
         "id": "20-153256860",
@@ -5833,7 +6539,11 @@ window.ARTISTS = [
         "licenseUrl": "",
         "rightsBasis": "Commons explicitly marks artwork PD-Mexico-1918 and PD-US; pre1918 publication satisfies the documented Mexican public-domain rule and pre1931 work is public domain in the US. File identifies Rivera and1914.",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:sailoratbreakfast"
+        "workKey": "20:sailoratbreakfast",
+        "description": "A sailor’s face, clothing and table objects break into interlocking geometric fragments, with lettering adding clues to what we are seeing. The overlapping viewpoints are characteristic of Cubism: the painting assembles an experience of the subject instead of presenting one camera-like view.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Marinero_en_el_desayuno,_Diego_Rivera,_1914.jpg"
+        ]
       },
       {
         "id": "20-85076376",
@@ -5848,7 +6558,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:inthearsenalenelarsenal"
+        "workKey": "20:inthearsenalenelarsenal",
+        "description": "A crowded group passes weapons and supplies across the composition, while red clothing and banners connect the figures visually. The organised activity makes political change look like collective work, and the close spacing gives the scene the energy of a busy meeting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_74.jpg"
+        ]
       },
       {
         "id": "20-85062481",
@@ -5863,7 +6577,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:theribbondanceladanzadeloslistones"
+        "workKey": "20:theribbondanceladanzadeloslistones",
+        "description": "Dancers in light clothing circle a tall central pole as ribbons spread through the group. Repeated hats, raised arms and curving lines create a rhythm that helps a still mural communicate the movement of a community celebration.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_17.jpg"
+        ]
       },
       {
         "id": "20-85062473",
@@ -5878,7 +6596,12 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:theweaverslostejedores"
+        "workKey": "20:theweaverslostejedores",
+        "description": "Workers operate a large wooden loom whose beams and tightly stretched threads form a strong geometric framework. Rivera makes the equipment prominent, showing how skilled movements and a complex tool combine to produce cloth.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_11.jpg",
+          "https://murales.sep.gob.mx/Inicio/mural1.html"
+        ]
       },
       {
         "id": "20-85062471",
@@ -5893,7 +6616,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:thedyerslostintoreros"
+        "workKey": "20:thedyerslostintoreros",
+        "description": "Workers bend and stretch around vessels used to colour cloth, their bodies echoing the tall shape of the mural panel. The scene gives a stage of textile production its own monumental image, making everyday labour a subject for public art.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_09.jpg"
+        ]
       },
       {
         "id": "20-85062464",
@@ -5908,7 +6635,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:theembraceelabrazo"
+        "workKey": "20:theembraceelabrazo",
+        "description": "Two workers meet in a close embrace at the centre of a narrow panel. Their joined bodies and the strong red and blue areas turn a small human gesture into an easily read image of solidarity.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_01.jpg"
+        ]
       },
       {
         "id": "20-85062494",
@@ -5923,7 +6654,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:theofferinglaofrenda"
+        "workKey": "20:theofferinglaofrenda",
+        "description": "People gather around flowers, candles and food, with bright orange garlands looping across the dark background. The repeated arches and flames guide the eye through a shared act of remembrance, connecting the figures to the carefully arranged offering.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_29.jpg"
+        ]
       },
       {
         "id": "20-85062497",
@@ -5938,7 +6673,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA4.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:literacyalfabetizacion"
+        "workKey": "20:literacyalfabetizacion",
+        "description": "Adults and a child gather around bright red books, while another group reads above them. Repeating the books across different ages and occupations presents learning as a shared community activity, rather than an experience limited to a classroom.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mural_de_Diego_Rivera_en_el_museo_de_la_SEP_33.jpg"
+        ]
       },
       {
         "id": "20-16755855",
@@ -5953,7 +6692,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "rightsBasis": "Photograph CC BY-SA3.0; Mexican freedom of panorama documented by companion Kgv88 photographs and Article148.VII covers for this permanently installed fresco in the publicly accessible Secretaría de Educación Pública, Mexico City. This is one separately titled panel, not another view of a shared composition. SEP institutional catalogue identifies individual murals; MoMA chronology dates the project1923–1928: https://murales.sep.gob.mx/Inicio/mural1.html and https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "20:themaizefestivallafiestadelmaiz"
+        "workKey": "20:themaizefestivallafiestadelmaiz",
+        "description": "A tall maize plant and the people gathered around it fill the panel at the left of the doorway; a separate harvest scene appears at the right. The doorway’s architecture helps organise Rivera’s images of farming and celebration, linking a staple food with community life.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:SEP_Maize_Celebration.JPG"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -5966,7 +6709,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "https://www.sfmoma.org/artwork/35.4516/",
         "https://dia.org/collection/detroit-industry-north-wall/58538"
-      ]
+      ],
+      "descriptionCount": 12
     }
   },
   {
@@ -6055,7 +6799,12 @@ window.ARTISTS = [
         "alt": "Two people stand before a white house with a pointed window. One holds a pitchfork.",
         "creator": "Grant Wood",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "21:americangothic"
+        "workKey": "21:americangothic",
+        "description": "A man holding a pitchfork stands beside a woman in front of a house with a pointed upper window. Repeated verticals link the faces, clothing, tool and architecture, making the picture’s strict organization as memorable as its rural subjects.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg"
+        ],
+        "medium": "Oil on beaverboard"
       },
       {
         "path": "assets/gallery-american/21-spring-turning.webp",
@@ -6071,7 +6820,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:springturning",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Spring_Turning_by_Grant_Wood%2C_1936.jpg/960px-Spring_Turning_by_Grant_Wood%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Spring_Turning_by_Grant_Wood%2C_1936.jpg/960px-Spring_Turning_by_Grant_Wood%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Broad, curving strips of green and freshly worked soil cross rolling farmland. Wood simplifies the land into rhythmic bands, making cultivation appear both recognizable and strongly designed.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Spring_Turning_by_Grant_Wood,_1936.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-spring-in-town.webp",
@@ -6087,7 +6840,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:springintown",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Grant_Wood%2C_Spring_in_Town_%281941%29.jpg/960px-Grant_Wood%2C_Spring_in_Town_%281941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Grant_Wood%2C_Spring_in_Town_%281941%29.jpg/960px-Grant_Wood%2C_Spring_in_Town_%281941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "People garden and carry out tasks among closely arranged houses and outbuildings. The elevated viewpoint lets us see several activities at once, turning an ordinary neighbourhood into a carefully connected pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood,_Spring_in_Town_(1941).jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-sentimental-ballad.webp",
@@ -6103,7 +6860,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:sentimentalballad",
-        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27Sentimental_Ballad%27_by_Grant_Wood%2C_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27Sentimental_Ballad%27_by_Grant_Wood%2C_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "description": "Men gather closely around a piano, with their faces and bodies directed towards the music. Warm lighting and overlapping figures make the shared performance feel intimate, while the carefully staged group gives it a theatrical quality.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:%27Sentimental_Ballad%27_by_Grant_Wood,_1940.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-portrait-of-nan.webp",
@@ -6119,7 +6880,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:portraitofnan",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Portrait_of_Nan%2C_by_Grant_Wood.jpg/960px-Portrait_of_Nan%2C_by_Grant_Wood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Portrait_of_Nan%2C_by_Grant_Wood.jpg/960px-Portrait_of_Nan%2C_by_Grant_Wood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A seated woman in a patterned sleeveless dress faces forward within an oval format. The controlled pose and smooth surfaces make small details of her face, hands and clothing especially noticeable.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Portrait_of_Nan,_by_Grant_Wood.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-the-luxembourg-gardens.webp",
@@ -6135,7 +6900,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:theluxembourggardens",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg/960px-Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg/960px-Grant_Wood_-_The_Luxembourg_Gardens_%281924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Trees, paths and pale stone architecture form a bright garden scene with distant visitors. The loose handling and changing light differ from Wood’s later, more tightly defined images of American houses and farmland.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_The_Luxembourg_Gardens_(1924).jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-sunlit-house.webp",
@@ -6151,7 +6920,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:sunlithouse",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grant_Wood_-_Sunlit_House_%281928%29.jpg/960px-Grant_Wood_-_Sunlit_House_%281928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grant_Wood_-_Sunlit_House_%281928%29.jpg/960px-Grant_Wood_-_Sunlit_House_%281928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Light falls across the walls and steps of a house set on a sloping site. The building is described through changes of colour and tone, so the effect of sunlight becomes as important as the architecture itself.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Sunlit_House_(1928).jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-calendulas.webp",
@@ -6167,7 +6940,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as Public domain. Underlying artist: Grant Wood. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "21:calendulas",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Grant_Wood_-_Calendulas.jpg/960px-Grant_Wood_-_Calendulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Grant_Wood_-_Calendulas.jpg/960px-Grant_Wood_-_Calendulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Orange and yellow flowers fill a decorated vase against a richly patterned background. Repeated curves connect the bouquet, vase and wallpaper, making a familiar still life into a dense arrangement of colour and ornament.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Calendulas.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-dinner-for-threshers.webp",
@@ -6183,7 +6960,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "21:dinnerforthreshers",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Grant_Wood_-_Dinner_for_Threshers.jpg/500px-Grant_Wood_-_Dinner_for_Threshers.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Grant_Wood_-_Dinner_for_Threshers.jpg/500px-Grant_Wood_-_Dinner_for_Threshers.jpg",
+        "description": "An extended view of a farmhouse reveals workers eating together and activity in adjoining rooms. The long format and exposed interior let us connect domestic preparation with the agricultural work supported by the meal.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_Dinner_for_Threshers.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/21-woman-with-plants.webp",
@@ -6199,7 +6980,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "21:womanwithplants",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Woman_with_Plants_by_Grant_Wood.jpg/500px-Woman_with_Plants_by_Grant_Wood.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Woman_with_Plants_by_Grant_Wood.jpg/500px-Woman_with_Plants_by_Grant_Wood.jpg",
+        "description": "An older woman holds a potted plant in front of a cultivated rural landscape. Her firmly drawn face and patterned clothing dominate the foreground, while the plants connect the portrait to the land behind her.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Woman_with_Plants_by_Grant_Wood.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -6218,7 +7003,8 @@ window.ARTISTS = [
           "source": "https://www.crma.org/collections/permanent-collections/Grant-Wood",
           "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -6322,7 +7108,10 @@ window.ARTISTS = [
           "alternatives": "A different artist’s work or a written summary cannot show this particular composition. The full reproduction is paired with its own analysis, not offered as a substitute for a museum or commercial image collection.",
           "nature": "An already published creative visual work. Its expressive nature is acknowledged; publication does not make it public domain.",
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
-        }
+        },
+        "infoSources": [
+          "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
+        ]
       },
       {
         "id": "22",
@@ -6345,7 +7134,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "The Cleveland Museum of Art open-access object record explicitly gives share_license_status CC0 and supplies the image as an open-access download.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Frugal Meal, specifically: The man’s arm connects the two figures while their turned faces suggest different private thoughts. How do the sparse meal and elongated hands shape your reading of their relationship? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Frugal Meal, specifically: The man’s arm connects the two figures while their turned faces suggest different private thoughts. How do the sparse meal and elongated hands shape your reading of their relationship? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://www.clevelandart.org/art/1929.888"
+        ]
       },
       {
         "id": "22",
@@ -6368,7 +7160,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of At the Circus, specifically: The concentrated marks around the horse contrast with the faint background and make depth depend on very little ink. Which few lines are most necessary for recognising the horse? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of At the Circus, specifically: The concentrated marks around the horse contrast with the faint background and make depth depend on very little ink. Which few lines are most necessary for recognising the horse? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.895"
+        ]
       },
       {
         "id": "22",
@@ -6392,7 +7187,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Mother at Her Toilette, specifically: The wide blank areas separate the everyday figures without turning the room into a detailed setting. How do the figures’ different gestures suggest a shared domestic moment? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Mother at Her Toilette, specifically: The wide blank areas separate the everyday figures without turning the room into a detailed setting. How do the figures’ different gestures suggest a shared domestic moment? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.891"
+        ]
       },
       {
         "id": "22",
@@ -6415,7 +7213,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Poor, specifically: Dense layers of etched lines make the surroundings feel heavy while small pale areas draw attention to faces and hands. Where does the light guide your eye before you notice the rest of the family? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Poor, specifically: Dense layers of etched lines make the surroundings feel heavy while small pale areas draw attention to faces and hands. Where does the light guide your eye before you notice the rest of the family? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.890"
+        ]
       },
       {
         "id": "22",
@@ -6438,7 +7239,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Head of a Woman: Madeleine, specifically: The contrast between pale skin and dark parallel marks gives a small portrait a strong sense of presence. How does the lowered gaze affect the mood compared with a direct stare? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Head of a Woman: Madeleine, specifically: The contrast between pale skin and dark parallel marks gives a small portrait a strong sense of presence. How does the lowered gaze affect the mood compared with a direct stare? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.889"
+        ]
       },
       {
         "id": "22",
@@ -6461,7 +7265,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Saltimbanques, specifically: Sparse outlines invite viewers to connect scattered figures into a social scene. Which spaces between the people seem as important as the figures themselves? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Saltimbanques, specifically: Sparse outlines invite viewers to connect scattered figures into a social scene. Which spaces between the people seem as important as the figures themselves? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.893"
+        ]
       },
       {
         "id": "22",
@@ -6484,7 +7291,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Saltimbanque at Rest, specifically: The broad, grounded pose presents a performer during stillness rather than spectacle. What changes when a circus artist is shown resting instead of entertaining an audience? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Saltimbanque at Rest, specifically: The broad, grounded pose presents a performer during stillness rather than spectacle. What changes when a circus artist is shown resting instead of entertaining an audience? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.896"
+        ]
       },
       {
         "id": "22",
@@ -6507,7 +7317,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Bust of a Man, specifically: Close hatching gives the face solidity while the outer shoulder remains only lightly defined. Why might the artist finish the face more fully than the body? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Bust of a Man, specifically: Close hatching gives the face solidity while the outer shoulder remains only lightly defined. Why might the artist finish the face more fully than the body? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.899"
+        ]
       },
       {
         "id": "22",
@@ -6530,7 +7343,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Two Saltimbanques, specifically: Their paired but unequal poses create a quiet exchange without showing an audience or stage. Which differences in their stance suggest different personalities? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of The Two Saltimbanques, specifically: Their paired but unequal poses create a quiet exchange without showing an audience or stage. Which differences in their stance suggest different personalities? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.900"
+        ]
       },
       {
         "id": "22",
@@ -6553,7 +7369,10 @@ window.ARTISTS = [
         "sourceLicenseScope": "Cleveland Museum of Art’s stated CC0 status for its published digital reproduction; retained as source metadata, not treated as a determination of Canadian copyright in the underlying Picasso work.",
         "sourceRightsBasis": "Cleveland Museum of Art collection API explicitly marks this record share_license_status CC0 and provides the open-access image.",
         "copyrightNotice": "Underlying artwork: Pablo Picasso; copyright retained by respective rights holders for this Canadian assessment. Museum digital reproduction: CC0 as stated by the Cleveland Museum of Art.",
-        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Head of a Woman in Profile, specifically: Delicate lines distinguish the hair, bow and face while preserving much of the paper’s lightness. How does the oversized bow change the silhouette and balance of the head? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made."
+        "rightsAssessment": "Purpose: Grade 7/8 Canadian education and criticism of Head of a Woman in Profile, specifically: Delicate lines distinguish the hair, bow and face while preserving much of the paper’s lightness. How does the oversized bow change the silhouette and balance of the head? Character: the image is embedded beside substantive commentary in a curated student resource, but public GitHub Pages distribution extends beyond the classroom and weighs against fairness relative to restricted access. Amount: one complete work is needed to examine the relationship of marks, figures and blank paper; ten distinct Picasso works are included cumulatively, a materially larger amount than a single example that also weighs against fairness. Alternatives: text alone would prevent students testing this visual analysis, while unrelated open art would not show Picasso’s particular choices; smaller or fewer illustrations remain possible alternatives. Nature: a previously published creative work, whose Canadian underlying copyright is not assumed expired merely because this museum identifies its reproduction as CC0. Effect: modest on-page resolution, attribution and individual criticism reduce substitution for collectible prints or licensed high-resolution reproductions, but public availability and potential licensing-market effects remain adverse considerations and cannot be dismissed. This is a contextual assessment, not a blanket educational entitlement or permission from the artist’s rights holders; reconsider if purpose or distribution changes. No s.30.04 claim is made.",
+        "infoSources": [
+          "https://clevelandart.org/art/1929.901"
+        ]
       },
       {
         "path": "assets/education-famous/22-Les_Demoiselles_dAvignon.webp",
@@ -6582,7 +7401,10 @@ window.ARTISTS = [
           "alternatives": "A different artist’s work or a written summary cannot show this particular composition. The full reproduction is paired with its own analysis, not offered as a substitute for a museum or commercial image collection.",
           "nature": "An already published creative visual work. Its expressive nature is acknowledged; publication does not make it public domain.",
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
-        }
+        },
+        "infoSources": [
+          "https://www.moma.org/collection/works/79766"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -6595,7 +7417,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "https://www.moma.org/collection/works/79766",
         "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
-      ]
+      ],
+      "descriptionCount": 12
     }
   },
   {
@@ -6678,7 +7501,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:yorkshireterrierwithpinkbow",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694065551_jgfy.jpg?v=1795020507",
-        "description": "A pink bow and patterned fur turn a small dog into an emphatic decorative portrait. How does the bow change the personality you imagine for this animal?"
+        "description": "A pink bow and patterned fur turn a small dog into an emphatic decorative portrait. How does the bow change the personality you imagine for this animal?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/yorkshire-terrier-with-pink-bow"
+        ]
       },
       {
         "title": "Yorkshire Terrier in a Flat Cap",
@@ -6695,7 +7521,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:yorkshireterrierinaflatcap",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8646061114_kirk.jpg?v=1795020505",
-        "description": "A human-style cap sits above a patterned dog’s face. Which detail makes the portrait humorous, and which makes it feel dignified?"
+        "description": "A human-style cap sits above a patterned dog’s face. Which detail makes the portrait humorous, and which makes it feel dignified?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/yorkshire-terrier-in-a-flat-cap"
+        ]
       },
       {
         "title": "Yellow Farmhouse Above Flower Fields",
@@ -6712,7 +7541,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:yellowfarmhouseaboveflowerfields",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694086215_a5dh.jpg?v=1795020507",
-        "description": "Bands of densely patterned flowers lead toward a small yellow house. How does changing the scale of flowers and buildings affect the sense of distance?"
+        "description": "Bands of densely patterned flowers lead toward a small yellow house. How does changing the scale of flowers and buildings affect the sense of distance?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/yellow-farmhouse-above-flower-fields"
+        ]
       },
       {
         "title": "Woman with Green Parrot Under Stars",
@@ -6729,7 +7561,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:womanwithgreenparrotunderstars",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694112271_ia4g.jpg?v=1795020503",
-        "description": "A large green parrot shares the scene with a figure beneath a starry sky. Which repeated colours link the two subjects?"
+        "description": "A large green parrot shares the scene with a figure beneath a starry sky. Which repeated colours link the two subjects?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/woman-with-green-parrot-under-stars"
+        ]
       },
       {
         "title": "Winged Tabby Cat Under the Stars",
@@ -6746,7 +7581,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:wingedtabbycatunderthestars",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8646232802_e5rw.jpg?v=1795020502",
-        "description": "Wings and a star-filled background transform a familiar cat into a fantasy creature. How do ordinary and imaginary details work together in this portrait?"
+        "description": "Wings and a star-filled background transform a familiar cat into a fantasy creature. How do ordinary and imaginary details work together in this portrait?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/winged-tabby-cat-under-the-stars"
+        ]
       },
       {
         "title": "Winged Pug with Silver Diamonds",
@@ -6763,7 +7601,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:wingedpugwithsilverdiamonds",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8646285058_579g.jpg?v=1795020503",
-        "description": "Diamond patterns and wings surround a boldly outlined pug. Which pattern creates the strongest contrast with the curved animal body?"
+        "description": "Diamond patterns and wings surround a boldly outlined pug. Which pattern creates the strongest contrast with the curved animal body?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/winged-pug-with-silver-diamonds"
+        ]
       },
       {
         "title": "Winged Ginger Cat with Skull Crown",
@@ -6780,7 +7621,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:wingedgingercatwithskullcrown",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8646252344_hqml.jpg?v=1795020501",
-        "description": "The cat’s crown and wings combine playful fantasy with a skull motif. How can an artist change the mood of a potentially serious symbol through colour and pattern?"
+        "description": "The cat’s crown and wings combine playful fantasy with a skull motif. How can an artist change the mood of a potentially serious symbol through colour and pattern?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/winged-ginger-cat-with-skull-crown"
+        ]
       },
       {
         "title": "White Cat on a Patchwork Quilt",
@@ -6797,7 +7641,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:whitecatonapatchworkquilt",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694053409_mjjc.jpg?v=1795020498",
-        "description": "A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?"
+        "description": "A white cat rests among a crowded arrangement of colourful patches and objects. Why does the pale animal remain visible against so much detail?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt"
+        ]
       },
       {
         "title": "Westie with Heart Tag",
@@ -6814,7 +7661,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:westiewithhearttag",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8694092289_nsfb.jpg?v=1795020497",
-        "description": "The heart-shaped tag repeats the portrait’s affectionate mood. How do warm colours and angular fur marks work together to create a lively expression?"
+        "description": "The heart-shaped tag repeats the portrait’s affectionate mood. How do warm colours and angular fur marks work together to create a lively expression?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/westie-with-heart-tag"
+        ]
       },
       {
         "title": "Westie Under the Full Moon",
@@ -6831,7 +7681,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "23:westieunderthefullmoon",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0858/0631/7783/files/il_fullxfull.8646219646_s5sy.jpg?v=1795020496",
-        "description": "A large moon hangs above a small dog whose fur is drawn in contrasting colour bands. How does the night setting change the feeling of a pet portrait?"
+        "description": "A large moon hangs above a small dog whose fur is drawn in contrasting colour bands. How does the night setting change the feeling of a pet portrait?",
+        "infoSources": [
+          "https://www.heathergallerstudio.com/products/westie-under-the-full-moon"
+        ]
       }
     ],
     "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
@@ -6886,7 +7739,8 @@ window.ARTISTS = [
           "source": "https://www.heathergallerstudio.com/products/westie-under-the-full-moon",
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -6978,7 +7832,13 @@ window.ARTISTS = [
         "rightsBasis": "Photographer CC BY-SA 4.0. The underlying artwork has been permanently installed in the publicly visible Guggenheim Museum Bilbao plaza since 1997; Spanish freedom of panorama covers the public sculpture. Underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Puppy_at_Guggenheim_Museum.jpg/960px-Puppy_at_Guggenheim_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "artworkSource": "https://www.guggenheim-bilbao.eus/exposicion/puppy",
-        "workKey": "24:puppy"
+        "workKey": "24:puppy",
+        "description": "An enormous seated terrier is covered in living flowering plants, so its colourful surface changes as the planting grows and is maintained. A stainless-steel structure and soil support the garden-like skin, combining the shape of a friendly pet with the scale of a monument.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Puppy_at_Guggenheim_Museum.jpg",
+          "https://www.guggenheim-bilbao.eus/en/the-collection/works/puppy"
+        ],
+        "medium": "Stainless steel, soil and flowering plants"
       },
       {
         "id": "24-balloon-dog",
@@ -7004,7 +7864,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:balloondog",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/65/Balloon_Dog_%28Blue%29_by_Jeff_Koons%2C_The_Broad.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/65/Balloon_Dog_%28Blue%29_by_Jeff_Koons%2C_The_Broad.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Balloon_Dog"
+        ]
       },
       {
         "id": "24-151995702",
@@ -7019,7 +7882,12 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "rightsBasis": "Photograph CC BY-SA 4.0; underlying sculpture photographed as a permanent outdoor installation in Spain, covered by Spanish freedom of panorama (Copyright Act Article35.2). Museum and BBVA museum exhibition dossier document its permanent publicly visible exterior-terrace display: https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes and https://www.fbbva.es/wp-content/uploads/2015/06/Dossier_Jeff_Koons_ESP.pdf",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "24:tulips"
+        "workKey": "24:tulips",
+        "description": "Oversized balloon-like flowers gather into a reflective bouquet outside the Guggenheim Bilbao. Their stainless-steel surfaces look light and inflatable even though the sculpture is heavy and durable, creating a playful contrast between appearance and material.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Tulips_sculpture_by_Jeff_Koons_in_the_Bilbao_Guggenheim_Museum.jpg",
+          "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes"
+        ]
       },
       {
         "id": "24-bouquet-of-tulips",
@@ -7045,7 +7913,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:bouquetoftulips",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jeff_Koons%2C_Bouquet_of_Tulips%2C_2019_%2850047958682%29_%28cropped%29.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jeff_Koons%2C_Bouquet_of_Tulips%2C_2019_%2850047958682%29_%28cropped%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Bouquet_of_Tulips"
+        ]
       },
       {
         "id": "24-michael-jackson-and-bubbles",
@@ -7071,7 +7942,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:michaeljacksonandbubbles",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/67/Michael_Jackson_and_Bubbles.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/67/Michael_Jackson_and_Bubbles.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Michael_Jackson_and_Bubbles"
+        ]
       },
       {
         "id": "24-play-doh-sculpture",
@@ -7098,7 +7972,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:playdohsculpture",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/da/Play-doh.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Play-doh.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Play-doh.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Play-Doh_(sculpture)"
+        ]
       },
       {
         "id": "24-balloon-flower",
@@ -7124,7 +8001,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:balloonflower",
-        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/361cb81b-6835-4ec2-ae53-b3dbd85464de/balloonflower_yelllow.jpg?format=750w"
+        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/361cb81b-6835-4ec2-ae53-b3dbd85464de/balloonflower_yelllow.jpg?format=750w",
+        "infoSources": [
+          "https://www.jeffkoons.com/artwork/celebration"
+        ]
       },
       {
         "id": "24-hanging-heart",
@@ -7150,7 +8030,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:hangingheart",
-        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/228e678d-e036-4ece-9e25-6bdac274ce03/hangingheart_redgold.jpg?format=750w"
+        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/228e678d-e036-4ece-9e25-6bdac274ce03/hangingheart_redgold.jpg?format=750w",
+        "infoSources": [
+          "https://www.jeffkoons.com/artwork/celebration"
+        ]
       },
       {
         "id": "24-diamond",
@@ -7176,7 +8059,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:diamond",
-        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/e316b32e-f05d-452f-9afe-15bed7110bd6/Diamond_Green.jpg?format=750w"
+        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/e316b32e-f05d-452f-9afe-15bed7110bd6/Diamond_Green.jpg?format=750w",
+        "infoSources": [
+          "https://www.jeffkoons.com/artwork/celebration"
+        ]
       },
       {
         "id": "24-cracked-egg",
@@ -7202,7 +8088,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:crackedegg",
-        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/36651842-6fd6-4562-b10b-3393b1c95ba9/CrackedEgg_Blue2.jpg?format=750w"
+        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/36651842-6fd6-4562-b10b-3393b1c95ba9/CrackedEgg_Blue2.jpg?format=750w",
+        "infoSources": [
+          "https://www.jeffkoons.com/artwork/celebration"
+        ]
       },
       {
         "id": "24-rabbit",
@@ -7228,7 +8117,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "24:rabbit",
-        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/59f408fd-7bd1-4d8f-881d-86dff2b0f876/5+Koons+Rabbit.Christies+PWC+NY+2019.Lot+Image.+59749011-h.jpg?format=750w"
+        "imageSource": "https://images.squarespace-cdn.com/content/v1/66993101c21acf31dcadf692/59f408fd-7bd1-4d8f-881d-86dff2b0f876/5+Koons+Rabbit.Christies+PWC+NY+2019.Lot+Image.+59749011-h.jpg?format=750w",
+        "infoSources": [
+          "https://www.jeffkoons.com/artwork/statuary"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -7275,7 +8167,8 @@ window.ARTISTS = [
           "url": "https://www.jeffkoons.com/artwork/statuary",
           "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
         }
-      ]
+      ],
+      "descriptionCount": 11
     }
   },
   {
@@ -7374,7 +8267,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:agnesmartintaosnewmexico",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=2"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=2",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=2"
+        ]
       },
       {
         "id": "25-robert-smithson-s-spiral-jetty-rozel-point-great-salt-lake-utah",
@@ -7399,7 +8295,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:robertsmithsonsspiraljettyrozelpointgreatsaltlakeutah",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
+        ]
       },
       {
         "id": "25-edward-hopper-s-childhood-home-nyack-new-york",
@@ -7424,7 +8323,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:edwardhopperschildhoodhomenyacknewyork",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3"
+        ]
       },
       {
         "id": "25-cindy-sherman-east-hampton-new-york",
@@ -7449,7 +8351,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:cindyshermaneasthamptonnewyork",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=4"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=4",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=4"
+        ]
       },
       {
         "id": "25-kara-walker-new-york-city",
@@ -7474,7 +8379,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:karawalkernewyorkcity",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
+        ]
       },
       {
         "id": "25-reykjavik-iceland",
@@ -7499,7 +8407,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:reykjavikiceland",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5"
+        ]
       },
       {
         "id": "25-louise-bourgeois-new-york-city",
@@ -7524,7 +8435,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:louisebourgeoisnewyorkcity",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=6"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=6",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=6"
+        ]
       },
       {
         "id": "25-amy-sherald-columbus-georgia",
@@ -7549,7 +8463,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:amysheraldcolumbusgeorgia",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
+        ]
       },
       {
         "id": "25-billie-eilish-los-angeles",
@@ -7574,7 +8491,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:billieeilishlosangeles",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7"
+        ]
       },
       {
         "id": "25-supreme-court-justice-ketanji-brown-jackson-washington-d-c",
@@ -7599,7 +8519,10 @@ window.ARTISTS = [
         },
         "changes": "Complete embedded photograph extracted from the published educational PDF, resized to at most640px and converted to WebP; no cropping.",
         "workKey": "25:supremecourtjusticeketanjibrownjacksonwashingtondc",
-        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8"
+        "imageSource": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8",
+        "infoSources": [
+          "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -7650,7 +8573,8 @@ window.ARTISTS = [
           "url": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8",
           "result": "The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -7732,7 +8656,7 @@ window.ARTISTS = [
       {
         "title": "Campbell's Soup Cans",
         "date": "1962",
-        "medium": "",
+        "medium": "Painting installation of 32 canvases",
         "path": "assets/education-context/26-w01.webp",
         "alt": "Rows of red-and-white soup-can images fill a rectangular arrangement.",
         "description": "Repetition makes familiar packaging resemble both a shop display and a carefully organised painting. When does repeating a product image change it into something worth studying?",
@@ -7747,12 +8671,15 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Campbell's Soup Cans. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repetition makes familiar packaging resemble both a shop display and a carefully organised painting. When does repeating a product image change it into something worth studying? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/cri-000000318242"
+        ]
       },
       {
         "title": "Marilyn Diptych",
         "date": "1962",
-        "medium": "",
+        "medium": "Screenprint ink and acrylic on canvas",
         "path": "assets/education-context/26-w02.webp",
         "alt": "Repeated Marilyn Monroe faces appear in bright colour on one side and fading black and white on the other.",
         "description": "The contrast between vivid and fading images questions how publicity preserves a person. What changes when the same face becomes harder to see?",
@@ -7767,7 +8694,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Marilyn Diptych. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The contrast between vivid and fading images questions how publicity preserves a person. What changes when the same face becomes harder to see? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/marilyn-diptych"
+        ]
       },
       {
         "title": "Gold Marilyn Monroe",
@@ -7787,7 +8717,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Gold Marilyn Monroe. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The empty gold space gives a publicity image the visual importance of an icon. How would the portrait feel if the gold area were tightly cropped away? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/316-1962-cr-press-use-3000-pixel-length-1"
+        ]
       },
       {
         "title": "Green Coca-Cola Bottles",
@@ -7807,7 +8740,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Green Coca-Cola Bottles. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Small differences within the repeated bottles interrupt the promise of identical manufactured goods. Where can you find an irregular bottle, and why does it matter? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/68-25-cropped.jpeg"
+        ]
       },
       {
         "title": "Brillo Soap Pads Boxes",
@@ -7827,7 +8763,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Brillo Soap Pads Boxes. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The display makes viewers compare a handmade art object with an ordinary shipping carton. What would you need to know before deciding whether these belong in a shop or a museum? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/brillo-soap-pads-boxes-1964"
+        ]
       },
       {
         "title": "Flowers",
@@ -7847,7 +8786,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Flowers. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Flat, intense colour makes natural flowers resemble a commercial printed pattern. How does the dark background affect the flowers’ artificial-looking colour? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/flowers"
+        ]
       },
       {
         "title": "Mao",
@@ -7867,7 +8809,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Mao. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The unexpected colour changes a political leader’s official image into a conspicuous visual product. What is gained or lost when a political portrait uses the colours of advertising? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/mao-2"
+        ]
       },
       {
         "title": "Triple Elvis",
@@ -7887,7 +8832,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Triple Elvis. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The repeated pose turns a film-star image into a rhythm rather than a single character. How does the overlap affect the sense of movement? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/triple-elvis"
+        ]
       },
       {
         "title": "Orange Prince",
@@ -7907,7 +8855,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Orange Prince. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The tight crop and simplified colour concentrate attention on a recognisable celebrity image. Which details remain essential when a photographic face is reduced to bold shapes? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/6afda2b537aca43efc338c04b025b792"
+        ]
       },
       {
         "title": "Cow",
@@ -7927,7 +8878,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Cow. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The surprising colour and scale turn a farm animal into decorative wallpaper. How might this image change a room when repeated across an entire wall? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/andy-warhol/cow"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -7940,7 +8894,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -8027,7 +8982,12 @@ window.ARTISTS = [
         "alt": "A detailed view of a large room with glowing mirrors and a patterned floor.",
         "creator": "Kamal-ol-molk",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "27:mirrorhall"
+        "workKey": "27:mirrorhall",
+        "description": "An ornate hall is filled with patterned flooring, tall openings and many glittering reflective surfaces. The repeated architectural details create deep space while the changing highlights make light itself an important part of the subject.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Mirror_Hall_by_Kamal-ol-molk.JPG"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/27-02.webp",
@@ -8044,7 +9004,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:thedoshantappehstreet",
         "sourceFile": "File:DushanTappe.jpg",
-        "sourceDate": "1885 CE / 1302 AH"
+        "sourceDate": "1885 CE / 1302 AH",
+        "description": "A long avenue narrows between rows of trees and wooden fences. Repeated trunks and converging edges guide the eye toward a distant point, while small changes in foliage keep the ordered scene from feeling completely symmetrical.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:DushanTappe.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-03.webp",
@@ -8061,7 +9025,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:iranianmusicgroup",
         "sourceFile": "File:IranianMusicGroup.jpg",
-        "sourceDate": "1886"
+        "sourceDate": "1886",
+        "description": "A large group of musicians poses with traditional instruments. Differences in clothing, posture and instrument shapes distinguish individuals, while the overlapping rows turn many separate portraits into a single organised gathering.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:IranianMusicGroup.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-04.webp",
@@ -8078,7 +9046,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:viewofshahrestanakfountain",
         "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7827 16.jpg",
-        "sourceDate": "1912 CE / 1330 AH"
+        "sourceDate": "1912 CE / 1330 AH",
+        "description": "A stream winds down a bare, rocky mountain valley. The bright water gives the eye a route through the darker slopes, while the narrowing channel helps communicate the depth and scale of the landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_16.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-05.webp",
@@ -8096,7 +9068,11 @@ window.ARTISTS = [
         "workKey": "27:thefortuneteller",
         "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7827 20.jpg",
         "sourceDate": "7 February 2024, 10:41:55",
-        "photographer": "Mardetanha"
+        "photographer": "Mardetanha",
+        "description": "Two seated figures face one another in a dim interior, with light falling across the wall. The strong contrast between the illuminated background and darker bodies gives a quiet encounter a clear dramatic focus.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7827_20.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-06.webp",
@@ -8114,7 +9090,11 @@ window.ARTISTS = [
         "workKey": "27:golestanpalacespringhouse",
         "sourceFile": "File:Paintings by Kamal-ol-molk in the Golestan Palace by Mardetanha 7959 20.jpg",
         "sourceDate": "7 February 2024, 12:59:47",
-        "photographer": "Mardetanha"
+        "photographer": "Mardetanha",
+        "description": "An ornate palace interior surrounds a sunken pool. Repeated arches, columns and reflected light make the architecture feel deep and ordered, while the water adds another surface on which the surrounding forms can appear.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paintings_by_Kamal-ol-molk_in_the_Golestan_Palace_by_Mardetanha_7959_20.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-07.webp",
@@ -8131,7 +9111,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:birdstudylark",
         "sourceFile": "File:Painting of a Bird (01).jpg",
-        "sourceDate": "Dhu al-Hijjah 1330 AH"
+        "sourceDate": "Dhu al-Hijjah 1330 AH",
+        "description": "A bird with an orange face perches on a leafy branch against a mostly white background. Fine changes in feather colour and the curve of the claws direct attention to close observation rather than a broad landscape setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(01).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-08.webp",
@@ -8148,7 +9132,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:birdstudyfemalepartridge",
         "sourceFile": "File:Painting of a Bird (02).jpg",
-        "sourceDate": "Dhu al-Hijjah 1330 AH"
+        "sourceDate": "Dhu al-Hijjah 1330 AH",
+        "description": "A brown partridge stands on a fallen branch beside small plants. Layered marks distinguish the rounded body, darker wings and surrounding ground, making differences in texture an important part of the study.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(02).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-09.webp",
@@ -8165,7 +9153,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:birdstudygreenfinch",
         "sourceFile": "File:Painting of a Bird (03).jpg",
-        "sourceDate": "Dhu al-Hijjah 1330 AH"
+        "sourceDate": "Dhu al-Hijjah 1330 AH",
+        "description": "A green bird with dark wings perches on a slender branch. The almost empty background keeps attention on the profile, while small changes in colour separate the breast, wing feathers and tail.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(03).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/27-10.webp",
@@ -8182,7 +9174,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Kamal-ol-Molk; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "27:birdstudyparrot",
         "sourceFile": "File:Painting of a Bird (07).jpg",
-        "sourceDate": "Dhu al-Hijjah 1330 AH"
+        "sourceDate": "Dhu al-Hijjah 1330 AH",
+        "description": "A parrot with an orange head and long grey-green tail perches against a pale background. The compact curved head and extended tail create an uneven balance, while carefully separated feather areas make the bird’s structure easy to examine.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Painting_of_a_Bird_(07).jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -8197,7 +9193,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -8285,13 +9282,18 @@ window.ARTISTS = [
         "alt": "People with parasols and animals in a green riverside park.",
         "creator": "Georges Seurat",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "28:asundayonlagrandejatte"
+        "workKey": "28:asundayonlagrandejatte",
+        "description": "People, parasols and animals occupy a riverside park in a carefully arranged set of upright and reclining poses. Small marks of colour combine across the surface, while the repeated vertical figures make the busy leisure scene feel surprisingly still.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/28-02.webp",
         "title": "Bathers at Asnières",
         "date": "1884",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "People rest on a grassy riverbank while swimmers enter the water beyond them.",
         "credit": "Georges Seurat · Public domain",
         "creator": "Georges Seurat",
@@ -8302,7 +9304,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:bathersatasnieres",
         "sourceFile": "File:Baigneurs a Asnieres.jpg",
-        "sourceDate": "1884"
+        "sourceDate": "1884",
+        "description": "Figures rest along a grassy riverbank while others enter the water. Broad, simplified bodies and a long stretch of bank organise the scene into clear layers, contrasting the nearby bathers with the smaller activity across the river.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Baigneurs_a_Asnieres.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-03.webp",
@@ -8319,7 +9325,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:thecircus",
         "sourceFile": "File:Georges Seurat, 1891, Le Cirque (The Circus), oil on canvas, 185 x 152 cm, Musée d'Orsay.jpg",
-        "sourceDate": "1891"
+        "sourceDate": "1891",
+        "description": "A rider balances on a white horse as performers and spectators surround the ring. Curving outlines and repeated diagonals give the performance energy, while rows of seated spectators provide a more rigid pattern behind it.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1891,_Le_Cirque_(The_Circus),_oil_on_canvas,_185_x_152_cm,_Mus%C3%A9e_d%27Orsay.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-04.webp",
@@ -8336,7 +9346,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:lechahut",
         "sourceFile": "File:Georges Seurat, 1889-90, Le Chahut, Kröller-Müller Museum.jpg",
-        "sourceDate": "1889"
+        "sourceDate": "1889",
+        "description": "A row of dancers kicks upward above an orchestra. Repeated raised legs, tilted heads and curved facial features create an exaggerated rhythm, making the figures function as parts of a coordinated pattern as well as individual performers.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Georges_Seurat,_1889-90,_Le_Chahut,_Kr%C3%B6ller-M%C3%BCller_Museum.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-05.webp",
@@ -8353,7 +9367,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:circussideshowparadedecirque",
         "sourceFile": "File:Circus Sideshow (Parade de cirque) MET DP858712.jpg",
-        "sourceDate": "1887–88"
+        "sourceDate": "1887–88",
+        "description": "Pale figures emerge from a softly shaded drawing of a circus sideshow. Differences between dark and light do much of the work of describing the bodies, so the forms seem to appear gradually instead of being enclosed by firm outlines.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Circus_Sideshow_(Parade_de_cirque)_MET_DP858712.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-06.webp",
@@ -8370,7 +9388,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:cowsinameadow",
         "sourceFile": "File:Georges seurat vaches dans un pre081938).jpg",
-        "sourceDate": ""
+        "sourceDate": "",
+        "description": "Brown cows rest in a green meadow. Small changes of colour connect the animals to the surrounding grass, while their low, rounded shapes give the open landscape a quiet focal point.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Georges_seurat_vaches_dans_un_pre081938).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-07.webp",
@@ -8387,7 +9409,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:madameseurattheartistsmother",
         "sourceFile": "File:Madame Seurat, the Artist's Mother (Madame Seurat, mère), by Georges Seurat (Getty 108VJM).jpg",
-        "sourceDate": "from 1882 until 1883"
+        "sourceDate": "from 1882 until 1883",
+        "description": "A woman’s face emerges from a very dark drawing. Gentle changes of tone describe her features without a sharp boundary, making the image a close study of how little light is needed to suggest a face.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Madame_Seurat,_the_Artist%27s_Mother_(Madame_Seurat,_m%C3%A8re),_by_Georges_Seurat_(Getty_108VJM).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-08.webp",
@@ -8404,7 +9430,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Georges Seurat; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "28:theforestatpontaubert",
         "sourceFile": "File:Georges Seurat 063.jpg",
-        "sourceDate": "circa 1879-1882"
+        "sourceDate": "circa 1879-1882",
+        "description": "Slender trunks rise through shaded woodland with small openings of light between them. The repeated verticals create depth and rhythm, while many small colour marks suggest leaves and changing light without outlining every plant.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Georges_Seurat_063.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-09.webp",
@@ -8422,7 +9452,11 @@ window.ARTISTS = [
         "workKey": "28:housesatleraincy",
         "sourceFile": "File:Seurat - Houses At Le Raincy.jpg",
         "sourceDate": "19th century",
-        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained."
+        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained.",
+        "description": "A white house with a red roof appears behind trees and garden foliage. Broken touches of colour connect the building to the surrounding vegetation, while the strong roof shape gives the eye a clear place to rest.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Seurat_-_Houses_At_Le_Raincy.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/28-10.webp",
@@ -8440,7 +9474,11 @@ window.ARTISTS = [
         "workKey": "28:pierrot",
         "sourceFile": "File:Seurat - Pierrot.jpg",
         "sourceDate": "1883",
-        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained."
+        "attributionNote": "Commons file names no separate reproduction author; original artwork is public domain. Source publisher and exact Commons licence retained.",
+        "description": "A standing performer wears a loose pale costume decorated with dark patches. The bright clothing separates the body from the background, while the soft boundaries make the figure feel less solid than a sharply outlined portrait.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Seurat_-_Pierrot.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -8455,7 +9493,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -8557,7 +9596,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:whaam",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/b/b7/Roy_Lichtenstein_Whaam.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/b/b7/Roy_Lichtenstein_Whaam.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Whaam!"
+        ]
       },
       {
         "id": "29-drowning-girl",
@@ -8583,7 +9625,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:drowninggirl",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/df/Roy_Lichtenstein_Drowning_Girl.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Drowning_Girl"
+        ]
       },
       {
         "id": "29",
@@ -8599,7 +9644,11 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 3.0 Spain. The source file explicitly carries FoP-Spain and identifies the artwork in Barcelona’s public-art catalogue; underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg/960px-73_Cap_de_Barcelona%2C_de_Roy_Lichtenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "workKey": "29:barcelonaheadelcapdebarcelona"
+        "workKey": "29:barcelonaheadelcapdebarcelona",
+        "description": "A towering face emerges from loops, dots and boldly edged coloured surfaces. The head can be recognised without realistic anatomy, while its varied patterns translate the graphic energy of Lichtenstein’s paintings into a large public sculpture.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:73_Cap_de_Barcelona,_de_Roy_Lichtenstein.jpg"
+        ]
       },
       {
         "id": "29-20728945",
@@ -8614,7 +9663,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "rightsBasis": "Photograph CC BY-SA3.0; permanently installed outdoor sculpture in Daniel Garden, Jerusalem, covered by Israeli freedom of panorama. Collection and location are documented in Commons artwork record and companion file JerusalemMunicipalityP4190022.JPG.",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "29:modernhead"
+        "workKey": "29:modernhead",
+        "description": "Curved profiles, circular forms and straight metal edges combine into a tall, open construction that suggests a human head. Much of the face is created by empty space, so trees, sky and the viewer’s position become part of its changing appearance.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Modern_head_Daniel_garden.JPG"
+        ]
       },
       {
         "id": "29-75843182",
@@ -8629,7 +9682,12 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "rightsBasis": "Photograph CC BY-SA2.0; permanently displayed public courtyard sculpture in Spain, covered by Spanish freedom of panorama Article35.2. Museum record documents acquisition2006 and installation in the Jean Nouvel courtyard: https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada/",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "29:brushstroke"
+        "workKey": "29:brushstroke",
+        "description": "A huge curling mark rises through the museum courtyard, turning the trace of a quick brush movement into a solid sculpture. Its bold contours preserve the appearance of painted gesture while the rigid aluminium holds that gesture permanently in place.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Madrid._Roy_Lichtenstein_sculpture._The_Reina_Sof%C3%ADa_Museum._MNCARS._Spain_(2852266625).jpg",
+          "https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada"
+        ]
       },
       {
         "id": "29-in-the-car",
@@ -8655,7 +9713,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:inthecar",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/4f/In_the_Car.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/4f/In_the_Car.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/In_the_Car"
+        ]
       },
       {
         "id": "29-look-mickey",
@@ -8681,7 +9742,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:lookmickey",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/43/Look_Mickey.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/43/Look_Mickey.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Look_Mickey"
+        ]
       },
       {
         "id": "29-masterpiece-lichtenstein",
@@ -8708,7 +9772,10 @@ window.ARTISTS = [
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:masterpiecelichtenstein",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/53/Masteripiece.jpg",
-        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Masteripiece.jpg"
+        "imageSourcePage": "https://en.wikipedia.org/wiki/File:Masteripiece.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Masterpiece_(Lichtenstein)"
+        ]
       },
       {
         "id": "29-oh-jeff-i-love-you-too-but",
@@ -8734,7 +9801,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:ohjeffiloveyoutoobut",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f4/Oh%2C_Jeff...I_Love_You%2C_Too...But....jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/f/f4/Oh%2C_Jeff...I_Love_You%2C_Too...But....jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Oh,_Jeff...I_Love_You,_Too...But..."
+        ]
       },
       {
         "id": "29-hopeless-lichtenstein",
@@ -8760,7 +9830,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "29:hopelesslichtenstein",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/58/Hopeless_%28Lichtenstein%29.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/58/Hopeless_%28Lichtenstein%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Hopeless_(Lichtenstein)"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -8799,7 +9872,8 @@ window.ARTISTS = [
           "url": "https://en.wikipedia.org/wiki/Hopeless_(Lichtenstein)",
           "result": "Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -8872,7 +9946,7 @@ window.ARTISTS = [
       {
         "title": "Cakes",
         "date": "1963",
-        "medium": "",
+        "medium": "Oil on canvas",
         "path": "assets/education-context/30-w01.webp",
         "alt": "Frosted cakes sit in rows on pale stands with coloured shadows.",
         "description": "Repeated circles and thick-looking paint make the cakes feel both organised and tempting. Which shadow colour seems least realistic, and why might it be useful?",
@@ -8887,12 +9961,15 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Cakes. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repeated circles and thick-looking paint make the cakes feel both organised and tempting. Which shadow colour seems least realistic, and why might it be useful? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/cakes-1963"
+        ]
       },
       {
         "title": "Three Machines",
         "date": "1963",
-        "medium": "",
+        "medium": "Oil on canvas",
         "path": "assets/education-context/30-w02.webp",
         "alt": "Three round vending machines hold bright balls of chewing gum.",
         "description": "Their matching forms create order while the tiny colours inside suggest variety. How does repeating the machine change your attention to its contents?",
@@ -8907,7 +9984,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Three Machines. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Their matching forms create order while the tiny colours inside suggest variety. How does repeating the machine change your attention to its contents? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/three-machines-1963"
+        ]
       },
       {
         "title": "Bakery Counter",
@@ -8927,7 +10007,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Bakery Counter. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The enclosing rectangle turns food into a carefully staged display. Which shelves seem closest, and how does the artist show their depth? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/bakery-counter-1962"
+        ]
       },
       {
         "title": "Refrigerator Pies",
@@ -8947,7 +10030,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Refrigerator Pies. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The diagonal rows create movement through a subject that usually sits still. Which colours make the pies feel warmer than their surroundings? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/refrigerator-pies-1962"
+        ]
       },
       {
         "title": "Girl with Ice Cream Cone",
@@ -8967,7 +10053,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Girl with Ice Cream Cone. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The large foreground feet challenge the tidy proportions of a formal portrait. How does the low viewpoint change the mood of this ordinary snack? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/girl-with-ice-cream-cone-1963"
+        ]
       },
       {
         "title": "Display Cakes",
@@ -8987,7 +10076,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Display Cakes. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The spaces between the cakes are as carefully shaped as the cakes themselves. Which empty space seems most important to the composition? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/display-cakes-1963"
+        ]
       },
       {
         "title": "Pies, Pies, Pies",
@@ -9007,7 +10099,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Pies, Pies, Pies. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The repeated wedges create a pattern while small differences keep individual pies visible. How could you rearrange the plates to make the scene feel less orderly? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/pies-pies-pies-1961"
+        ]
       },
       {
         "title": "24th Street Intersection",
@@ -9027,7 +10122,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of 24th Street Intersection. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The sharply tilted road turns a familiar intersection into a dramatic set of angles. Which line makes the slope feel steepest? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/24th-street-intersection-1977"
+        ]
       },
       {
         "title": "Lipsticks",
@@ -9047,7 +10145,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Lipsticks. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Enlarging small cosmetic objects makes their shapes resemble a miniature skyline. What everyday object could you paint this way to make viewers notice its structure? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/lipsticks-1964"
+        ]
       },
       {
         "title": "Seven Suckers",
@@ -9067,7 +10168,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Seven Suckers. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Rounded candy shapes and coloured shadows give a simple arrangement a playful rhythm. Which lollipop first attracts your eye, and what makes it stand out? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/wayne-thiebaud/seven-suckers-1970"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -9080,7 +10184,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -9162,7 +10267,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:manchangingintothunderbird",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160635/art-books_11_norval-morrisseau-man-changing-into-thunderbird-1977-ago-contextual.jpg",
-        "description": "Across six panels, a human figure progressively becomes a Thunderbird. What changes between the beginning and end, and how does the sequence make transformation visible?"
+        "description": "Across six panels, a human figure progressively becomes a Thunderbird. What changes between the beginning and end, and how does the sequence make transformation visible?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird"
+        ]
       },
       {
         "title": "Untitled (Thunderbird Transformation)",
@@ -9180,7 +10288,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:untitledthunderbirdtransformation",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160718/art-books_11_norval-morrisseau-untitled-thunderbird-transformation-kw.jpg",
-        "description": "Bird-like forms and circular signs share the birchbark surface. How does the visible material become part of the image rather than a neutral background?"
+        "description": "Bird-like forms and circular signs share the birchbark surface. How does the visible material become part of the image rather than a neutral background?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/untitled-thunderbird-transformation"
+        ]
       },
       {
         "title": "Self-Portrait Devoured by Demons",
@@ -9198,7 +10309,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:selfportraitdevouredbydemons",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160720/art-books_11_norval-morrisseau-self-portrait-devoured-by-demons-kw.jpg",
-        "description": "Curving creatures wrap around the artist’s self-image. How do their enclosing lines communicate pressure or struggle without requiring realistic illustration?"
+        "description": "Curving creatures wrap around the artist’s self-image. How do their enclosing lines communicate pressure or struggle without requiring realistic illustration?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/self-portrait-devoured-by-demons"
+        ]
       },
       {
         "title": "Artist in Union with Mother Earth",
@@ -9216,7 +10330,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:artistinunionwithmotherearth",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160429/art-books_11_norval-morrisseau-artist-in-union-with-mother-earth-kw.jpg",
-        "description": "The body and surrounding earth are linked through a single enclosed design. Which shared contour best communicates connection between a person and the land?"
+        "description": "The body and surrounding earth are linked through a single enclosed design. Which shared contour best communicates connection between a person and the land?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/artist-in-union-with-mother-earth"
+        ]
       },
       {
         "title": "Water Spirit",
@@ -9234,7 +10351,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:waterspirit",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160723/art-books_11_norval-morrisseau-water-spirit-kw.jpg",
-        "description": "A long white-bodied creature fills a horizontal frame surrounded by smaller forms. How do the inner marks make the body appear to contain another world?"
+        "description": "A long white-bodied creature fills a horizontal frame surrounded by smaller forms. How do the inner marks make the body appear to contain another world?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/water-spirit"
+        ]
       },
       {
         "title": "Indian Jesus Christ",
@@ -9252,7 +10372,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:indianjesuschrist",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160725/art-books_11_norval-morrisseau-indian-jesus-christ-kw.jpg",
-        "description": "Morrisseau reimagines a Christian figure through strong outlines and his own visual language. Which formal choices make this an interpretation rather than a conventional European devotional picture?"
+        "description": "Morrisseau reimagines a Christian figure through strong outlines and his own visual language. Which formal choices make this an interpretation rather than a conventional European devotional picture?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/indian-jesus-christ"
+        ]
       },
       {
         "title": "The Gift",
@@ -9270,7 +10393,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:thegift",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160727/art-books_11_norval-morrisseau-the-gift-kw.jpg",
-        "description": "Two facing figures exchange attention across an outlined central form. How does the space between them help communicate the idea of giving?"
+        "description": "Two facing figures exchange attention across an outlined central form. How does the space between them help communicate the idea of giving?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/the-gift"
+        ]
       },
       {
         "title": "The Storyteller: The Artist and His Grandfather",
@@ -9288,7 +10414,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:thestorytellertheartistandhisgrandfather",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160732/art-books_11_norval-morrisseau-the-storyteller-the-artist-and-his-grandfather-kw.jpg",
-        "description": "Two figures are linked by repeated shapes and connecting lines. How does this arrangement suggest that knowledge travels between generations?"
+        "description": "Two figures are linked by repeated shapes and connecting lines. How does this arrangement suggest that knowledge travels between generations?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/the-storyteller-the-artist-and-his-grandfather"
+        ]
       },
       {
         "title": "Androgyny",
@@ -9306,7 +10435,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:androgyny",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160734/art-books_11_norval-morrisseau-androgyny-kw.jpg",
-        "description": "Many living forms gather within a brilliant, interconnected landscape. Where does your eye begin, and which connecting line carries it to another being?"
+        "description": "Many living forms gather within a brilliant, interconnected landscape. Where does your eye begin, and which connecting line carries it to another being?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/androgyny"
+        ]
       },
       {
         "title": "Observations of the Astral World",
@@ -9324,7 +10456,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "31:observationsoftheastralworld",
         "sourceDownloadUrl": "https://assets-artbooks.artcanada.com/wp-content/uploads/2020/09/18160736/art-books_11_norval-morrisseau-observations-of-the-astral-world-kw.jpg",
-        "description": "Clusters of outlined creatures share a long, colourful field. How do repeated circles suggest relationships among forms that remain individually distinct?"
+        "description": "Clusters of outlined creatures share a long, colourful field. How do repeated circles suggest relationships among forms that remain individually distinct?",
+        "infoSources": [
+          "https://artbooks.artcanada.com/norval-morrisseau/key-works/observations-of-the-astral-world"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -9375,7 +10510,8 @@ window.ARTISTS = [
           "source": "https://artbooks.artcanada.com/norval-morrisseau/key-works/observations-of-the-astral-world",
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -9445,7 +10581,7 @@ window.ARTISTS = [
       {
         "title": "No.61 (Rust and Blue)",
         "date": "1953",
-        "medium": "",
+        "medium": "Oil on canvas",
         "path": "assets/education-context/32-w02.webp",
         "alt": "Rust, blue and dark rectangles stack within a muted frame of colour.",
         "description": "The cool middle band creates a quiet interruption between heavier dark areas. Does the blue appear to advance or recede when you look at it slowly?",
@@ -9460,7 +10596,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of No.61 (Rust and Blue). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The cool middle band creates a quiet interruption between heavier dark areas. Does the blue appear to advance or recede when you look at it slowly? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/1"
+        ]
       },
       {
         "title": "White Center (Yellow, Pink and Lavender on Rose)",
@@ -9480,7 +10619,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of White Center (Yellow, Pink and Lavender on Rose). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Soft edges allow neighbouring colours to seem to glow into one another. Which boundary feels sharpest, and how does that change the balance? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/white-center"
+        ]
       },
       {
         "title": "No. 1 (Royal Red and Blue)",
@@ -9500,7 +10642,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of No. 1 (Royal Red and Blue). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Unequal sizes make the colours feel weighted rather than simply symmetrical. How would the painting’s balance change if red and blue exchanged sizes? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/no-1-royal-red-and-blue-1954"
+        ]
       },
       {
         "title": "Black on Maroon",
@@ -9520,7 +10665,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Black on Maroon. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Low contrast asks viewers to spend time noticing small differences within darkness. What becomes visible after looking for twenty seconds? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/black-on-maroon"
+        ]
       },
       {
         "title": "Four Darks in Red",
@@ -9540,7 +10688,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Four Darks in Red. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The restrained colour changes create a slower rhythm than sharply contrasting stripes would. Which dark area feels heaviest, and what evidence supports your choice? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/four-darks-in-red-1958"
+        ]
       },
       {
         "title": "No.10",
@@ -9560,7 +10711,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of No.10. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The glowing centre connects colours that have very different temperatures. How does covering the yellow with your hand change the surrounding colours? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/no-10"
+        ]
       },
       {
         "title": "Orange and Yellow",
@@ -9580,7 +10734,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Orange and Yellow. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Closely related colours make the boundary feel like a gradual change in light. Can a painting with so few shapes still suggest movement? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/not_detected_242129"
+        ]
       },
       {
         "title": "Entrance to Subway",
@@ -9600,7 +10757,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Entrance to Subway. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repeated barriers divide the space and make the people seem isolated. How does this figurative scene compare with the artist’s later stacked rectangles? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/entance-to-subway"
+        ]
       },
       {
         "title": "Slow Swirl at the Edge of the Sea",
@@ -9620,7 +10780,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Slow Swirl at the Edge of the Sea. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Curving lines connect bodies and environment without describing an ordinary landscape. Which shapes suggest living things even when they are difficult to name? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/slow-swirl-at-the-edge-of-the-sea(1)"
+        ]
       },
       {
         "title": "No.3/No.13 (Magenta, Black, Green on Orange)",
@@ -9640,7 +10803,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of No.3/No.13 (Magenta, Black, Green on Orange). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: A narrow pale band separates the heavier colour blocks and changes their apparent weight. What happens to the composition if you imagine removing that pale band? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/mark-rothko/no-3-no-13"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -9653,7 +10819,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -9741,7 +10908,13 @@ window.ARTISTS = [
         "alt": "A sculpted portrait of a young boy.",
         "creator": "Augusta Savage",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "33:gamin"
+        "workKey": "33:gamin",
+        "description": "A young boy tilts his head beneath a soft cap, with an open collar and carefully modelled facial features. Savage gives an ordinary young person the close attention often reserved for powerful public figures, creating a portrait with a strong individual presence.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Augusta_Savage_-_Gamin_-_2003.40_-_Cleveland_Museum_of_Art.jpg",
+          "https://www.clevelandart.org/art/2003.40"
+        ],
+        "medium": "Sculpted portrait"
       },
       {
         "path": "assets/gallery-american/33-lift-every-voice-and-sing-the-harp.webp",
@@ -9757,7 +10930,12 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Historic photograph of Augusta Savage’s destroyed 1939 sculpture. Source names Savage and photographer Carl Van Vechten and declares PD-US-not-renewed for the 1960 publication; see source file’s stated basis.",
         "workKey": "33:lifteveryvoiceandsingtheharp",
-        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lift_Every_Voice_and_Sing_%28sculpture%29_Augusta_Savage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+        "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lift_Every_Voice_and_Sing_%28sculpture%29_Augusta_Savage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "description": "A graduated group of singers rises above a kneeling figure, with an enormous hand helping form the shape of a harp. Created for the 1939 New York World’s Fair and later destroyed, the sculpture survives through photographs that show how Savage translated collective singing into a monumental form.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Lift_Every_Voice_and_Sing_(sculpture)_Augusta_Savage.png",
+          "https://americanart.si.edu/artist/augusta-savage-4269"
+        ]
       },
       {
         "title": "Realization",
@@ -9775,7 +10953,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:realization",
         "sourceDownloadUrl": "https://images.ctfassets.net/qmv04te4h70u/3W5YCklJSOUxJ1vBCY9HQ7/999cfcae6cc936775a7aa9d5eda72737/Augusta_Savage.jpg?w=640",
-        "description": "Two sculpted figures form a group with sharply contrasting poses, while Savage stands nearby in the historic photograph. How do the figures’ gestures suggest a relationship or emotional tension?"
+        "description": "Two sculpted figures form a group with sharply contrasting poses, while Savage stands nearby in the historic photograph. How do the figures’ gestures suggest a relationship or emotional tension?",
+        "infoSources": [
+          "https://urbancivilrightsmuseum.org/whats-on/art-of-the-harlem-renaissance"
+        ]
       },
       {
         "title": "Portrait of Eugene Kinckle Jones",
@@ -9793,7 +10974,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:portraitofeugenekincklejones",
         "sourceDownloadUrl": "https://images.ctfassets.net/qmv04te4h70u/4IMblDtRNx6gFZqGg4WCmE/26bf03af111b059c1c78386dd1ab0971/DSC_2172.JPG?w=640",
-        "description": "A suited portrait bust gives the sitter an upright, composed presence. How does the simplified clothing support your attention to the face?"
+        "description": "A suited portrait bust gives the sitter an upright, composed presence. How does the simplified clothing support your attention to the face?",
+        "infoSources": [
+          "https://urbancivilrightsmuseum.org/whats-on/art-of-the-harlem-renaissance"
+        ]
       },
       {
         "title": "La Citadelle / Freedom",
@@ -9811,7 +10995,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:lacitadellefreedom",
         "sourceDownloadUrl": "https://glamportal.auctr.edu/files/original/952abe6fbc96bb0440ff3707994878ed.jpg",
-        "description": "A standing figure reaches one arm upward while drapery curves around the body. How do the raised arm and flowing contour communicate the idea of freedom?"
+        "description": "A standing figure reaches one arm upward while drapery curves around the body. How do the raised arm and flowing contour communicate the idea of freedom?",
+        "infoSources": [
+          "https://glamportal.auctr.edu/exhibits/show/augusta-savage-evolution/item/3177"
+        ]
       },
       {
         "title": "Susie Q and Truckin (two sculptures, one archival view)",
@@ -9829,7 +11016,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:susieqandtruckintwosculpturesonearchivalview",
         "sourceDownloadUrl": "https://www.slam.org/wp-content/uploads/2025/08/789-768x461.jpg",
-        "description": "Two small dance sculptures are displayed together beside Savage in this historic photograph. Compare the figures’ poses and explain how each suggests a different moment of movement."
+        "description": "Two small dance sculptures are displayed together beside Savage in this historic photograph. Compare the figures’ poses and explain how each suggests a different moment of movement.",
+        "infoSources": [
+          "https://www.slam.org/blog/girl-with-pigtails/"
+        ]
       },
       {
         "title": "Untitled (Girl with Pigtails)",
@@ -9847,7 +11037,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:untitledgirlwithpigtails",
         "sourceDownloadUrl": "https://d23gjylftzdlen.cloudfront.net/db_photo/d7104/u546671049/44_2023_dig_01_o5.jpg",
-        "description": "The child’s carefully modelled face contrasts with the decorative rhythm of her pigtails. Which subtle feature makes the expression feel thoughtful rather than simply cheerful?"
+        "description": "The child’s carefully modelled face contrasts with the decorative rhythm of her pigtails. Which subtle feature makes the expression feel thoughtful rather than simply cheerful?",
+        "infoSources": [
+          "https://www.slam.org/blog/girl-with-pigtails/"
+        ]
       },
       {
         "title": "Laborer",
@@ -9865,7 +11058,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:laborer",
         "sourceDownloadUrl": "https://libapps.s3.amazonaws.com/accounts/128682/images/laborer.jpg",
-        "description": "The watercolour shows a worker bent over a long-handled tool. How do posture and repeated downward lines communicate physical effort?"
+        "description": "The watercolour shows a worker bent over a long-handled tool. How do posture and repeated downward lines communicate physical effort?",
+        "infoSources": [
+          "https://libguides.nypl.org/c.php?g=815424&p=6629717"
+        ]
       },
       {
         "title": "Gwendolyn Knight",
@@ -9883,7 +11079,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:gwendolynknight",
         "sourceDownloadUrl": "https://www.dixon.org/media-library/Art/_576x863_crop_center-center_60_line/A-SAVAGE-Evans_Savage_Gwen-Knight.jpg",
-        "description": "A smooth bronze portrait combines an upright neck with carefully observed facial features. How does this restrained form communicate an individual presence?"
+        "description": "A smooth bronze portrait combines an upright neck with carefully observed facial features. How does this restrained form communicate an individual presence?",
+        "infoSources": [
+          "https://www.dixon.org/augusta-savage-renaissance-woman"
+        ]
       },
       {
         "title": "Portrait Head of John Henry",
@@ -9901,7 +11100,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "33:portraitheadofjohnhenry",
         "sourceDownloadUrl": "https://lh3.googleusercontent.com/ci/AL18g_TohqDXQQZxLcW-f3QmF_PvNlTtB2NYI1AjTu-cmClw5PAiX53axknMXZSA-ehrG6ZH679llQ=w640",
-        "description": "Light catches the projecting planes of a compact portrait head. Which change of surface makes the face seem alert rather than expressionless?"
+        "description": "Light catches the projecting planes of a compact portrait head. Which change of surface makes the face seem alert rather than expressionless?",
+        "infoSources": [
+          "https://artsandculture.google.com/asset/portrait-head-of-john-henry-0107/UwF2_YoMvvYpeA"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -9952,7 +11154,8 @@ window.ARTISTS = [
           "source": "https://collections.mfa.org/objects/33674/portrait-head-of-john-henry",
           "outcome": "MFA collection page and pressPDF returned403. Museum-owned Google Arts&Culture record publicly accessible and used instead."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -10044,7 +11247,10 @@ window.ARTISTS = [
           "alternatives": "A different artist’s work or a written summary cannot show this particular composition. The full reproduction is paired with its own analysis, not offered as a substitute for a museum or commercial image collection.",
           "nature": "Published1946–1947linocut by Elizabeth Catlett (died2012). A US no-notice public-domain designation is not assumed to clear Canadian underlying-work copyright; the reproduction photographer’s CC BY4.0 credit is retained.",
           "effect": "Reduced resolution, attribution and educational framing limit substitution for high-resolution reproductions or prints. Public availability may still affect licensing interests; no claim of zero market effect or guaranteed legality is made."
-        }
+        },
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Elizabeth_Catlett_I_am_the_Black_Woman_1947.jpg"
+        ]
       },
       {
         "title": "Singing Head",
@@ -10062,7 +11268,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:singinghead",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1989.52_1&max=640",
-        "description": "An open mouth and tilted head turn a compact stone form into an expressive gesture. How can a sculpture suggest sound without including an instrument?"
+        "description": "An open mouth and tilted head turn a compact stone form into an expressive gesture. How can a sculpture suggest sound without including an instrument?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/singing-head-3868"
+        ]
       },
       {
         "title": "Head",
@@ -10080,7 +11289,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:head",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/44134/2013_103_vw4_cropped.jpg",
-        "description": "The lifted chin gives this terracotta portrait a clear direction. How do surface texture and head angle shape your reading of the sitter’s presence?"
+        "description": "The lifted chin gives this terracotta portrait a clear direction. How do surface texture and head angle shape your reading of the sitter’s presence?",
+        "infoSources": [
+          "https://whitney.org/collection/works/44134"
+        ]
       },
       {
         "title": "I have special reservations...",
@@ -10098,7 +11310,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:ihavespecialreservations",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10154/95_200_cropped.jpg",
-        "description": "A segregation sign divides a bus interior where the passengers remain visible as individuals. How does the word reservations change meaning when placed in this scene?"
+        "description": "A segregation sign divides a bus interior where the passengers remain visible as individuals. How does the word reservations change meaning when placed in this scene?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10154"
+        ]
       },
       {
         "title": "My role has been important in organizing the unorganized",
@@ -10116,7 +11331,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:myrolehasbeenimportantinorganizingtheunorganized",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10149/95_198_cropped.jpg",
-        "description": "A tightly grouped gathering focuses attention on a shared discussion. Which overlapping shapes turn separate people into a collective force?"
+        "description": "A tightly grouped gathering focuses attention on a shared discussion. Which overlapping shapes turn separate people into a collective force?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10149"
+        ]
       },
       {
         "title": "My right is a future of equality with other Americans",
@@ -10134,7 +11352,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:myrightisafutureofequalitywithotheramericans",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10153/95_203_cropped.jpg",
-        "description": "The upward-facing portrait uses a strong profile and sharply contrasting marks. How does that viewpoint support the title’s claim to a different future?"
+        "description": "The upward-facing portrait uses a strong profile and sharply contrasting marks. How does that viewpoint support the title’s claim to a different future?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10153"
+        ]
       },
       {
         "title": "...special houses...",
@@ -10152,7 +11373,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:specialhouses",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10151/95_201_cropped.jpg",
-        "description": "Two closely placed faces appear before crowded urban buildings. How does the architecture help turn a portrait into a statement about housing?"
+        "description": "Two closely placed faces appear before crowded urban buildings. How does the architecture help turn a portrait into a statement about housing?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10151"
+        ]
       },
       {
         "title": "In Phillis Wheatley I proved intellectual equality in the midst of slavery",
@@ -10170,7 +11394,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:inphilliswheatleyiprovedintellectualequalityinthemidstofslavery",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10147/95_196_cropped.jpg",
-        "description": "The writing figure is placed below restrained figures in the background. How does this arrangement connect intellectual achievement with the conditions it challenged?"
+        "description": "The writing figure is placed below restrained figures in the background. How does this arrangement connect intellectual achievement with the conditions it challenged?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10147"
+        ]
       },
       {
         "title": "In Sojourner Truth I fought for the rights of women as well as Negroes",
@@ -10188,7 +11415,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:insojournertruthifoughtfortherightsofwomenaswellasnegroes",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10146/95_195_cropped.jpg",
-        "description": "An emphatic raised hand gives the figure a speaking presence. Which carved lines make her gesture seem forceful and deliberate?"
+        "description": "An emphatic raised hand gives the figure a speaking presence. Which carved lines make her gesture seem forceful and deliberate?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10146"
+        ]
       },
       {
         "title": "I have studied in ever increasing numbers",
@@ -10206,7 +11436,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "34:ihavestudiedineverincreasingnumbers",
         "sourceDownloadUrl": "https://whitneymedia.org/assets/artwork/10150/95_199_cropped.jpg",
-        "description": "Seated students and an instructor form an ordered classroom scene. How do the repeated books and faces strengthen the idea of education as a shared achievement?"
+        "description": "Seated students and an instructor form an ordered classroom scene. How do the repeated books and faces strengthen the idea of education as a shared achievement?",
+        "infoSources": [
+          "https://whitney.org/collection/works/10150"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -10261,7 +11494,8 @@ window.ARTISTS = [
           "source": "https://www.moma.org/artists/1037",
           "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -10350,13 +11584,18 @@ window.ARTISTS = [
         "alt": "A colourful town built from geometric shapes beneath a round sun.",
         "creator": "Paul Klee",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "35:castleandsun"
+        "workKey": "35:castleandsun",
+        "description": "A colourful town is built from rectangles, triangles and small squares beneath a round sun. Repeated geometric shapes suggest roofs, towers and walls without constructing a fully realistic space, letting the scene work as both a town and a colour pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Burg_und_Sonne_-_Klee.jpg"
+        ],
+        "medium": "Painting"
       },
       {
         "path": "assets/gallery-classic/35-02.webp",
         "title": "Twittering Machine",
         "date": "1922",
-        "medium": "",
+        "medium": "Oil-transfer drawing, watercolour and ink on paper, with gouache and ink borders on board",
         "alt": "Four thin bird-like creatures balance on a wire above a hand-cranked mechanism.",
         "credit": "Paul Klee · Public domain",
         "creator": "Paul Klee",
@@ -10367,7 +11606,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:twitteringmachine",
         "sourceFile": "File:Die Zwitscher-Maschine (Twittering Machine), 1922 - Paul Klee.jpg",
-        "sourceDate": "1922"
+        "sourceDate": "1922",
+        "description": "Thin bird-like creatures balance along a wire connected to a hand crank. The delicate lines combine living shapes with a machine structure, making an apparently playful device seem strange and uncertain.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_(Twittering_Machine),_1922_-_Paul_Klee.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-03.webp",
@@ -10384,7 +11627,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:adparnassum",
         "sourceFile": "File:Ad Parnassum (originaler, gefasster Holzrahmen), Paul Klee (1932).jpg",
-        "sourceDate": "1932"
+        "sourceDate": "1932",
+        "description": "A large triangular form rises above a surface of small coloured blocks beneath a bright circular sun. The triangle gives the many marks a strong overall structure, while shifts in colour suggest light and atmosphere without a detailed landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Ad_Parnassum_(originaler,_gefasster_Holzrahmen),_Paul_Klee_(1932).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-04.webp",
@@ -10401,7 +11648,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:senecio",
         "sourceFile": "File:Paul Klee, 1922, Senecio, oil on gauze, 40.3 × 37.4 cm, Kunstmuseum Basel.jpg",
-        "sourceDate": "1922"
+        "sourceDate": "1922",
+        "description": "A round face is divided into pale geometric sections, with uneven red eyes and a raised shape above one eye. The simplified features remain recognisably human, showing how expression can come from small changes in a few shapes.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_Klee,_1922,_Senecio,_oil_on_gauze,_40.3_%C3%97_37.4_cm,_Kunstmuseum_Basel.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-05.webp",
@@ -10418,7 +11669,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:fishmagic",
         "sourceFile": "File:Paul Klee, Swiss - Fish Magic - Google Art Project.jpg",
-        "sourceDate": "1925"
+        "sourceDate": "1925",
+        "description": "Fish, flowers and a clock float across a dark field. Their different sizes and settings do not follow ordinary natural space, so the picture brings together underwater, plant and human-made worlds as if they belonged to one imagined environment.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_Klee,_Swiss_-_Fish_Magic_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-06.webp",
@@ -10435,7 +11690,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:catandbird",
         "sourceFile": "File:NY Moma klee cat and bird.JPG",
-        "sourceDate": "1928"
+        "sourceDate": "1928",
+        "description": "A wide-eyed cat’s face fills the image, with a small bird placed above its eyes. The bird appears inside the visual space of the head rather than in an ordinary outdoor setting, inviting a comparison between what an animal sees and what it might be thinking about.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:NY_Moma_klee_cat_and_bird.JPG"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-07.webp",
@@ -10452,7 +11711,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:deathandfire",
         "sourceFile": "File:Death and Fire (1940) - Paul Klee (Zentrum Paul Klee).jpg",
-        "sourceDate": "1940"
+        "sourceDate": "1940",
+        "description": "A pale skull-like face and thick dark marks appear within a glowing orange field. The heavy signs and simplified features make the image direct and intense, while the warm surrounding colour connects the figure to the title’s idea of fire.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Death_and_Fire_(1940)_-_Paul_Klee_(Zentrum_Paul_Klee).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-08.webp",
@@ -10469,7 +11732,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:angelusnovus",
         "sourceFile": "File:Paul Klee ~ Angelus Novus ~ 1920.jpg",
-        "sourceDate": "2015-01-03"
+        "sourceDate": "2015-01-03",
+        "description": "An angel-like figure spreads angular wings beneath an oversized head with curling forms. Thin lines and flat pale shapes keep the body open and fragile-looking, while the wide eyes and lifted wings make its position difficult to read as either arrival or departure.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_Klee_~_Angelus_Novus_~_1920.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-09.webp",
@@ -10486,7 +11753,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:ghostofagenius",
         "sourceFile": "File:Paul Klee - Gespenst eines Genies (Ghost of a Genius) - Google Art Project.jpg",
-        "sourceDate": "1922"
+        "sourceDate": "1922",
+        "description": "A small, pale figure with a tilted, block-like head stands against muted brown. Its body is assembled from thin lines and irregular geometric sections, giving a human-like presence to a form that seems partly transparent.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Paul_Klee_-_Gespenst_eines_Genies_(Ghost_of_a_Genius)_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/35-10.webp",
@@ -10503,7 +11774,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Paul Klee; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "35:ccfish",
         "sourceFile": "File:C. - C. = Fisch, 1931 - Paul Klee.jpg",
-        "sourceDate": "1931"
+        "sourceDate": "1931",
+        "description": "An angular fish shape occupies a textured surface crossed by many lines. The fish is recognisable through a few structural clues, while the overlapping marks let its body become part of the wider abstract pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:C._-_C._%3D_Fisch,_1931_-_Paul_Klee.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -10517,7 +11792,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -10608,7 +11884,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "36:girlonahill",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Femme_sur_une_colline_-_Prudence_Heward.jpg/960px-Femme_sur_une_colline_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Femme_sur_une_colline_-_Prudence_Heward.jpg/960px-Femme_sur_une_colline_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "A seated woman in a red dress occupies a rocky hillside, with her body turned slightly away from her direct gaze. Strong outlines and broad areas of colour give her a substantial presence within the landscape rather than making her a small decorative figure.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Femme_sur_une_colline_-_Prudence_Heward.jpg"
+        ]
       },
       {
         "path": "assets/36-artwork.webp",
@@ -10621,7 +11901,12 @@ window.ARTISTS = [
         "alt": "A young woman stands in a landscape with her hands on her hips.",
         "creator": "Guerinf",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "36:rollande"
+        "workKey": "36:rollande",
+        "description": "A young woman in a vivid pink apron stands with her hands at her waist before a rural house. The frontal pose and sharply defined body create a commanding presence, while the fence and buildings establish a specific working landscape around her.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rollande_-_Prudence_Heward.jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-american/36-at-the-theatre.webp",
@@ -10637,7 +11922,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "36:atthetheatre",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg/960px-Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg/960px-Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Two women are seen from behind in red theatre seats, their exposed necks and turned heads creating different directions of attention. Instead of showing the performance, Heward makes the audience and the act of looking her subject.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Au_th%C3%A9%C3%A2tre_-_Prudence_Heward.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-immigrants.webp",
@@ -10653,7 +11942,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file records the artwork/reproduction as CC BY-SA 4.0. Underlying artist: Prudence Heward. No copyright claim is inferred solely from a licence on a new photograph.",
         "workKey": "36:immigrants",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Immigrantes_-_Prudence_Heward.jpg/960px-Immigrantes_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Immigrantes_-_Prudence_Heward.jpg/960px-Immigrantes_-_Prudence_Heward.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "description": "Two women sit close together, one facing more towards the viewer while the other turns in profile. Their contrasting gazes and overlapping bodies create both a connection and a distance within the same compact space.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Immigrantes_-_Prudence_Heward.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-ann.webp",
@@ -10669,7 +11962,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:ann",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Prudence_Heward_ann-1942.jpg/500px-Prudence_Heward_ann-1942.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Prudence_Heward_ann-1942.jpg/500px-Prudence_Heward_ann-1942.jpg",
+        "description": "A young sitter with reddish hair appears in a close portrait against a softly worked background. The firm facial outline and carefully placed highlights make her expression more prominent than the surrounding setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Prudence_Heward_ann-1942.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-girl-in-a-yellow-sweater.webp",
@@ -10685,7 +11982,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:girlinayellowsweater",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Prudence_Heward_girl-in-yellow-sweater-1936.jpg/500px-Prudence_Heward_girl-in-yellow-sweater-1936.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Prudence_Heward_girl-in-yellow-sweater-1936.jpg/500px-Prudence_Heward_girl-in-yellow-sweater-1936.jpg",
+        "description": "A seated woman folds her arms within a landscape of rounded hills and trees. The yellow sweater creates a broad central shape, while the strong contours of body and land connect the portrait to its setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Prudence_Heward_girl-in-yellow-sweater-1936.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-the-farmer-s-daughter.webp",
@@ -10701,7 +12002,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:thefarmersdaughter",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The-farmer-s-daughter-1945.jpg/500px-The-farmer-s-daughter-1945.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The-farmer-s-daughter-1945.jpg/500px-The-farmer-s-daughter-1945.jpg",
+        "description": "A blonde young woman looks sideways while folding her arms in front of a rural backdrop. Her bright clothing and firmly outlined face dominate the composition, giving the sitter more visual weight than the distant land.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:The-farmer-s-daughter-1945.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-back-garden.webp",
@@ -10717,7 +12022,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:backgarden",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prudence_Heward_back-garden-1938.jpg/500px-Prudence_Heward_back-garden-1938.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prudence_Heward_back-garden-1938.jpg/500px-Prudence_Heward_back-garden-1938.jpg",
+        "description": "Colourful houses rise behind a dense garden of irregular plants and fences. Tilted angles and tightly packed shapes make this familiar domestic space feel active rather than orderly or picturesque.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Prudence_Heward_back-garden-1938.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-autumn-fields-knowlton.webp",
@@ -10733,7 +12042,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:autumnfieldsknowlton",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Prudence_Heward_autumn-fields-knowlton-1941.jpg/500px-Prudence_Heward_autumn-fields-knowlton-1941.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Prudence_Heward_autumn-fields-knowlton-1941.jpg/500px-Prudence_Heward_autumn-fields-knowlton-1941.jpg",
+        "description": "Fields, trees and distant hills are arranged in broad bands of autumn colour. Closely repeated plants in the foreground create texture, while the wider shapes beyond them open the view into depth.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-fields-knowlton-1941.jpg"
+        ]
       },
       {
         "path": "assets/gallery-american/36-autumn-hills.webp",
@@ -10749,7 +12062,11 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Source file declares underlying artwork and reproduction public domain; see its stated term/publication basis.",
         "workKey": "36:autumnhills",
-        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Prudence_Heward_autumn-hills-c-1941.jpg/500px-Prudence_Heward_autumn-hills-c-1941.jpg"
+        "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Prudence_Heward_autumn-hills-c-1941.jpg/500px-Prudence_Heward_autumn-hills-c-1941.jpg",
+        "description": "Rounded hills and rows of trees interlock in a compact autumn landscape. Orange foliage contrasts with cooler greens and distant blue forms, making colour an important guide to the changing terrain.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Prudence_Heward_autumn-hills-c-1941.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -10768,7 +12085,8 @@ window.ARTISTS = [
           "source": "https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf",
           "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -10856,7 +12174,7 @@ window.ARTISTS = [
         "path": "assets/gallery-classic/37-02.webp",
         "title": "David",
         "date": "1501–1504",
-        "medium": "",
+        "medium": "Marble sculpture",
         "alt": "A marble figure stands with one hand near his shoulder and his weight shifted onto one leg.",
         "credit": "Artwork: Michelangelo; photograph: Commonists · CC BY-SA 4.0",
         "creator": "Michelangelo",
@@ -10870,7 +12188,12 @@ window.ARTISTS = [
         "sourceDate": "2021-08-01 11:59:28",
         "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
         "dateSource": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
-        "photographer": "Commonists"
+        "photographer": "Commonists",
+        "description": "A young man stands with his weight on one leg, turning his head as he holds a sling over his shoulder. The relaxed lower body and concentrated face create a contrast between physical stillness and alert attention; the marble statue represents the biblical David.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+          "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+        ]
       },
       {
         "path": "assets/37-artwork.webp",
@@ -10883,7 +12206,12 @@ window.ARTISTS = [
         "alt": "A seated, bearded figure carved in marble, wearing robes and holding tablets.",
         "creator": "Alvesgaspar",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "37:moses"
+        "workKey": "37:moses",
+        "description": "The seated Moses turns his head sharply while one hand gathers his long, curling beard and the tablets rest beside him. Deep folds, muscular limbs and the strong twist of the head make a figure sitting still appear full of stored energy.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:San_Pietro_in_Vincole_May_2022-4.jpg"
+        ],
+        "medium": "Marble sculpture"
       },
       {
         "path": "assets/gallery-classic/37-03.webp",
@@ -10901,7 +12229,11 @@ window.ARTISTS = [
         "workKey": "37:pieta",
         "sourceFile": "File:Pieta de Michelangelo - Vaticano.jpg",
         "sourceDate": "2008",
-        "photographer": "Stanislav Traykov (original photograph)"
+        "photographer": "Stanislav Traykov (original photograph)",
+        "description": "Mary supports the body of Jesus across her lap, with their figures arranged into a broad triangular shape. Carefully carved cloth and softly modelled faces give the hard marble a sense of weight, tenderness and quiet grief.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-04.webp",
@@ -10919,7 +12251,11 @@ window.ARTISTS = [
         "workKey": "37:thecreationofadam",
         "sourceFile": "File:Michelangelo - Creation of Adam (cropped).jpg",
         "sourceDate": "circa 1511",
-        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
+        "description": "Adam reclines on the earth while God reaches toward him, leaving a tiny gap between their fingers. The near-touch becomes the focus of the composition, and the opposing curves of the two groups make that small space feel charged with movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-05.webp",
@@ -10937,7 +12273,11 @@ window.ARTISTS = [
         "workKey": "37:thelastjudgment",
         "sourceFile": "File:Last Judgement (Michelangelo).jpg",
         "sourceDate": "between 1536 and 1541",
-        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
+        "description": "Crowds of figures rise and fall around Christ at the centre of a vast blue field. The many twisting bodies form large circulating movements, allowing Michelangelo to organise an enormous religious scene through gesture, direction and contrasting groups.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Last_Judgement_(Michelangelo).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-06.webp",
@@ -10954,7 +12294,12 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Michelangelo; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "37:donitondo",
         "sourceFile": "File:Tondo Doni 2015.png",
-        "sourceDate": "from 1506 until 1506"
+        "sourceDate": "from 1506 until 1506",
+        "description": "Mary twists to receive the child Jesus while Joseph leans over her, bringing three bodies into a compact circular composition. Bright colour and strongly modelled limbs give the painted figures a sculptural presence; the Uffizi identifies this as Michelangelo’s only surviving finished panel painting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
+          "https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-07.webp",
@@ -10972,7 +12317,11 @@ window.ARTISTS = [
         "workKey": "37:bacchus",
         "sourceFile": "File:Michelangelo Bacchus.jpg",
         "sourceDate": "",
-        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended."
+        "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
+        "description": "The youthful figure of Bacchus lifts a cup while leaning off balance, with a smaller companion close behind him. The uneven stance and rounded body make the classical wine god seem physically unsteady, showing how a stone figure can suggest a moment of movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Michelangelo_Bacchus.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-08.webp",
@@ -10992,7 +12341,12 @@ window.ARTISTS = [
         "sourceDate": "2013-05-08 10:15",
         "contentNote": "Nonsexual classical figurative anatomy; teacher preview recommended.",
         "dateSource": "https://collections.louvre.fr/en/ark%3A/53355/cl010091872",
-        "photographer": "Neil Turner"
+        "photographer": "Neil Turner",
+        "description": "A young man raises one arm behind his head while the other crosses his chest, his body shifting in a slow twisting curve. The figure was made for a papal tomb project that changed repeatedly, and its expressive pose continues to invite different readings rather than one certain explanation.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Dying_Slave_by_Michelangelo,_Mus%C3%A9e_de_Louvre,_8_May_2013.jpg",
+          "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/imprisoned-in-stone"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-09.webp",
@@ -11010,7 +12364,11 @@ window.ARTISTS = [
         "workKey": "37:madonnaofbruges",
         "sourceFile": "File:Madonna michelangelo.jpg",
         "sourceDate": "between 1501 and 1504",
-        "photographer": "Elke Wetzig (Elya)"
+        "photographer": "Elke Wetzig (Elya)",
+        "description": "Mary sits with a downward gaze as the child Jesus stands between her knees, poised close to the edge of her lap. The child’s upright body contrasts with the heavy folds of her clothing, giving the group a quiet sense of both closeness and separation.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Madonna_michelangelo.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/37-10.webp",
@@ -11028,7 +12386,11 @@ window.ARTISTS = [
         "workKey": "37:thedeposition",
         "sourceFile": "File:Pieta Bandini Opera Duomo Florence n01.jpg",
         "sourceDate": "2012-09-10",
-        "photographer": "Marie-Lan Nguyen (Jastrow)"
+        "photographer": "Marie-Lan Nguyen (Jastrow)",
+        "description": "Several figures support Jesus’s body, their overlapping limbs creating a closely joined group beneath a tall hooded figure. Smoothly finished areas stand beside rougher passages of stone, making the process of carving visible alongside the scene’s weight and grief.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Pieta_Bandini_Opera_Duomo_Florence_n01.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -11043,7 +12405,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -11132,7 +12495,12 @@ window.ARTISTS = [
         "alt": "A figure with hands beside its face beneath a swirling orange sky.",
         "creator": "Edvard Munch",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "38:thescream"
+        "workKey": "38:thescream",
+        "description": "A figure presses its hands against its head beneath a sky of sweeping red and orange curves. The straight bridge railing contrasts with the wavering landscape, making an emotional experience appear to spread through the entire setting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg"
+        ],
+        "medium": "Painting, pastel, and print"
       },
       {
         "path": "assets/gallery-classic/38-02.webp",
@@ -11149,7 +12517,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:thegirlsonthebridge",
         "sourceFile": "File:Munch Girls on the pier.jpg",
-        "sourceDate": "1901"
+        "sourceDate": "1901",
+        "description": "Three figures pause beside a bridge railing, looking toward the dark reflection of a large tree and nearby buildings. The slanting railing leads into the distance while the broad, simplified colour shapes hold the scene together.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Munch_Girls_on_the_pier.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-03.webp",
@@ -11166,7 +12538,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:thekiss",
         "sourceFile": "File:Edvard Munch - The Kiss - Google Art Project.jpg",
-        "sourceDate": "1897"
+        "sourceDate": "1897",
+        "description": "Two people embrace beside a window, their faces merging into a single dark shape. The bright opening and the surrounding shadow make their closeness the centre of the painting, with little detail to distract from the joined silhouettes.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-04.webp",
@@ -11183,7 +12559,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:friedrichnietzsche",
         "sourceFile": "File:Edvard Munch Friedrich Nietzsche Thielska 292.tif",
-        "sourceDate": "1906"
+        "sourceDate": "1906",
+        "description": "The philosopher Friedrich Nietzsche stands against a landscape of curving paths, water and glowing colour. His dark, upright figure provides a firm centre while the animated background gives the portrait an atmosphere that goes beyond a record of physical appearance.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_Friedrich_Nietzsche_Thielska_292.tif"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-05.webp",
@@ -11201,7 +12581,11 @@ window.ARTISTS = [
         "workKey": "38:madonna",
         "sourceFile": "File:Edvard Munch - Madonna - Google Art Project.jpg",
         "sourceDate": "1894",
-        "contentNote": "Nonsexual artistic nude; teacher preview recommended."
+        "contentNote": "Nonsexual artistic nude; teacher preview recommended.",
+        "description": "A woman tilts her head with closed eyes, framed by dark flowing hair and a curved red band above her. The simplified background and sweeping contours give the figure an inward-looking, dreamlike presence; the title adds a religious association without making the image a conventional devotional scene.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-06.webp",
@@ -11218,7 +12602,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:thesickchild",
         "sourceFile": "File:Munch Det Syke Barn 1885-86.jpg",
-        "sourceDate": "between 1885 and 1886"
+        "sourceDate": "between 1885 and 1886",
+        "description": "A pale, red-haired child rests against a large white pillow while an adult bends beside her, their hands meeting near the centre. Scraped and uneven-looking brushwork makes the scene feel fragile and immediate, placing emotional attention ahead of polished detail.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Munch_Det_Syke_Barn_1885-86.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-07.webp",
@@ -11235,7 +12623,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:anxiety",
         "sourceFile": "File:Edvard Munch - Anxiety - Google Art Project.jpg",
-        "sourceDate": "C.E.1894 (H.E.11,894)"
+        "sourceDate": "C.E.1894 (H.E.11,894)",
+        "description": "A tightly packed crowd faces the viewer beneath a red sky and curling dark shoreline. Repeated pale faces and staring eyes make the people seem both close together and emotionally isolated, while the sloping road pushes them toward us.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-08.webp",
@@ -11252,7 +12644,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:ashes",
         "sourceFile": "File:Edvard Munch - Ashes (1895).jpg",
-        "sourceDate": "1895"
+        "sourceDate": "1895",
+        "description": "A woman in a pale dress stands with her hands raised to her hair while a dark-clothed man bends away in the foreground. The space between their poses, together with the rigid tree trunks behind them, gives the scene a feeling of emotional distance.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Ashes_(1895).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-09.webp",
@@ -11269,7 +12665,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:melancholy",
         "sourceFile": "File:Edvard Munch - Melancholy - NG.M.02813 - National Museum of Art, Architecture and Design.jpg",
-        "sourceDate": "1892"
+        "sourceDate": "1892",
+        "description": "A seated man rests his head on his hand beside a curving, rocky shore, while tiny figures appear farther away. The large foreground head and the long sweep of the beach separate his inward-looking mood from the activity in the distance.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Melancholy_-_NG.M.02813_-_National_Museum_of_Art,_Architecture_and_Design.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/38-10.webp",
@@ -11286,7 +12686,12 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Edvard Munch; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "38:loveandpain",
         "sourceFile": "File:Edvard Munch - Vampire (1895) - Google Art Project.jpg",
-        "sourceDate": "1895"
+        "sourceDate": "1895",
+        "description": "A red-haired woman bends over a man whose face is hidden against her, their bodies enclosed in dark colour. Munch first used the title Love and Pain for this motif, which also became known as Vampire; the different names show how a title can change the way an embrace is interpreted.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg",
+          "https://www.munch.no/en/our-collection/en-tolkning-av-edvard-munchs-vampyr/"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -11300,7 +12705,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -11397,7 +12803,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Woman on a Bridge #1 of 5: Tar Beach. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The quilt joins everyday family life to an imaginative view of freedom above the city. How do the border and written story change the way you read the central picture? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/woman-on-a-bridge-1-of-5-tar-beach-1988"
+        ]
       },
       {
         "title": "The Sunflowers Quilting Bee at Arles",
@@ -11417,7 +12826,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Sunflowers Quilting Bee at Arles. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The communal arrangement gives quilt-making the scale and importance of a public event. What clues make this feel like a shared act rather than one person’s craft? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/the-sunflowers-quilting-bee-at-arles-1996"
+        ]
       },
       {
         "title": "Freedom of Speech",
@@ -11437,7 +12849,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Freedom of Speech. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Combining official symbols with written claims asks viewers to compare national promises with lived experience. Which part asks you to read, and which part asks you to recognise a symbol? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/freedom-of-speech-1990"
+        ]
       },
       {
         "title": "We Came to America",
@@ -11457,7 +12872,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of We Came to America. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The contrast between the monument and the swimmers complicates the familiar image of welcome. How does changing the viewpoint alter the meaning of the statue? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/we-came-to-america-1997"
+        ]
       },
       {
         "title": "American People Series #4: The Civil Rights Triangle",
@@ -11477,7 +12895,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of American People Series #4: The Civil Rights Triangle. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Differences in direction and expression make the group feel connected but not uniform. Whose gaze seems to guide your eye through the triangle? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/american-people-series-4-the-civil-rights-triangle-1963"
+        ]
       },
       {
         "title": "American People #19: US Postage Stamp Commemorating the Advent of Black Power",
@@ -11497,7 +12918,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of American People #19: US Postage Stamp Commemorating the Advent of Black Power. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The repeated faces link the small format of a stamp to questions of public representation. Who usually appears on postage stamps, and what changes here? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/american-people-19-us-postage-stamp-commemorating-the-advent-of-black-power-1967"
+        ]
       },
       {
         "title": "Echoes of Harlem",
@@ -11517,7 +12941,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Echoes of Harlem. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Each face remains distinct while the repeated blocks suggest a larger community. How does the fabric pattern help connect people without making them identical? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/echoes-of-harlem-1980"
+        ]
       },
       {
         "title": "Sonny’s Quilt",
@@ -11537,7 +12964,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Sonny’s Quilt. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The bridge’s strong lines give the performer a monumental stage. How does the surrounding city change your sense of the musician’s importance? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/sonny-s-quilt-1986"
+        ]
       },
       {
         "title": "Tar Beach #2",
@@ -11557,7 +12987,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Tar Beach #2. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The rising viewpoint turns a recognisable neighbourhood into a place of possibility. How does this version of Tar Beach organise its story differently from the earlier quilt? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/tar-beach-2-1990"
+        ]
       },
       {
         "title": "The United States of Attica",
@@ -11577,7 +13010,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The United States of Attica. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The familiar map becomes a surface for recording conflict and memory. What changes when a map records experiences instead of only state boundaries? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/faith-ringgold/the-united-states-of-attica-1972"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -11590,7 +13026,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -11685,7 +13122,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Michelle LaVaughn Robinson Obama. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The broad triangular dress gives an intimate seated portrait a monumental structure. How does the patterned dress guide your eye toward the face? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:michellelavaughnrobinsonobama",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Miss Everything (Unsuppressed Deliverance)",
@@ -11704,7 +13144,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Miss Everything (Unsuppressed Deliverance). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The exaggerated cup transforms a formal portrait into a playful encounter with scale. Which object gives the sitter the strongest sense of character? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:misseverythingunsuppresseddeliverance",
         "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
-        "dateSource": "Whitney 2025 exhibition lists2014: https://whitney.org/exhibitions/amy-sherald/art?section=2 ; Ackland/Smithsonian touring exhibition lists2013: https://ackland.org/exhibition/outwin-american-portraiture-today/"
+        "dateSource": "Whitney 2025 exhibition lists2014: https://whitney.org/exhibitions/amy-sherald/art?section=2 ; Ackland/Smithsonian touring exhibition lists2013: https://ackland.org/exhibition/outwin-american-portraiture-today/",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "If You Surrendered to the Air, You Could Ride It",
@@ -11722,7 +13165,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of If You Surrendered to the Air, You Could Ride It. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The large open sky and industrial beam make the sitter seem poised between everyday work and imagined flight. How does the height of the seat change the figure’s presence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:ifyousurrenderedtotheairyoucouldrideit",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "They Call Me Redbone, but I'd Rather Be Strawberry Shortcake",
@@ -11740,7 +13186,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of They Call Me Redbone, but I'd Rather Be Strawberry Shortcake. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The bright clothing contrasts with grey skin and shifts attention toward individual style. What story might the dress tell that skin colour alone cannot? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:theycallmeredbonebutidratherbestrawberryshortcake",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "The Bathers",
@@ -11758,7 +13207,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Bathers. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Their separated poses and coordinated colours balance individuality with companionship. How do the hands and feet communicate different attitudes? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:thebathers",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Planes, Rockets, and the Spaces in Between",
@@ -11776,7 +13228,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Planes, Rockets, and the Spaces in Between. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The small human gesture creates a quiet contrast with the enormous technological event. Which seems more important here: the launch or the relationship? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:planesrocketsandthespacesinbetween",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Handsome",
@@ -11794,7 +13249,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Handsome. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The restrained pose allows the patterned shirt and direct gaze to carry much of the portrait’s energy. How does the plain background affect your attention to the sitter? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:handsome",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Breonna Taylor",
@@ -11812,7 +13270,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Breonna Taylor. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The calm, upright pose gives the sitter dignity without turning the portrait into an illustration of violence. What choices help the portrait communicate a life rather than only a news event? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:breonnataylor",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Hope Is the Thing with Feathers (The Little Bird)",
@@ -11830,7 +13291,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Hope Is the Thing with Feathers (The Little Bird). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The bird’s spreading form creates movement within an otherwise still portrait. How might the title change your interpretation of the shirt? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:hopeisthethingwithfeathersthelittlebird",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       },
       {
         "title": "Trans Forming Liberty",
@@ -11848,7 +13312,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Trans Forming Liberty. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The pose borrows a familiar symbol of liberty while presenting a particular contemporary person. How does changing who holds the torch change the symbol’s meaning? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "40:transformingliberty",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist."
+        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
+        "infoSources": [
+          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -11862,7 +13329,8 @@ window.ARTISTS = [
         "Whitney American Sublime exhibition checklist captions checked for work title, creation date and medium.",
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -11951,7 +13419,12 @@ window.ARTISTS = [
         "alt": "A curling blue wave rises above boats. Mount Fuji is tiny in the distance.",
         "creator": "Katsushika Hokusai",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "41:underthewaveoffkanagawathegreatwave"
+        "workKey": "41:underthewaveoffkanagawathegreatwave",
+        "description": "A curling wave towers above long boats, with distant Mount Fuji appearing beneath the arch of water. The claw-like foam and repeating curves make the sea seem active, while the small, steady mountain creates a strong contrast in scale and movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
+        ],
+        "medium": "Colour woodblock print"
       },
       {
         "path": "assets/gallery-classic/41-02.webp",
@@ -11968,7 +13441,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:pilgrimsatkirifuriwaterfallonmountkurokamiinshimotsukeprovince",
         "sourceFile": "File:Katsushika Hokusai, Japanese - Pilgrims at Kirifuri Waterfall on Mount Kurokami in Shimotsuke Province - Google Art Project.jpg",
-        "sourceDate": "c. 1831-32; Edo Period (1615-1868)"
+        "sourceDate": "c. 1831-32; Edo Period (1615-1868)",
+        "description": "Thin streams of white water branch across a dark rock face while tiny visitors stand nearby. Hokusai turns the waterfall into a powerful pattern of flowing lines, and the small figures make the natural feature appear especially large.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_Japanese_-_Pilgrims_at_Kirifuri_Waterfall_on_Mount_Kurokami_in_Shimotsuke_Province_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-03.webp",
@@ -11985,13 +13462,17 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:mountfujifromahighbridge",
         "sourceFile": "File:Hokusai Mt.Fuji from high Bridge(たかはしのふじ).jpg",
-        "sourceDate": "1805-06-17"
+        "sourceDate": "1805-06-17",
+        "description": "An enormous bridge arches over travellers and frames the much smaller outline of Mount Fuji in the distance. The dramatic difference in scale links a familiar human structure with the mountain, while the curved span guides the eye across the view.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Hokusai_Mt.Fuji_from_high_Bridge(%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%E3%81%AE%E3%81%B5%E3%81%98).jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-04.webp",
         "title": "Miyako Shell",
         "date": "probably 1821",
-        "medium": "",
+        "medium": "Woodblock print (surimono); ink and colour on paper",
         "alt": "A boat carrying figures passes along a shore beneath lines of Japanese calligraphy.",
         "credit": "Katsushika Hokusai · CC0",
         "creator": "Katsushika Hokusai",
@@ -12002,7 +13483,12 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:miyakoshell",
         "sourceFile": "File:Miyako-gai-元禄歌仙貝合-Miyako Shell MET DP123642.jpg",
-        "sourceDate": "probably 1821"
+        "sourceDate": "probably 1821",
+        "description": "A boat moves across a lightly coloured river beneath several columns of calligraphy. The small figures, delicate lines and open areas of paper combine image and text in a surimono, a specially produced Japanese woodblock print.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Miyako-gai-%E5%85%83%E7%A6%84%E6%AD%8C%E4%BB%99%E8%B2%9D%E5%90%88-Miyako_Shell_MET_DP123642.jpg",
+          "https://www.metmuseum.org/art/collection/search/54195"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-05.webp",
@@ -12019,7 +13505,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:shinagawa",
         "sourceFile": "File:Shinagawa LACMA M.2006.136.198a-b.jpg",
-        "sourceDate": "circa 1802"
+        "sourceDate": "circa 1802",
+        "description": "Small figures and boats occupy a broad shoreline, with low buildings and a distant horizon spreading across the long composition. Fine lines and restrained colour place more emphasis on the wide setting and everyday activity than on a single central character.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Shinagawa_LACMA_M.2006.136.198a-b.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-06.webp",
@@ -12036,7 +13526,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:finewindclearmorning",
         "sourceFile": "File:「富嶽三十六景 凱風快晴」-South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141062.jpg",
-        "sourceDate": "circa 1830"
+        "sourceDate": "circa 1830",
+        "description": "Mount Fuji rises as a broad red shape beneath a blue sky patterned with pale clouds. Its nearly unbroken slope and the tiny dark trees below give the mountain a powerful simplicity, with colour doing much of the work of suggesting light and distance.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E5%AF%8C%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E5%87%B1%E9%A2%A8%E5%BF%AB%E6%99%B4%E3%80%8D-South_Wind,_Clear_Sky_(Gaif%C5%AB_kaisei),_also_known_as_Red_Fuji,_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141062.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-07.webp",
@@ -12054,7 +13548,11 @@ window.ARTISTS = [
         "workKey": "41:thunderstormbeneaththesummit",
         "sourceFile": "File:Katsushika Hokusai, tempesta sotto la vetta, dalla serie delle 36 vedute del monte fuji, 1831 ca.jpg",
         "sourceDate": "2017-11-07 05:45:59",
-        "photographer": "Sailko"
+        "photographer": "Sailko",
+        "description": "Mount Fuji stands above a dark lower slope cut by a sharp line of lightning, while the snow-covered summit remains clear. The contrast divides the image into different weather conditions, making one mountain contain both calm and dramatic activity.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_tempesta_sotto_la_vetta,_dalla_serie_delle_36_vedute_del_monte_fuji,_1831_ca.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-09.webp",
@@ -12071,13 +13569,17 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:okaruandkampeioutsidekamakuracastle",
         "sourceFile": "File:Okaru and Kampei outside Kamakura Castle, Act III from the Play Chushingura LACMA M.2006.136.128.jpg",
-        "sourceDate": "1806"
+        "sourceDate": "1806",
+        "description": "Figures gather outside a large building, with costumes, gestures and architecture helping to distinguish their roles in the scene. The print presents an episode from the play Chūshingura, so its arranged poses can be read as a performance as well as a pictured event.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Okaru_and_Kampei_outside_Kamakura_Castle,_Act_III_from_the_Play_Chushingura_LACMA_M.2006.136.128.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-08.webp",
         "title": "Nagasakiya",
         "date": "1802",
-        "medium": "",
+        "medium": "Woodblock print",
         "alt": "People gather below a lodging-house window while three visitors look down from the upper floor.",
         "credit": "Katsushika Hokusai · Public domain",
         "creator": "Katsushika Hokusai",
@@ -12088,7 +13590,12 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:nagasakiya",
         "sourceFile": "File:Hokusai Nagasakiya.jpg",
-        "sourceDate": "1802"
+        "sourceDate": "1802",
+        "description": "Passers-by stop beneath the windows of the Nagasakiya inn, where visitors can be glimpsed upstairs behind wooden bars. The inn housed Dutch travellers in Edo, and Hokusai uses the upward glances and crowded street to show local curiosity about the foreign guests.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Hokusai_Nagasakiya.jpg",
+          "https://collections.lacma.org/object/134485"
+        ]
       },
       {
         "path": "assets/gallery-classic/41-10.webp",
@@ -12105,7 +13612,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Hokusai; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "41:kajikazawainkaiprovince",
         "sourceFile": "File:Kajikazawa in Kai Province (Koshu Kajikazawa).jpg",
-        "sourceDate": "1831"
+        "sourceDate": "1831",
+        "description": "A fisherman leans out from a rocky point as his lines stretch across the moving water. The triangle made by his body and lines echoes distant Mount Fuji, connecting human effort with the larger shapes of the landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kajikazawa_in_Kai_Province_(Koshu_Kajikazawa).jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -12120,7 +13631,8 @@ window.ARTISTS = [
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
         "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -12214,7 +13726,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:captainskinner",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.65_1&max=640",
-        "description": "A pale face and dark glasses float against a field of blue. How does simplifying a portrait change the way a public figure is represented?"
+        "description": "A pale face and dark glasses float against a field of blue. How does simplifying a portrait change the way a public figure is represented?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/captain-skinner-31685"
+        ]
       },
       {
         "title": "Bar and Grill",
@@ -12232,7 +13747,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:barandgrill",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-2010.52_1&max=640",
-        "description": "A dark partition divides customers inside a brightly coloured restaurant. How can an interior layout communicate a social rule or injustice?"
+        "description": "A dark partition divides customers inside a brightly coloured restaurant. How can an interior layout communicate a social rule or injustice?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/bar-and-grill-79031"
+        ]
       },
       {
         "title": "Community (study for mural, Jamaica, NY)",
@@ -12250,7 +13768,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:communitystudyformuraljamaicany",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.36_1&max=640",
-        "description": "Many figures and diagonal actions fill a busy shared space. How does the compressed arrangement communicate community without making everyone identical?"
+        "description": "Many figures and diagonal actions fill a busy shared space. How does the compressed arrangement communicate community without making everyone identical?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900"
+        ]
       },
       {
         "title": "\"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788.",
@@ -12267,7 +13788,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:inafreegovernmentthesecurityofcivilrightsmustbethesameasthatforreligiousrightsitconsistsintheonecaseinthemultiplicityofinterestsandintheotherinthemultiplicityofsectsjamesmadisonthefederalistpapers1788",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.170_1&max=640",
-        "description": "The interior divides human figures into distinct but connected spaces. How could this arrangement help you discuss the relationship between individual rights and shared government?"
+        "description": "The interior divides human figures into distinct but connected spaces. How could this arrangement help you discuss the relationship between individual rights and shared government?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375"
+        ]
       },
       {
         "title": "Escape",
@@ -12285,7 +13809,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:escape",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.6.53_2&max=640",
-        "description": "Bent bodies and sharply angled limbs make the scene feel urgent. Which line or gesture most strongly suggests motion rather than rest?"
+        "description": "Bent bodies and sharply angled limbs make the scene feel urgent. Which line or gesture most strongly suggests motion rather than rest?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/escape-14373"
+        ]
       },
       {
         "title": "Dreams No. 2",
@@ -12303,7 +13830,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:dreamsno2",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.6.95_2&max=640",
-        "description": "A seated figure and an open doorway create a layered domestic space. How does the doorway encourage you to imagine something beyond what is immediately visible?"
+        "description": "A seated figure and an open doorway create a layered domestic space. How does the doorway encourage you to imagine something beyond what is immediately visible?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/dreams-no-2-14372"
+        ]
       },
       {
         "title": "New Jersey, from the United States Series",
@@ -12321,7 +13851,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:newjerseyfromtheunitedstatesseries",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.172_1&max=640",
-        "description": "Factories, transport and people crowd a vertically organized scene. Which repeated structure helps connect individual activity to a larger industrial landscape?"
+        "description": "Factories, transport and people crowd a vertically organized scene. Which repeated structure helps connect individual activity to a larger industrial landscape?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378"
+        ]
       },
       {
         "title": "\"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man.",
@@ -12339,7 +13872,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:menexistforthesakeofoneanotherteachthemthenorbearwiththemmarcusaureliusantoninusmeditationsviii59fromtheseriesgreatideasofwesternman",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.171_2&max=640",
-        "description": "Overlapping figures and rounded landscape forms place people within a shared environment. Which visual connection best supports the quoted idea that people exist for one another?"
+        "description": "Overlapping figures and rounded landscape forms place people within a shared environment. Which visual connection best supports the quoted idea that people exist for one another?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus"
+        ]
       },
       {
         "title": "Firewood #55",
@@ -12357,7 +13893,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:firewood55",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1966.2.3_1&max=640",
-        "description": "A worker and scattered timber occupy a dark yard of wooden buildings. How do contrasting diagonals make physical labour visible?"
+        "description": "A worker and scattered timber occupy a dark yard of wooden buildings. How do contrasting diagonals make physical labour visible?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/firewood-55-14374"
+        ]
       },
       {
         "title": "The Library",
@@ -12375,7 +13914,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "42:thelibrary",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1969.47.24_3&max=640",
-        "description": "Readers occupy a crowded interior with books and furniture arranged in strong shapes. How does Lawrence make quiet study feel active?"
+        "description": "Readers occupy a crowded interior with books and furniture arranged in strong shapes. How does Lawrence make quiet study feel active?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/library-14376"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -12430,7 +13972,8 @@ window.ARTISTS = [
           "source": "https://api.artic.edu/api/v1/artworks/search",
           "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -12528,7 +14071,10 @@ window.ARTISTS = [
         "workKey": "43:abiggersplash",
         "copyrightNotice": "© David Hockney; copyright retained.",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/53/Hockney%2C_A_Bigger_Splash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney%2C_A_Bigger_Splash.jpg"
+        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney%2C_A_Bigger_Splash.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/A_Bigger_Splash"
+        ]
       },
       {
         "title": "Mr and Mrs Clark and Percy",
@@ -12548,7 +14094,10 @@ window.ARTISTS = [
         "workKey": "43:mrandmrsclarkandpercy",
         "copyrightNotice": "© David Hockney; copyright retained.",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/77/Hockney.clark-percy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney.clark-percy.jpg"
+        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney.clark-percy.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Mr_and_Mrs_Clark_and_Percy"
+        ]
       },
       {
         "title": "Portrait of an Artist (Pool with Two Figures)",
@@ -12568,7 +14117,10 @@ window.ARTISTS = [
         "workKey": "43:portraitofanartistpoolwithtwofigures",
         "copyrightNotice": "© David Hockney; copyright retained.",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/a/a5/Hockney_Pool_Figures.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney_Pool_Figures.jpg"
+        "sourceFile": "https://en.wikipedia.org/wiki/File:Hockney_Pool_Figures.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Portrait_of_an_Artist_%28Pool_with_Two_Figures%29"
+        ]
       },
       {
         "title": "Peter Getting Out of Nick's Pool",
@@ -12589,7 +14141,10 @@ window.ARTISTS = [
         "copyrightNotice": "© David Hockney; copyright retained.",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/50/Peter_Getting_Out_of_Nick%27s_Pool.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
         "contentNote": "Nonsexual artistic nude, rear view; teacher preview recommended.",
-        "sourceFile": "https://en.wikipedia.org/wiki/File:Peter_Getting_Out_of_Nick%27s_Pool.jpeg"
+        "sourceFile": "https://en.wikipedia.org/wiki/File:Peter_Getting_Out_of_Nick%27s_Pool.jpeg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Peter_Getting_Out_of_Nick%27s_Pool"
+        ]
       },
       {
         "title": "The Splash",
@@ -12609,7 +14164,10 @@ window.ARTISTS = [
         "workKey": "43:thesplash",
         "copyrightNotice": "© David Hockney; copyright retained.",
         "imageSource": "https://upload.wikimedia.org/wikipedia/en/1/1a/David_Hockney_-_The_Splash_%281966%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-        "sourceFile": "https://en.wikipedia.org/wiki/File:David_Hockney_-_The_Splash_%281966%29.jpg"
+        "sourceFile": "https://en.wikipedia.org/wiki/File:David_Hockney_-_The_Splash_%281966%29.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/The_Splash"
+        ]
       },
       {
         "title": "Bigger Trees Near Warter",
@@ -12628,7 +14186,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Bigger Trees Near Warter. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The repeated branches connect a very broad landscape without relying on a single central subject. How would walking along this large painting change the way you see it? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "43:biggertreesnearwarter",
         "copyrightNotice": "© David Hockney; copyright retained.",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/3/34/Bigger_Trees_near_Warter.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/3/34/Bigger_Trees_near_Warter.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:Bigger_Trees_near_Warter.jpg"
+        ]
       },
       {
         "title": "A Bigger Grand Canyon",
@@ -12647,7 +14208,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of A Bigger Grand Canyon. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The broad, shifting viewpoint asks viewers to scan the landscape instead of accepting one fixed window. Which colour changes help you distinguish near and distant rock formations? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "43:abiggergrandcanyon",
         "copyrightNotice": "© David Hockney; copyright retained.",
-        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/4d/Hockney%2C_A_Bigger_Grand_Canyon.jpg"
+        "imageSource": "https://upload.wikimedia.org/wikipedia/en/4/4d/Hockney%2C_A_Bigger_Grand_Canyon.jpg",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/File:Hockney,_A_Bigger_Grand_Canyon.jpg"
+        ]
       },
       {
         "title": "My Parents",
@@ -12666,7 +14230,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of My Parents. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Different poses show two people sharing a room while attending to different things. What does the mirror add that the two seated figures cannot show by themselves? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "43:myparents",
         "copyrightNotice": "© David Hockney; copyright retained.",
-        "imageSource": "https://media.tate.org.uk/art/images/work/T/T03/T03255_7.jpg"
+        "imageSource": "https://media.tate.org.uk/art/images/work/T/T03/T03255_7.jpg",
+        "infoSources": [
+          "https://www.tate.org.uk/art/artworks/hockney-my-parents-t03255"
+        ]
       },
       {
         "title": "The Road to York through Sledmere",
@@ -12685,7 +14252,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Road to York through Sledmere. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The bending road draws the eye through an intensely coloured version of a familiar rural place. Which colour seems most surprising, and how does it affect the journey through the picture? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "43:theroadtoyorkthroughsledmere",
         "copyrightNotice": "© David Hockney; copyright retained.",
-        "imageSource": "https://www.hockney.com/img/gallery/paintings/90s/97C03.jpg"
+        "imageSource": "https://www.hockney.com/img/gallery/paintings/90s/97C03.jpg",
+        "infoSources": [
+          "https://www.hockney.com/works/paintings"
+        ]
       },
       {
         "title": "Pearblossom Highway",
@@ -12704,7 +14274,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Pearblossom Highway. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The collage breaks a single camera viewpoint into a record of looking in several directions. Where can you find a join that makes you aware of more than one moment? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "workKey": "43:pearblossomhighway",
         "copyrightNotice": "© David Hockney; copyright retained.",
-        "imageSource": "https://www.hockney.com/img/gallery/photos/collages/S35-A-LG.jpg"
+        "imageSource": "https://www.hockney.com/img/gallery/photos/collages/S35-A-LG.jpg",
+        "infoSources": [
+          "https://www.hockney.com/works/photos"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -12720,7 +14293,8 @@ window.ARTISTS = [
         "Official artist website verified The Road to York through Sledmere and Pearblossom Highway title/date/medium; Tate verified My Parents.",
         "No s.30.04 exception asserted; assessment relies on specific educational criticism and acknowledges public distribution.",
         "Five reference-file description texts additionally checked for credited source publishers and author; no separate reproduction photographer named. Bigger Trees Near Warter explicitly credits Simon and Karen Spavin."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -12810,13 +14384,19 @@ window.ARTISTS = [
         "alt": "Circles, lines, triangles, and other shapes arranged across a pale background.",
         "creator": "Wassily Kandinsky",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "44:compositionviii"
+        "workKey": "44:compositionviii",
+        "description": "Circles, triangles, straight lines and curved bands appear to float across a pale background. Differences in size, angle and spacing create a visual rhythm, allowing the painting to hold attention without describing an identifiable place or event.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg",
+          "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/44-02.webp",
         "title": "Composition VII",
         "date": "1913",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "Bright colours, curved lines and overlapping abstract shapes fill the canvas.",
         "credit": "Wassily Kandinsky · Public domain",
         "creator": "Wassily Kandinsky",
@@ -12827,7 +14407,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:compositionvii",
         "sourceFile": "File:Composition VII - Wassily Kandinsky, GAC.jpg",
-        "sourceDate": "1913"
+        "sourceDate": "1913",
+        "description": "Sweeping curves, sharp black strokes and intense areas of colour crowd together in a dense, swirling composition. The lack of one fixed viewpoint lets the eye move between many small centres of activity, producing an experience closer to unfolding music than to a single realistic scene.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky,_GAC.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-03.webp",
@@ -12844,7 +14428,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:onwhiteii",
         "sourceFile": "File:Vassily Kandinsky, 1923 - On White II.jpg",
-        "sourceDate": "1923"
+        "sourceDate": "1923",
+        "description": "Two large dark diagonals cross a pale field filled with smaller coloured shapes, curves and lines. The contrast between the heavy central structure and the scattered lighter marks creates a carefully balanced sense of tension and movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1923_-_On_White_II.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-04.webp",
@@ -12861,7 +14449,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:compositionvi",
         "sourceFile": "File:Vassily Kandinsky, 1913 - Composition 6.jpg",
-        "sourceDate": "1913"
+        "sourceDate": "1913",
+        "description": "Broad currents of colour and dark diagonal strokes sweep through a densely layered surface. Forms seem to dissolve into one another, so movement and changing colour relationships become more important than clearly separated objects.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Vassily_Kandinsky,_1913_-_Composition_6.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-05.webp",
@@ -12878,7 +14470,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:yellowredblue",
         "sourceFile": "File:Kandinsky - Jaune Rouge Bleu.jpg",
-        "sourceDate": "1925"
+        "sourceDate": "1925",
+        "description": "A bright yellow area of straight-edged forms occupies the left, while darker blue curves and rounded shapes gather at the right. Red passages connect these contrasting zones, making the painting feel like a conversation between different colours, shapes and kinds of movement.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Jaune_Rouge_Bleu.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-06.webp",
@@ -12895,7 +14491,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:bluesegment",
         "sourceFile": "File:Kandinsky - Blue Segment 1921.jpg",
-        "sourceDate": "2023-12-15 14:56:52"
+        "sourceDate": "2023-12-15 14:56:52",
+        "description": "A wide curved band cuts across a collection of sharp lines, jagged edges and smaller coloured forms. The mixture of sweeping curves and pointed shapes gives the composition a sense of motion, while the large band helps organise its many competing directions.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_Segment_1921.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-07.webp",
@@ -12912,7 +14512,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:bluecircle",
         "sourceFile": "File:Kandinsky - Blue circle 1922.jpg",
-        "sourceDate": "2023-12-15 15:02:29"
+        "sourceDate": "2023-12-15 15:02:29",
+        "description": "A prominent blue circle sits above a busy cluster of tilted shapes, fine lines and bright marks. Its simple outline provides a visual anchor, while the more complicated forms below keep the surrounding space active and unsettled.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Blue_circle_1922.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-08.webp",
@@ -12929,7 +14533,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:redoval",
         "sourceFile": "File:Wassily Kandinsky, 1920 - Red Oval.jpg",
-        "sourceDate": "2023-12-15 14:59:40"
+        "sourceDate": "2023-12-15 14:59:40",
+        "description": "A tilted pale quadrilateral holds a lively arrangement of coloured patches, dark curves and intersecting lines. The smaller red oval provides one point of focus, but the surrounding angles prevent the composition from settling into a static, symmetrical pattern.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1920_-_Red_Oval.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-09.webp",
@@ -12946,7 +14554,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:paintingwithgreencenter",
         "sourceFile": "File:Vasily Kandinsky - Painting with Green Center - 1931.510 - Art Institute of Chicago.jpg",
-        "sourceDate": "1913"
+        "sourceDate": "1913",
+        "description": "A green area near the centre is crossed and surrounded by long strokes, translucent-looking colours and broad curved forms. The centre offers a place for the eye to return to while the surrounding marks create several possible routes through the painting.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Painting_with_Green_Center_-_1931.510_-_Art_Institute_of_Chicago.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/44-10.webp",
@@ -12963,7 +14575,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Wassily Kandinsky; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "44:thebluerider",
         "sourceFile": "File:Wassily Kandinsky, 1903, The Blue Rider (Der Blaue Reiter), oil on canvas, 52.1 x 54.6 cm, Stiftung Sammlung E.G. Bührle, Zurich.jpg",
-        "sourceDate": "1903"
+        "sourceDate": "1903",
+        "description": "A small rider on a light-coloured horse crosses a grassy hillside beneath dark trees. Loose brushwork and scattered patches of colour make the landscape lively, while the rider is suggested with just enough detail to remain recognisable.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1903,_The_Blue_Rider_(Der_Blaue_Reiter),_oil_on_canvas,_52.1_x_54.6_cm,_Stiftung_Sammlung_E.G._B%C3%BChrle,_Zurich.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -12977,7 +14593,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -13059,7 +14676,7 @@ window.ARTISTS = [
         "path": "assets/gallery-classic/45-02.webp",
         "title": "The Night Watch",
         "date": "1642",
-        "medium": "",
+        "medium": "Oil on canvas",
         "alt": "A group of armed civic guards gathers in a dark passage as two officers step forward.",
         "credit": "Rembrandt · Public domain",
         "creator": "Rembrandt",
@@ -13070,7 +14687,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:thenightwatch",
         "sourceFile": "File:La ronda de noche, por Rembrandt van Rijn.jpg",
-        "sourceDate": "1642"
+        "sourceDate": "1642",
+        "description": "A captain and lieutenant step forward from a busy company of armed civic guards, while light picks out selected faces, clothing and gestures. The overlapping figures and strong diagonals make a group portrait feel like an event in progress rather than a row of people posing.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg"
+        ]
       },
       {
         "path": "assets/45-artwork.webp",
@@ -13083,7 +14704,12 @@ window.ARTISTS = [
         "alt": "Rembrandt stands holding painting tools, with two circles on the wall behind him.",
         "creator": "Rembrandt",
         "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails.",
-        "workKey": "45:selfportraitwithtwocircles"
+        "workKey": "45:selfportraitwithtwocircles",
+        "description": "Rembrandt faces the viewer in working clothes, holding the tools of a painter before a wall marked by two large arcs. Thick, varied brushwork gives particular force to his face and hands, while the unfinished-looking background keeps attention on his presence as an artist.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_(Kenwood).jpg"
+        ],
+        "medium": "Oil on canvas"
       },
       {
         "path": "assets/gallery-classic/45-03.webp",
@@ -13100,7 +14726,12 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:thejewishbride",
         "sourceFile": "File:Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg",
-        "sourceDate": "circa 1665-1669"
+        "sourceDate": "circa 1665-1669",
+        "description": "A richly dressed couple stands close together, their touching hands providing the quiet centre of the scene. Broad, heavily textured paint on the gold sleeve contrasts with the gentle handling of faces and hands, making surface and gesture communicate different kinds of feeling.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
+          "https://www.rijksmuseum.nl/nl/story/jewish-bride"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-04.webp",
@@ -13117,7 +14748,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:thestormontheseaofgalilee",
         "sourceFile": "File:Rembrandt Christ in the Storm on the Lake of Galilee.jpg",
-        "sourceDate": "1633"
+        "sourceDate": "1633",
+        "description": "A crowded boat tips through towering waves while its passengers pull ropes, brace themselves or turn toward one another. Bright light on the broken water and the steep diagonal mast intensify the danger in this biblical scene of Christ and his companions at sea.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-05.webp",
@@ -13134,7 +14769,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:thereturnoftheprodigalson",
         "sourceFile": "File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg",
-        "sourceDate": "circa 1668"
+        "sourceDate": "circa 1668",
+        "description": "A kneeling young man rests against an older man who places both hands on his back, while other figures watch from shadow. The worn clothing, bowed posture and warmly lit hands make a story of return and forgiveness readable through small physical details.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-06.webp",
@@ -13151,7 +14790,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:themill",
         "sourceFile": "File:DeMolenRembrandt.jpg",
-        "sourceDate": "between 1645 and 1648"
+        "sourceDate": "between 1645 and 1648",
+        "description": "A windmill stands high above a dark bank while small figures gather beside the water below. The luminous sky behind its silhouette gives an ordinary structure a commanding presence, and the low viewpoint makes the landscape feel especially spacious.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:DeMolenRembrandt.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-07.webp",
@@ -13168,7 +14811,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:theabductionofeuropa",
         "sourceFile": "File:Rembrandt - The Abduction of Europa - Google Art Project.jpg",
-        "sourceDate": "1632"
+        "sourceDate": "1632",
+        "description": "A woman is carried away on a white bull as her companions reach toward her from the shore. The bright foreground and detailed clothing make the ancient Greek story feel immediate, while the distant buildings create a much larger world beyond the moment of surprise.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Abduction_of_Europa_-_Google_Art_Project.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-08.webp",
@@ -13185,7 +14832,13 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:historicalscene",
         "sourceFile": "File:Rembrandt Historical Painting 1626.jpg",
-        "sourceDate": "1626"
+        "sourceDate": "1626",
+        "description": "An armoured figure holding a staff stands above a crowded gathering of soldiers, kneeling figures and onlookers. Steps, raised hands and strong light direct attention toward the encounter, although the exact historical episode represented has not been securely identified.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Historical_Painting_1626.jpg",
+          "https://www.lakenhal.nl/nl/collectie/b-564",
+          "https://cs.vu.nl/~fjseins/RembrandtCatalogue/r_1624_1631.html"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-09.webp",
@@ -13202,7 +14855,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:thestandardbearer",
         "sourceFile": "File:Standard Bearer 1636.jpg",
-        "sourceDate": "2023-01-12 17:44:10"
+        "sourceDate": "2023-01-12 17:44:10",
+        "description": "A man in an elaborate costume holds a large flag while turning his face toward the viewer. Strong light catches the pale fabric and metallic-looking details, and the deep background lets his bold pose dominate the portrait.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Standard_Bearer_1636.jpg"
+        ]
       },
       {
         "path": "assets/gallery-classic/45-10.webp",
@@ -13219,7 +14876,11 @@ window.ARTISTS = [
         "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
         "workKey": "45:awomanbathinginastream",
         "sourceFile": "File:Rembrandt Hendrickje Bathing in a River.jpg",
-        "sourceDate": "1654"
+        "sourceDate": "1654",
+        "description": "A woman gathers up her pale shift as she steps into shallow water, looking downward at her footing. Loose, thick strokes describe the cloth and reflected light, giving an everyday action an unusually direct and intimate presence.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Rembrandt_Hendrickje_Bathing_in_a_River.jpg"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -13233,7 +14894,8 @@ window.ARTISTS = [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -13317,7 +14979,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:northerntrio",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/northern-trio-1995-ap-limited-edition-prin-1420823119.jpg?v=1435788732",
-        "description": "Three small figures occupy a broad northern setting beneath a prominent sun. How does their scale change your sense of the landscape’s size?"
+        "description": "Three small figures occupy a broad northern setting beneath a prominent sun. How does their scale change your sense of the landscape’s size?",
+        "infoSources": [
+          "https://tedharrison.ca/products/northern-trio-1995"
+        ]
       },
       {
         "title": "Storm Lovers",
@@ -13334,7 +14999,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:stormlovers",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/storm-lover-1992-limited-edition-print-1421893008.jpg?v=1435789053",
-        "description": "A mounted pair faces a dramatic sky filled with curving white lines. Which colour contrast makes the weather feel energetic?"
+        "description": "A mounted pair faces a dramatic sky filled with curving white lines. Which colour contrast makes the weather feel energetic?",
+        "infoSources": [
+          "https://tedharrison.ca/products/storm-lover-1992"
+        ]
       },
       {
         "title": "Ballooning",
@@ -13351,7 +15019,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:ballooning",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/ballooning-1993-ap-limited-edition-print-1426355779.jpg?v=1435788207",
-        "description": "A tall striped balloon rises above a row of small figures. How do the vertical format and repeated curves suggest upward movement?"
+        "description": "A tall striped balloon rises above a row of small figures. How do the vertical format and repeated curves suggest upward movement?",
+        "infoSources": [
+          "https://tedharrison.ca/products/ballooning-1993"
+        ]
       },
       {
         "title": "Going Outside",
@@ -13368,7 +15039,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:goingoutside",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/going-outside-1992-ap-limited-edition-prin-1426363797.jpg?v=1435788648",
-        "description": "A plane and a group of people share a bright northern setting. Which visual details suggest travel as both a personal and community event?"
+        "description": "A plane and a group of people share a bright northern setting. Which visual details suggest travel as both a personal and community event?",
+        "infoSources": [
+          "https://tedharrison.ca/products/going-outside-1992"
+        ]
       },
       {
         "title": "Field Trip",
@@ -13385,7 +15059,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:fieldtrip",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/field-trip-1997-ap-hc-or-pp-limited-editi-1426366155.jpg?v=1435788581",
-        "description": "A line of people and animals moves across a landscape of layered hills. How does repetition turn the group into a visual procession?"
+        "description": "A line of people and animals moves across a landscape of layered hills. How does repetition turn the group into a visual procession?",
+        "infoSources": [
+          "https://tedharrison.ca/products/field-trip-1997"
+        ]
       },
       {
         "title": "Floating Gulls",
@@ -13402,7 +15079,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:floatinggulls",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/floating-gulls-1994-ap-or-hc-limited-editi-1426431815.jpg?v=1435788608",
-        "description": "White gulls and a large foreground creature interrupt broad bands of purple and blue. What gives the foreground its stronger visual presence?"
+        "description": "White gulls and a large foreground creature interrupt broad bands of purple and blue. What gives the foreground its stronger visual presence?",
+        "infoSources": [
+          "https://tedharrison.ca/products/floating-gulls-1994"
+        ]
       },
       {
         "title": "Horses",
@@ -13419,7 +15099,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:horses",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/horses-1990-ap-or-hc-limited-edition-print-1427514200.jpg?v=1435788685",
-        "description": "Several differently coloured horses move across a vivid pink field. How does Harrison create unity while keeping each horse distinct?"
+        "description": "Several differently coloured horses move across a vivid pink field. How does Harrison create unity while keeping each horse distinct?",
+        "infoSources": [
+          "https://tedharrison.ca/products/horses-1990"
+        ]
       },
       {
         "title": "Fore",
@@ -13436,7 +15119,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:fore",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/fore-1997-ap-or-hc-limited-edition-print-1427513925.jpg?v=1435788630",
-        "description": "A golfer’s raised club cuts across a landscape of flowing horizontal bands. How does that diagonal turn a quiet setting into an action scene?"
+        "description": "A golfer’s raised club cuts across a landscape of flowing horizontal bands. How does that diagonal turn a quiet setting into an action scene?",
+        "infoSources": [
+          "https://tedharrison.ca/products/fore-1997"
+        ]
       },
       {
         "title": "Tumbler Ridge",
@@ -13453,7 +15139,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:tumblerridge",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/tumbler-ridge-1991-ap-limited-edition-prin-1427550170.jpg?v=1435788937",
-        "description": "A distant settlement sits above small figures and animals in coloured landscape bands. How does Harrison show different kinds of activity across a single wide view?"
+        "description": "A distant settlement sits above small figures and animals in coloured landscape bands. How does Harrison show different kinds of activity across a single wide view?",
+        "infoSources": [
+          "https://tedharrison.ca/products/tumbler-ridge-1991"
+        ]
       },
       {
         "title": "Winter Justice",
@@ -13470,7 +15159,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "46:winterjustice",
         "sourceDownloadUrl": "https://cdn.shopify.com/s/files/1/0896/3026/products/winter-justice-2002-ap-or-bat-limited-edit-1427551796.jpg?v=1435788798",
-        "description": "A line of people approaches a pink civic building beneath a red sun. How do colour and scale make a public institution feel part of everyday community life?"
+        "description": "A line of people approaches a pink civic building beneath a red sun. How do colour and scale make a public institution feel part of everyday community life?",
+        "infoSources": [
+          "https://tedharrison.ca/products/winter-justice-2002"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -13521,7 +15213,8 @@ window.ARTISTS = [
           "source": "https://tedharrison.ca/products/winter-justice-2002",
           "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -13601,7 +15294,7 @@ window.ARTISTS = [
       {
         "title": "The Son of Man",
         "date": "1964",
-        "medium": "",
+        "medium": "Oil on canvas",
         "path": "assets/education-context/47-w01.webp",
         "alt": "A bowler-hatted man stands before the sea with a green apple covering his face.",
         "description": "Hiding the face makes a formally dressed figure feel both familiar and unreachable. What can you know about this person when the most recognisable feature is blocked?",
@@ -13616,7 +15309,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Son of Man. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Hiding the face makes a formally dressed figure feel both familiar and unreachable. What can you know about this person when the most recognisable feature is blocked? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/son-of-man-1964(1)"
+        ]
       },
       {
         "title": "The treachery of images (This is not a pipe)",
@@ -13636,7 +15332,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The treachery of images (This is not a pipe). Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The words separate a painted representation from the useful object it resembles. Could you use this painted pipe, and how does that answer explain the sentence? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-treachery-of-images-this-is-not-a-pipe-1948(2)"
+        ]
       },
       {
         "title": "The false mirror",
@@ -13656,7 +15355,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The false mirror. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Replacing the iris with sky turns the act of seeing into something strange and uncertain. Does the image suggest that we look at the world or carry an image of it inside us? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-false-mirror-1928(1)"
+        ]
       },
       {
         "title": "Golconda",
@@ -13676,7 +15378,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Golconda. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repeating similar figures makes an ordinary street feel like an impossible patterned surface. Do the figures seem to rise, fall or remain still, and why? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/gonconda-1953(1)"
+        ]
       },
       {
         "title": "The Human Condition",
@@ -13696,7 +15401,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Human Condition. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The matching views make it difficult to separate the painted scene from the world beyond it. Where does the painting inside this painting begin and end? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-human-condition-1933(1)"
+        ]
       },
       {
         "title": "The lovers",
@@ -13716,7 +15424,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The lovers. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The cloth joins physical closeness to a barrier against recognition. How can the same material suggest intimacy and separation? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-lovers-1928(1)"
+        ]
       },
       {
         "title": "The empire of lights",
@@ -13736,7 +15447,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The empire of lights. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Conflicting kinds of light make a believable scene impossible to explain normally. Which part tells you it is night, and which insists it is day? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-empire-of-lights-1954(1)"
+        ]
       },
       {
         "title": "Time transfixed",
@@ -13756,7 +15470,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Time transfixed. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: A familiar domestic room becomes unsettling when the train takes the place of a fire. Why is the scene stranger when the room is painted so realistically? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/time-transfixed-1938(1)"
+        ]
       },
       {
         "title": "The Listening Room",
@@ -13776,7 +15493,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Listening Room. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Changing the fruit’s scale makes a harmless object seem to control the space. What would happen to the mood if the apple were small enough to hold? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-listening-room-1952(1)"
+        ]
       },
       {
         "title": "The Castle of the Pyrenees",
@@ -13796,7 +15516,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of The Castle of the Pyrenees. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The heavy stone appears weightless, setting visual evidence against physical expectation. Which details make the floating rock seem solid enough to be impossible? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/rene-magritte/the-castle-of-the-pyrenees-1959(1)"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -13809,7 +15532,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -13902,7 +15626,12 @@ window.ARTISTS = [
         "changes": "Resized to fit 900 pixels and converted to WebP; no artistic alterations.",
         "rightsBasis": "Metropolitan Museum of Art expressly marks object 488142 Public Domain and supplied this image under CC0.",
         "workKey": "48:whitelines",
-        "sourceDownloadUrl": "https://images.metmuseum.org/CRDImages/ma/web-large/sf43.47.26.jpg"
+        "sourceDownloadUrl": "https://images.metmuseum.org/CRDImages/ma/web-large/sf43.47.26.jpg",
+        "description": "A network of pale lines crosses layered, dark geometric forms on paper. Changes in line direction and the contrast between opaque shapes and scratched-looking marks create depth without relying on a recognizable object or landscape.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:White_Lines_MET_sf43.47.26.jpg",
+          "https://www.metmuseum.org/art/collection/search/488142"
+        ]
       },
       {
         "title": "Roselit Day",
@@ -13920,7 +15649,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:roselitday",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1973.190_1&max=640",
-        "description": "Translucent-looking rectangles overlap within a dense, softly coloured field. Where do layers seem to merge, and where does a hard edge interrupt them?"
+        "description": "Translucent-looking rectangles overlap within a dense, softly coloured field. Where do layers seem to merge, and where does a hard edge interrupt them?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/roselit-day-19553"
+        ]
       },
       {
         "title": "Mecca",
@@ -13938,7 +15670,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:mecca",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1973.191_1&max=640",
-        "description": "Dark rectangular paths frame transparent blocks of colour. How does the contrast between frame and layer guide your eye through the composition?"
+        "description": "Dark rectangular paths frame transparent blocks of colour. How does the contrast between frame and layer guide your eye through the composition?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/mecca-19552"
+        ]
       },
       {
         "title": "Sketch for Machine Composition #2",
@@ -13956,7 +15691,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:sketchformachinecomposition2",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.92.73_1&max=640",
-        "description": "Drawn machine parts are assembled into a compact arrangement of rounded and angular shapes. Compare this study with the finished painting and identify one important change."
+        "description": "Drawn machine parts are assembled into a compact arrangement of rounded and angular shapes. Compare this study with the finished painting and identify one important change.",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/sketch-machine-composition-2-19554"
+        ]
       },
       {
         "title": "The Celestial Gate Sways on the Ringing Swells",
@@ -13974,7 +15712,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:thecelestialgateswaysontheringingswells",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1969.47.36_1&max=640",
-        "description": "Pale grids hover above clustered blue and white forms. How do transparent layers suggest depth without depicting a conventional landscape?"
+        "description": "Pale grids hover above clustered blue and white forms. How do transparent layers suggest depth without depicting a conventional landscape?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/celestial-gate-sways-ringing-swells-19549"
+        ]
       },
       {
         "title": "Untitled (Boats at Cape Cod)",
@@ -13992,7 +15733,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:untitledboatsatcapecod",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1988.80_1&max=640",
-        "description": "Angled masts cut across dark water and a hilly shoreline. Which repeated diagonal gives the harbour scene its rhythm?"
+        "description": "Angled masts cut across dark water and a hilly shoreline. Which repeated diagonal gives the harbour scene its rhythm?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/untitled-boats-cape-cod-19555"
+        ]
       },
       {
         "title": "Heart of Flame",
@@ -14009,7 +15753,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:heartofflame",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1981.184_1&max=640",
-        "description": "Warm-coloured rectangles rise through a light, layered field. How does the title influence your reading of an otherwise abstract arrangement?"
+        "description": "Warm-coloured rectangles rise through a light, layered field. How does the title influence your reading of an otherwise abstract arrangement?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/heart-flame-19550"
+        ]
       },
       {
         "title": "Machine Composition #2",
@@ -14027,7 +15774,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:machinecomposition2",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.92.72_1&max=640",
-        "description": "Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?"
+        "description": "Mechanical forms become bold shapes with carefully separated colours. Which part looks most like a real machine, and which has become primarily a pattern?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/machine-composition-2-19551"
+        ]
       },
       {
         "title": "Pendulum",
@@ -14045,7 +15795,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:pendulum",
         "sourceDownloadUrl": "https://images.squarespace-cdn.com/content/v1/62dea41f16b40579895e9a3f/1731604719286-IZKHBR9SPAZZ66QBSMLZ/pereira_diffraction+9.jpg?format=640w",
-        "description": "An orange geometric structure floats among grids and repeated outlines. How do off-centre placement and overlapping squares create a sense of balance or movement?"
+        "description": "An orange geometric structure floats among grids and repeated outlines. How do off-centre placement and overlapping squares create a sense of balance or movement?",
+        "infoSources": [
+          "https://www.dwigmore.com/irene-rice-pereira-estate"
+        ]
       },
       {
         "title": "Fluctuating Shapes",
@@ -14063,7 +15816,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "48:fluctuatingshapes",
         "sourceDownloadUrl": "https://images.squarespace-cdn.com/content/v1/62dea41f16b40579895e9a3f/1667938302854-3D5B8KQL1DGB2JU8GYWH/Pereira%252C%2BFluctuating%2BShapes.jpg?format=640w",
-        "description": "Layered material and reflected light complicate the boundaries of painted forms. How might the appearance change as a viewer moves in front of the actual glass construction?"
+        "description": "Layered material and reflected light complicate the boundaries of painted forms. How might the appearance change as a viewer moves in front of the actual glass construction?",
+        "infoSources": [
+          "https://www.dwigmore.com/irene-rice-pereira-estate"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -14110,7 +15866,8 @@ window.ARTISTS = [
           "source": "https://api.artic.edu/api/v1/artworks/search",
           "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -14204,7 +15961,11 @@ window.ARTISTS = [
         "changes": "Resized and converted to WebP; content not cropped or altered.",
         "rightsBasis": "Photographer CC BY-SA 3.0. Permanently installed outdoor public sculpture at Mühlenstraße, Berlin, documented by the source location and the artwork’s public history; German freedom of panorama covers the underlying work. Underlying artwork is not claimed public domain.",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg/960px-Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "workKey": "49:bestbuddiesfriendshipbear"
+        "workKey": "49:bestbuddiesfriendshipbear",
+        "description": "The familiar upright shape of a bear becomes a patchwork of bright colours, small symbols and strongly outlined patterns. Britto uses the readable animal silhouette to hold a busy decorative surface, joining the look of a public mascot with his graphic painting style.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Romero_Britto_Best_Buddies_Friendship_Bear_Vorderseite.jpg"
+        ]
       },
       {
         "id": "49-17550089",
@@ -14219,7 +15980,11 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
         "rightsBasis": "Photograph CC BY2.5; permanent public sculpture in the Topor sculpture garden at Sheba Hospital, Israel, covered by Israeli freedom of panorama. PikiWiki photographer description identifies title, artist, material, creation2004 and location.",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "49:welcome"
+        "workKey": "49:welcome",
+        "description": "A smiling figure stretches its arms outward, its body divided into bright stripes, stars and other simple patterns. The open pose makes the greeting readable from a distance, while the painted metal brings the flat shapes of an illustration into a sculpture garden.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_15568_quot;Wellcomequot;_by_Romero_Britto_in_the_sculp.JPG"
+        ]
       },
       {
         "id": "49-106941236",
@@ -14234,7 +15999,12 @@ window.ARTISTS = [
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "rightsBasis": "Photograph CC0; permanent sculpture in publicly accessible Ortenovo Square park, covered by Czech Copyright Act Section33 freedom of panorama. Prague7 municipal public-art inventory confirms artist, title, metal and installation2014: https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/",
         "changes": "Resized and converted to WebP; full photograph preserved.",
-        "workKey": "49:gardenbutterfly"
+        "workKey": "49:gardenbutterfly",
+        "description": "Large butterfly wings are divided into spots, stripes and blocks of strong colour, all held together by thick dark outlines. Set among grass and trees, the sculpture makes a familiar garden creature feel both larger than life and deliberately decorative.",
+        "infoSources": [
+          "https://commons.wikimedia.org/wiki/File:Plastika_Garden_Butterfly_v_parku_na_Ortenov%C4%9B_n%C3%A1m%C4%9Bst%C3%AD_(Q64815809).jpg",
+          "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/"
+        ]
       },
       {
         "id": "49-happy-dog",
@@ -14260,7 +16030,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:happydog",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000310-24_HAPPY-DOG_ORG_F_MAIN.jpg?v=1785878486&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000310-24_HAPPY-DOG_ORG_F_MAIN.jpg?v=1785878486&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1"
+        ]
       },
       {
         "id": "49-up-and-up",
@@ -14286,7 +16059,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:upandup",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000257-25_UP-AND-UP_ORG_F_MAIN.jpg?v=1785876784&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000257-25_UP-AND-UP_ORG_F_MAIN.jpg?v=1785876784&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/up-and-up-original-painting"
+        ]
       },
       {
         "id": "49-beijinhos",
@@ -14312,7 +16088,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:beijinhos",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200008504-21_BEINJINHOS_ORG_F_MAIN.jpg?v=1785873873&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200008504-21_BEINJINHOS_ORG_F_MAIN.jpg?v=1785873873&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/beinjinhos-original-painting"
+        ]
       },
       {
         "id": "49-pacific",
@@ -14338,7 +16117,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:pacific",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000138-15_PACIFIC_ORG_F_MAIN.jpg?v=1785874330&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000138-15_PACIFIC_ORG_F_MAIN.jpg?v=1785874330&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/pacific-original-painting"
+        ]
       },
       {
         "id": "49-sunflower-heart",
@@ -14364,7 +16146,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:sunflowerheart",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200001005-25_SUNFLOWER-HEART_ORG_F_MAIN.jpg?v=1785943476&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200001005-25_SUNFLOWER-HEART_ORG_F_MAIN.jpg?v=1785943476&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/nectar-buzz-original-painting"
+        ]
       },
       {
         "id": "49-abstraction",
@@ -14390,7 +16175,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:abstraction",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000958-23_ABSTRACTION_GREY-_-WHITE-STRIPES__ORG_F_MAIN.jpg?v=1785873561&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200000958-23_ABSTRACTION_GREY-_-WHITE-STRIPES__ORG_F_MAIN.jpg?v=1785873561&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/abstraction-original-painting"
+        ]
       },
       {
         "id": "49-mother",
@@ -14416,7 +16204,10 @@ window.ARTISTS = [
         },
         "changes": "Reduced to at most640px and converted to WebP; composition preserved.",
         "workKey": "49:mother",
-        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200007662-20_MOTHER_ORG_F_MAIN_247b47c8-b482-4b22-afac-ab82d3a7adf9.jpg?v=1785526089&width=640"
+        "imageSource": "https://cdn.shopify.com/s/files/1/0434/8480/7325/files/200007662-20_MOTHER_ORG_F_MAIN_247b47c8-b482-4b22-afac-ab82d3a7adf9.jpg?v=1785526089&width=640",
+        "infoSources": [
+          "https://www.shopbritto.com/collections/original-paintings/products/mother-original-painting"
+        ]
       }
     ],
     "workStatus": "Representative bodies of work; no authoritative fame ranking established.",
@@ -14455,7 +16246,8 @@ window.ARTISTS = [
           "url": "https://www.shopbritto.com/collections/original-paintings/products/mother-original-painting",
           "result": "Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -14548,7 +16340,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:autumnrhythmnumber30",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Autumn_Rhythm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "description": "Dark looping lines spread across an open, warm-coloured ground. How does leaving parts of the background visible affect the painting’s density and pace?"
+        "description": "Dark looping lines spread across an open, warm-coloured ground. How does leaving parts of the background visible affect the painting’s density and pace?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29"
+        ]
       },
       {
         "title": "Number 17A",
@@ -14566,7 +16361,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:number17a",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Number_17A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "description": "Bright white lines cross a dense web of darker painted marks. Which marks seem to sit on top, and what does that tell you about the painting process?"
+        "description": "Bright white lines cross a dense web of darker painted marks. Which marks seem to sit on top, and what does that tell you about the painting process?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Number_17A"
+        ]
       },
       {
         "title": "Mural (1943)",
@@ -14584,7 +16382,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:mural1943",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Jackson_Pollock_Mural_1943_Oil_and_casein_on_canvas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "description": "Repeated upright forms create a broad horizontal rhythm across the canvas. What visual evidence suggests figures even where the image remains abstract?"
+        "description": "Repeated upright forms create a broad horizontal rhythm across the canvas. What visual evidence suggests figures even where the image remains abstract?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Mural_%281943%29"
+        ]
       },
       {
         "title": "Convergence (Pollock)",
@@ -14602,7 +16403,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:convergencepollock",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Convergence_%28Pollock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "description": "Red, yellow, white and dark marks intersect across a busy field. Where does a bright colour seem to pull several separate gestures together?"
+        "description": "Red, yellow, white and dark marks intersect across a busy field. Where does a bright colour seem to pull several separate gestures together?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Convergence_%28Pollock%29"
+        ]
       },
       {
         "title": "Blue Poles",
@@ -14620,7 +16424,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:bluepoles",
         "sourceDownloadUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Blue_Poles_%28Jackson_Pollock_painting%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "description": "Strong dark verticals interrupt an expansive web of coloured paint. How would the composition feel different if those poles were removed?"
+        "description": "Strong dark verticals interrupt an expansive web of coloured paint. How would the composition feel different if those poles were removed?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/Blue_Poles"
+        ]
       },
       {
         "title": "Peddler",
@@ -14638,7 +16445,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:peddler",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1973.149.2_1&max=640",
-        "description": "An angular figure and clustered objects press into a narrow painted space. Which features anticipate the dense arrangements of Pollock’s later abstractions?"
+        "description": "An angular figure and clustered objects press into a narrow painted space. Which features anticipate the dense arrangements of Pollock’s later abstractions?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/peddler-19822"
+        ]
       },
       {
         "title": "Untitled",
@@ -14656,7 +16466,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:untitled",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1971.307_1&max=640",
-        "description": "Fine looping lines create a light, tangled network on paper. How does the thinner mark change the sense of speed compared with the larger paintings?"
+        "description": "Fine looping lines create a light, tangled network on paper. How does the thinner mark change the sense of speed compared with the larger paintings?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/untitled-19823"
+        ]
       },
       {
         "title": "Miners",
@@ -14674,7 +16487,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:miners",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1966.68_1&max=640",
-        "description": "Bent figures repeat beneath a heavy diagonal beam. How do the repeated poses connect the workers to the structure around them?"
+        "description": "Bent figures repeat beneath a heavy diagonal beam. How do the repeated poses connect the workers to the structure around them?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/miners-19821"
+        ]
       },
       {
         "title": "Going West",
@@ -14692,7 +16508,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:goingwest",
         "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1973.149.1_1&max=640",
-        "description": "A wagon and horses move through a dark, dramatically curved landscape. How do the curves make this early narrative scene feel restless?"
+        "description": "A wagon and horses move through a dark, dramatically curved landscape. How do the curves make this early narrative scene feel restless?",
+        "infoSources": [
+          "https://americanart.si.edu/artwork/going-west-19820"
+        ]
       },
       {
         "title": "No. 5, 1948",
@@ -14710,7 +16529,10 @@ window.ARTISTS = [
         "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
         "workKey": "50:no51948",
         "sourceDownloadUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4a/No._5%2C_1948.jpg/500px-No._5%2C_1948.jpg",
-        "description": "A vertical field of looping paint contains many small crossings and open spaces. How does the tall format change the rhythm of the dripped lines?"
+        "description": "A vertical field of looping paint contains many small crossings and open spaces. How does the tall format change the rhythm of the dripped lines?",
+        "infoSources": [
+          "https://en.wikipedia.org/wiki/No._5,_1948"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -14769,7 +16591,8 @@ window.ARTISTS = [
           "source": "https://www.moma.org/artists/4675",
           "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
         }
-      ]
+      ],
+      "descriptionCount": 10
     }
   },
   {
@@ -14851,7 +16674,7 @@ window.ARTISTS = [
       {
         "title": "Hollywood Africans",
         "date": "1983",
-        "medium": "",
+        "medium": "Acrylic and oilstick on canvas",
         "path": "assets/education-context/51-w01.webp",
         "alt": "Three drawn faces and many handwritten words fill a yellow field.",
         "description": "Crossed-out text makes the viewer actively sort identity, labels and stereotypes. Which words attract more attention because they are crossed out?",
@@ -14866,7 +16689,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Hollywood Africans. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Crossed-out text makes the viewer actively sort identity, labels and stereotypes. Which words attract more attention because they are crossed out? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/hollywood-africans"
+        ]
       },
       {
         "title": "Horn Players",
@@ -14886,7 +16712,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Horn Players. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The changing marks create a visual rhythm comparable to overlapping musical phrases. Where do repetition and interruption make the image feel musical? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/horn-players"
+        ]
       },
       {
         "title": "Irony of the Negro Policeman",
@@ -14906,7 +16735,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Irony of the Negro Policeman. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The rigid outline contrasts with the unstable marks around it and raises questions about authority. How does the figure’s simplified structure affect its apparent power? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/ironew-york-of-the-negro-policeman"
+        ]
       },
       {
         "title": "Boy and dog in a Johnnypump",
@@ -14926,7 +16758,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Boy and dog in a Johnnypump. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The energetic marks make bodies feel in motion without realistic modelling. Which line gives the strongest impression of movement? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/boy-and-dog-in-a-johnnypump"
+        ]
       },
       {
         "title": "Dos Cabezas",
@@ -14946,7 +16781,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Dos Cabezas. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Placing the faces side by side invites comparison without making either portrait conventionally polished. What differences in line and colour distinguish the two people? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/dos-cabezas"
+        ]
       },
       {
         "title": "Flexible",
@@ -14966,7 +16804,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Flexible. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The arching arms form a strong enclosure around the face and torso. Does the pose suggest strength, protection or performance? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/flexible"
+        ]
       },
       {
         "title": "In this Case",
@@ -14986,7 +16827,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of In this Case. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Sharp lines and contrasting colour make the head feel mentally charged rather than anatomically exact. Which mark seems most expressive even though it is least realistic? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/in-this-case"
+        ]
       },
       {
         "title": "Bird on Money",
@@ -15006,7 +16850,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Bird on Money. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The compressed symbols encourage viewers to connect an animal image with a wider visual language. How does the surrounding pattern change the bird’s importance? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/bird-on-money"
+        ]
       },
       {
         "title": "Charles the First",
@@ -15026,7 +16873,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Charles the First. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Repeated names and symbols create competing routes through the surface. How does the crown change the meaning of the nearby words? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/charles-the-first"
+        ]
       },
       {
         "title": "Now's The Time",
@@ -15046,7 +16896,10 @@ window.ARTISTS = [
         "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
         "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Now's The Time. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Reducing the image to a record-like disc makes empty space carry unusual emphasis. How does the circular shape change your expectation of what the painting might sound like? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
         "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified."
+        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
+        "infoSources": [
+          "https://www.wikiart.org/en/jean-michel-basquiat/now-s-the-time"
+        ]
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
@@ -15059,7 +16912,8 @@ window.ARTISTS = [
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-      ]
+      ],
+      "descriptionCount": 10
     }
   }
 ];

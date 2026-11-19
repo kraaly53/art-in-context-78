@@ -34,3 +34,18 @@ Earlier delivery checks opened all 51 profiles and exercised combined search/fil
 ## Limits and publication
 
 Audible voice quality, full screen-reader operation and actual managed classroom devices were not assessed. Local voice availability, touch behaviour and school policies still depend on the device. GitHub Pages and its repository remain public; search exclusions are not access control. The final delivery message records the verified publication result. The earlier Grade1 repository remains separate.
+
+## Artwork information and larger portraits update
+
+All 515 gallery artworks now have substantive piece-specific descriptions and information sources. The 217 missing descriptions were filled with original explanations of the pictured subject, composition, technique or verified context. Existing 298 descriptions were retained. Verified material information is reused from matching work studies only when the title and known date ranges agree.
+
+The About this artwork section appears in every gallery card, the featured work panel and the enlarged artwork viewer. A local read-aloud button accompanies the information. Automated checks require all 515 descriptions to be substantive, have source references, and match their credit records.
+
+The 42 available artist portraits now use larger uncropped rectangular frames with an Enlarge portrait control. A separate dialog shows the portrait, artist identification and source credit. Nine profiles without portraits retain initials or the anonymous symbol.
+
+Browser verification covered:
+- Leonardo’s newly described gallery: ten images, ten information sections, plus matching information in the featured panel and enlarged viewer. Next artwork updated the title and information together.
+- Portrait enlargement and both closing methods. Escape returned focus to the original portrait button; the close button also worked.
+- Desktop portrait image measured 218×246px, compared with the previous 85px circle. On mobile the main portrait measured 138px wide and its enlarged view approximately 350px wide.
+- At 375px the portrait dialog measured 345px, loaded its image and caused no horizontal overflow. Desktop 1280px also had no horizontal overflow.
+- Full data validation passed for 515 descriptions and 557 matching image-credit records. No new image downloads or changes to image reuse bases were required.

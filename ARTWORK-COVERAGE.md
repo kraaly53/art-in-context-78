@@ -6,59 +6,61 @@ The collection includes 298 copyrighted images with documented Canadian educatio
 
 Counts exclude artist photographs, repeated views, duplicate crops and multiple casts of one composition. An original painted self-portrait counts as an artwork. Ten is a curriculum target, not a statutory copying allowance.
 
-| Artist | Images | Target | Still needed |
-| --- | ---: | ---: | ---: |
-| Jonathan Green | 10 | 10 | 0 |
-| William H. Johnson | 10 | 10 | 0 |
-| Leonardo da Vinci | 10 | 10 | 0 |
-| Raphael | 10 | 10 | 0 |
-| Banksy | 10 | 10 | 0 |
-| Paul Cézanne | 10 | 10 | 0 |
-| Frida Kahlo | 10 | 10 | 0 |
-| Keith Haring | 10 | 10 | 0 |
-| Salvador Dalí | 10 | 10 | 0 |
-| Loïs Mailou Jones | 10 | 10 | 0 |
-| Henri Rousseau | 10 | 10 | 0 |
-| Robert Indiana | 10 | 10 | 0 |
-| George Rodrigue | 10 | 10 | 0 |
-| Emily Carr | 10 | 10 | 0 |
-| Dorothea Lange | 10 | 10 | 0 |
-| Piet Mondrian | 10 | 10 | 0 |
-| Yayoi Kusama | 10 | 10 | 0 |
-| Frederic Remington | 10 | 10 | 0 |
-| Andrew Wyeth | 10 | 10 | 0 |
-| Diego Rivera | 12 | 10 | 0 |
-| Grant Wood | 10 | 10 | 0 |
-| Pablo Picasso | 12 | 10 | 0 |
-| Heather Galler | 10 | 10 | 0 |
-| Jeff Koons | 11 | 10 | 0 |
-| Annie Leibovitz | 10 | 10 | 0 |
-| Andy Warhol | 10 | 10 | 0 |
-| Kamal-ol-Molk | 10 | 10 | 0 |
-| Georges Seurat | 10 | 10 | 0 |
-| Roy Lichtenstein | 10 | 10 | 0 |
-| Wayne Thiebaud | 10 | 10 | 0 |
-| Norval Morrisseau | 10 | 10 | 0 |
-| Mark Rothko | 10 | 10 | 0 |
-| Augusta Savage | 10 | 10 | 0 |
-| Elizabeth Catlett | 10 | 10 | 0 |
-| Paul Klee | 10 | 10 | 0 |
-| Prudence Heward | 10 | 10 | 0 |
-| Michelangelo | 10 | 10 | 0 |
-| Edvard Munch | 10 | 10 | 0 |
-| Faith Ringgold | 10 | 10 | 0 |
-| Amy Sherald | 10 | 10 | 0 |
-| Hokusai | 10 | 10 | 0 |
-| Jacob Lawrence | 10 | 10 | 0 |
-| David Hockney | 10 | 10 | 0 |
-| Wassily Kandinsky | 10 | 10 | 0 |
-| Rembrandt | 10 | 10 | 0 |
-| Ted Harrison | 10 | 10 | 0 |
-| René Magritte | 10 | 10 | 0 |
-| I. Rice Pereira | 10 | 10 | 0 |
-| Romero Britto | 10 | 10 | 0 |
-| Jackson Pollock | 10 | 10 | 0 |
-| Jean-Michel Basquiat | 10 | 10 | 0 |
+| Artist | Images | With piece information | Target | Still needed |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Jonathan Green | 10 | 10 | 10 | 0 |
+| William H. Johnson | 10 | 10 | 10 | 0 |
+| Leonardo da Vinci | 10 | 10 | 10 | 0 |
+| Raphael | 10 | 10 | 10 | 0 |
+| Banksy | 10 | 10 | 10 | 0 |
+| Paul Cézanne | 10 | 10 | 10 | 0 |
+| Frida Kahlo | 10 | 10 | 10 | 0 |
+| Keith Haring | 10 | 10 | 10 | 0 |
+| Salvador Dalí | 10 | 10 | 10 | 0 |
+| Loïs Mailou Jones | 10 | 10 | 10 | 0 |
+| Henri Rousseau | 10 | 10 | 10 | 0 |
+| Robert Indiana | 10 | 10 | 10 | 0 |
+| George Rodrigue | 10 | 10 | 10 | 0 |
+| Emily Carr | 10 | 10 | 10 | 0 |
+| Dorothea Lange | 10 | 10 | 10 | 0 |
+| Piet Mondrian | 10 | 10 | 10 | 0 |
+| Yayoi Kusama | 10 | 10 | 10 | 0 |
+| Frederic Remington | 10 | 10 | 10 | 0 |
+| Andrew Wyeth | 10 | 10 | 10 | 0 |
+| Diego Rivera | 12 | 12 | 10 | 0 |
+| Grant Wood | 10 | 10 | 10 | 0 |
+| Pablo Picasso | 12 | 12 | 10 | 0 |
+| Heather Galler | 10 | 10 | 10 | 0 |
+| Jeff Koons | 11 | 11 | 10 | 0 |
+| Annie Leibovitz | 10 | 10 | 10 | 0 |
+| Andy Warhol | 10 | 10 | 10 | 0 |
+| Kamal-ol-Molk | 10 | 10 | 10 | 0 |
+| Georges Seurat | 10 | 10 | 10 | 0 |
+| Roy Lichtenstein | 10 | 10 | 10 | 0 |
+| Wayne Thiebaud | 10 | 10 | 10 | 0 |
+| Norval Morrisseau | 10 | 10 | 10 | 0 |
+| Mark Rothko | 10 | 10 | 10 | 0 |
+| Augusta Savage | 10 | 10 | 10 | 0 |
+| Elizabeth Catlett | 10 | 10 | 10 | 0 |
+| Paul Klee | 10 | 10 | 10 | 0 |
+| Prudence Heward | 10 | 10 | 10 | 0 |
+| Michelangelo | 10 | 10 | 10 | 0 |
+| Edvard Munch | 10 | 10 | 10 | 0 |
+| Faith Ringgold | 10 | 10 | 10 | 0 |
+| Amy Sherald | 10 | 10 | 10 | 0 |
+| Hokusai | 10 | 10 | 10 | 0 |
+| Jacob Lawrence | 10 | 10 | 10 | 0 |
+| David Hockney | 10 | 10 | 10 | 0 |
+| Wassily Kandinsky | 10 | 10 | 10 | 0 |
+| Rembrandt | 10 | 10 | 10 | 0 |
+| Ted Harrison | 10 | 10 | 10 | 0 |
+| René Magritte | 10 | 10 | 10 | 0 |
+| I. Rice Pereira | 10 | 10 | 10 | 0 |
+| Romero Britto | 10 | 10 | 10 | 0 |
+| Jackson Pollock | 10 | 10 | 10 | 0 |
+| Jean-Michel Basquiat | 10 | 10 | 10 | 0 |
+
+All 515 artwork images have piece-specific information, available on the gallery card and in the enlarged viewer. The 42 available artist portraits are larger and can be opened in their own viewer.
 
 ## Source checks and remaining gaps
 

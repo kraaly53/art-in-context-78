@@ -12,7 +12,8 @@
         "source": "https://www.jonathangreenstudios.com/works",
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "02",
@@ -27,7 +28,8 @@
         "source": "https://commons.wikimedia.org/wiki/Category:William_H._Johnson",
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "03",
@@ -42,7 +44,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "04",
@@ -56,7 +59,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "05",
@@ -119,7 +123,8 @@
         "url": "https://www.flickr.com/photos/infrogmation/2817595676/",
         "result": "Photographer’s openly published original image, with Commons source record identifying this as Banksy’s Umbrella Girl and directing to this original unblurred Flickr publication. Photographer licence CC BY-SA2.0; underlying artwork assessed separately for Canadian criticism."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "06",
@@ -133,7 +138,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "07",
@@ -184,7 +190,8 @@
         "url": "https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg",
         "result": "Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "08",
@@ -227,7 +234,8 @@
         "url": "https://www.haring.com/!/art-work/386-2",
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "09",
@@ -274,7 +282,8 @@
         "url": "https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper",
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "10",
@@ -329,7 +338,8 @@
         "source": "https://api.artic.edu/api/v1/artworks/search",
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "11",
@@ -343,7 +353,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "12",
@@ -386,7 +397,8 @@
         "url": "https://www.robertindiana.com/artworks/artworks-items/the-eighth-american-dream",
         "result": "Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "13",
@@ -437,7 +449,8 @@
         "url": "https://georgerodrigue.com/art/available-paintings/",
         "result": "George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "14",
@@ -452,7 +465,8 @@
         "source": "https://commons.wikimedia.org/wiki/Category:Emily_Carr",
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "15",
@@ -467,7 +481,8 @@
         "source": "https://commons.wikimedia.org/wiki/Category:Dorothea_Lange",
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "16",
@@ -482,7 +497,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "17",
@@ -495,7 +511,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "18",
@@ -510,7 +527,8 @@
         "source": "https://commons.wikimedia.org/wiki/Category:Frederic_Remington",
         "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "19",
@@ -523,7 +541,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "20",
@@ -536,7 +555,8 @@
     "sourceChecks": [
       "https://www.sfmoma.org/artwork/35.4516/",
       "https://dia.org/collection/detroit-industry-north-wall/58538"
-    ]
+    ],
+    "descriptionCount": 12
   },
   {
     "id": "21",
@@ -555,7 +575,8 @@
         "source": "https://www.crma.org/collections/permanent-collections/Grant-Wood",
         "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "22",
@@ -568,7 +589,8 @@
     "sourceChecks": [
       "https://www.moma.org/collection/works/79766",
       "https://museoreinasofia.es/en/collections/artwork/guernica-0/"
-    ]
+    ],
+    "descriptionCount": 12
   },
   {
     "id": "23",
@@ -623,7 +645,8 @@
         "source": "https://www.heathergallerstudio.com/products/westie-under-the-full-moon",
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "24",
@@ -670,7 +693,8 @@
         "url": "https://www.jeffkoons.com/artwork/statuary",
         "result": "Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions."
       }
-    ]
+    ],
+    "descriptionCount": 11
   },
   {
     "id": "25",
@@ -721,7 +745,8 @@
         "url": "https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8",
         "result": "The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "26",
@@ -734,7 +759,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "27",
@@ -749,7 +775,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "28",
@@ -764,7 +791,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "29",
@@ -803,7 +831,8 @@
         "url": "https://en.wikipedia.org/wiki/Hopeless_(Lichtenstein)",
         "result": "Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "30",
@@ -816,7 +845,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "31",
@@ -867,7 +897,8 @@
         "source": "https://artbooks.artcanada.com/norval-morrisseau/key-works/observations-of-the-astral-world",
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "32",
@@ -880,7 +911,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "33",
@@ -931,7 +963,8 @@
         "source": "https://collections.mfa.org/objects/33674/portrait-head-of-john-henry",
         "outcome": "MFA collection page and pressPDF returned403. Museum-owned Google Arts&Culture record publicly accessible and used instead."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "34",
@@ -986,7 +1019,8 @@
         "source": "https://www.moma.org/artists/1037",
         "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "35",
@@ -1000,7 +1034,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "36",
@@ -1019,7 +1054,8 @@
         "source": "https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf",
         "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "37",
@@ -1034,7 +1070,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "38",
@@ -1048,7 +1085,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "39",
@@ -1061,7 +1099,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "40",
@@ -1075,7 +1114,8 @@
       "Whitney American Sublime exhibition checklist captions checked for work title, creation date and medium.",
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "41",
@@ -1090,7 +1130,8 @@
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.",
       "CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "42",
@@ -1145,7 +1186,8 @@
         "source": "https://api.artic.edu/api/v1/artworks/search",
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "43",
@@ -1161,7 +1203,8 @@
       "Official artist website verified The Road to York through Sledmere and Pearblossom Highway title/date/medium; Tate verified My Parents.",
       "No s.30.04 exception asserted; assessment relies on specific educational criticism and acknowledges public distribution.",
       "Five reference-file description texts additionally checked for credited source publishers and author; no separate reproduction photographer named. Bigger Trees Near Warter explicitly credits Simon and Karen Spavin."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "44",
@@ -1175,7 +1218,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "45",
@@ -1189,7 +1233,8 @@
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "46",
@@ -1240,7 +1285,8 @@
         "source": "https://tedharrison.ca/products/winter-justice-2002",
         "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "47",
@@ -1253,7 +1299,8 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "48",
@@ -1300,7 +1347,8 @@
         "source": "https://api.artic.edu/api/v1/artworks/search",
         "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "49",
@@ -1339,7 +1387,8 @@
         "url": "https://www.shopbritto.com/collections/original-paintings/products/mother-original-painting",
         "result": "Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "50",
@@ -1398,7 +1447,8 @@
         "source": "https://www.moma.org/artists/4675",
         "outcome": "Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response."
       }
-    ]
+    ],
+    "descriptionCount": 10
   },
   {
     "id": "51",
@@ -1411,6 +1461,7 @@
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
-    ]
+    ],
+    "descriptionCount": 10
   }
 ]

@@ -11,6 +11,8 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 
 - 51 artist profiles with media/materials, lifespans and places, 153 career timeline moments, 103 significant-work studies, interesting facts, and separate social and art-historical impact sections.
 - 42 portraits and 515 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 51 of 51 artists meet the ten-work target. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
+- Every artwork has a piece-specific **About this artwork** section in its gallery card, featured panel and enlarged viewer, with local read-aloud support.
+- Available artist portraits are larger, uncropped and open in a dedicated portrait viewer. Nine artists without a verified portrait retain their initials/anonymous symbol.
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
 - A chronological overview, side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
 - Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.

@@ -48,6 +48,12 @@ The workflow validates, configures Pages, uploads `dist`, and deploys it. It use
 
 Documentation and source notes outside `dist` are available through the repository, not as student-facing pages. Updating documents also triggers the publishing workflow.
 
+## Artwork information and portrait viewing
+
+All 515 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
+
+The 42 available portraits use larger uncropped images with an Enlarge portrait button. Their dedicated dialog includes artist identification and source credit; its close button or Escape returns focus to the portrait button. Missing portraits still use initials rather than an invented image.
+
 ## Image updates
 
 Check both the source photo’s rights and the artwork’s underlying rights, including Canadian status. Educational fair dealing is an assessed use basis under ss.29/29.1, not a blanket licence; follow EDUCATIONAL-USE.md and retain substantive image-specific commentary. Do not claim s.30.04 automatically applies merely because a picture is online. Some included public-sculpture photographs rely on a documented panorama exception; those artworks are not claimed to be public domain. Preserve that distinction. Match a photo to its actual work: an alternate sculpture is not a substitute image for a famous painting.
