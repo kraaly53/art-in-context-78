@@ -23,9 +23,11 @@ Checked 18 November 2026.
 - Mobile timeline and artist-profile views measured 375px content within a 375px viewport, without horizontal overflow.
 - The notebook export button executed and announced the download request. The downloaded file was not independently opened; confirm download permissions on the school’s actual devices.
 
-## Browser-test interruption and limits
+## Resolved browser-test interruption
 
-The initial native confirmation dialog for clearing test notes stalled automated browser input. It was replaced with an in-page, two-choice confirmation for notebook deletion and session reset. The replacement passed syntax and source checks; final interactive confirmation testing depends on clearing the browser interruption. Do not treat the earlier stalled attempt as a successful session reset.
+An initial native confirmation dialog stalled automated input. It was replaced with an in-page, two-choice confirmation for notebook deletion and session reset. The replacement was then tested: Keep my work returned to the teacher desk; Clear this work removed the temporary test note; the notebook showed zero entries and zero completed challenges. The browser interaction resumed successfully after the old native dialog was dismissed.
+
+## Verification limits
 
 Audible voice quality and artist-name pronunciation were not assessed. This is not a complete screen-reader audit or physical-device test on a managed school iPad/Chromebook. Browser storage restrictions, touch input, downloads, installed offline voices, and school network policies should be checked on the target devices.
 
