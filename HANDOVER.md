@@ -23,11 +23,13 @@ All 51 artists have media, life-date guidance, three career moments, at least tw
 
 Students can search the index, filter media and perspectives, open a chronology, compare two artists, explore medium definitions, solve a timeline-order challenge, and generate creative briefs. Discussion prompts encourage claims supported by visual evidence and context. Impact paragraphs are identified as educational synthesis, not quotations or single-cause historical proof.
 
-**Image target remains incomplete:** 228 distinct artwork images and 42 portraits are included. Twenty-one artists have ten works; nine have partial galleries and 21 have no cleared artwork reproduction. The profile gallery appears near the top and shows its exact count. Students can enlarge works and navigate with buttons or arrow keys. Teacher desk and ARTWORK-COVERAGE.md identify every shortfall and the sources checked.
+**Current artwork coverage:** 515 distinct artwork images and 42 portraits; 51 of 51 artists meet the ten-work target. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
 
 ## Files and architecture
 
 The site is plain HTML, CSS, and JavaScript. There is no framework or build dependency, backend, database, external font/image request, service worker, or authentication system. `dist/index.html` loads `artists.js`, `app.js`, `styles.css`, and local assets with relative paths suitable for GitHub Pages project hosting.
+
+GitHub Pages and the repository remain public; search-exclusion requests do not provide access control. Do not describe this deployment as a password-protected class platform.
 
 The student interface contains no outgoing clickable web links. Source addresses and image licences appear as plain text in profile details and the teacher desk. The content policy blocks outbound application connections, remote resources, frames, and form submissions. It permits local/blob/data images for the interface and downloaded artifacts.
 
@@ -48,11 +50,11 @@ Documentation and source notes outside `dist` are available through the reposito
 
 ## Image updates
 
-Check both the source photo’s licence and the artwork’s underlying rights. Some included public-sculpture photographs rely on a documented panorama exception; those artworks are not claimed to be public domain. Preserve that distinction. Match a photo to its actual work: an alternate sculpture is not a substitute image for a famous painting.
+Check both the source photo’s rights and the artwork’s underlying rights, including Canadian status. Educational fair dealing is an assessed use basis under ss.29/29.1, not a blanket licence; follow EDUCATIONAL-USE.md and retain substantive image-specific commentary. Do not claim s.30.04 automatically applies merely because a picture is online. Some included public-sculpture photographs rely on a documented panorama exception; those artworks are not claimed to be public domain. Preserve that distinction. Match a photo to its actual work: an alternate sculpture is not a substitute image for a famous painting.
 
-Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
+Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. Copyrighted educational images also require `description`, `rightsAssessment`, retained copyright credit and a maximum 640px study image; retain any separate `sourceLicense` designation. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
 
-The current tests deliberately expect 51 artists, 42 portraits, 228 work images, and 21 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
+The current checks require 51 artists, 42 portraits, matching artwork/credit totals (currently 515 works), and all 51 galleries meeting ten, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
 
 ## Classroom operation
 
@@ -79,7 +81,7 @@ To undo a bad update, review the faulty commit and make a new revert commit, the
 
 ## Known limits and next priorities
 
-1. Complete the ten-work target for the 30 shortfall artists listed in ARTWORK-COVERAGE.md and obtain nine missing portraits, retaining all credit evidence. Banksy is intentionally anonymous.
+1. Keep all galleries at ten or more distinct works and maintain the image-specific commentary, source credits and assessment records. Nine portraits remain unavailable. Banksy is intentionally anonymous.
 2. Check local voices, touch behaviour, and school restrictions on actual classroom devices.
 3. Consider additional teacher-reviewed visual analysis questions and lesson sequences after classroom feedback.
 4. Keep dates and sources current, and preserve explicit uncertainty rather than inventing an exact birth or creation year.

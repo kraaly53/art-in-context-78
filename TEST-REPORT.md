@@ -2,34 +2,35 @@
 
 Checked 18 November 2026.
 
-## Content and assets
+## Current result
 
-All 51 names follow the deduplicated inventory from the four classroom photos. Profiles retain 153 career moments, 103 significant-work studies, and 51 quizzes. Primary museum, artist, foundation, archive, and collection sources are recorded in the content and supporting source notes. Reviewed date corrections and uncertain births remain guarded by tests.
+All 51 artists have at least ten artwork study entries: **515 artwork images plus 42 portraits**, with 557 matching image-credit records. Picasso and Rivera have 12 works each; Koons has 11; the remaining 48 galleries have 10. There are no artwork-count shortfalls. Savage’s archival view of two separately titled sculptures counts conservatively as one entry, not two.
 
-This expansion adds 200 distinct artwork images, for **228 artworks and 42 portraits**. Twenty-one artists have ten works; nine have partial galleries and 21 have no cleared artwork reproduction. ARTWORK-COVERAGE.md and its JSON companion give all counts, source checks, and remaining needs. The ten-per-artist target is not complete.
+The Canadian classroom context was confirmed by the owner. The collection now supplements public-domain/licensed images with 298 Canadian educational/critical fair-dealing assessments. Copyright notices and separate reproduction licences are retained. This is a documented working assessment, not a court ruling, open licence or school-board clearance. See EDUCATIONAL-USE.md.
 
-Source records and underlying rights were reviewed; contact sheets were visually checked. Duplicate Hokusai imagery was replaced, unsuitable candidates excluded, and photograph timestamps separated from artwork creation dates. Unknown creation dates are explicitly labelled. All 270 WebP images decoded, had unique file hashes, matched credits and were referenced by the data. No unused WebP files remained.
+## Data and image checks
 
-## Passed checks
+- All 51 unique profiles retain 153 career moments, 103 significant-work studies, 51 quizzes and 42 portraits. Original photo locations remain recorded in ARTIST-INVENTORY.md.
+- Automated validation requires all 51 galleries to meet ten, distinct work keys, matching coverage and credit totals, local files, and reviewed historical-date assertions. Copyrighted educational images require original commentary, useful alt text and assessments addressing purpose, character, amount, alternatives, nature and effect.
+- All 557 WebP images decoded successfully, had unique file hashes and were referenced by the artist data. No unused WebP images remained. All images assessed for Canadian fair dealing are 640px or smaller.
+- Contact sheets were visually reviewed for every new image. An artist catalogue’s blank Hockney placeholders were rejected. Unsuitable and unrelated candidates were removed; sculpture views/casts and crop duplicates do not pad counts. A per-artist perceptual comparison found no near matches at the selected threshold; this supplements visual review rather than proving identity by itself.
+- Photograph timestamps are not presented as artwork creation dates. Unverified artwork dates remain labelled. Conflicting museum dates for Sherald’s Miss Everything are explicitly shown as 2013/2014 in both the profile study and gallery.
+- A study thumbnail must match the work title and compatible known date ranges, so an earlier work with the same title cannot silently illustrate a later version.
 
-- Validation covers all 51 profiles, local files, 270 matching credit records, 228 artwork records, 21 galleries at ten, matching coverage reports, distinct per-artist work keys, and specific corrected historical dates.
-- Content-based script/style versions prevent returning browsers from reusing an older artist-data or interface file after an update. The publication workflow refreshes these versions automatically.
-- JavaScript syntax passes. Static checks verify no outgoing student links, remote resource references, outbound request code, frames or forms. The content policy blocks remote resources and application connections.
-- Galleries appear after the overview, before the career timeline. Index cards and profile buttons show actual image counts. Significant-work studies display a thumbnail only for a matching actual artwork.
-- Browser checks covered Leonardo’s ten-work gallery, Rivera’s ten-work gallery, Catlett’s single-work gallery, and Kahlo’s empty gallery. Empty states distinguish written studies from images.
-- The larger-image viewer opened a selected work, advanced and returned with buttons, and accepted the left arrow key. A single-work viewer disabled both navigation buttons.
-- The teacher coverage table displayed all 51 artists and their counts. Artist selection closed the teacher panel and opened the profile. Detailed audit reasons and checked sources appear as plain text in its source section.
-- No horizontal overflow was measured in gallery views at 375px, 768px and 1280px. Mobile and desktop layouts were visually inspected. Images outside the viewport are intentionally lazy-loaded; every local image was independently decoded.
-- Notebook removal remains guarded: no notebook route, writing field, note-storage key, reflection editor or export action. Navigation remains Explore, Timeline, Compare and Challenge lab.
+## Interface checks
 
-## Earlier regression checks
+- The gallery appears before the career timeline, with actual counts, titles/dates, full-image containment and an enlarged viewer. Copyrighted additions include original work-specific observation and discussion questions beside the image and in the viewer.
+- Browser checks covered Frida Kahlo’s ten-work gallery, Amy Sherald’s ten-work gallery, enlarged study commentary, next/previous controls and left-arrow navigation.
+- The teacher coverage table displayed 51 artists, minimum 10, total 515, and zero below target. Selecting an artist closed the teacher panel and opened its profile.
+- Gallery views measured no horizontal overflow at 375px, 768px and 1280px. Expanded credits also fit375px; the mobile viewer measured 345px within 375px, with study commentary visible. Desktop/mobile views were visually checked.
+- Browser inspection found no outgoing HTTP anchors or writing fields. Static checks guard local-only image paths, no outbound request code, no frames/forms and the restrictive resource policy.
+- Notebook removal remains guarded: no notebook route, reflection editor, note-storage key or export feature. Explore, Timeline, Compare and Challenge lab remain the main navigation.
+- Content-based script/style versions refresh automatically during publication so returning browsers load changed data and interface files.
 
-The original delivery browser pass opened all 51 profiles, checked search and combined filters, timeline ordering, quizzes, comparisons, creative briefs, medium explanations, image magnification and local read-aloud controls. Notebook removal also received a browser regression pass. This expansion used representative browser cases plus all-record structural/asset checks; a long repeat browser sweep timed out and is not claimed as a completed new all-profile pass.
+## Earlier regression coverage
 
-## Limits
+Earlier delivery checks opened all 51 profiles and exercised combined search/filters, timeline ordering, quizzes, comparisons, creative briefs, medium explanations and local read-aloud controls. This expansion used representative browser flows plus all-record and all-image checks rather than claiming a new exhaustive51-profile interaction sweep.
 
-This is not a complete screen-reader or physical classroom-device audit. Audible quality and name pronunciation were not assessed. Local voices, touch behaviour, storage policy and school restrictions should be checked on the actual devices. Public-domain status and panorama exceptions can differ across jurisdictions; the documented evidence does not confer additional rights.
+## Limits and publication
 
-## Publication
-
-The Grade 7–8 site uses the existing separate repository and GitHub Pages workflow. The earlier Little Artist Explorers repository is outside this update. Publication status for this expansion is recorded in the accompanying delivery message.
+Audible voice quality, full screen-reader operation and actual managed classroom devices were not assessed. Local voice availability, touch behaviour and school policies still depend on the device. GitHub Pages and its repository remain public; search exclusions are not access control. The final delivery message records the verified publication result. The earlier Grade1 repository remains separate.

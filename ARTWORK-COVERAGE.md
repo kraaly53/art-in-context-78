@@ -1,89 +1,90 @@
 # Artwork image coverage
 
-Updated 18 November 2026. **228 distinct artwork images; 21 of 51 artists meet the requested minimum of ten.**
+Updated 18 November 2026. **515 distinct artwork images; 51 of 51 artists meet the requested minimum of ten.**
 
-Counts exclude artist photographs, duplicate views, details, and multiple casts of one composition. An artist’s original painted self-portrait is an artwork and can count. The target remains ten per artist; shortfalls are reported rather than filled with unrelated or unlicensed images. Images are stored locally; students have no outgoing browsing links.
+The collection includes 298 copyrighted images with documented Canadian educational fair-dealing assessments, alongside public-domain/licensed images. See EDUCATIONAL-USE.md. These assessments are not open licences or artist permissions.
 
-| Artist | Images | Target | Remaining |
+Counts exclude artist photographs, repeated views, duplicate crops and multiple casts of one composition. An original painted self-portrait counts as an artwork. Ten is a curriculum target, not a statutory copying allowance.
+
+| Artist | Images | Target | Still needed |
 | --- | ---: | ---: | ---: |
-| Jonathan Green | 0 | 10 | 10 |
+| Jonathan Green | 10 | 10 | 0 |
 | William H. Johnson | 10 | 10 | 0 |
 | Leonardo da Vinci | 10 | 10 | 0 |
 | Raphael | 10 | 10 | 0 |
-| Banksy | 0 | 10 | 10 |
+| Banksy | 10 | 10 | 0 |
 | Paul Cézanne | 10 | 10 | 0 |
-| Frida Kahlo | 0 | 10 | 10 |
-| Keith Haring | 3 | 10 | 7 |
-| Salvador Dalí | 1 | 10 | 9 |
-| Loïs Mailou Jones | 0 | 10 | 10 |
+| Frida Kahlo | 10 | 10 | 0 |
+| Keith Haring | 10 | 10 | 0 |
+| Salvador Dalí | 10 | 10 | 0 |
+| Loïs Mailou Jones | 10 | 10 | 0 |
 | Henri Rousseau | 10 | 10 | 0 |
-| Robert Indiana | 2 | 10 | 8 |
-| George Rodrigue | 0 | 10 | 10 |
+| Robert Indiana | 10 | 10 | 0 |
+| George Rodrigue | 10 | 10 | 0 |
 | Emily Carr | 10 | 10 | 0 |
 | Dorothea Lange | 10 | 10 | 0 |
 | Piet Mondrian | 10 | 10 | 0 |
-| Yayoi Kusama | 0 | 10 | 10 |
+| Yayoi Kusama | 10 | 10 | 0 |
 | Frederic Remington | 10 | 10 | 0 |
-| Andrew Wyeth | 0 | 10 | 10 |
-| Diego Rivera | 10 | 10 | 0 |
+| Andrew Wyeth | 10 | 10 | 0 |
+| Diego Rivera | 12 | 10 | 0 |
 | Grant Wood | 10 | 10 | 0 |
-| Pablo Picasso | 10 | 10 | 0 |
-| Heather Galler | 0 | 10 | 10 |
-| Jeff Koons | 2 | 10 | 8 |
-| Annie Leibovitz | 0 | 10 | 10 |
-| Andy Warhol | 0 | 10 | 10 |
+| Pablo Picasso | 12 | 10 | 0 |
+| Heather Galler | 10 | 10 | 0 |
+| Jeff Koons | 11 | 10 | 0 |
+| Annie Leibovitz | 10 | 10 | 0 |
+| Andy Warhol | 10 | 10 | 0 |
 | Kamal-ol-Molk | 10 | 10 | 0 |
 | Georges Seurat | 10 | 10 | 0 |
-| Roy Lichtenstein | 3 | 10 | 7 |
-| Wayne Thiebaud | 0 | 10 | 10 |
-| Norval Morrisseau | 0 | 10 | 10 |
-| Mark Rothko | 0 | 10 | 10 |
-| Augusta Savage | 2 | 10 | 8 |
-| Elizabeth Catlett | 1 | 10 | 9 |
+| Roy Lichtenstein | 10 | 10 | 0 |
+| Wayne Thiebaud | 10 | 10 | 0 |
+| Norval Morrisseau | 10 | 10 | 0 |
+| Mark Rothko | 10 | 10 | 0 |
+| Augusta Savage | 10 | 10 | 0 |
+| Elizabeth Catlett | 10 | 10 | 0 |
 | Paul Klee | 10 | 10 | 0 |
 | Prudence Heward | 10 | 10 | 0 |
 | Michelangelo | 10 | 10 | 0 |
 | Edvard Munch | 10 | 10 | 0 |
-| Faith Ringgold | 0 | 10 | 10 |
-| Amy Sherald | 0 | 10 | 10 |
+| Faith Ringgold | 10 | 10 | 0 |
+| Amy Sherald | 10 | 10 | 0 |
 | Hokusai | 10 | 10 | 0 |
-| Jacob Lawrence | 0 | 10 | 10 |
-| David Hockney | 0 | 10 | 10 |
+| Jacob Lawrence | 10 | 10 | 0 |
+| David Hockney | 10 | 10 | 0 |
 | Wassily Kandinsky | 10 | 10 | 0 |
 | Rembrandt | 10 | 10 | 0 |
-| Ted Harrison | 0 | 10 | 10 |
-| René Magritte | 0 | 10 | 10 |
-| I. Rice Pereira | 1 | 10 | 9 |
-| Romero Britto | 3 | 10 | 7 |
-| Jackson Pollock | 0 | 10 | 10 |
-| Jean-Michel Basquiat | 0 | 10 | 10 |
+| Ted Harrison | 10 | 10 | 0 |
+| René Magritte | 10 | 10 | 0 |
+| I. Rice Pereira | 10 | 10 | 0 |
+| Romero Britto | 10 | 10 | 0 |
+| Jackson Pollock | 10 | 10 | 0 |
+| Jean-Michel Basquiat | 10 | 10 | 0 |
 
-## Sources checked and remaining gaps
+## Source checks and remaining gaps
 
-A gap means enough suitable reproductions with documented rights for this public website were not verified. It does **not** mean that the artist made no art or that no images can be found online. Photo licensing alone does not clear copyright in the depicted work. Modern galleries may therefore show a public sculpture rather than an unavailable famous painting. No permission requests have been sent on the owner’s behalf.
+The earlier open-licence-only gaps have been reassessed for the Canadian classroom use confirmed by the owner. Public GitHub hosting remains part of the fairness assessment. Images are locally stored and source addresses are not clickable student links.
 
-### Jonathan Green — 0/10
+### Jonathan Green — 10/10
 
-Works found in the artist’s portfolio, but no verified grant for public-web reproduction of ten images was found.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- https://www.jonathangreenstudios.com/about
-- https://uvafralinartmuseum.virginia.edu/system/files/WE24%20Image%20Sheet.pdf
+- https://www.jonathangreenstudios.com/works — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
 
 ### William H. Johnson — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:William_H._Johnson", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
+- https://commons.wikimedia.org/wiki/Category:William_H._Johnson — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
 
 ### Leonardo da Vinci — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
@@ -92,232 +93,297 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 
 ### Raphael — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 
-### Banksy — 0/10
+### Banksy — 10/10
 
-No public-web reproduction permission verified for ten works;0 reusable images confirmed.
+Minimum met.
 
-Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://pestcontroloffice.com/use.asp", "result": "Banksy works were located, but Pest Control states it does not license Banksy images to third parties; its stated allowance is non-commercial personal amusement. That does not clearly grant public educational website reproduction. No claim is made that works could not be found."}
+- https://en.wikipedia.org/wiki/Girl_with_Balloon — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/One_Nation_Under_CCTV — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Kissing_Coppers — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Slave_Labour_(mural) — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://commons.wikimedia.org/wiki/File:%27Well_Hung_Lover%27,_Banksy%27s_Graffiti_Mural_in_Bristol,_England_(November_14th_2026).jpg — Published photograph with a work-specific title/location in its Commons source record. Photograph licence is separate from Banksy artwork copyright; no open-artwork permission is inferred. Kate Moss is a photographed exhibition display of the named print, labelled accordingly.
+- https://commons.wikimedia.org/wiki/File:Banksy_in_Hull_-_geograph.org.uk_-_5663217.jpg — Published photograph with a work-specific title/location in its Commons source record. Photograph licence is separate from Banksy artwork copyright; no open-artwork permission is inferred. Kate Moss is a photographed exhibition display of the named print, labelled accordingly.
+- https://commons.wikimedia.org/wiki/File:Banksy_on_display,_Port_Talbot.jpg — Published photograph with a work-specific title/location in its Commons source record. Photograph licence is separate from Banksy artwork copyright; no open-artwork permission is inferred. Kate Moss is a photographed exhibition display of the named print, labelled accordingly.
+- https://commons.wikimedia.org/wiki/File:Kate_Moss_by_Banksy_2006_01.jpg — Published photograph with a work-specific title/location in its Commons source record. Photograph licence is separate from Banksy artwork copyright; no open-artwork permission is inferred. Kate Moss is a photographed exhibition display of the named print, labelled accordingly.
+- https://commons.wikimedia.org/wiki/File:Migrant_Child_by_Banksy.jpg — Published photograph with a work-specific title/location in its Commons source record. Photograph licence is separate from Banksy artwork copyright; no open-artwork permission is inferred. Kate Moss is a photographed exhibition display of the named print, labelled accordingly.
+- https://www.andipa.com/node/621 — Andipa Gallery public artwork record publishes a554px complete illustration of the2003 screenprint, with exact title, date, medium and edition; no login, paywall or access restriction bypassed.
+- https://www.uhs.nhs.uk/whats-new/news/new-banksy-artwork-displayed-at-university-hospital-southampton — University Hospital Southampton publicly publishes this460×401px artwork illustration in its original2020 news announcement, identifying the work as a gift from Banksy. Oil-on-canvas medium and2020 date corroborated by the public Christie’s catalogue record, not restricted press download.
+- https://andipagallery.com/blog/38-from-the-andipa-archives-three-seminal-artworks/ — Public Andipa Gallery article presents this painting version under its Kissing Coppers section. It distinguishes the2004 Brighton mural from later paintings; this record labels the photographed version rather than claiming it is the original street mural.
+- https://www.flickr.com/photos/infrogmation/2817595676/ — Photographer’s openly published original image, with Commons source record identifying this as Banksy’s Umbrella Girl and directing to this original unblurred Flickr publication. Photographer licence CC BY-SA2.0; underlying artwork assessed separately for Canadian criticism.
 
 ### Paul Cézanne — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 
-### Frida Kahlo — 0/10
+### Frida Kahlo — 10/10
 
-Works found, but underlying public-web reproduction rights unverified;0 reusable artwork images confirmed.
+Minimum met.
 
-Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://commons.wikimedia.org/wiki/Category:Paintings_by_Frida_Kahlo", "result": "Kahlo artworks were located, but Commons results mainly provided artist portraits, tributes, possessions and photographs of displays. A photographer licence alone does not clear underlying painting rights. No ten-work public-domain or public-web licensed set was verified."}
+- https://en.wikipedia.org/wiki/My_Dress_Hangs_There — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Self-Portrait_in_a_Velvet_Dress — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Self-Portrait_with_Monkey — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Self-Portrait_with_Thorn_Necklace_and_Hummingbird — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/The_Frame_(painting) — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/File:Dos_mujeres,_Frida_Kahlo,_1928.jpg — Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence.
+- https://en.wikipedia.org/wiki/File:El_cami%C3%B3n,_Frida_Kahlo,_1929.jpg — Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence.
+- https://en.wikipedia.org/wiki/File:El_tiempo_vuela,_Frida_Kahlo,_1929.jpg — Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence.
+- https://en.wikipedia.org/wiki/File:Retrato_de_Alejandro_G%C3%B3mez_Arias,_Frida_Kahlo,_1928.jpg — Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence.
+- https://en.wikipedia.org/wiki/File:Retrato_de_Cristina,_mi_hermana,_Frida_Kahlo,_1928.jpeg — Published Commons illustration used in the Frida Kahlo encyclopedia biography; exact title and creation date appear in the source file. Copyright is retained and the source photo/reproduction credited; this assessment does not depend on an unsupported open-artwork licence.
 
-### Keith Haring — 3/10
+### Keith Haring — 10/10
 
-3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.
+Minimum met.
 
-Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://www.mercedes-benz.art/en/artwork/untitled-boxers-keith-haring-1987-2/", "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."}
-- {"url": "https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2019/red-dog-wird-gewartet", "result": "Two additional distinct permanent public sculptures have documented photo licences and German freedom of panorama. Boxers is already in baseline; further views and casts were excluded. US murals and temporary exhibitions were not treated as freely reusable."}
+- https://www.haring.com/!/art-work/252 — Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
+- https://www.haring.com/!/art-work/187 — Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
+- https://www.haring.com/!/art-work/25 — Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
+- https://www.haring.com/!/art-work/773 — Official Keith Haring Foundation artwork catalogue publishes the identified complete work image and metadata; artist copyright explicitly retained.
+- https://en.wikipedia.org/wiki/Crack_Is_Wack — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Radiant_Baby — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Tuttomondo — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://www.haring.com/!/art-work/386-2 — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
 
-### Salvador Dalí — 1/10
+### Salvador Dalí — 10/10
 
-1 of10 distinct reusable works confirmed;9 additional artwork permissions/images remain unverified.
+Minimum met.
 
-Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://www.nac.gov.sg/singapore-arts-scene/art-forms/visual-arts/public-art-trust/public-artworks/homage-to-newton", "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."}
-- {"url": "https://commons.wikimedia.org/wiki/Category:Sculptures_by_Salvador_Dal%C3%AD_in_Spain", "result": "Targeted Commons searches mainly returned multiple casts/views of Homage to Newton, which is already present. Spain category included misattributed or uncertain works (e.g. Vostell television obelisk), which were excluded. No ten distinct rights-cleared set was verified."}
+- https://en.wikipedia.org/wiki/Galatea_of_the_Spheres — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/Swans_Reflecting_Elephants — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Discovery_of_America_by_Christopher_Columbus — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Disintegration_of_the_Persistence_of_Memory — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Elephants — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Persistence_of_Memory — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
+- https://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
 
-### Loïs Mailou Jones — 0/10
+### Loïs Mailou Jones — 10/10
 
-Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established.
+Minimum met.
 
-0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Loïs_Mailou_Jones", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
-- {"source": "https://commons.wikimedia.org/wiki/Category:Lois_Mailou_Jones", "outcome": "Commons exact artist category offered Ascent of Ethiopia (1932) and four artist portraits. The NARA image declares a government-photo basis but did not establish rights in the underlying privately created painting; portraits do not count. Cleveland returned no artworks. Ten reusable artwork images were not established."}
+- https://americanart.si.edu/artwork/self-portrait-76331 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/les-fetiches-31947 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/textile-design-cretonne-76339 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/woman-necklace-76346 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/portrait-pierre-76348 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/seated-man-yellow-overalls-76347 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/greetings-76344 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/men-working-76342 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/les-clochards-montmartre-paris-76338 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/moon-masque-76334 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://api.artic.edu/api/v1/artworks/search — Public API returned403; no lock bypass attempted. Other public museum collection sources used.
 
 ### Henri Rousseau — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 
-### Robert Indiana — 2/10
+### Robert Indiana — 10/10
 
-2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.
+Minimum met.
 
-Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_19471_Sculpture_quot;Ahavaquot;_(love)_by_Robert_India.JPG", "result": "Added Ahava, the distinct Hebrew-letter sculpture, using a licensed photograph explicitly marked Israeli freedom of panorama. LOVE repeated views, casts and stamp versions were not used to inflate work count. US HOPE and AMOR photographs did not establish underlying artwork reuse rights."}
+- https://www.robertindiana.com/artworks/artworks-items/the-american-dream-i — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-demuth-american-dream-no-5 — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/eat2 — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-eateria — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-american-four — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-new-glory-penny — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-american-art — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
+- https://www.robertindiana.com/artworks/artworks-items/the-eighth-american-dream — Official Robert Indiana Legacy Initiative catalogue publishes this exact work image, title, date, medium and separate artwork/photograph credits. Whole multi-panel composition counts as one work; no details or installation repeats are counted.
 
-### George Rodrigue — 0/10
+### George Rodrigue — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=George+Rodrigue&limit=100
-- https://georgerodrigue.com/how-a-cajun-legend-became-a-pop-icon/
-- https://georgerodrigue.com/blog/new-lithograph-release-mardi-gras-dog-1991/
-- https://georgerodrigue.com/blog/terms-of-use/
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
+- https://georgerodrigue.com/art/available-paintings/ — George Rodrigue Studios publicly publishes the painting image, exact title, creation date and medium in its available-paintings catalogue; artwork copyright remains with the Rodrigue estate.
 
 ### Emily Carr — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Emily_Carr", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
+- https://commons.wikimedia.org/wiki/Category:Emily_Carr — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
 
 ### Dorothea Lange — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Dorothea_Lange", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
+- https://commons.wikimedia.org/wiki/Category:Dorothea_Lange — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
 
 ### Piet Mondrian — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 - CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
-### Yayoi Kusama — 0/10
+### Yayoi Kusama — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Yayoi+Kusama&limit=100
-- https://clevelandart.org/art/2010.463
-- https://clevelandart.org/art/2022.127
-- https://clevelandart.org/art/1999.250
-- https://yayoikusamamuseum.jp/en/about/yayoikusama/
-- https://yayoikusamamuseum.jp/en/news/news20260827/
-- https://yayoikusamamuseum.jp/en/sitepolicy/
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
 ### Frederic Remington — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Frederic_Remington", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
+- https://commons.wikimedia.org/wiki/Category:Frederic_Remington — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
 
-### Andrew Wyeth — 0/10
+### Andrew Wyeth — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Andrew+Wyeth&limit=100
-- https://www.museothyssen.org/en/collection/artists/wyeth-andrew
-- https://www.arts.gov/honors/medals/andrew-wyeth
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
-### Diego Rivera — 10/10
+### Diego Rivera — 12/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability.
+Canonical work images added for specific visual-analysis lessons, not simply to increase the gallery count.
 
-- {"url": "https://murales.sep.gob.mx/Inicio/mural1.html", "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."}
-- {"url": "https://www.moma.org/interactives/exhibitions/2011/rivera/mobile/chronology.html", "result": "Added one public-domain Cubist painting and eight separately titled fresco panels at SEP. Each panel is a different composition; no overall SEP cycle overview or duplicate panel detail is counted. All downloaded images visually reviewed for age suitability."}
+- https://www.sfmoma.org/artwork/35.4516/
+- https://dia.org/collection/detroit-industry-north-wall/58538
 
 ### Grant Wood — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Grant_Wood", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://www.crma.org/collections/permanent-collections/Grant-Wood", "outcome": "Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected."}
+- https://commons.wikimedia.org/wiki/Category:Grant_Wood — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
+- https://www.crma.org/collections/permanent-collections/Grant-Wood — Museum verified Calendulas1928–1929,oil on composition board; source file’s obvious1938–1929typo corrected.
 
-### Pablo Picasso — 10/10
+### Pablo Picasso — 12/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note.
+Canonical work images added for specific visual-analysis lessons, not simply to increase the gallery count.
 
-- {"url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Pablo%20Picasso&cc0=1&limit=100", "result": "Nine different Cleveland Museum artworks are explicitly CC0 in museum API, added to existing The Frugal Meal for ten. Excluded Salome and Barbaric Dance. The Mother at Her Toilette includes nonsexual figure-study nudity and has teacher preview note."}
+- https://www.moma.org/collection/works/79766
+- https://museoreinasofia.es/en/collections/artwork/guernica-0/
 
-### Heather Galler — 0/10
+### Heather Galler — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Heather+Galler&limit=100
-- https://walterfoster.com/walter-foster-book/folk-art-fusion/
-- https://heather-galler-art.mailchimpsites.com/
+- https://heather-galler-art.mailchimpsites.com/ — Artist’s previously established official landing page links its Shop The Collection button directly to http://www.heathergallerstudio.com; verifies provenance of the store catalogue used. Actual product artwork images chosen, not lifestyle mockups.
+- https://www.heathergallerstudio.com/products/yorkshire-terrier-with-pink-bow — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/yorkshire-terrier-in-a-flat-cap — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/yellow-farmhouse-above-flower-fields — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/woman-with-green-parrot-under-stars — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/winged-tabby-cat-under-the-stars — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/winged-pug-with-silver-diamonds — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/winged-ginger-cat-with-skull-crown — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/white-cat-on-a-patchwork-quilt — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/westie-with-heart-tag — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.heathergallerstudio.com/products/westie-under-the-full-moon — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
 
-### Jeff Koons — 2/10
+### Jeff Koons — 11/10
 
-2 of10 distinct reusable works confirmed;8 additional permissions/images remain unverified.
+Minimum met.
 
-Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/tulipanes", "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."}
-- {"url": "https://www.fbbva.es/wp-content/uploads/2015/06/Dossier_Jeff_Koons_ESP.pdf", "result": "Added Tulips, a distinct permanent public outdoor sculpture in Bilbao. Museum and BBVA exhibition dossier confirm permanent outdoor display; Spanish freedom of panorama and photograph CC BY-SA apply. Puppy repeat views and temporary exhibition photographs were excluded."}
+- https://en.wikipedia.org/wiki/Balloon_Dog — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Bouquet_of_Tulips — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Michael_Jackson_and_Bubbles — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Play-Doh_(sculpture) — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://www.jeffkoons.com/artwork/celebration — Official Jeff Koons Studio Celebration catalogue publishes this sculpture with title, materials and dates. Only one view/version of each composition is counted; painting versions and repeated colourways are excluded.
+- https://www.jeffkoons.com/artwork/celebration — Official Jeff Koons Studio Celebration catalogue publishes this sculpture with title, materials and dates. Only one view/version of each composition is counted; painting versions and repeated colourways are excluded.
+- https://www.jeffkoons.com/artwork/celebration — Official Jeff Koons Studio Celebration catalogue publishes this sculpture with title, materials and dates. Only one view/version of each composition is counted; painting versions and repeated colourways are excluded.
+- https://www.jeffkoons.com/artwork/celebration — Official Jeff Koons Studio Celebration catalogue publishes this sculpture with title, materials and dates. Only one view/version of each composition is counted; painting versions and repeated colourways are excluded.
+- https://www.jeffkoons.com/artwork/statuary — Published artist/museum or encyclopedia illustration, openly accessible without bypassing access restrictions.
 
-### Annie Leibovitz — 0/10
+### Annie Leibovitz — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Annie+Leibovitz&limit=100
-- https://www.npg.org.uk/collections/search/person/mp08186/annie-leibovitz
-- https://www.penguinrandomhouse.com/authors/17200/annie-leibovitz/
-- https://sirismm.si.edu/EADpdfs/NMAH.AC.0588.pdf
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=2 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=3 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=4 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=5 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=6 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=7 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
+- https://assets.ctfassets.net/y3wgx2ncas6t/5LVBdPuBzzPiBtyzBMBdoK/f1be8ccf2521b9fd3611e34f64b9e915/2024-11_HWNY22_Annie-Leibovitz_Learning-Notes_02.pdf#page=8 — The artist-representing gallery publicly publishes this exact complete photograph with its title, capture date and copyright notice in educational exhibition learning notes. Embedded artwork image extracted without changing its composition; no PDF text or page layout reproduced.
 
-### Andy Warhol — 0/10
+### Andy Warhol — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Andy+Warhol&limit=100
-- https://clevelandart.org/art/1997.246
-- https://clevelandart.org/art/2013.108
-- https://clevelandart.org/art/2013.108.a
-- https://www.warhol.org/andy-warhols-life/
-- https://www.nga.gov/artists/1966-andy-warhol
-- https://www.warhol.org/legal-notice/
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
 ### Kamal-ol-Molk — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
@@ -326,84 +392,104 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 
 ### Georges Seurat — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 - CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
-### Roy Lichtenstein — 3/10
+### Roy Lichtenstein — 10/10
 
-3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.
+Minimum met.
 
-Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://www.museoreinasofia.es/colecciones/obra/brushstroke-pincelada/", "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."}
-- {"url": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=6194", "result": "Added Modern Head in Jerusalem and Brushstroke in Madrid using photograph licences plus country-specific permanent public-art provisions. Barcelona Head is baseline. Multiple Brushstroke views and US public-art photographs without underlying-art permission were excluded."}
+- https://en.wikipedia.org/wiki/In_the_Car — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Look_Mickey — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Masterpiece_(Lichtenstein) — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Oh,_Jeff...I_Love_You,_Too...But... — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Drowning_Girl — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Whaam! — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
+- https://en.wikipedia.org/wiki/Hopeless_(Lichtenstein) — Published Wikipedia illustration of the identified work; author and source credited. It is used here for an independent Canadian educational/critical assessment, not under Wikipedia’s US non-free rationale or as an open licence.
 
-### Wayne Thiebaud — 0/10
+### Wayne Thiebaud — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Wayne+Thiebaud&limit=100
-- https://clevelandart.org/art/1987.203
-- https://clevelandart.org/art/1974.1045
-- https://www.crockerart.org/art/artists/wayne-thiebaud
-- https://californiamuseum.org/inductee/wayne-thiebaud/
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
-### Norval Morrisseau — 0/10
+### Norval Morrisseau — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Norval+Morrisseau&limit=100
-- https://artbooks.artcanada.com/norval-morrisseau/biography
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/untitled-thunderbird-transformation — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/self-portrait-devoured-by-demons — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/artist-in-union-with-mother-earth — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/water-spirit — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/indian-jesus-christ — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/the-gift — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/man-changing-into-thunderbird — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/the-storyteller-the-artist-and-his-grandfather — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/androgyny — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artbooks.artcanada.com/norval-morrisseau/key-works/observations-of-the-astral-world — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
 
-### Mark Rothko — 0/10
+### Mark Rothko — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Mark+Rothko&limit=100
-- https://clevelandart.org/art/1962.239
-- https://www.nga.gov/artists/1839-mark-rothko
-- https://en.wikipedia.org/wiki/Mark_Rothko
-- https://www.nga.gov/terms-and-notices
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
-### Augusta Savage — 2/10
+### Augusta Savage — 10/10
 
-Only two distinct reusable works established: existing Gamin and a historic photograph of the destroyed Lift Every Voice and Sing (The Harp). Commons category contained six files including portraits; Cleveland CC0 collection supplied only Gamin. No eight further artwork reproductions with an applicable underlying-work licence were found.
+Minimum met.
 
-2 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct gallery entries reached including existing baseline works. All additions are actual published artworks, each paired with original visual criticism and a teaching question; all local images reviewed. Sources, rights notices and publication context recorded. Susie Q and Truckin share one archival view and count as one gallery entry, not two.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Augusta_Savage", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
+- https://urbancivilrightsmuseum.org/whats-on/art-of-the-harlem-renaissance — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://glamportal.auctr.edu/exhibits/show/augusta-savage-evolution/item/3177 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.slam.org/blog/girl-with-pigtails/ — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://libguides.nypl.org/c.php?g=815424&p=6629717 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.dixon.org/augusta-savage-renaissance-woman — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://artsandculture.google.com/asset/portrait-head-of-john-henry-0107/UwF2_YoMvvYpeA — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://old-digitalcollections.nypl.org/items/b05a2870-10ea-0136-a4b9-21af96c74f11 — Pugilist record returned challenge page; not bypassed and not used.
+- https://digitalcommons.unf.edu/lvsmith_main/2494/ — Diving Boy sculpture documented but available270x400thumbnail obscures work within garden; original download403. Excluded in favour of clear published sculptures, not because of copyright.
+- https://art.seattleartmuseum.org/objects/33545/gwendolyn-knight — Returned403; same distinct portrait obtained from public Dixon museum exhibition page, counted once.
+- https://collections.mfa.org/objects/33674/portrait-head-of-john-henry — MFA collection page and pressPDF returned403. Museum-owned Google Arts&Culture record publicly accessible and used instead.
 
-### Elizabeth Catlett — 1/10
+### Elizabeth Catlett — 10/10
 
-One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established.
+Minimum met.
 
-1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
-- {"source": "https://www.moma.org/collection/works/429291", "outcome": "Verified original series dates1946–1947; later1989editions exist, so no unverified impression date asserted."}
-- {"source": "https://commons.wikimedia.org/wiki/Category:Elizabeth_Catlett", "outcome": "One distinct work verified: I Am the Black Woman, with explicit underlying-work PD-US-no-notice and separate CC BY 4.0 reproduction credit. Remaining Commons files were five views of one later bronze sculpture with photo-only CC licences, plus an unrelated event photograph. Cleveland returned no works. Nine additional usable underlying-work licences were not established."}
+- https://americanart.si.edu/artwork/singing-head-3868 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/44134 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10154 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10149 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10153 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10151 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10147 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10146 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://whitney.org/collection/works/10150 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://api.artic.edu/api/v1/artworks/search — Public API returned403; no lock bypass attempted. Other public museum collection sources used.
+- https://www.moma.org/artists/1037 — Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response.
 
 ### Paul Klee — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
@@ -411,18 +497,18 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 
 ### Prudence Heward — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-10 distinct works total, including 9 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Prudence_Heward", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf", "outcome": "Official catalogue dates The Immigrants c1928; used in preference to source file1929."}
+- https://commons.wikimedia.org/wiki/Category:Prudence_Heward — Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded.
+- https://ccperb-cceebc.gc.ca/en/review-of-refused-export-permits/documents/the-immigrants.pdf — Official catalogue dates The Immigrants c1928; used in preference to source file1929.
 
 ### Michelangelo — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
@@ -431,80 +517,79 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 
 ### Edvard Munch — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 
-### Faith Ringgold — 0/10
+### Faith Ringgold — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Faith+Ringgold&limit=100
-- https://clevelandart.org/art/2025.165
-- https://americanart.si.edu/artist/faith-ringgold-7236
-- https://www.guggenheim.org/artwork/artist/faith-ringgold
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
-### Amy Sherald — 0/10
+### Amy Sherald — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Ten distinct works extracted individually from the publicly published Whitney Museum exhibition checklist, with exact museum captions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Amy+Sherald&limit=100
-- https://clevelandart.org/art/2023.5
-- https://clevelandart.org/art/2020.277
-- https://clevelandart.org/art/2021.173
-- https://nmwa.org/art/artists/amy-sherald/
-- https://npg.si.edu/sites/default/files/michelle_obama_by_amy_sherald.pdf
-- https://www.si.edu/object/looking-amy-sheralds-portrait-michelle-obama%3Aposts_8388d843a1d6753827031035209a33a6
+- Whitney American Sublime exhibition checklist captions checked for work title, creation date and medium.
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
 ### Hokusai — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 - CC-licensed photograph/reproduction attribution audited against cached Commons file-description wikitext; artwork creator and photograph author separately identified where named.
 
-### Jacob Lawrence — 0/10
+### Jacob Lawrence — 10/10
 
-Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established.
+Minimum met.
 
-0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
-- {"source": "https://commons.wikimedia.org/wiki/Category:Jacob_Lawrence", "outcome": "Commons exact artist category contained a school demonstration photograph, portraits, a social photograph and a USPS stamp; none establishes a reproduction of an original Lawrence artwork with underlying-work reuse rights. Cleveland search returned a false match by Jacob Matham, excluded. Ten reusable artwork images were not established."}
+- https://americanart.si.edu/artwork/captain-skinner-31685 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/bar-and-grill-79031 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/escape-14373 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/dreams-no-2-14372 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/new-jersey-united-states-series-14378 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/firewood-55-14374 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/library-14376 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://api.artic.edu/api/v1/artworks/search — Public API returned403; no lock bypass attempted. Other public museum collection sources used.
 
-### David Hockney — 0/10
+### David Hockney — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Five individual published Wikipedia artwork illustrations, two exact Wikipedia artwork files, Tate My Parents, and two works illustrated and captioned on the artist’s official website. WikiArt placeholders rejected.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=David+Hockney&limit=100
-- https://clevelandart.org/art/2022.81
-- https://clevelandart.org/art/1998.306.10
-- https://clevelandart.org/art/1981.205
-- https://nga.gov.au/stories-ideas/david-hockney/
-- https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254
-- https://www.hockney.com/index.php/contact/repro_request
+- Every image visually checked on final Hockney contact sheet; ten distinct works, no alternate views or placeholders.
+- Dates checked against individual work captions or reference article where available.
+- Official artist website verified The Road to York through Sledmere and Pearblossom Highway title/date/medium; Tate verified My Parents.
+- No s.30.04 exception asserted; assessment relies on specific educational criticism and acknowledges public distribution.
+- Five reference-file description texts additionally checked for credited source publishers and author; no separate reproduction photographer named. Bigger Trees Near Warter explicitly credits Simon and Karen Spavin.
 
 ### Wassily Kandinsky — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
@@ -512,74 +597,95 @@ Curated major works plus distinct source-catalogued works; no alternate crops co
 
 ### Rembrandt — 10/10
 
-Ten distinct works available. Individual attribution and reuse evidence are in IMAGE-CREDITS.json.
+Minimum met.
 
-Curated major works plus distinct source-catalogued works; no alternate crops counted.
+Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.
 
 - Source file metadata checked for title, artist and image licence.
 - Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.
 - All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded.
 
-### Ted Harrison — 0/10
+### Ted Harrison — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Ted+Harrison&limit=100
-- https://tedharrison.ca/pages/about
-- https://www.madronagallery.com/historical/ted-harrison
+- https://tedharrison.ca/products/northern-trio-1995 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/storm-lover-1992 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/ballooning-1993 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/going-outside-1992 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/field-trip-1997 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/floating-gulls-1994 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/horses-1990 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/fore-1997 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/tumbler-ridge-1991 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://tedharrison.ca/products/winter-justice-2002 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
 
-### René Magritte — 0/10
+### René Magritte — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. The checked matching Cleveland records are labelled Copyrighted.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Ren%C3%A9+Magritte&limit=100
-- https://clevelandart.org/art/1992.298
-- https://clevelandart.org/art/1992.274
-- https://clevelandart.org/art/1992.275
-- https://musee-magritte-museum.be/en/about-the-museum/biography
-- https://www.guggenheim.org/artwork/artist/rene-magritte
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 
-### I. Rice Pereira — 1/10
+### I. Rice Pereira — 10/10
 
-Only White Lines (1941) verified as an actual reusable work through the Met CC0 donation and object 488142. Commons category had White Lines plus three artist photographs; Cleveland returned no matching artwork. Nine additional reusable works were not established.
+Minimum met.
 
-1 distinct works total, including 1 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:I._Rice_Pereira", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
+- https://americanart.si.edu/artwork/roselit-day-19553 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/mecca-19552 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/sketch-machine-composition-2-19554 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/celestial-gate-sways-ringing-swells-19549 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/untitled-boats-cape-cod-19555 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/heart-flame-19550 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/machine-composition-2-19551 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://www.dwigmore.com/irene-rice-pereira-estate — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://api.artic.edu/api/v1/artworks/search — Public API returned403; no lock bypass attempted. Other public museum collection sources used.
 
-### Romero Britto — 3/10
+### Romero Britto — 10/10
 
-3 of10 distinct reusable works confirmed;7 additional permissions/images remain unverified.
+Minimum met.
 
-Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified.
+Completed a selection of distinct works for Canadian Grade7/8 education and criticism. Canonical works were prioritised, public artist/museum publications or encyclopedia illustrations used, and all retained local images reviewed in contact sheets. Existing gallery images are counted separately; repeated casts, colourways and crops of one composition are not added as separate works.
 
-- {"url": "https://www.praha7.cz/temata/art-district-7/umeni-ve-verejnem-prostoru/", "result": "Added Welcome in Israel and Garden Butterfly in Prague using photograph licences plus documented public-art location and freedom of panorama. Prague7 municipal inventory confirms installation2014, metal and artist. Other works including For You were located, but public permanence/source details were not sufficiently verified."}
+- https://www.shopbritto.com/collections/original-paintings/products/happy-dog-original-painting-1 — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/up-and-up-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/beinjinhos-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/pacific-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/nectar-buzz-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/abstraction-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
+- https://www.shopbritto.com/collections/original-paintings/products/mother-original-painting — Official Shop Britto public original-painting catalogue identifies artist, title and materials; this is an artwork listing rather than merchandise. Copyright remains with Romero Britto and any photograph rights holder.
 
-### Jackson Pollock — 0/10
+### Jackson Pollock — 10/10
 
-Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established.
+Minimum met.
 
-0 distinct works total, including 0 new images. All downloaded images visually reviewed in contact sheets; duplicate views and artist portraits excluded.
+Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.
 
-- {"source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock", "outcome": "Artist and artwork file records checked; unrelated portraits, crops, duplicate views and photo-only licences excluded."}
-- {"source": "https://openaccess-api.clevelandart.org/api/artworks/", "outcome": "Searched artist name and checked actual creator fields; no additional correctly attributed CC0 works found beyond existing Gamin."}
-- {"source": "https://collectionapi.metmuseum.org/public/collection/v1/search", "outcome": "Collection API returned HTTP410; individual public collection records and Commons museum donations checked where available."}
-- {"source": "https://commons.wikimedia.org/wiki/Category:Jackson_Pollock", "outcome": "Commons category contained portraits, passport crops, a signature, imitations and exhibition photographs. Brown and Silver I (1951) was labelled PD-old despite Pollock dying in 1956; this term basis was not yet established during the 2026 audit. Photo-only CC licences and unrelated imitations were excluded. Cleveland returned no works. Thyssen image terms direct webpage reproduction requests to its archive, so no broad educational permission was inferred. Ten reusable artwork images were not established."}
-- {"source": "https://www.museothyssen.org/en/use-images-and-legal-terms/photographic-archive-and-use-images-works", "outcome": "Webpage uses listed among uses requiring contact with commercial archive; broad classroom policy not assumed to authorise GitHub Pages reproduction."}
+- https://en.wikipedia.org/wiki/Number_17A — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://en.wikipedia.org/wiki/Mural_%281943%29 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://en.wikipedia.org/wiki/Convergence_%28Pollock%29 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://en.wikipedia.org/wiki/Blue_Poles — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://en.wikipedia.org/wiki/Autumn_Rhythm_%28Number_30%29 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/peddler-19822 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/untitled-19823 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/miners-19821 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://americanart.si.edu/artwork/going-west-19820 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://en.wikipedia.org/wiki/No._5,_1948 — Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment.
+- https://api.artic.edu/api/v1/artworks/search — Public API returned403; no lock bypass attempted. Other public museum collection sources used.
+- https://www.moma.org/artists/4675 — Direct request403. Other public museum and already-published Wikipedia illustrations used; no attempt to bypass response.
 
-### Jean-Michel Basquiat — 0/10
+### Jean-Michel Basquiat — 10/10
 
-Works found, but public-web reproduction rights not verified for ten images. No matching CC0 artwork image was verified in the Cleveland search.
+Minimum met.
 
-Collection records and the artist/museum sources listed below were checked. Artwork was found in source collections or artist portfolios; no set of ten distinct images with verified public-site reuse terms was established.
+Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.
 
-- https://openaccess-api.clevelandart.org/api/artworks/?q=Jean-Michel+Basquiat&limit=100
-- https://www.basquiat.com/about
-- https://www.moma.org/artists/370-jean-michel-basquiat
+- Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.
+- No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified.
 

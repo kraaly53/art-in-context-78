@@ -10,7 +10,7 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 ## What students can explore
 
 - 51 artist profiles with media/materials, lifespans and places, 153 career timeline moments, 103 significant-work studies, interesting facts, and separate social and art-historical impact sections.
-- 42 portraits and 228 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. Twenty-one artists have ten works each; nine have partial galleries and 21 have no cleared artwork image. See the exact [coverage report](ARTWORK-COVERAGE.md).
+- 42 portraits and 515 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 51 of 51 artists meet the ten-work target. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
 - A chronological overview, side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
 - Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.
@@ -48,7 +48,7 @@ For school hosting, upload the contents of `dist` together, preserving relative 
 
 Use stable artist IDs. Review source evidence when changing a historical claim. The impact paragraphs are clearly identified as educational synthesis; do not present an interpretation as a documented fact. Preserve uncertainty where a birth date, campaign year, or work date is disputed.
 
-Image changes must include a verified reuse basis, accurate title/date, useful alt text, and matching credits. A licensed photograph does not automatically grant rights to the art it depicts. Update coverage counts and tests when adding cleared images. Do not insert unlicensed screenshots or relabel a substitute as an artist’s own work.
+Image changes must include an accurate work identity/date, useful alt text, attribution and a documented use basis. Open licences, public-domain records and Canadian fair-dealing assessments are distinguished; a photo licence or US public-domain designation does not automatically clear the underlying artwork in Canada. Copyrighted study images need their own substantive visual commentary and assessment, including public distribution and market considerations. See EDUCATIONAL-USE.md. Never relabel an unrelated substitute as the artist’s work.
 
 ## Teacher and maintainer documents
 
@@ -57,6 +57,7 @@ Image changes must include a verified reuse basis, accurate title/date, useful a
 - [SOURCES-AND-TEACHING-NOTES.md](SOURCES-AND-TEACHING-NOTES.md): primary-source map, dates, editorial decisions, and lesson framing.
 - [IMAGE-CREDITS.md](IMAGE-CREDITS.md) / [IMAGE-CREDITS.json](IMAGE-CREDITS.json): licences, attribution, and modifications.
 - [ARTWORK-COVERAGE.md](ARTWORK-COVERAGE.md) / [ARTWORK-COVERAGE.json](ARTWORK-COVERAGE.json): exact per-artist counts, source checks, and shortfalls.
+- [EDUCATIONAL-USE.md](EDUCATIONAL-USE.md): Canadian classroom purpose, fair-dealing framework, public-hosting limits, and reuse distinctions.
 - [IMAGE-PERMISSIONS.md](IMAGE-PERMISSIONS.md): the exact image gaps and completion process.
 - [TEST-REPORT.md](TEST-REPORT.md): completed checks and practical limits.
 
