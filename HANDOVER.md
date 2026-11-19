@@ -115,3 +115,11 @@ Playback starts only on request, can be paused, stops at the period boundary and
 The map has a second synchronized year slider and compact player next to the chart so students can control time while viewing the faces. Selecting an artist or keyboard-focusing a milestone pauses playback for reading. Quick-year buttons move the chart into view; switching to an older period chooses an appropriate anchor year when necessary.
 
 Teacher revision, 19 November 2026: the requested whole-artist and three individual-work exclusions are removed from every student view, the challenge bank and current image files. Stable artist IDs are retained; ID 15 is no longer included. Historical audit entries document removals outside the student site.
+
+## Everyone-at-a-glance timeline overview
+
+The default Timeline mode fits all 50 retained artists into the available viewport. Cards are ordered by creative-period start, have readable names and the existing reviewed portrait/initial, and show a miniature career band on the shared period scale. Green frames identify periods overlapping the selected year. Year playback updates the highlighting and mini year markers. Selecting Everyone at a glance resets the period and active-only filters so the full group is visible.
+
+The overview uses available-height grid sizing rather than a paginated list. A ResizeObserver recalculates rows, portrait size and text size when the viewport changes. On phones, minimal year controls leave room for the whole group; full period/artist controls remain in Detailed timeline. Hover or focus updates the desktop story pane. A phone tap opens an accessible native dialog with the larger portrait, all three career moments, the approved featured work and its information. Close, Escape or Back to the map returns to the overview.
+
+Focus view hides the main header to make more space; Exit focus view or Escape restores it. Detailed timeline restores the larger scrolling career map, zoom, period filters, artist finder and grouped milestone dots. Leaving the Timeline removes viewport/body styling, disconnects the resize observer, cancels pending resize frames and playback, and closes an open story dialog. No new media, network requests or student storage are introduced.

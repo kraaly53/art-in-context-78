@@ -46,3 +46,10 @@ const html=fs.readFileSync(dist+'index.html','utf8');for(const file of ['activit
 console.log('PASS: 50 sourced creative periods, inclusive year boundaries, honest career limits, nonoverlapping lanes at three zoom levels, all 150 moments preserved, local-only assets, and controlled playback.');
 
 assert(!activity.some(p=>p.id==='15'));
+
+// Full-group overview keeps one card per retained artist at desktop and phone dimensions.
+for(const [width,height] of [[934,390],[349,450],[760,500],[1200,650]]){
+ for(const count of [0,3,19,50]){const g=timeline.fitGrid(count,width,height);assert(g.columns*g.rows>=count);assert(g.rows>=1&&g.columns>=1);assert(g.portraitSize>=10&&g.portraitSize<=38);assert(g.fontSize>=8&&g.fontSize<=12)}
+}
+assert(code.includes('Everyone at a glance'));assert(code.includes('resizeObserver.observe'));assert(code.includes('resizeObserver?.disconnect()'));
+console.log('PASS: overview has capacity for all 50 artists across tested screen sizes, with resize cleanup and an optional detailed view.');

@@ -86,3 +86,9 @@ Final controls check: the year sliders above and beside the map stay synchronize
 Current collection: 50 artists, 150 career moments, 502 artworks and 42 portraits (544 approved image files). Removed the entire Dorothea Lange record, activity range, thematic references and challenge entry, plus the three named individual works. Thirteen media files were deleted; the approval audit retains removal fingerprints separately. Deployment tests explicitly reject the removed artist/works in student-facing text/data, invalid game artist references and removed media files. Three named galleries have an intentional minimum of nine; the other 47 retain ten or more. Historical counts above describe earlier editions.
 
 Browser checks: searching for the excluded artist yields no results; timeline and comparison selectors contain 50 artists and no excluded entry. The three affected profiles each show nine retained works, with the requested titles absent.
+
+## Timeline overview — 19 November 2026
+
+All existing 50-artist, 150-milestone, school-content, teacher-removal, image-fingerprint and local-only checks pass. New grid-capacity checks cover 0, 3, 19 and 50 cards at desktop, tablet and phone map dimensions.
+
+Browser geometry checks at 1280×720 and 390×844 confirm all 50 artist-card buttons lie within the visible timeline region, the page height equals the viewport height and the overview map has no extra scroll height/width. Card names remain inside their buttons. Focus view enlarges available space; Escape restores the header. Phone taps open the correct Frida story dialog, and Close removes it. Switching to Detailed timeline restores the scrolling 50-career chart; returning to the overview restores all cards. Keyboard focus selects the matching story. Playback changes the year markers and active-card highlights while retaining all 50 visible cards. Explore artist restores the regular profile layout and footer. No browser console errors were recorded.

@@ -77,3 +77,5 @@ Profile artwork galleries run earliest to latest, using the start of date ranges
 School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.
 
 Teacher revision, 19 November 2026: the requested whole-artist and three individual-work exclusions are removed from every student view, the challenge bank and current image files. Stable artist IDs are retained; ID 15 is no longer included. Historical audit entries document removals outside the student site.
+
+The Timeline now opens in **Everyone at a glance**: all 50 named portrait/initial cards fit in one screen, with mini career bands and green highlighting for the selected year. Hover or keyboard focus shows the artist’s larger portrait and story; a tap opens a story dialog on phones. **Focus view** adds room, and **Detailed timeline** retains the larger scrolling career map and all milestone dots.
