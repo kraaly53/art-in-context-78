@@ -13,12 +13,6 @@ jobs:
     - name: Get latest code
       uses: actions/checkout@v4
       
-    - name: Stamp script versions
-      # Give js/*.js a new URL on every deploy so phones never run stale code.
-      run: |
-        V="${GITHUB_SHA::7}"
-        sed -i -E "s#(src=\"js/[A-Za-z0-9_-]+\.js)\"#\1?v=$V\"#g" index.html
-        grep -n 'src="js/' index.html
 
     - name: Sync files to server
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
