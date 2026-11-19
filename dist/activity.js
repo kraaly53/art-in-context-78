@@ -208,22 +208,6 @@ window.ARTIST_ACTIVITY = [
     "reviewedAt": "2026-11-18"
   },
   {
-    "id": "15",
-    "name": "Dorothea Lange",
-    "start": 1913,
-    "end": 1965,
-    "ongoing": false,
-    "label": "c. 1913–1965",
-    "basis": "The International Center of Photography identifies 1913 as her decision to become a professional photographer. The Oakland Museum’s archive runs through 1965; the end includes preparation of her retrospective as well as photographic practice.",
-    "sources": [
-      "https://www.icp.org/browse/archive/constituents/dorothea-lange",
-      "https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fft3f59n5wt",
-      "https://dorothealange.museumca.org/about/"
-    ],
-    "scope": "Approximate documented career activity",
-    "reviewedAt": "2026-11-18"
-  },
-  {
     "id": "16",
     "name": "Piet Mondrian",
     "start": 1892,

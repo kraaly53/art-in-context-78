@@ -266,25 +266,6 @@ Work studies:
 - Big Raven — 1931 — Oil on canvas
 - Scorned as Timber, Beloved of the Sky — 1935 — Oil on canvas
 
-## 15 — Dorothea Lange
-
-Dates: 1895–1965
-Media: Photography
-
-References:
-- https://dorothealange.museumca.org/about/
-- https://www.moma.org/artists/3373-dorothea-lange
-- https://en.wikipedia.org/wiki/Dorothea_Lange
-
-Career moments:
-- 1933: Makes White Angel Breadline during the Depression.
-- 1935: Begins federal documentary work in the mid-1930s.
-- 1936: Photographs the family in Migrant Mother.
-
-Work studies:
-- Migrant Mother — 1936 — Black-and-white photograph
-- White Angel Breadline — 1933 — Black-and-white photograph
-
 ## 16 — Piet Mondrian
 
 Dates: 1872–1944
@@ -991,4 +972,4 @@ The Whitney’s 2025 exhibition dates Miss Everything (Unsuppressed Deliverance)
 
 ## Timeline creative-period evidence
 
-See TIMELINE-SOURCES.md and dist/activity.js for the 51 source-based activity ranges used in the Art Time Machine. The view distinguishes approximate creative periods from lifespan and flags narrower documented spans. Its moving faces mark the selected year within a period. An overlap alone does not demonstrate an encounter or artistic influence.
+See TIMELINE-SOURCES.md and dist/activity.js for the 50 source-based activity ranges used in the Art Time Machine. The view distinguishes approximate creative periods from lifespan and flags narrower documented spans. Its moving faces mark the selected year within a period. An overlap alone does not demonstrate an encounter or artistic influence.

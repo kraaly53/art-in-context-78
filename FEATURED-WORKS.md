@@ -18,7 +18,6 @@ Featured images are explicit selections independent of chronological gallery ord
 | Robert Indiana | LOVE | iconic |
 | George Rodrigue | Watchdog | iconic |
 | Emily Carr | Church at Yuquot Village (formerly The Indian Church) | iconic |
-| Dorothea Lange | Migrant Mother | iconic |
 | Piet Mondrian | Composition II in Red, Blue, and Yellow | representative |
 | Yayoi Kusama | Pumpkin (Naoshima) | iconic |
 | Frederic Remington | The Broncho Buster | iconic |
@@ -111,10 +110,6 @@ Sources: https://ogdenmuseum.org/exhibition/the-first-blue-dog/ · https://georg
 ## Emily Carr: Church at Yuquot Village (formerly The Indian Church)
 The AGO identifies this 1929 church painting as an iconic Carr image, and it is a longstanding collection highlight. Its strong institutional recognition supports choosing it over the previously convenient logging or forest images.
 Sources: https://ago.ca/agoinsider/art-toronto-ago-collection
-
-## Dorothea Lange: Migrant Mother
-Lange’s defining Depression-era image is identified by the Library of Congress as one of her best-known photographs and a symbol of the Depression. The existing image is the recognizable close portrait, not another view from the sitting.
-Sources: https://www.loc.gov/loc/lcib/9808/fsa-osi.html · https://www.metmuseum.org/art/collection/search/283316
 
 ## Piet Mondrian: Composition II in Red, Blue, and Yellow
 Choose the recognisable 1930 Kunsthaus Zürich composition with the large red field, not a generic Mondrian-style grid or another similarly titled painting. This is a canonical signature image, but primary evidence does not establish a unique most-famous work ahead of Broadway Boogie Woogie; that ambiguity should remain transparent.

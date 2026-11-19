@@ -1,6 +1,6 @@
 # Art in Context — The Art & Ideas Lab
 
-A separate Grade 7–8 website exploring the same 51 artists in the supplied classroom bulletin-board photos. It develops art-history context, visual analysis, media knowledge, and creative thinking rather than adapting the younger-student interface.
+A separate Grade 7–8 website exploring 50 selected artists in the supplied classroom bulletin-board photos. It develops art-history context, visual analysis, media knowledge, and creative thinking rather than adapting the younger-student interface.
 
 **Live site:** https://kraaly53.github.io/art-in-context-78/
 **Repository:** https://github.com/kraaly53/art-in-context-78
@@ -9,13 +9,13 @@ The earlier [Little Artist Explorers](https://kraaly53.github.io/little-artist-e
 
 ## What students can explore
 
-- 51 artist profiles with media/materials, lifespans and places, 153 career timeline moments, 103 significant-work studies, interesting facts, and separate social and art-historical impact sections.
-- 42 portraits and 515 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 51 of 51 artists meet the ten-work target. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
+- 50 artist profiles with media/materials, lifespans and places, 150 career timeline moments, 101 significant-work studies, interesting facts, and separate social and art-historical impact sections.
+- 42 portraits and 502 distinct artwork images, with prominent galleries, titles/dates, and a keyboard-accessible larger-image viewer. 47 of 50 artists meet the original ten-work target; three galleries intentionally have nine after teacher-requested removals. New copyrighted images have original visual-analysis prompts and documented Canadian educational fair-dealing assessments. See the exact [coverage report](ARTWORK-COVERAGE.md).
 - Every artist has a pinned classroom-appropriate featured artwork, shared by the index card, profile and comparison view. [Selection evidence](FEATURED-WORKS.md) distinguishes iconic works from representative choices where no single most-famous work is established.
 - Every artwork has a piece-specific **About this artwork** section in its gallery card, featured panel and enlarged viewer, with local read-aloud support.
-- Available artist portraits are larger, uncropped and open in a dedicated portrait viewer. Nine artists without a verified portrait retain their initials/anonymous symbol.
+- Available artist portraits are larger, uncropped and open in a dedicated portrait viewer. Eight artists without a verified portrait retain their initials/anonymous symbol.
 - Search by artist, medium, movement, place, or work title; filter by medium and thematic perspective.
-- A horizontal **Art Time Machine** with portrait markers that move along sourced career bands, hover/tap/focus story cards, grouped milestones, year playback, period shortcuts, zoom, an artist finder and a live list of overlapping careers. All 153 career moments are preserved. See [timeline date evidence](TIMELINE-SOURCES.md).
+- A horizontal **Art Time Machine** with portrait markers that move along sourced career bands, hover/tap/focus story cards, grouped milestones, year playback, period shortcuts, zoom, an artist finder and a live list of overlapping careers. All 150 career moments are preserved. See [timeline date evidence](TIMELINE-SOURCES.md).
 - Side-by-side artist comparisons, clickable medium explanations, and a timeline-order game.
 - Creative briefs with constraints and context-based quizzes, with discussion prompts supported by visual evidence and historical context.
 - Device-local English read-aloud. No microphone permission is used.
@@ -47,7 +47,7 @@ For school hosting, upload the contents of `dist` together, preserving relative 
 
 - `dist/artists.js` contains `window.ARTISTS`: biographies, media, timelines, work studies, impact paragraphs, quizzes, image galleries, and source addresses.
 - `dist/app.js` implements navigation, filtering, comparison, game, creative briefs, glossary explanations, and speech.
-- `dist/activity.js` holds the 51 sourced approximate career periods; `dist/timeline.js` renders the horizontal timeline, animated year markers and layered details.
+- `dist/activity.js` holds the 50 sourced approximate career periods; `dist/timeline.js` renders the horizontal timeline, animated year markers and layered details.
 - `dist/styles.css` and `dist/index.html` define the layout, shell, content policy, and teacher desk.
 - `dist/assets` holds local images. The teacher desk’s credit list is generated from the data.
 
@@ -75,3 +75,5 @@ Original code is provided under MIT; original educational text is offered under 
 Profile artwork galleries run earliest to latest, using the start of date ranges. Unverified artwork dates appear last. The independently selected featured artwork stays at the top of the profile; enlarged gallery navigation follows date order.
 
 School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.
+
+Teacher revision, 19 November 2026: the requested whole-artist and three individual-work exclusions are removed from every student view, the challenge bank and current image files. Stable artist IDs are retained; ID 15 is no longer included. Historical audit entries document removals outside the student site.

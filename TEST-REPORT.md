@@ -80,3 +80,9 @@ Desktop browser checks: a Frida marker moved from 1930 to 1945 during requested 
 At 390×844 the document has no horizontal overflow; only the career-map region scrolls horizontally. Tapping an artist brings the matching story card into view. Reduced-motion CSS suppresses marker transitions. Browser checks verify interaction and layout, while date boundaries remain approximate editorial interpretations documented in TIMELINE-SOURCES.md.
 
 Final controls check: the year sliders above and beside the map stay synchronized; either player button updates both Play/Pause states. The compact map player advanced from 1931 to 1964 and paused correctly. Mobile Back to the map returns to the chart, and range-keyboard changes update both year readouts without page overflow.
+
+## Teacher removals — 19 November 2026
+
+Current collection: 50 artists, 150 career moments, 502 artworks and 42 portraits (544 approved image files). Removed the entire Dorothea Lange record, activity range, thematic references and challenge entry, plus the three named individual works. Thirteen media files were deleted; the approval audit retains removal fingerprints separately. Deployment tests explicitly reject the removed artist/works in student-facing text/data, invalid game artist references and removed media files. Three named galleries have an intentional minimum of nine; the other 47 retain ten or more. Historical counts above describe earlier editions.
+
+Browser checks: searching for the excluded artist yields no results; timeline and comparison selectors contain 50 artists and no excluded entry. The three affected profiles each show nine retained works, with the requested titles absent.

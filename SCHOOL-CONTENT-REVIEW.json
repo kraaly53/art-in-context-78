@@ -74,17 +74,6 @@
       "artistId": "01",
       "artist": "Jonathan Green",
       "kind": "artwork",
-      "title": "Peacan Empress",
-      "workKey": "01:peacanempress",
-      "path": "assets/education-american/01-peacan-empress.webp",
-      "sha256": "cb6627a0a62f1235c95fc1a21bae1523e7689603d96903e1bab16950f82d599e",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "01",
-      "artist": "Jonathan Green",
-      "kind": "artwork",
       "title": "Sharing Time",
       "workKey": "01:sharingtime",
       "path": "assets/education-american/01-sharing-time.webp",
@@ -573,17 +562,6 @@
       "workKey": "05:gamechanger",
       "path": "assets/education-modern/05-game-changer.webp",
       "sha256": "d6c81d06d933034e7ffcf650d7846ec5818e409199a1076c6d88c136722aa6b3",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "05",
-      "artist": "Banksy",
-      "kind": "artwork",
-      "title": "Kissing Coppers",
-      "workKey": "05:kissingcoppers",
-      "path": "assets/education-modern/05-kissing-coppers.webp",
-      "sha256": "766643765a9f5ea73368b67332344588ad65c136769419751643ee06a9793573",
       "decision": "approved",
       "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
     },
@@ -1688,116 +1666,6 @@
       "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
     },
     {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "White Angel Breadline, San Francisco",
-      "workKey": "15:whiteangelbreadlinesanfrancisco",
-      "path": "assets/gallery-american/15-white-angel-breadline-san-francisco.webp",
-      "sha256": "17eac6b1f4b2c06d0647a58385b3382089cdd6713bd18c718f3ed63cce9c5e84",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Dust Storm near Mills, New Mexico",
-      "workKey": "15:duststormnearmillsnewmexico",
-      "path": "assets/gallery-american/15-dust-storm-near-mills-new-mexico.webp",
-      "sha256": "14c9ab9d8858403112941f103f03b3e80514f0af74e6bc5dd4ea31f10e22e019",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Child in Shack Town",
-      "workKey": "15:childinshacktown",
-      "path": "assets/gallery-american/15-child-in-shack-town.webp",
-      "sha256": "8867bf923134d72cddeebd8d6e3f6acc6436192f48082f5e3a7a49150395e6ca",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Migrant Mother",
-      "workKey": "15:migrantmother",
-      "path": "assets/15-artwork.webp",
-      "sha256": "7052dd2b53b14d73e12eb7bd2c629ec79e9768ae634334aef274e9a52960655b",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Broke, Baby Sick, and Car Trouble!",
-      "workKey": "15:brokebabysickandcartrouble",
-      "path": "assets/gallery-american/15-broke-baby-sick-and-car-trouble.webp",
-      "sha256": "251929962de1cc79bbce65e9ce825c9b64ceb830b3eb3c79364f428acb57017b",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Toward Los Angeles, California",
-      "workKey": "15:school:toward-los-angeles-california",
-      "path": "assets/school-reviewed/15-toward-los-angeles-california.webp",
-      "sha256": "ae52d97cd6a1751f0ed700158766bf09a1af662a2cefcf041858f28501a649b1",
-      "decision": "approved",
-      "reason": "Visually inspected full composition: no nudity, violence, blood/wounds, explicit sexual imagery or drug/tobacco imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Abandoned Dust Bowl Home",
-      "workKey": "15:abandoneddustbowlhome",
-      "path": "assets/gallery-american/15-abandoned-dust-bowl-home.webp",
-      "sha256": "e1b22aa48cbbdee9dbe42b13f5a6b3d807b1f527525c0bc21979871d13785137",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Country Store on a Dirt Road, Gordonton, North Carolina",
-      "workKey": "15:countrystoreonadirtroadgordontonnorthcarolina",
-      "path": "assets/gallery-american/15-country-store-on-a-dirt-road-gordonton-north-carolina.webp",
-      "sha256": "ae40f85a2abc303063326f44e41aa813461188397a5a56511cf1848f4d833051",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Farmers with Cooperatively Purchased Machinery, Oregon",
-      "workKey": "15:farmerswithcooperativelypurchasedmachineryoregon",
-      "path": "assets/gallery-american/15-farmers-with-cooperatively-purchased-machinery-oregon.webp",
-      "sha256": "8787cee988bcc0e9223d625b5bc951f76c7ac80812dc10b677f01bf0959675e1",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
-      "artistId": "15",
-      "artist": "Dorothea Lange",
-      "kind": "artwork",
-      "title": "Migrant Children at an FSA Nursery School, Tulare County",
-      "workKey": "15:migrantchildrenatanfsanurseryschooltularecounty",
-      "path": "assets/gallery-american/15-migrant-children-at-an-fsa-nursery-school-tulare-county.webp",
-      "sha256": "31dff31f81765755232c9215b04154131ab124863b858b8f4e98a4a25b4856d4",
-      "decision": "approved",
-      "reason": "Visually inspected: no nudity, violence, blood/wounds, or explicit sexual/drug imagery."
-    },
-    {
       "artistId": "16",
       "artist": "Piet Mondrian",
       "kind": "portrait",
@@ -2621,17 +2489,6 @@
       "sha256": "f4e79fdb5cc4be5bd7acebdf91808c30bf77398da9ff004df3454fbad1871a80",
       "decision": "approved",
       "reason": "No nudity, violence, injury, weapons, sexual or drug imagery visible in this exact image."
-    },
-    {
-      "artistId": "22",
-      "artist": "Pablo Picasso",
-      "kind": "artwork",
-      "title": "Saltimbanque at Rest",
-      "workKey": "22:saltimbanqueatrest",
-      "path": "assets/gallery-modern/22-111394.webp",
-      "sha256": "a9566457f0191149e635ef3e1bdb58eacbacf83afb1063d3b201d89faf4aaa5c",
-      "decision": "approved",
-      "reason": "Visually reviewed actual local reproduction: no nudity, violence, wounds, sexual or drug imagery visible."
     },
     {
       "artistId": "22",
@@ -7236,6 +7093,151 @@
       "reason": "Skeletal torso/rib cage and exposed teeth; conservative disturbing-imagery exclusion.",
       "reviewMethod": "Actual local image inspected in labelled per-artist contact sheet; ambiguous images also opened individually.",
       "sha256": "4124274f9b6386381abc79e4cceffee06d20ed21a79afddf71d371af13969006"
+    }
+  ],
+  "teacherRemoved": [
+    {
+      "artistId": "01",
+      "artist": "Jonathan Green",
+      "kind": "artwork",
+      "title": "Peacan Empress",
+      "workKey": "01:peacanempress",
+      "path": "assets/education-american/01-peacan-empress.webp",
+      "sha256": "cb6627a0a62f1235c95fc1a21bae1523e7689603d96903e1bab16950f82d599e",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "05",
+      "artist": "Banksy",
+      "kind": "artwork",
+      "title": "Kissing Coppers",
+      "workKey": "05:kissingcoppers",
+      "path": "assets/education-modern/05-kissing-coppers.webp",
+      "sha256": "766643765a9f5ea73368b67332344588ad65c136769419751643ee06a9793573",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "White Angel Breadline, San Francisco",
+      "workKey": "15:whiteangelbreadlinesanfrancisco",
+      "path": "assets/gallery-american/15-white-angel-breadline-san-francisco.webp",
+      "sha256": "17eac6b1f4b2c06d0647a58385b3382089cdd6713bd18c718f3ed63cce9c5e84",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Dust Storm near Mills, New Mexico",
+      "workKey": "15:duststormnearmillsnewmexico",
+      "path": "assets/gallery-american/15-dust-storm-near-mills-new-mexico.webp",
+      "sha256": "14c9ab9d8858403112941f103f03b3e80514f0af74e6bc5dd4ea31f10e22e019",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Child in Shack Town",
+      "workKey": "15:childinshacktown",
+      "path": "assets/gallery-american/15-child-in-shack-town.webp",
+      "sha256": "8867bf923134d72cddeebd8d6e3f6acc6436192f48082f5e3a7a49150395e6ca",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Migrant Mother",
+      "workKey": "15:migrantmother",
+      "path": "assets/15-artwork.webp",
+      "sha256": "7052dd2b53b14d73e12eb7bd2c629ec79e9768ae634334aef274e9a52960655b",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Broke, Baby Sick, and Car Trouble!",
+      "workKey": "15:brokebabysickandcartrouble",
+      "path": "assets/gallery-american/15-broke-baby-sick-and-car-trouble.webp",
+      "sha256": "251929962de1cc79bbce65e9ce825c9b64ceb830b3eb3c79364f428acb57017b",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Toward Los Angeles, California",
+      "workKey": "15:school:toward-los-angeles-california",
+      "path": "assets/school-reviewed/15-toward-los-angeles-california.webp",
+      "sha256": "ae52d97cd6a1751f0ed700158766bf09a1af662a2cefcf041858f28501a649b1",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Abandoned Dust Bowl Home",
+      "workKey": "15:abandoneddustbowlhome",
+      "path": "assets/gallery-american/15-abandoned-dust-bowl-home.webp",
+      "sha256": "e1b22aa48cbbdee9dbe42b13f5a6b3d807b1f527525c0bc21979871d13785137",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Country Store on a Dirt Road, Gordonton, North Carolina",
+      "workKey": "15:countrystoreonadirtroadgordontonnorthcarolina",
+      "path": "assets/gallery-american/15-country-store-on-a-dirt-road-gordonton-north-carolina.webp",
+      "sha256": "ae40f85a2abc303063326f44e41aa813461188397a5a56511cf1848f4d833051",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Farmers with Cooperatively Purchased Machinery, Oregon",
+      "workKey": "15:farmerswithcooperativelypurchasedmachineryoregon",
+      "path": "assets/gallery-american/15-farmers-with-cooperatively-purchased-machinery-oregon.webp",
+      "sha256": "8787cee988bcc0e9223d625b5bc951f76c7ac80812dc10b677f01bf0959675e1",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "15",
+      "artist": "Dorothea Lange",
+      "kind": "artwork",
+      "title": "Migrant Children at an FSA Nursery School, Tulare County",
+      "workKey": "15:migrantchildrenatanfsanurseryschooltularecounty",
+      "path": "assets/gallery-american/15-migrant-children-at-an-fsa-nursery-school-tulare-county.webp",
+      "sha256": "31dff31f81765755232c9215b04154131ab124863b858b8f4e98a4a25b4856d4",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "22",
+      "artist": "Pablo Picasso",
+      "kind": "artwork",
+      "title": "Saltimbanque at Rest",
+      "workKey": "22:saltimbanqueatrest",
+      "path": "assets/gallery-modern/22-111394.webp",
+      "sha256": "a9566457f0191149e635ef3e1bdb58eacbacf83afb1063d3b201d89faf4aaa5c",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
     }
   ]
 }

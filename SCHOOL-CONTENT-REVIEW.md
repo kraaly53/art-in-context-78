@@ -1,6 +1,6 @@
 # School content review
 
-Reviewed 18 November 2026: all **566 original images** (524 artworks and 42 portraits), plus every replacement. **92 original images excluded; 83 approved replacement works added.** Current collection: **515 artworks and 42 portraits**. All 51 artists retain at least ten artworks.
+Reviewed 18 November 2026: all **566 original images** (524 artworks and 42 portraits), plus every replacement. **92 original images excluded; 83 approved replacement works added.** Current collection after the 19 November teacher revision: **502 artworks and 42 portraits across 50 artists**. Three selected galleries contain nine works; 47 contain at least ten.
 
 ## Applied selection rule
 
@@ -129,3 +129,7 @@ Non-graphic historical discussion may still address inequality, conflict and soc
 ## Future additions
 
 Visually inspect the entire image at its published resolution, including background figures and written text. Do not assume a classical, museum-held or educational artwork passes the rule. Add its exact filename, approval reason and SHA-256 to the review manifest; update credits, coverage and feature records; then run the tests. If suitability remains uncertain, leave the image out.
+
+## Teacher-requested exclusions — 19 November 2026
+
+The teacher additionally removed the entire Dorothea Lange profile and its ten images, plus Jonathan Green’s Peacan Empress, Banksy’s Kissing Coppers (requested as Kissing Cops) and Picasso’s Saltimbanque at Rest. These 13 files are removed from current publication and the current project archive. The JSON audit records these separately as `teacherRemoved`; their exclusion is a teacher selection decision rather than an inferred new content finding. No replacement works were added.

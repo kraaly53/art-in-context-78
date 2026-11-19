@@ -6,7 +6,7 @@ const dist=fileURLToPath(new URL('../dist/',import.meta.url));
 const context={window:{},document:{addEventListener(){}},};context.window.addEventListener=()=>{};
 for(const file of ['artists.js','activity.js','timeline.js'])vm.runInNewContext(fs.readFileSync(dist+file,'utf8'),context,{filename:file});
 const artists=context.window.ARTISTS,activity=context.window.ARTIST_ACTIVITY,timeline=context.window.ArtTimeline;
-assert.equal(activity.length,51);assert.equal(new Set(activity.map(a=>a.id)).size,51);
+assert.equal(activity.length,50);assert.equal(new Set(activity.map(a=>a.id)).size,50);
 for(const p of activity){
  const a=artists.find(a=>a.id===p.id);assert(a,`Unknown artist ${p.id}`);
  assert(Number.isInteger(p.start)&&Number.isInteger(p.end));assert(p.start>=1450&&p.start<=p.end&&p.end<=2026);
@@ -24,13 +24,13 @@ assert(!timeline.isActive(period('09'),1988));assert(!timeline.isActive(period('
 for(const id of ['03','04','37'])assert(timeline.isActive(period(id),1503));
 assert(timeline.isActive(period('45'),1650));assert(!timeline.isActive(period('22'),1650));
 for(const scale of [4,7,14]){
- const range=timeline.rangeFor('all'),layout=timeline.layoutRows(activity,range,scale);assert.equal(layout.length,51);
+ const range=timeline.rangeFor('all'),layout=timeline.layoutRows(activity,range,scale);assert.equal(layout.length,50);
  for(const p of layout){assert(p.startX<=p.endX);assert(p.row>=0);}
  for(const row of new Set(layout.map(p=>p.row))){const lane=layout.filter(p=>p.row===row).sort((a,b)=>a.startX-b.startX);for(let i=1;i<lane.length;i++)assert(lane[i].startX>lane[i-1].endX+190,`Career labels collide at ${scale}px/year`);}
  assert.notEqual(layout.find(p=>p.id==='22').row,layout.find(p=>p.id==='07').row);
  let moments=0;
  for(const a of artists){const groups=timeline.groupMoments(a,scale,range);const indices=groups.flatMap(g=>g.map(t=>t.index));assert.equal(indices.length,3);assert.equal(new Set(indices).size,3);moments+=indices.length;}
- assert.equal(moments,153);
+ assert.equal(moments,150);
 }
 for(const key of ['early','seventeenth','nineteenth','twentieth']){
  const range=timeline.rangeFor(key),layout=timeline.layoutRows(activity,range,7);
@@ -43,4 +43,6 @@ assert(!/window\.open\(|localStorage|sessionStorage|https?:\/\//.test(code));
 assert(code.includes('prefers')||fs.readFileSync(dist+'styles.css','utf8').includes('prefers-reduced-motion'));
 assert(code.includes("document.hidden)pause()"));assert(code.includes('clearInterval(timer)'));
 const html=fs.readFileSync(dist+'index.html','utf8');for(const file of ['activity.js','timeline.js'])assert(html.includes(file));
-console.log('PASS: 51 sourced creative periods, inclusive year boundaries, honest career limits, nonoverlapping lanes at three zoom levels, all 153 moments preserved, local-only assets, and controlled playback.');
+console.log('PASS: 50 sourced creative periods, inclusive year boundaries, honest career limits, nonoverlapping lanes at three zoom levels, all 150 moments preserved, local-only assets, and controlled playback.');
+
+assert(!activity.some(p=>p.id==='15'));

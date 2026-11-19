@@ -179,19 +179,6 @@
     ]
   },
   {
-    "id": "15",
-    "artist": "Dorothea Lange",
-    "title": "Migrant Mother",
-    "path": "assets/15-artwork.webp",
-    "key": "15:migrantmother",
-    "status": "iconic",
-    "reason": "Lange’s defining Depression-era image is identified by the Library of Congress as one of her best-known photographs and a symbol of the Depression. The existing image is the recognizable close portrait, not another view from the sitting.",
-    "sources": [
-      "https://www.loc.gov/loc/lcib/9808/fsa-osi.html",
-      "https://www.metmuseum.org/art/collection/search/283316"
-    ]
-  },
-  {
     "id": "16",
     "artist": "Piet Mondrian",
     "title": "Composition II in Red, Blue, and Yellow",

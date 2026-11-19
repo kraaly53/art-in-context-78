@@ -1,6 +1,6 @@
 # Timeline career evidence
 
-Evidence reviewed 18 November 2026. The horizontal Art Time Machine shows 51 approximate creative periods and all 153 existing career moments. Dates represent documented artistic practice, training, public practice, or an explicitly limited work span; the label and basis identify the distinction. They are not automatically birth/death dates, a complete catalogue, continuous annual production, or evidence that overlapping artists met.
+Evidence reviewed 18 November 2026. The horizontal Art Time Machine shows 50 approximate creative periods and all 150 current career moments. Dates represent documented artistic practice, training, public practice, or an explicitly limited work span; the label and basis identify the distinction. They are not automatically birth/death dates, a complete catalogue, continuous annual production, or evidence that overlapping artists met.
 
 An ongoing range ends at this edition’s review year, 2026. Update the evidence and domain together when extending the edition. Narrower documented spans may end before an artist stopped working. Unknown career beginnings remain explicit, including Heather Galler’s practice documented by her own 2009 blog, later publisher record and current commissions site.
 
@@ -22,7 +22,6 @@ No new images are introduced by the timeline. Portraits and featured-work previe
 | Robert Indiana | Documented: 1957–2017 |
 | George Rodrigue | c. 1968–2013 |
 | Emily Carr | c. 1890–1942 |
-| Dorothea Lange | c. 1913–1965 |
 | Piet Mondrian | c. 1892–1944 |
 | Yayoi Kusama | c. 1952–2026 |
 | Frederic Remington | c. 1881–1909 |
@@ -141,13 +140,6 @@ The artist’s studio identifies Oak on the Bayou (1968) among his early works a
 The Art Canada Institute starts Carr’s early-work period in 1890 and identifies 1937–1942 as her last-paintings period. There was a substantial lull in painting between 1913 and 1927: the bar is a broad span, not a claim of equal or continuous output. She continued writing after she largely stopped painting.
 
 - https://artbooks.artcanada.com/emily-carr/biography
-
-## Dorothea Lange
-The International Center of Photography identifies 1913 as her decision to become a professional photographer. The Oakland Museum’s archive runs through 1965; the end includes preparation of her retrospective as well as photographic practice.
-
-- https://www.icp.org/browse/archive/constituents/dorothea-lange
-- https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fft3f59n5wt
-- https://dorothealange.museumca.org/about/
 
 ## Piet Mondrian
 The Thyssen museum documents his entry into the Amsterdam academy and early artistic activity in 1892. Kunstmuseum Den Haag identifies Victory Boogie Woogie (1942–1944) as his final work.
