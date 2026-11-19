@@ -755,26 +755,6 @@ Work studies:
 - Under the Wave off Kanagawa (The Great Wave) — c. 1830–1832 — Colour woodblock print
 - Fine Wind, Clear Morning (Red Fuji) — c. 1830–1832 — Colour woodblock print
 
-## 42 — Jacob Lawrence
-
-Dates: 1917–2000
-Media: Tempera painting, Printmaking
-
-References:
-- https://lawrencemigration.phillipscollection.org/about-jacob-lawrence
-- https://www.moma.org/collection/artists/3418
-- https://en.wikipedia.org/wiki/Jacob_Lawrence
-- https://www.whitehousehistory.org/photos/the-builders-by-jacob-lawrence
-
-Career moments:
-- 1941: Completes the 60-panel Migration Series.
-- 1947: Paints The Builders.
-- 1971: Begins teaching at the University of Washington.
-
-Work studies:
-- The Migration Series — 1940–1941 — Casein tempera on hardboard
-- The Builders — 1947 — Tempera on board
-
 ## 43 — David Hockney
 
 Dates: 1937–2026
@@ -935,16 +915,16 @@ References:
 - https://www.basquiat.com/about
 - https://www.moma.org/artists/370-jean-michel-basquiat
 - https://en.wikipedia.org/wiki/Jean-Michel_Basquiat
-- https://whitney.org/collection/works/453
+- https://www.wikiart.org/en/jean-michel-basquiat/horn-players
 
 Career moments:
 - 1978: His SAMO texts gain attention in downtown New York.
 - 1981: His paintings reach a wider exhibition audience.
-- 1983: Paints Hollywood Africans.
+- 1983: Paints Horn Players.
 
 Work studies:
 - Untitled (Skull) — 1981 — Acrylic and oilstick on canvas
-- Hollywood Africans — 1983 — Acrylic and oilstick on canvas
+- Horn Players — 1983 — Painting
 
 ## Dates and attribution
 
@@ -972,4 +952,4 @@ The Whitney’s 2025 exhibition dates Miss Everything (Unsuppressed Deliverance)
 
 ## Timeline creative-period evidence
 
-See TIMELINE-SOURCES.md and dist/activity.js for the 50 source-based activity ranges used in the Art Time Machine. The view distinguishes approximate creative periods from lifespan and flags narrower documented spans. Its moving faces mark the selected year within a period. An overlap alone does not demonstrate an encounter or artistic influence.
+See TIMELINE-SOURCES.md and dist/activity.js for the 49 source-based activity ranges used in the Art Time Machine. The view distinguishes approximate creative periods from lifespan and flags narrower documented spans. Its moving faces mark the selected year within a period. An overlap alone does not demonstrate an encounter or artistic influence.

@@ -44,7 +44,6 @@ Featured images are explicit selections independent of chronological gallery ord
 | Faith Ringgold | Woman on a Bridge #1 of 5: Tar Beach | iconic |
 | Amy Sherald | Michelle LaVaughn Robinson Obama | iconic |
 | Hokusai | Under the Wave off Kanagawa (The Great Wave) | iconic |
-| Jacob Lawrence | The Migration Series, Panel No. 1 | iconic |
 | David Hockney | A Bigger Splash | iconic |
 | Wassily Kandinsky | Composition VIII | iconic |
 | Rembrandt | Self-Portrait with Two Circles | representative · school-appropriate alternative |
@@ -214,10 +213,6 @@ Sources: https://npg.si.edu/object/npg_NPG.2018.15 · https://npg.si.edu/learn/c
 ## Hokusai: Under the Wave off Kanagawa (The Great Wave)
 The British Museum describes The Great Wave as the world’s most famous Japanese woodblock print. Select the actual print design already supplied; different surviving impressions are not separate compositions.
 Sources: https://www.britishmuseum.org/sites/default/files/2022-03/korenberg_article-for_hokusai%20_edited_volume_final-2020_accessible.pdf · https://www.metmuseum.org/art/collection/search/45434
-
-## Jacob Lawrence: The Migration Series, Panel No. 1
-The Migration Series is Lawrence’s defining breakthrough, and its opening train-station panel is the recurring introductory image in museum exhibitions and educational resources. The feature identifies this one panel explicitly rather than implying that a single image shows all 60.
-Sources: https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern · https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf
 
 ## David Hockney: A Bigger Splash
 A Bigger Splash is the canonical 1967 pool painting catalogued by the David Hockney Foundation and Tate. Keep its exact version distinct from The Splash and The Little Splash, which are separate related paintings.

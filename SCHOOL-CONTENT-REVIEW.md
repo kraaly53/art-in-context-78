@@ -1,6 +1,6 @@
 # School content review
 
-Reviewed 18 November 2026: all **566 original images** (524 artworks and 42 portraits), plus every replacement. **92 original images excluded; 83 approved replacement works added.** Current collection after the 19 November teacher revision: **502 artworks and 42 portraits across 50 artists**. Three selected galleries contain nine works; 47 contain at least ten.
+Reviewed 18 November 2026: all **566 original images** (524 artworks and 42 portraits), plus every replacement. **92 original images excluded; 83 approved replacement works added.** Current collection after the 19 November teacher revision: **489 artworks and 41 portraits across 49 artists**. Six selected galleries contain nine works; 43 contain at least ten.
 
 ## Applied selection rule
 
@@ -133,3 +133,7 @@ Visually inspect the entire image at its published resolution, including backgro
 ## Teacher-requested exclusions — 19 November 2026
 
 The teacher additionally removed the entire Dorothea Lange profile and its ten images, plus Jonathan Green’s Peacan Empress, Banksy’s Kissing Coppers (requested as Kissing Cops) and Picasso’s Saltimbanque at Rest. These 13 files are removed from current publication and the current project archive. The JSON audit records these separately as `teacherRemoved`; their exclusion is a teacher selection decision rather than an inferred new content finding. No replacement works were added.
+
+## Additional teacher-requested exclusions — 19 November 2026
+
+Jacob Lawrence’s entire profile, ten artworks and portrait are removed. Trans Forming Liberty (Amy Sherald), The Jewish Bride (Rembrandt) and Hollywood Africans (Basquiat) are also removed, including written/student-facing references. The fourteen additional files are recorded as teacherRemoved, bringing that list to27 files. Basquiat’s existing Horn Players is used for the corresponding written work study and1983 career moment; no new artwork image was added.

@@ -15338,48 +15338,23 @@ window.ARTISTS = [
           "decision": "approved",
           "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
         }
-      },
-      {
-        "title": "Trans Forming Liberty",
-        "date": "2024",
-        "medium": "Oil on canvas",
-        "path": "assets/education-context/40-s10.webp",
-        "alt": "A figure in a blue dress raises a torch against a pale pink background.",
-        "description": "The pose borrows a familiar symbol of liberty while presenting a particular contemporary person. How does changing who holds the torch change the symbol’s meaning?",
-        "creator": "Amy Sherald",
-        "credit": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
-        "source": "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "",
-        "changes": "Individual published artwork illustration extracted from museum PDF; converted to WebP without upscaling.",
-        "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
-        "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Trans Forming Liberty. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: The pose borrows a familiar symbol of liberty while presenting a particular contemporary person. How does changing who holds the torch change the symbol’s meaning? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
-        "workKey": "40:transformingliberty",
-        "copyrightNotice": "© Amy Sherald; illustration published by Whitney Museum of American Art in Amy Sherald: American Sublime exhibition checklist. No separate photographer named in checklist.",
-        "infoSources": [
-          "https://whitneymedia.org/assets/generic_file/4312/Exhibition_Checklist-Amy_Sherald_American_Sublime.pdf"
-        ],
-        "sortYear": 2024,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
       }
     ],
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
-      "shortfallReason": "",
-      "searchNotes": "Ten distinct works extracted individually from the publicly published Whitney Museum exhibition checklist, with exact museum captions.",
+      "count": 9,
+      "educationalFairDealingImages": 9,
+      "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+      "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
       "sourceChecks": [
         "Whitney American Sublime exhibition checklist captions checked for work title, creation date and medium.",
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
-      "descriptionCount": 10,
-      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication."
+      "descriptionCount": 9,
+      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+      "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal."
     },
     "featuredWork": {
       "key": "40:michellelavaughnrobinsonobama",
@@ -15759,414 +15734,6 @@ window.ARTISTS = [
       "sources": [
         "https://www.britishmuseum.org/sites/default/files/2022-03/korenberg_article-for_hokusai%20_edited_volume_final-2020_accessible.pdf",
         "https://www.metmuseum.org/art/collection/search/45434"
-      ]
-    }
-  },
-  {
-    "id": "42",
-    "name": "Jacob Lawrence",
-    "dates": "1917–2000",
-    "birth": 1917,
-    "death": 2000,
-    "place": "United States",
-    "media": [
-      "Tempera painting",
-      "Printmaking"
-    ],
-    "movement": "American modernism; narrative series",
-    "intro": "Jacob Lawrence used bold shapes and carefully sequenced panels to tell histories of Black Americans. Text and image work together, requiring viewers to move between a single scene and a larger collective story.",
-    "timeline": [
-      {
-        "year": 1941,
-        "text": "Completes the 60-panel Migration Series."
-      },
-      {
-        "year": 1947,
-        "text": "Paints The Builders."
-      },
-      {
-        "year": 1971,
-        "text": "Begins teaching at the University of Washington."
-      }
-    ],
-    "works": [
-      {
-        "title": "The Migration Series",
-        "date": "1940–1941",
-        "medium": "Casein tempera on hardboard",
-        "description": "Sixty linked panels tell a history of the Great Migration."
-      },
-      {
-        "title": "The Builders",
-        "date": "1947",
-        "medium": "Tempera on board",
-        "description": "Workers and intersecting forms explore making, cooperation, and labour."
-      }
-    ],
-    "society": "His series helped place African American history at the centre of modern art. They show how migration can be studied through both large social forces and particular human actions.",
-    "history": "Lawrence made the narrative series a powerful modernist form. Flattened shapes, repeated colour, and written captions connect formal invention with historical research.",
-    "facts": [
-      "He planned colours across several panels to hold a series together.",
-      "The Migration Series is jointly held by two museums."
-    ],
-    "quiz": {
-      "question": "Why should a panel from the Migration Series be studied within the sequence?",
-      "answers": [
-        "The surrounding images and captions shape the historical narrative.",
-        "Each panel must tell an entirely unrelated story.",
-        "A series can have no overall structure."
-      ],
-      "correct": 0
-    },
-    "portrait": {
-      "path": "assets/42-portrait.webp",
-      "credit": "Carl Van Vechten · Public domain",
-      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jacob_Lawrence_LCCN2004663191.jpg",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "creator": "Carl Van Vechten",
-      "changes": "Resized and converted to WebP. Responsive display may crop decorative card thumbnails."
-    },
-    "group": "people",
-    "source": "https://en.wikipedia.org/wiki/Jacob_Lawrence",
-    "challenge": "Tell a journey in three small pictures.",
-    "sources": [
-      "https://lawrencemigration.phillipscollection.org/about-jacob-lawrence",
-      "https://www.moma.org/collection/artists/3418",
-      "https://en.wikipedia.org/wiki/Jacob_Lawrence",
-      "https://www.whitehousehistory.org/photos/the-builders-by-jacob-lawrence"
-    ],
-    "gallery": [
-      {
-        "title": "The Migration Series, Panel No. 1",
-        "path": "assets/featured-american/42-the-migration-series-panel-no-1.webp",
-        "date": "1940–1941",
-        "medium": "Casein tempera on hardboard",
-        "credit": "Jacob Lawrence · © The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York; The Phillips Collection, Acquired1942,1152",
-        "source": "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
-        "sourceDownloadUrl": "https://www.phillipscollection.org/sites/default/files/styles/feature_extra_large_no_crop_1200_/public/2021-01/The%20Migration%20Series-Panel%201.jpg?itok=wFeb8lIb",
-        "workKey": "42:themigrationseriespanelno1",
-        "creator": "Jacob Lawrence",
-        "description": "A crowd carrying belongings moves towards station gates labelled with northern cities. Repeated bodies and strong diagonals turn the opening panel of Lawrence’s sixty-part history into an image of collective movement during the Great Migration.",
-        "alt": "Travellers with bags crowd a railway station beneath signs for Chicago, New York and St. Louis.",
-        "infoSources": [
-          "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
-          "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf"
-        ],
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Resized to a maximum 640pixels and converted to WebP; complete composition retained, no artistic alterations.",
-        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
-        "rightsAssessment": "Purpose: authentic classroom education and work-specific visual criticism; this selected-work feature identifies the work that students study, with original analysis adjacent to the image. Character: the image appears as a small artist-card preview and profile study image on public GitHub Pages and in its public repository; access by visitors beyond the class and persistent public copying weigh against fairness. Amount: one complete low-resolution composition is necessary to analyse this particular artwork and recognize its significance; the file is capped at 640pixels, with no high-resolution version supplied. Alternatives: a different artwork would not serve criticism of this canonical work; text alone cannot show its formal structure, while a restricted classroom host would reduce dissemination. Nature: previously lawfully published artwork reproduced on a public museum, artist or museum-credited publication. Effect (market): the small study file and substantial educational context reduce substitution for prints/books/high-quality reproductions, but a licensing market may exist and remains a countervailing consideration. This is a contextual assessment, not a declaration that public educational copying is automatically fair.",
-        "sortYear": 1940,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "Firewood #55",
-        "date": "1942",
-        "medium": "gouache",
-        "source": "https://americanart.si.edu/artwork/firewood-55-14374",
-        "credit": "Jacob Lawrence, Firewood #55, 1942, gouache, ink and watercolor on paper, Smithsonian American Art Museum, Transfer from the U.S. Information Agency through the General Services Administration, 1966.2.3; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-firewood-55.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "A worker and scattered timber occupy a dark yard of wooden buildings.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:firewood55",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1966.2.3_1&max=640",
-        "description": "A worker and scattered timber occupy a dark yard of wooden buildings. How do contrasting diagonals make physical labour visible?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/firewood-55-14374"
-        ],
-        "sortYear": 1942,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "Captain Skinner",
-        "date": "1944",
-        "medium": "gouache on paperboard",
-        "source": "https://americanart.si.edu/artwork/captain-skinner-31685",
-        "credit": "Jacob Lawrence, Captain Skinner, 1944, gouache on paperboard, Smithsonian American Art Museum, Gift of Carlton Skinner, 1990.65; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-captain-skinner.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "A pale face and dark glasses float against a field of blue.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:captainskinner",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.65_1&max=640",
-        "description": "A pale face and dark glasses float against a field of blue. How does simplifying a portrait change the way a public figure is represented?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/captain-skinner-31685"
-        ],
-        "sortYear": 1944,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "The Shoemaker",
-        "date": "1945",
-        "medium": "Watercolor and gouache over graphite on paper",
-        "path": "assets/school-reviewed/42-the-shoemaker.webp",
-        "alt": "A shoemaker bends over a workbench surrounded by colourful shoes and tools.",
-        "description": "Large hands and bent shoulders draw attention to the concentration involved in making and repairing shoes. Bright footwear surrounds the worker in a closely packed room. Which details show knowledge and skill, and how does Lawrence make an ordinary workplace feel important?",
-        "source": "https://www.metmuseum.org/art/collection/search/488213",
-        "imageSource": "https://uploads7.wikiart.org/images/jacob-lawrence/the-shoemaker-1945(1).jpg",
-        "creator": "Jacob Lawrence",
-        "workKey": "42:schooltheshoemaker",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "",
-        "credit": "Artwork: Jacob Lawrence; copyright retained by respective rights holders; illustration published by WikiArt; separate reproduction photographer not named.",
-        "changes": "Complete artwork retained; resized to at most 640px and converted to WebP.",
-        "infoSources": [
-          "https://www.metmuseum.org/art/collection/search/488213"
-        ],
-        "sortYear": 1945,
-        "rightsBasis": "Canadian Copyright Act sections29 and29.1: limited teacher-curated Grade7/8 education and criticism, with creator/source acknowledgement. Copyright and reproduction rights retained; no open licence, permission or automatic section30.04 applicability claimed.",
-        "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "rightsAssessment": "Purpose: Canadian Grade 7/8 education and original visual criticism of The Shoemaker. Character: curated student resource with local assets; public GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one complete creative work at reduced resolution, needed to examine its composition; no alternate views supplied. Alternatives: a text-only description would prevent examination of the actual evidence, and another artist’s work would not illustrate this example. Nature: previously published artistic work; copyright retained. Effect: at-most-640px display with work-specific discussion reduces substitution for licensed high-resolution reproductions, but licensing-market effects cannot be ruled out. Cumulative amount: ten distinct works by this artist is more extensive than a single teaching example and weighs against fairness; each is accompanied by specific original criticism. Specific criticism focus: Large hands and bent shoulders draw attention to the concentration involved in making and repairing shoes. Bright footwear surrounds the worker in a closely packed room. Which details show knowledge and skill, and how does Lawrence make an ordinary workplace feel important? This assessment is not rights-holder permission, an open licence or a blanket educational exemption.",
-        "schoolReview": {
-          "status": "approved",
-          "reviewedAt": "2026-11-18",
-          "method": "Visual review of actual complete image, including text where legible.",
-          "criteria": "No visible nudity, violent action, threatening weapons, injury, sexual/drug imagery or obscenity.",
-          "sha256": "e5db9df5e8354df08fd85243add89fbd7648544086d1f017dfb58066ede410d2",
-          "decision": "approved",
-          "reason": "No visible nudity, violent action, threatening weapons, injury, sexual/drug imagery or obscenity."
-        }
-      },
-      {
-        "title": "New Jersey, from the United States Series",
-        "date": "1946",
-        "medium": "watercolor",
-        "source": "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378",
-        "credit": "Jacob Lawrence, New Jersey, from the United States Series, 1946, watercolor, gouache, and pencil on paper, Smithsonian American Art Museum, Gift of Container Corporation of America, 1984.124.172; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-new-jersey-from-the-united-states-series.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "Factories, transport and people crowd a vertically organized scene.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:newjerseyfromtheunitedstatesseries",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.172_1&max=640",
-        "description": "Factories, transport and people crowd a vertically organized scene. Which repeated structure helps connect individual activity to a larger industrial landscape?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378"
-        ],
-        "sortYear": 1946,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "\"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man.",
-        "date": "1958",
-        "medium": "oil on fiberboard",
-        "source": "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus",
-        "credit": "Jacob Lawrence, \"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man., 1958, oil on fiberboard, Smithsonian American Art Museum, Gift of Container Corporation of America, 1984.124.171; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-men-exist-for-the-sake-of-one-another-teach-them-then-or-bear-with-them-marcus-aurelius-antoninus-me.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "Several figures overlap within a rounded blue and ochre landscape.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:menexistforthesakeofoneanotherteachthemthenorbearwiththemmarcusaureliusantoninusmeditationsviii59fromtheseriesgreatideasofwesternman",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.171_2&max=640",
-        "description": "Overlapping figures and rounded landscape forms place people within a shared environment. Which visual connection best supports the quoted idea that people exist for one another?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus"
-        ],
-        "sortYear": 1958,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "The Library",
-        "date": "1960",
-        "medium": "tempera on fiberboard",
-        "source": "https://americanart.si.edu/artwork/library-14376",
-        "credit": "Jacob Lawrence, The Library, 1960, tempera on fiberboard, Smithsonian American Art Museum, Gift of S.C. Johnson & Son, Inc., 1969.47.24; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-the-library.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "Readers occupy a crowded interior with books and furniture arranged in strong shapes.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:thelibrary",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1969.47.24_3&max=640",
-        "description": "Readers occupy a crowded interior with books and furniture arranged in strong shapes. How does Lawrence make quiet study feel active?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/library-14376"
-        ],
-        "sortYear": 1960,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "Dreams No. 2",
-        "date": "1965",
-        "medium": "tempera on fiberboard",
-        "source": "https://americanart.si.edu/artwork/dreams-no-2-14372",
-        "credit": "Jacob Lawrence, Dreams No. 2, 1965, tempera on fiberboard, Smithsonian American Art Museum, Gift of the Sara Roby Foundation, 1986.6.95; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-dreams-no-2.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "A seated figure and an open doorway create a layered domestic space.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:dreamsno2",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1986.6.95_2&max=640",
-        "description": "A seated figure and an open doorway create a layered domestic space. How does the doorway encourage you to imagine something beyond what is immediately visible?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/dreams-no-2-14372"
-        ],
-        "sortYear": 1965,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "Community (study for mural, Jamaica, NY)",
-        "date": "1986",
-        "medium": "gouache on paper",
-        "source": "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900",
-        "credit": "Jacob Lawrence, Community (study for mural, Jamaica, NY), 1986, gouache on paper, Smithsonian American Art Museum, Transfer from the General Services Administration, Art-in-Architecture Program, 1990.36, © 1986, Jacob Lawrence; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-community-study-for-mural-jamaica-ny.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "Many figures and diagonal actions fill a busy shared space.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:communitystudyformuraljamaicany",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1990.36_1&max=640",
-        "description": "Many figures and diagonal actions fill a busy shared space. How does the compressed arrangement communicate community without making everyone identical?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900"
-        ],
-        "sortYear": 1986,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
-        "title": "\"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788.",
-        "date": "Date not verified",
-        "source": "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375",
-        "credit": "Jacob Lawrence, \"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788. From the series Great Ideas., 1976, opaque watercolor and pencil on paper mounted on fiberboard, Smithsonian American Art Museum, Gift of Container Corporation of America, 1984.124.170; © Jacob and Gwendolyn Knight Lawrence Foundation / Artists Rights Society (ARS), New York",
-        "path": "assets/education-american/42-in-a-free-government-the-security-of-civil-rights-must-be-the-same-as-that-for-religious-rights-it-c.webp",
-        "creator": "Jacob Lawrence",
-        "alt": "Figures occupy separate sections of a warm-coloured interior.",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/section-29.html",
-        "changes": "Reduced to maximum 640 pixels and converted to WebP; no artistic alteration.",
-        "rightsBasis": "Teacher-curated Canadian Grade7/8 education and work-specific criticism under Copyright Act sections29 and29.1; copyright retained. Source and creator acknowledged. No claim of permission, open licence or automatic section30.04 entitlement.",
-        "rightsAssessment": "Purpose: genuine classroom visual criticism with original commentary and questions, not decoration or sale. Character: teacher-curated study on a public GitHub Pages site and public repository, so exposure exceeds a closed class; this weighs against fairness and is acknowledged. Amount: one whole work image is necessary to discuss composition and relationships; ten distinct works are a limited selection from this artist’s larger output, each capped at 640pixels. Alternatives: text alone and substitute pictures cannot support criticism of this exact work; a closed classroom platform would reduce dissemination. Nature: already lawfully published museum/artist/Wikipedia illustration. Effect: small study image, original acknowledgement and no high-resolution download intended to avoid replacing prints, books or licensed high-quality reproductions; market for reproduction licences still exists and remains a countervailing factor. Assessment is contextual, not a guarantee or ownership claim.",
-        "workKey": "42:inafreegovernmentthesecurityofcivilrightsmustbethesameasthatforreligiousrightsitconsistsintheonecaseinthemultiplicityofinterestsandintheotherinthemultiplicityofsectsjamesmadisonthefederalistpapers1788",
-        "sourceDownloadUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1984.124.170_1&max=640",
-        "description": "The interior divides human figures into distinct but connected spaces. How could this arrangement help you discuss the relationship between individual rights and shared government?",
-        "infoSources": [
-          "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375"
-        ],
-        "sortYear": null,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      }
-    ],
-    "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
-    "galleryAudit": {
-      "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
-      "shortfallReason": "",
-      "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
-      "sourceChecks": [
-        {
-          "source": "https://americanart.si.edu/artwork/captain-skinner-31685",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/bar-and-grill-79031",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/escape-14373",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/dreams-no-2-14372",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/firewood-55-14374",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://americanart.si.edu/artwork/library-14376",
-          "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-        },
-        {
-          "source": "https://api.artic.edu/api/v1/artworks/search",
-          "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
-        }
-      ],
-      "descriptionCount": 10,
-      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication."
-    },
-    "featuredWork": {
-      "key": "42:themigrationseriespanelno1",
-      "status": "iconic",
-      "reason": "The Migration Series is Lawrence’s defining breakthrough, and its opening train-station panel is the recurring introductory image in museum exhibitions and educational resources. The feature identifies this one panel explicitly rather than implying that a single image shows all 60.",
-      "sources": [
-        "https://www.phillipscollection.org/collection/migration-series-panel-no-1-during-world-war-i-there-was-great-migration-north-southern",
-        "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/7318/releases/MOMA_1994_0104_73-2.pdf"
       ]
     }
   },
@@ -17221,33 +16788,6 @@ window.ARTISTS = [
         }
       },
       {
-        "path": "assets/gallery-classic/45-03.webp",
-        "title": "The Jewish Bride",
-        "date": "circa 1665-1669",
-        "medium": "",
-        "alt": "A richly dressed couple stands close together with their hands gently touching.",
-        "credit": "Rembrandt · Public domain",
-        "creator": "Rembrandt",
-        "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
-        "license": "Public domain",
-        "licenseUrl": "",
-        "changes": "Resized and converted to WebP; whole artwork or source photograph retained without artistic alteration.",
-        "rightsBasis": "Historical artwork by Rembrandt; underlying work is public domain. The source record supplies the image’s public-domain designation or photograph licence.",
-        "workKey": "45:thejewishbride",
-        "sourceFile": "File:Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg",
-        "sourceDate": "circa 1665-1669",
-        "description": "A richly dressed couple stands close together, their touching hands providing the quiet centre of the scene. Broad, heavily textured paint on the gold sleeve contrasts with the gentle handling of faces and hands, making surface and gesture communicate different kinds of feeling.",
-        "infoSources": [
-          "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
-          "https://www.rijksmuseum.nl/nl/story/jewish-bride"
-        ],
-        "sortYear": 1665,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
         "path": "assets/gallery-classic/45-05.webp",
         "title": "The Return of the Prodigal Son",
         "date": "circa 1668",
@@ -17277,17 +16817,18 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
+      "count": 9,
       "educationalFairDealingImages": 0,
-      "shortfallReason": "",
-      "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
+      "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+      "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
       "sourceChecks": [
         "Source file metadata checked for title, artist and image licence.",
         "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
         "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
       ],
-      "descriptionCount": 10,
-      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication."
+      "descriptionCount": 9,
+      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+      "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal."
     },
     "featuredWork": {
       "key": "45:selfportraitwithtwocircles",
@@ -19363,7 +18904,7 @@ window.ARTISTS = [
       },
       {
         "year": 1983,
-        "text": "Paints Hollywood Africans."
+        "text": "Paints Horn Players."
       }
     ],
     "works": [
@@ -19374,10 +18915,10 @@ window.ARTISTS = [
         "description": "A head-like form combines expressive drawing with layered interior structures."
       },
       {
-        "title": "Hollywood Africans",
+        "title": "Horn Players",
         "date": "1983",
-        "medium": "Acrylic and oilstick on canvas",
-        "description": "Words and figures question how Black people are represented in entertainment and history."
+        "medium": "Painting",
+        "description": "The changing marks create a visual rhythm comparable to overlapping musical phrases. Where do repetition and interruption make the image feel musical?"
       }
     ],
     "society": "His work challenges stereotypes and asks who gets recognised as a hero, expert, or author of history. Text can expose labels imposed by institutions and popular culture.",
@@ -19411,7 +18952,7 @@ window.ARTISTS = [
       "https://www.basquiat.com/about",
       "https://www.moma.org/artists/370-jean-michel-basquiat",
       "https://en.wikipedia.org/wiki/Jean-Michel_Basquiat",
-      "https://whitney.org/collection/works/453"
+      "https://www.wikiart.org/en/jean-michel-basquiat/horn-players"
     ],
     "gallery": [
       {
@@ -19567,34 +19108,6 @@ window.ARTISTS = [
         }
       },
       {
-        "title": "Hollywood Africans",
-        "date": "1983",
-        "medium": "Acrylic and oilstick on canvas",
-        "path": "assets/education-context/51-w01.webp",
-        "alt": "Three drawn faces and many handwritten words fill a yellow field.",
-        "description": "Crossed-out text makes the viewer actively sort identity, labels and stereotypes. Which words attract more attention because they are crossed out?",
-        "source": "https://www.wikiart.org/en/jean-michel-basquiat/hollywood-africans",
-        "imageSource": "https://uploads1.wikiart.org/images/jean-michel-basquiat/hollywood-africans.jpg",
-        "credit": "Artwork: Jean-Michel Basquiat; copyright retained by respective rights holders; published illustration via WikiArt; separate reproduction photographer not named in catalogue record.",
-        "creator": "Jean-Michel Basquiat",
-        "license": "Copyright retained — Canadian fair dealing (education/criticism)",
-        "licenseUrl": "",
-        "changes": "Reduced to at most 640px and converted to WebP.",
-        "workKey": "51:hollywoodafricans",
-        "rightsBasis": "Canadian Copyright Act s.29 education and s.29.1 criticism/review: limited-resolution illustration accompanies specific original visual criticism and a classroom discussion question; source and creator identified. This is a contextual fair-dealing assessment, not an open licence or a conclusion that all educational copying is fair.",
-        "rightsAssessment": "Purpose: Canadian Grade 7/8 teaching and criticism of Hollywood Africans. Character: curated student resource, but publicly accessible GitHub Pages distribution increases reach and weighs against fairness compared with a restricted classroom. Amount: one whole creative work, necessary to discuss its composition and the specific visual relationships described here; no alternative crops or duplicate views are supplied. Alternatives: a text-only account would prevent students examining the evidence; openly licensed substitutes would not illustrate this particular work. Nature: a previously published artistic work, with copyright retained. Effect: at-most-640px display and integrated commentary reduce substitution for prints, licensed high-resolution files or museum visits, but possible licensing-market effects cannot be ruled out. Retain attribution, review if distribution or purpose changes, and respond to rights-holder concerns. Specific criticism focus: Crossed-out text makes the viewer actively sort identity, labels and stereotypes. Which words attract more attention because they are crossed out? Source availability does not establish rights-holder permission; no claim is made that an unrelated website’s US fair-use rationale applies in Canada. Cumulative amount: this resource includes ten distinct works by this artist, which is more extensive than a single classroom example and weighs against fairness; the justification depends on the separate, substantive comparison and criticism attached to each work, rather than a claim that a ten-image gallery is automatically permitted.",
-        "copyrightNotice": "Copyright retained by respective rights holders; no open licence asserted.",
-        "dateSourceNote": "Date as stated in the cited published catalogue; medium omitted where not independently verified.",
-        "infoSources": [
-          "https://www.wikiart.org/en/jean-michel-basquiat/hollywood-africans"
-        ],
-        "sortYear": 1983,
-        "schoolReview": {
-          "decision": "approved",
-          "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-        }
-      },
-      {
         "title": "Horn Players",
         "date": "1983",
         "medium": "",
@@ -19718,16 +19231,17 @@ window.ARTISTS = [
     "workStatus": "Widely recognised or historically significant works; fame is not a ranked measurement.",
     "galleryAudit": {
       "target": 10,
-      "count": 10,
-      "educationalFairDealingImages": 10,
-      "shortfallReason": "",
-      "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
+      "count": 9,
+      "educationalFairDealingImages": 9,
+      "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+      "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
       "sourceChecks": [
         "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
         "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
       ],
-      "descriptionCount": 10,
-      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication."
+      "descriptionCount": 9,
+      "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+      "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal."
     },
     "featuredWork": {
       "key": "51:hornplayers",

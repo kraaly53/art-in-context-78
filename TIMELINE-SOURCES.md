@@ -1,6 +1,6 @@
 # Timeline career evidence
 
-Evidence reviewed 18 November 2026. The horizontal Art Time Machine shows 50 approximate creative periods and all 150 current career moments. Dates represent documented artistic practice, training, public practice, or an explicitly limited work span; the label and basis identify the distinction. They are not automatically birth/death dates, a complete catalogue, continuous annual production, or evidence that overlapping artists met.
+Evidence reviewed 18 November 2026. The horizontal Art Time Machine shows 49 approximate creative periods and all 147 current career moments. Dates represent documented artistic practice, training, public practice, or an explicitly limited work span; the label and basis identify the distinction. They are not automatically birth/death dates, a complete catalogue, continuous annual production, or evidence that overlapping artists met.
 
 An ongoing range ends at this edition’s review year, 2026. Update the evidence and domain together when extending the edition. Narrower documented spans may end before an artist stopped working. Unknown career beginnings remain explicit, including Heather Galler’s practice documented by her own 2009 blog, later publisher record and current commissions site.
 
@@ -48,7 +48,6 @@ No new images are introduced by the timeline. Portraits and featured-work previe
 | Faith Ringgold | c. 1955–2017 · documented work span |
 | Amy Sherald | 2007–present · documented public practice |
 | Hokusai | c. 1779–1849 |
-| Jacob Lawrence | 1935–1999 · catalogued work span |
 | David Hockney | c. 1953–2026 |
 | Wassily Kandinsky | c. 1896–1944 |
 | Rembrandt | c. 1625–1669 |
@@ -297,12 +296,6 @@ Museum sources document his first actor prints and studio career in 1779 and pai
 - https://www.ngv.vic.gov.au/exhibition/hokusai/
 - https://www.tmja.org.il/eng/Exhibitions/510/Hokusai
 - https://www.chateaunantes.fr/wp-content/uploads/2025/04/EXE-DP-A4-HOKUSAI_GB_250409-TBD.pdf
-
-## Jacob Lawrence
-The catalogue raisonné explicitly covers paintings, drawings and murals from 1935 to 1999. The interval follows documented creative production and does not use his 1917 birth or 2000 death as automatic career boundaries.
-
-- https://uwapress.uw.edu/book/9780295979632/the-complete-jacob-lawrence/
-- https://blogs.rollins.edu/rma/2020/09/23/a-minor-jacob-lawrence-mystery-solved/
 
 ## David Hockney
 The artist’s foundation records paintings and sketchbooks from Bradford art-school years beginning in 1953, later painting and digital work, and recent work shown in 2026. The foundation confirms his death on 11 June 2026; do not mark him as a currently living artist.

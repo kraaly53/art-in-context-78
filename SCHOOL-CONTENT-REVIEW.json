@@ -4647,17 +4647,6 @@
       "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
     },
     {
-      "artistId": "40",
-      "artist": "Amy Sherald",
-      "kind": "artwork",
-      "title": "Trans Forming Liberty",
-      "workKey": "40:transformingliberty",
-      "path": "assets/education-context/40-s10.webp",
-      "sha256": "7099ee30a3fed4b68e80cb441f5335fe762737b447f554096408e11730405b91",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
       "artistId": "41",
       "artist": "Hokusai",
       "kind": "portrait",
@@ -4775,127 +4764,6 @@
       "workKey": "41:thunderstormbeneaththesummit",
       "path": "assets/gallery-classic/41-07.webp",
       "sha256": "d29a5c008ec665578eb04fbaf2d3646d20b0ed08fcfc11da4470e368bd3c4acf",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "portrait",
-      "title": "Portrait of Jacob Lawrence",
-      "workKey": "portrait",
-      "path": "assets/42-portrait.webp",
-      "sha256": "cc47a31366b6b7ae4ce63f2423823edfb460e76befc02a3fe84ce58bdeb5f952",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "The Migration Series, Panel No. 1",
-      "workKey": "42:themigrationseriespanelno1",
-      "path": "assets/featured-american/42-the-migration-series-panel-no-1.webp",
-      "sha256": "8847e13d115b25a2dd5b48857b14666ff76ad707fce61ec3dfbca0a245c48d5f",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "Firewood #55",
-      "workKey": "42:firewood55",
-      "path": "assets/education-american/42-firewood-55.webp",
-      "sha256": "16173729acfd007f2fd8d5c31de0aacb42b2f64f2982096ea53fb704f99a4653",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "Captain Skinner",
-      "workKey": "42:captainskinner",
-      "path": "assets/education-american/42-captain-skinner.webp",
-      "sha256": "682aca87d0e05cda7a6d8dbb507f34db0adfe7033ba1338632645a97c4e668c3",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "The Shoemaker",
-      "workKey": "42:schooltheshoemaker",
-      "path": "assets/school-reviewed/42-the-shoemaker.webp",
-      "sha256": "e5db9df5e8354df08fd85243add89fbd7648544086d1f017dfb58066ede410d2",
-      "decision": "approved",
-      "reason": "No visible nudity, violent action, threatening weapons, injury, sexual/drug imagery or obscenity."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "New Jersey, from the United States Series",
-      "workKey": "42:newjerseyfromtheunitedstatesseries",
-      "path": "assets/education-american/42-new-jersey-from-the-united-states-series.webp",
-      "sha256": "049ee8bdb4d91e8cf20eaf11d5bdda9c63af54a776b1c981954890f86db921e6",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "\"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man.",
-      "workKey": "42:menexistforthesakeofoneanotherteachthemthenorbearwiththemmarcusaureliusantoninusmeditationsviii59fromtheseriesgreatideasofwesternman",
-      "path": "assets/education-american/42-men-exist-for-the-sake-of-one-another-teach-them-then-or-bear-with-them-marcus-aurelius-antoninus-me.webp",
-      "sha256": "f644b0ea16ac58035c8c014c3ecfc80e75498da9d37d3a461b2c26632a63e794",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "The Library",
-      "workKey": "42:thelibrary",
-      "path": "assets/education-american/42-the-library.webp",
-      "sha256": "c60f0a377cdab964690bcf34f23a4c68ea2d9bd31bee3eeba9b4c5024ef1a83e",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "Dreams No. 2",
-      "workKey": "42:dreamsno2",
-      "path": "assets/education-american/42-dreams-no-2.webp",
-      "sha256": "81e1e8d84574964326d993b87e0c226520e6847706976c9e5ff51074bbb0ed6a",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "Community (study for mural, Jamaica, NY)",
-      "workKey": "42:communitystudyformuraljamaicany",
-      "path": "assets/education-american/42-community-study-for-mural-jamaica-ny.webp",
-      "sha256": "0b91ade9b46b44a3d2576dc3babce45abcc19f48228f05549e03f75283bd240d",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "42",
-      "artist": "Jacob Lawrence",
-      "kind": "artwork",
-      "title": "\"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788.",
-      "workKey": "42:inafreegovernmentthesecurityofcivilrightsmustbethesameasthatforreligiousrightsitconsistsintheonecaseinthemultiplicityofinterestsandintheotherinthemultiplicityofsectsjamesmadisonthefederalistpapers1788",
-      "path": "assets/education-american/42-in-a-free-government-the-security-of-civil-rights-must-be-the-same-as-that-for-religious-rights-it-c.webp",
-      "sha256": "5dc382cdb191eb6ce7f3576dd47b45073d0e97af5d25c74879b72c1d7ef93178",
       "decision": "approved",
       "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
     },
@@ -5237,17 +5105,6 @@
       "workKey": "45:selfportraitwithtwocircles",
       "path": "assets/45-artwork.webp",
       "sha256": "643343c98a95eaa3c90f53552d2479ecfe97a292d71b2d862a15274282a26b16",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
-    },
-    {
-      "artistId": "45",
-      "artist": "Rembrandt",
-      "kind": "artwork",
-      "title": "The Jewish Bride",
-      "workKey": "45:thejewishbride",
-      "path": "assets/gallery-classic/45-03.webp",
-      "sha256": "7769ca5626bd48979998f348d88a196b45b62ec2294cb25bb7668241f3e80686",
       "decision": "approved",
       "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
     },
@@ -5932,17 +5789,6 @@
       "sha256": "a3fcd505654f881779b17e995bc354dcfa0b21c0ef9a0cc8739b7494bdac818f",
       "decision": "approved",
       "reason": "No visible nudity, violent action, threatening weapons, injury, sexual/drug imagery or obscenity."
-    },
-    {
-      "artistId": "51",
-      "artist": "Jean-Michel Basquiat",
-      "kind": "artwork",
-      "title": "Hollywood Africans",
-      "workKey": "51:hollywoodafricans",
-      "path": "assets/education-context/51-w01.webp",
-      "sha256": "f737ea4ae323d0a1097df24cdd0da79e8cb51ac170db1bb97bdb6f93b6377df0",
-      "decision": "approved",
-      "reason": "Visually reviewed: no visible nudity, violence, threatening weapons, sexual/drug imagery or disturbing injury."
     },
     {
       "artistId": "51",
@@ -7236,6 +7082,160 @@
       "workKey": "22:saltimbanqueatrest",
       "path": "assets/gallery-modern/22-111394.webp",
       "sha256": "a9566457f0191149e635ef3e1bdb58eacbacf83afb1063d3b201d89faf4aaa5c",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "40",
+      "artist": "Amy Sherald",
+      "kind": "artwork",
+      "title": "Trans Forming Liberty",
+      "workKey": "40:transformingliberty",
+      "path": "assets/education-context/40-s10.webp",
+      "sha256": "7099ee30a3fed4b68e80cb441f5335fe762737b447f554096408e11730405b91",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "portrait",
+      "title": "Portrait of Jacob Lawrence",
+      "workKey": "portrait",
+      "path": "assets/42-portrait.webp",
+      "sha256": "cc47a31366b6b7ae4ce63f2423823edfb460e76befc02a3fe84ce58bdeb5f952",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "The Migration Series, Panel No. 1",
+      "workKey": "42:themigrationseriespanelno1",
+      "path": "assets/featured-american/42-the-migration-series-panel-no-1.webp",
+      "sha256": "8847e13d115b25a2dd5b48857b14666ff76ad707fce61ec3dfbca0a245c48d5f",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "Firewood #55",
+      "workKey": "42:firewood55",
+      "path": "assets/education-american/42-firewood-55.webp",
+      "sha256": "16173729acfd007f2fd8d5c31de0aacb42b2f64f2982096ea53fb704f99a4653",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "Captain Skinner",
+      "workKey": "42:captainskinner",
+      "path": "assets/education-american/42-captain-skinner.webp",
+      "sha256": "682aca87d0e05cda7a6d8dbb507f34db0adfe7033ba1338632645a97c4e668c3",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "The Shoemaker",
+      "workKey": "42:schooltheshoemaker",
+      "path": "assets/school-reviewed/42-the-shoemaker.webp",
+      "sha256": "e5db9df5e8354df08fd85243add89fbd7648544086d1f017dfb58066ede410d2",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "New Jersey, from the United States Series",
+      "workKey": "42:newjerseyfromtheunitedstatesseries",
+      "path": "assets/education-american/42-new-jersey-from-the-united-states-series.webp",
+      "sha256": "049ee8bdb4d91e8cf20eaf11d5bdda9c63af54a776b1c981954890f86db921e6",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "\"Men exist for the sake of one another. Teach them then or bear with them.\"--Marcus Aurelius Antoninus, Meditations, VIII:59. From the series Great Ideas of Western Man.",
+      "workKey": "42:menexistforthesakeofoneanotherteachthemthenorbearwiththemmarcusaureliusantoninusmeditationsviii59fromtheseriesgreatideasofwesternman",
+      "path": "assets/education-american/42-men-exist-for-the-sake-of-one-another-teach-them-then-or-bear-with-them-marcus-aurelius-antoninus-me.webp",
+      "sha256": "f644b0ea16ac58035c8c014c3ecfc80e75498da9d37d3a461b2c26632a63e794",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "The Library",
+      "workKey": "42:thelibrary",
+      "path": "assets/education-american/42-the-library.webp",
+      "sha256": "c60f0a377cdab964690bcf34f23a4c68ea2d9bd31bee3eeba9b4c5024ef1a83e",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "Dreams No. 2",
+      "workKey": "42:dreamsno2",
+      "path": "assets/education-american/42-dreams-no-2.webp",
+      "sha256": "81e1e8d84574964326d993b87e0c226520e6847706976c9e5ff51074bbb0ed6a",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "Community (study for mural, Jamaica, NY)",
+      "workKey": "42:communitystudyformuraljamaicany",
+      "path": "assets/education-american/42-community-study-for-mural-jamaica-ny.webp",
+      "sha256": "0b91ade9b46b44a3d2576dc3babce45abcc19f48228f05549e03f75283bd240d",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "42",
+      "artist": "Jacob Lawrence",
+      "kind": "artwork",
+      "title": "\"In a free government, the security of civil rights must be the same as that for religious rights. It consists in the one case in the multiplicity of interests, and in the other, in the multiplicity of sects.\"--James Madison, The Federalist Papers, 1788.",
+      "workKey": "42:inafreegovernmentthesecurityofcivilrightsmustbethesameasthatforreligiousrightsitconsistsintheonecaseinthemultiplicityofinterestsandintheotherinthemultiplicityofsectsjamesmadisonthefederalistpapers1788",
+      "path": "assets/education-american/42-in-a-free-government-the-security-of-civil-rights-must-be-the-same-as-that-for-religious-rights-it-c.webp",
+      "sha256": "5dc382cdb191eb6ce7f3576dd47b45073d0e97af5d25c74879b72c1d7ef93178",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "45",
+      "artist": "Rembrandt",
+      "kind": "artwork",
+      "title": "The Jewish Bride",
+      "workKey": "45:thejewishbride",
+      "path": "assets/gallery-classic/45-03.webp",
+      "sha256": "7769ca5626bd48979998f348d88a196b45b62ec2294cb25bb7668241f3e80686",
+      "decision": "teacher-removed",
+      "reason": "Removed at the teacher’s explicit request on 19 November 2026."
+    },
+    {
+      "artistId": "51",
+      "artist": "Jean-Michel Basquiat",
+      "kind": "artwork",
+      "title": "Hollywood Africans",
+      "workKey": "51:hollywoodafricans",
+      "path": "assets/education-context/51-w01.webp",
+      "sha256": "f737ea4ae323d0a1097df24cdd0da79e8cb51ac170db1bb97bdb6f93b6377df0",
       "decision": "teacher-removed",
       "reason": "Removed at the teacher’s explicit request on 19 November 2026."
     }

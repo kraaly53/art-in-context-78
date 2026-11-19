@@ -44,19 +44,18 @@ Positions describe a clear confirming view, not every duplicate appearance. On I
 | 37 | Michelangelo | IMG_1051 / Paul Klee column, row 3 | Included | 10 artworks; Dome of Saint Peter’s Basilica featured |
 | 38 | Edvard Munch | IMG_1051 / Paul Klee column, row 4 | Included | 10 artworks; The Scream featured |
 | 39 | Faith Ringgold | IMG_1051 / Paul Klee column, row 5 | Included | 10 artworks; Woman on a Bridge #1 of 5: Tar Beach featured |
-| 40 | Amy Sherald | IMG_1051 / Amy Sherald column, row 1 | Included | 10 artworks; Michelle LaVaughn Robinson Obama featured |
+| 40 | Amy Sherald | IMG_1051 / Amy Sherald column, row 1 | Included | 9 artworks; Michelle LaVaughn Robinson Obama featured |
 | 41 | Hokusai | IMG_1051 / Amy Sherald column, row 2 | Included | 10 artworks; Under the Wave off Kanagawa (The Great Wave) featured |
-| 42 | Jacob Lawrence | IMG_1051 / Amy Sherald column, row 3 | Included | 10 artworks; The Migration Series, Panel No. 1 featured |
 | 43 | David Hockney | IMG_1051 / Amy Sherald column, row 4 | Included | 10 artworks; A Bigger Splash featured |
 | 44 | Wassily Kandinsky | IMG_1051 / Amy Sherald column, row 5 | Included | 10 artworks; Composition VIII featured |
-| 45 | Rembrandt | IMG_1051 / Rembrandt column, row 1 | Included | 10 artworks; Self-Portrait with Two Circles featured |
+| 45 | Rembrandt | IMG_1051 / Rembrandt column, row 1 | Included | 9 artworks; Self-Portrait with Two Circles featured |
 | 46 | Ted Harrison | IMG_1051 / Rembrandt column, row 2 | Initials / anonymous symbol | 11 artworks; The Cremation of Sam McGee — cover painting featured |
 | 47 | René Magritte | IMG_1051 / Rembrandt column, row 3 | Included | 10 artworks; The Son of Man featured |
 | 48 | I. Rice Pereira | IMG_1051 / Rembrandt column, row 4 | Included | 10 artworks; Machine Composition #2 featured |
 | 49 | Romero Britto | IMG_1051 / Rembrandt column, row 5 | Included | 10 artworks; Happy Dog featured |
 | 50 | Jackson Pollock | IMG_1051 / extra card, far right, upper | Included | 10 artworks; Autumn Rhythm (Number 30) featured |
-| 51 | Jean-Michel Basquiat | IMG_1051 / extra card, far right, lower | Included | 10 artworks; Horn Players featured |
+| 51 | Jean-Michel Basquiat | IMG_1051 / extra card, far right, lower | Included | 9 artworks; Horn Players featured |
 
 Names normalised for spelling and accents: Loïs Mailou Jones, Paul Cézanne, Salvador Dalí, René Magritte. William H. Johnson is William Henry Johnson. I. Rice Pereira is Irene Rice Pereira. Kamal-ol-Molk is Mohammad Ghaffari. Hokusai is Katsushika Hokusai. Raphael, Rembrandt, and Michelangelo retain their familiar single names. Banksy is a pseudonym; no identity or likeness is invented. Jackson Pollock and Jean-Michel Basquiat are the two extra cards at the far right.
 
-This Grade 7–8 edition currently includes 50 of the original 51 artist cards, with teacher-requested exclusions applied: 502 artwork images and 42 portraits. The separate younger-student site is unchanged. See ARTWORK-COVERAGE.md.
+This Grade 7–8 edition currently includes 49 of the original 51 artist cards, with teacher-requested exclusions applied: 489 artwork images and 41 portraits. The separate younger-student site is unchanged. See ARTWORK-COVERAGE.md.

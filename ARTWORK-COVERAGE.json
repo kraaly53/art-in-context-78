@@ -1125,17 +1125,18 @@
   },
   {
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
-    "shortfallReason": "",
-    "searchNotes": "Ten distinct works extracted individually from the publicly published Whitney Museum exhibition checklist, with exact museum captions.",
+    "count": 9,
+    "educationalFairDealingImages": 9,
+    "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+    "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
     "sourceChecks": [
       "Whitney American Sublime exhibition checklist captions checked for work title, creation date and medium.",
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10,
+    "descriptionCount": 9,
     "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal.",
     "id": "40",
     "name": "Amy Sherald"
   },
@@ -1155,63 +1156,6 @@
     "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
     "id": "41",
     "name": "Hokusai"
-  },
-  {
-    "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
-    "shortfallReason": "",
-    "searchNotes": "Ten distinct works reached including existing baseline images. Actual artist works verified against public artist/museum sources; original visual criticism and a teaching question accompany every addition. All local images visually reviewed, maximum640pixels.",
-    "sourceChecks": [
-      {
-        "source": "https://americanart.si.edu/artwork/captain-skinner-31685",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/bar-and-grill-79031",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/community-study-mural-jamaica-ny-31900",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/free-government-security-civil-rights-must-be-14375",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/escape-14373",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/dreams-no-2-14372",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/new-jersey-united-states-series-14378",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/men-exist-sake-one-another-teach-them-then-or-bear-them-marcus-aurelius-antoninus",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/firewood-55-14374",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://americanart.si.edu/artwork/library-14376",
-        "outcome": "Publicly accessible original artist/museum/educational collection source checked; work title and attribution retained, unknown creation dates/media explicitly marked. Image used as limited-resolution subject of adjacent original criticism under Canadian educational fair-dealing assessment."
-      },
-      {
-        "source": "https://api.artic.edu/api/v1/artworks/search",
-        "outcome": "Public API returned403; no lock bypass attempted. Other public museum collection sources used."
-      }
-    ],
-    "descriptionCount": 10,
-    "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
-    "id": "42",
-    "name": "Jacob Lawrence"
   },
   {
     "target": 10,
@@ -1249,17 +1193,18 @@
   },
   {
     "target": 10,
-    "count": 10,
+    "count": 9,
     "educationalFairDealingImages": 0,
-    "shortfallReason": "",
-    "searchNotes": "Existing public-domain/licensed gallery retained; Canadian educational use has also been assessed where new copyrighted works are included.",
+    "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+    "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
     "sourceChecks": [
       "Source file metadata checked for title, artist and image licence.",
       "Historical underlying artworks are public domain; modern museum photographs retain the source-specified licence.",
       "All downloaded images visually checked on contact sheets; alternate crops and duplicate source images excluded."
     ],
-    "descriptionCount": 10,
+    "descriptionCount": 9,
     "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal.",
     "id": "45",
     "name": "Rembrandt"
   },
@@ -1484,16 +1429,17 @@
   },
   {
     "target": 10,
-    "count": 10,
-    "educationalFairDealingImages": 10,
-    "shortfallReason": "",
-    "searchNotes": "Individually titled published catalogue illustrations; selected for educational visual criticism rather than downloadable reproductions.",
+    "count": 9,
+    "educationalFairDealingImages": 9,
+    "shortfallReason": "One artwork omitted at the teacher’s request; nine selected works remain.",
+    "searchNotes": "Teacher-selected gallery revised 19 November 2026. Remaining images retain their existing visual-review approvals.",
     "sourceChecks": [
       "Every selected illustration visually inspected individually or on labelled contact sheets; whole distinct works, no placeholders, alternate views or book pages counted.",
       "No s.30.04 exception claimed: the institutional and source-authorisation conditions have not all been verified."
     ],
-    "descriptionCount": 10,
+    "descriptionCount": 9,
     "contentReview": "Every included image visually reviewed against the no-nudity/no-violence school selection policy; excluded files removed from current publication.",
+    "teacherSelection": "This gallery contains nine classroom-selected works following a teacher-requested removal.",
     "id": "51",
     "name": "Jean-Michel Basquiat"
   }

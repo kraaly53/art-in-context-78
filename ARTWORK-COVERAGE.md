@@ -1,6 +1,6 @@
 # Artwork image coverage
 
-Revised 19 November 2026. **50 artists, 502 artwork images and 42 portraits.** Every retained image has an existing school-content approval. Three galleries intentionally contain nine works after teacher-requested removals; the remaining 47 meet the original ten-work target. These are intentional selection changes, not unreviewed replacement slots.
+Revised 19 November 2026. **49 artists, 489 artwork images and 41 portraits.** Six galleries intentionally contain nine works after teacher-requested removals; the other 43 meet the original ten-work target. Every retained file has an existing school-content approval.
 
 | Artist | Images | Piece information | Teacher-selected minimum |
 | --- | ---: | ---: | ---: |
@@ -42,15 +42,14 @@ Revised 19 November 2026. **50 artists, 502 artwork images and 42 portraits.** E
 | Michelangelo | 10 | 10 | 10 |
 | Edvard Munch | 10 | 10 | 10 |
 | Faith Ringgold | 10 | 10 | 10 |
-| Amy Sherald | 10 | 10 | 10 |
+| Amy Sherald | 9 | 9 | 9 |
 | Hokusai | 10 | 10 | 10 |
-| Jacob Lawrence | 10 | 10 | 10 |
 | David Hockney | 10 | 10 | 10 |
 | Wassily Kandinsky | 10 | 10 | 10 |
-| Rembrandt | 10 | 10 | 10 |
+| Rembrandt | 9 | 9 | 9 |
 | Ted Harrison | 11 | 11 | 10 |
 | René Magritte | 10 | 10 | 10 |
 | I. Rice Pereira | 10 | 10 | 10 |
 | Romero Britto | 10 | 10 | 10 |
 | Jackson Pollock | 10 | 10 | 10 |
-| Jean-Michel Basquiat | 10 | 10 | 10 |
+| Jean-Michel Basquiat | 9 | 9 | 9 |

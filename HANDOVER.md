@@ -19,11 +19,11 @@ The repository owner manages collaborator access. No application credentials or 
 
 ## Delivered learning experience
 
-All 50 artists have media, life-date guidance, three career moments, at least two significant-work studies, social context, art-historical influence, interesting facts, a context quiz, and discussion prompts. There are 101 written work studies and 150 timeline moments in total.
+All 49 artists have media, life-date guidance, three career moments, at least two significant-work studies, social context, art-historical influence, interesting facts, a context quiz, and discussion prompts. There are 99 written work studies and 147 timeline moments in total.
 
 Students can search the index, filter media and perspectives, open a chronology, compare two artists, explore medium definitions, solve a timeline-order challenge, and generate creative briefs. Discussion prompts encourage claims supported by visual evidence and context. Impact paragraphs are identified as educational synthesis, not quotations or single-cause historical proof.
 
-**Current artwork coverage:** 502 distinct artwork images and 42 portraits; 47 of 50 artists meet the original ten-work target; three galleries intentionally have nine after teacher-requested removals. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
+**Current artwork coverage:** 489 distinct artwork images and 41 portraits; 43 of 49 artists meet the original ten-work target; six galleries intentionally have nine after teacher-requested removals. The profile gallery appears near the top and shows its exact count. New copyrighted illustrations accompany original work-specific criticism and discussion prompts, including in the enlarged viewer. ARTWORK-COVERAGE.md gives every count and any actual remaining gap. Canadian fair-dealing assessments supplement the existing public-domain/licensed collection; they are not artist permissions or open licences.
 
 ## Files and architecture
 
@@ -50,13 +50,13 @@ Documentation and source notes outside `dist` are available through the reposito
 
 ## Artwork information and portrait viewing
 
-All 502 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
+All 489 artwork records require a substantive `description` and one or more `infoSources`. This is shown under About this artwork in the featured panel, gallery card and enlarged viewer, alongside available date/material metadata. Do not use a generic biography, bare title/year or unanswered question in place of information about the particular piece. Keep IMAGE-CREDITS.json in sync when editing these fields.
 
-The 42 available portraits use larger uncropped images with an Enlarge portrait button. Their dedicated dialog includes artist identification and source credit; its close button or Escape returns focus to the portrait button. Missing portraits still use initials rather than an invented image.
+The 41 available portraits use larger uncropped images with an Enlarge portrait button. Their dedicated dialog includes artist identification and source credit; its close button or Escape returns focus to the portrait button. Missing portraits still use initials rather than an invented image.
 
 ## Featured artwork selection
 
-Each artist’s `featuredWork.key` identifies the exact `gallery` item by its stable `workKey`. Index cards, the profile lead and comparisons all use the same selector; gallery order alone cannot pick the lead image. The gallery runs earliest to latest by `sortYear`, using the first year of the artwork date range; `null` dates appear last, with title ordering for ties. Photograph dates are not treated as creation dates. Keep the featured selection independent of this chronology. Tests check all 50 assignments and reverse gallery arrays to verify that the chosen feature remains stable.
+Each artist’s `featuredWork.key` identifies the exact `gallery` item by its stable `workKey`. Index cards, the profile lead and comparisons all use the same selector; gallery order alone cannot pick the lead image. The gallery runs earliest to latest by `sortYear`, using the first year of the artwork date range; `null` dates appear last, with title ordering for ties. Photograph dates are not treated as creation dates. Keep the featured selection independent of this chronology. Tests check all 49 assignments and reverse gallery arrays to verify that the chosen feature remains stable.
 
 FEATURED-WORKS.md and FEATURED-WORKS.json record the actual work/version, primary-source evidence, reason and iconic/representative status. Change a selection intentionally with supporting evidence; do not infer a fame ranking from the first available file, sale price, social-media popularity or a generic series title. New canonical images still need piece information, attribution and their own use assessment.
 
@@ -66,7 +66,7 @@ Check both the source photo’s rights and the artwork’s underlying rights, in
 
 Add local image data to an artist’s `gallery` array with `path`, `title`, `date`, `alt`, `credit`, `source`, `license`, `licenseUrl`, and `changes`; include `rightsBasis` where relevant. Copyrighted educational images also require `description`, `rightsAssessment`, retained copyright credit and a maximum 640px study image; retain any separate `sourceLicense` designation. A portrait uses the `portrait` object. Update IMAGE-CREDITS.json, IMAGE-CREDITS.md, dist/credits.txt, inventory coverage, permissions gaps, README, this handover, and tests to the new verified totals.
 
-The current checks require 50 artists, 42 portraits, matching artwork/credit totals (currently 502 works), and 47 galleries meeting ten and three teacher-selected galleries meeting nine, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
+The current checks require 49 artists, 41 portraits, matching artwork/credit totals (currently 489 works), and 43 galleries meeting ten and six teacher-selected galleries meeting nine, and guard selected corrected dates. Revise counts when an authorised content expansion changes them; do not weaken checks to bypass an unexplained failure.
 
 ## Classroom operation
 
@@ -93,7 +93,7 @@ To undo a bad update, review the faulty commit and make a new revert commit, the
 
 ## Known limits and next priorities
 
-1. Maintain the teacher-selected minimums (nine for Jonathan Green, Banksy and Picasso; ten for the other artists) and maintain the image-specific commentary, source credits and assessment records. Eight portraits remain unavailable. Banksy is intentionally anonymous.
+1. Maintain the teacher-selected minimums (nine for Jonathan Green, Banksy, Picasso, Amy Sherald, Rembrandt and Basquiat; ten for the other artists) and maintain the image-specific commentary, source credits and assessment records. Eight portraits remain unavailable. Banksy is intentionally anonymous.
 2. Check local voices, touch behaviour, and school restrictions on actual classroom devices.
 3. Consider additional teacher-reviewed visual analysis questions and lesson sequences after classroom feedback.
 4. Keep dates and sources current, and preserve explicit uncertainty rather than inventing an exact birth or creation year.
@@ -104,13 +104,13 @@ School image policy: no nudity or violence. Suitable selections take priority ov
 
 ## Horizontal timeline maintenance
 
-The Art Time Machine replaces the paginated event list. `dist/activity.js` holds all 50 creative-period records (`id`, `start`, `end`, `ongoing`, `label`, `basis`, `sources`); `TIMELINE-SOURCES.md` explains each range. Preserve the distinction between a broad career and a narrower documented span. Do not infer career dates from birth/death or extend periods into future years.
+The Art Time Machine replaces the paginated event list. `dist/activity.js` holds all 49 creative-period records (`id`, `start`, `end`, `ongoing`, `label`, `basis`, `sources`); `TIMELINE-SOURCES.md` explains each range. Preserve the distinction between a broad career and a narrower documented span. Do not infer career dates from birth/death or extend periods into future years.
 
 `dist/timeline.js` handles a horizontally scrolling map with compact nonoverlapping lanes, a sticky year axis, moving portrait markers, grouped career-moment buttons and a linked detail card. Hover, focus and tap reveal stories; on narrow screens, tapping moves the detail card into view and Back to the map returns focus. Zoom, period filters, an artist finder, a year slider, quick-year buttons and an overlapping-careers list support different ways to explore. Initials or an anonymous symbol replace the eight unavailable portraits. Featured-work previews use the existing reviewed files. No new media files, requests or student storage are added.
 
-Playback starts only on request, can be paused, stops at the period boundary and is destroyed when navigating away, hiding the tab or leaving the page. CSS respects reduced-motion preferences. Timeline state survives navigation within the open page in memory. All 150 career moments remain reachable; nearby moments share a numbered button with every original entry in its card.
+Playback starts only on request, can be paused, stops at the period boundary and is destroyed when navigating away, hiding the tab or leaving the page. CSS respects reduced-motion preferences. Timeline state survives navigation within the open page in memory. All 147 career moments remain reachable; nearby moments share a numbered button with every original entry in its card.
 
-`tests/timeline.mjs` is included by `tests/validate.mjs`. It verifies 50 sourced periods, lifetime bounds, career-versus-lifespan edge cases, inclusive year comparisons, nonoverlapping placement at all three zoom levels and all 150 moments. Browser checks cover movement/playback, keyboard panning/focus, grouped stories, mobile tap-to-detail, artist navigation and timer cleanup. Keep script loading order `artists.js`, `activity.js`, `timeline.js`, `app.js`; the asset version script versions all four plus styles.
+`tests/timeline.mjs` is included by `tests/validate.mjs`. It verifies 49 sourced periods, lifetime bounds, career-versus-lifespan edge cases, inclusive year comparisons, nonoverlapping placement at all three zoom levels and all 147 moments. Browser checks cover movement/playback, keyboard panning/focus, grouped stories, mobile tap-to-detail, artist navigation and timer cleanup. Keep script loading order `artists.js`, `activity.js`, `timeline.js`, `app.js`; the asset version script versions all four plus styles.
 
 The map has a second synchronized year slider and compact player next to the chart so students can control time while viewing the faces. Selecting an artist or keyboard-focusing a milestone pauses playback for reading. Quick-year buttons move the chart into view; switching to an older period chooses an appropriate anchor year when necessary.
 
@@ -118,8 +118,10 @@ Teacher revision, 19 November 2026: the requested whole-artist and three individ
 
 ## Everyone-at-a-glance timeline overview
 
-The default Timeline mode fits all 50 retained artists into the available viewport. Cards are ordered by creative-period start, have readable names and the existing reviewed portrait/initial, and show a miniature career band on the shared period scale. Green frames identify periods overlapping the selected year. Year playback updates the highlighting and mini year markers. Selecting Everyone at a glance resets the period and active-only filters so the full group is visible.
+The default Timeline mode fits all 49 retained artists into the available viewport. Cards are ordered by creative-period start, have readable names and the existing reviewed portrait/initial, and show a miniature career band on the shared period scale. Green frames identify periods overlapping the selected year. Year playback updates the highlighting and mini year markers. Selecting Everyone at a glance resets the period and active-only filters so the full group is visible.
 
 The overview uses available-height grid sizing rather than a paginated list. A ResizeObserver recalculates rows, portrait size and text size when the viewport changes. On phones, minimal year controls leave room for the whole group; full period/artist controls remain in Detailed timeline. Hover or focus updates the desktop story pane. A phone tap opens an accessible native dialog with the larger portrait, all three career moments, the approved featured work and its information. Close, Escape or Back to the map returns to the overview.
 
 Focus view hides the main header to make more space; Exit focus view or Escape restores it. Detailed timeline restores the larger scrolling career map, zoom, period filters, artist finder and grouped milestone dots. Leaving the Timeline removes viewport/body styling, disconnects the resize observer, cancels pending resize frames and playback, and closes an open story dialog. No new media, network requests or student storage are introduced.
+
+Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.

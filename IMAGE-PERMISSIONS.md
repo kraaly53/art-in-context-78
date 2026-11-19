@@ -2,9 +2,9 @@
 
 Updated 18 November 2026.
 
-The site includes **502 distinct artwork images**, stored locally, plus 42 portraits. **47 of 50 artists meet the original ten-work target; three galleries intentionally contain nine selected works.** See ARTWORK-COVERAGE.md for exact counts and any actual availability gaps.
+The site includes **489 distinct artwork images**, stored locally, plus 41 portraits. **43 of 49 artists meet the original ten-work target; six galleries intentionally contain nine selected works.** See ARTWORK-COVERAGE.md for exact counts and any actual availability gaps.
 
-The earlier open-licence-only approach has been replaced with an assessment appropriate to the confirmed Canadian classroom use. There are 308 images with Canadian educational/critical fair-dealing assessments; other images retain documented public-domain/licensed bases. Copyrighted illustrations remain copyrighted. No blanket permission or open licence is claimed.
+The earlier open-licence-only approach has been replaced with an assessment appropriate to the confirmed Canadian classroom use. There are 291 images with Canadian educational/critical fair-dealing assessments; other images retain documented public-domain/licensed bases. Copyrighted illustrations remain copyrighted. No blanket permission or open licence is claimed.
 
 Read EDUCATIONAL-USE.md for the statutory framework and public-hosting limits. IMAGE-CREDITS.json records source, title/date, attribution, modifications, original analysis and individual assessments. Separate rights in a photograph and the underlying art are preserved. A US public-domain or museum CC0 designation is not automatically presented as clearing Canadian underlying-artwork rights.
 
@@ -17,3 +17,5 @@ No AI recreations or unrelated substitutes are used. No permission requests have
 School image policy: no nudity or violence. Suitable selections take priority over an absolute fame ranking; see [SCHOOL-CONTENT-REVIEW.md](SCHOOL-CONTENT-REVIEW.md) and the fingerprinted approval manifest. Every new or changed image requires visual review before publication.
 
 Teacher revision, 19 November 2026: the requested whole-artist and three individual-work exclusions are removed from every student view, the challenge bank and current image files. Stable artist IDs are retained; ID 15 is no longer included. Historical audit entries document removals outside the student site.
+
+Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.

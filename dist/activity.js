@@ -599,21 +599,6 @@ window.ARTIST_ACTIVITY = [
     "reviewedAt": "2026-11-18"
   },
   {
-    "id": "42",
-    "artist": "Jacob Lawrence",
-    "start": 1935,
-    "end": 1999,
-    "ongoing": false,
-    "label": "1935–1999 · catalogued work span",
-    "rangeType": "documented-work-span",
-    "basis": "The catalogue raisonné explicitly covers paintings, drawings and murals from 1935 to 1999. The interval follows documented creative production and does not use his 1917 birth or 2000 death as automatic career boundaries.",
-    "sources": [
-      "https://uwapress.uw.edu/book/9780295979632/the-complete-jacob-lawrence/",
-      "https://blogs.rollins.edu/rma/2020/09/23/a-minor-jacob-lawrence-mystery-solved/"
-    ],
-    "reviewedAt": "2026-11-18"
-  },
-  {
     "id": "43",
     "artist": "David Hockney",
     "start": 1953,
