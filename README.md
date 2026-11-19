@@ -81,3 +81,5 @@ Teacher revision, 19 November 2026: the requested whole-artist and three individ
 The Timeline now opens in **Everyone at a glance**: all 49 named portrait/initial cards fit in one screen, with mini career bands and green highlighting for the selected year. Hover reveals a quick fact; clicking or tapping opens the larger portrait and story in a dialog. **Focus view** adds room, and **Detailed timeline** retains the larger scrolling career map and all milestone dots.
 
 Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.
+
+Comparison cards use the same pinned featured artwork as each artist’s profile, with the piece’s title and date. Student-facing grade labels are removed; the site tagline is “The Art & Ideas Lab by Ms. Trudeau”.

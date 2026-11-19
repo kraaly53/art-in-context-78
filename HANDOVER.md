@@ -125,3 +125,5 @@ The overview uses available-height grid sizing rather than a paginated list. A R
 Focus view hides the main header to make more space; Exit focus view or Escape restores it. Detailed timeline restores the larger scrolling career map, zoom, period filters, artist finder and grouped milestone dots. Leaving the Timeline removes viewport/body styling, disconnects the resize observer, cancels pending resize frames and playback, and closes an open story dialog. No new media, network requests or student storage are introduced.
 
 Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.
+
+The header and page title identify “The Art & Ideas Lab by Ms. Trudeau”. Grade labels are omitted from the site interface and metadata. Comparison images, titles and dates come directly from each artist’s pinned featured artwork, preserving school-approved alternatives and teacher exclusions.
