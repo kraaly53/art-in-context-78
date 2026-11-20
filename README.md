@@ -83,3 +83,5 @@ The Timeline now opens in **Everyone at a glance**: all 49 named portrait/initia
 Additional teacher revision, 19 November 2026: Jacob Lawrence and his eleven media files are excluded, along with Trans Forming Liberty, The Jewish Bride and Hollywood Africans. All current student data, gallery files, timeline records, comparisons and challenge entries reflect these removals. Historical IDs 15 and 42 remain unused.
 
 Comparison cards use the same pinned featured artwork as each artist’s profile, with the piece’s title and date. Student-facing grade labels are removed; the site tagline is “The Art & Ideas Lab by Ms. Trudeau”.
+
+Browser icons are provided as `dist/favicon.svg` and a multi-size `dist/favicon.ico`, using the original site mark. Both use relative URLs for `/art/` hosting.
