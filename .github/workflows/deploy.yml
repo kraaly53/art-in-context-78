@@ -30,12 +30,12 @@ jobs:
       # Only the dist/ folder is the website. lftp reconnects automatically when
       # the host drops the connection and skips files already on the server, so
       # a dropped connection no longer restarts the whole upload.
-      - name: Upload dist/ to ryanruttan.com/art
+      - name: Upload dist/ to mstrudeau.com/art
         env:
           FTP_HOST: ${{ secrets.FTP_SECRET }}
           FTP_USER: ${{ secrets.FTP_USERNAME }}
           FTP_PASS: ${{ secrets.FTP_PASSWORD }}
-          REMOTE_DIR: /ryanruttan.com/art
+          REMOTE_DIR: /mstrudeau.com/art
         run: |
           for attempt in 1 2 3 4 5; do
             echo "Upload attempt $attempt"
